@@ -1,0 +1,126 @@
+# These trade routes are generated with different distances between trades.
+# The default distances of 13,37.5,42.5,76.5,105.7 ly between trades represent 
+# a cross-section of the minimum 1-jump, average 2-jump, maximum 3-jump ranges
+# and the minimum and average for TOTAL ranges of fully laden, fully shielded trading ships
+#
+# The distances used in this report are 13,37.5,42.5,76.5,105.7 ly
+#
+# Calculation limits
+# ------------------
+# 
+# All trade data that is older than 30 days is not used
+# Only stations where there is more than 64t of supplies are used
+# However, it is assumed that your ship capacity is only 1t so that the best profit per ton for a single commodity can be calculated
+# narcotics are excluded from these calculations as the price database is unreliable for these commodities and/or locations
+# Starting credits assumed to be 100000Cr, so deduct that from the total to see profit
+# 
+# Note that there is not always extra money to be made by travelling the longer distances. Sometimes trades for longer distances will be
+# identical to the trades for a shorter distance
+#
+# For each distance, up to two trades are shown. The first works for ANY size ship, the second for SMALL and MEDIUM ships ONLY {which can trade at outposts}
+# However, sometimes the trades for the different sized ships are the same {i.e no decent trades available at outposts}
+# NOTE: Trades for large ships will not appear if the source station does not allow large ships to land there
+#
+# WARNING: No account is taken of whether the commodities are prohibited. Use these recommendations at your peril!
+# 
+# GUIDE TO THE OUTPUT FORMAT
+# --------------------------
+# 
+# 'Pruned XX origins ...' is output from the utility I use called TradeDangerous. I have no idea what it means!
+# {score: [large number]} See above :D
+#
+# {Un}Load from [SYSTEM]/[Station] {L, B, P, N, S, O, R} =] Gain F {F/ton} =]  T
+# 1 x [Commodity] PB vs PS, TB vs TS
+# Finish at [SYSTEM]/[Station] {L, B, P, N, S, O, R} =] gaining C {A/ton} =]  T
+#
+# L - Distance of station from Star in ls
+# B - Black Market Present Y/N/?
+# P - Largest Ship Size that can land at station L/M/?
+# N - Whether the station is on a planet Y/N/?
+# S - Shipyard Present Y/N/?
+# O - Outfitters Present Y/N/?
+# R - Refuelling Present Y/N/?
+# F - Profit made from the trade
+# T - Running total of Credits {assuming a starting point of 100000}
+#
+# PB - Buy Price
+# PS - Sell Price
+# TB - The time relative to report generation time since the buy  price was updated in the community database
+# TS - The time relative to report generation time since the sell price was updated in the community database
+#
+# C - Total number of credits profit
+# A - Average Credits per ton profit across all the trades on the route
+#
+# TRADE OUTPUT BEGINS ....
+# ------------------------
+#
+---------------------------------------------------------------------------------------------------------
+Best Trade Shuttle starting and ending at Patocuda/Auer Station with 13 ly between trades
+For MEDIUM and SMALL ships only, generated at 05/11/2016- 5:58:23.25 [DD/MM/YYYY-UTC]
+---------------------------------------------------------------------------------------------------------
+PATOCUDA/Auer Station -> PATOCUDA/Auer Station (score: 2317.495360)
+  Load from PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
+        1 x Silver                   4,451cr vs    5,483cr, 7 days vs 3 days
+  Unload at URU/Bessemer Vision (675ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,032cr (1,032cr/ton) => 101,032cr
+  Load from URU/Bessemer Vision (675ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Performance Enhancers    6,206cr vs    7,491cr, 3 days vs 7 days
+  Unload at PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,285cr (1,285cr/ton) => 102,317cr
+  ----------------------------------------------------------------------------
+Finish at PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 2,317cr (1,158cr/ton) => est 102,317cr total
+
+---------------------------------------------------------------------------------------------------------
+Best Trade Shuttle starting and ending at Patocuda/Auer Station with 37.5 ly between trades
+For MEDIUM and SMALL ships only, generated at 05/11/2016- 5:58:34.23 [DD/MM/YYYY-UTC]
+---------------------------------------------------------------------------------------------------------
+PATOCUDA/Auer Station -> PATOCUDA/Auer Station (score: 2317.495360)
+  Load from PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
+        1 x Silver                   4,451cr vs    5,483cr, 7 days vs 3 days
+  Unload at URU/Bessemer Vision (675ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,032cr (1,032cr/ton) => 101,032cr
+  Load from URU/Bessemer Vision (675ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Performance Enhancers    6,206cr vs    7,491cr, 3 days vs 7 days
+  Unload at PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,285cr (1,285cr/ton) => 102,317cr
+  ----------------------------------------------------------------------------
+Finish at PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 2,317cr (1,158cr/ton) => est 102,317cr total
+
+---------------------------------------------------------------------------------------------------------
+Best Trade Shuttle starting and ending at Patocuda/Auer Station with 42.5 ly between trades
+For MEDIUM and SMALL ships only, generated at 05/11/2016- 5:58:46.74 [DD/MM/YYYY-UTC]
+---------------------------------------------------------------------------------------------------------
+PATOCUDA/Auer Station -> PATOCUDA/Auer Station (score: 2726.425920)
+  Load from PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
+        1 x Gold                9,074cr vs   10,270cr, 7 days vs 4 days
+  Unload at KRAURNO/Sabine Platform (1.23Kls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,196cr (1,196cr/ton) => 101,196cr
+  Load from KRAURNO/Sabine Platform (1.23Kls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Personal Weapons    3,336cr vs    4,867cr, 4 days vs 7 days
+  Unload at PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,531cr (1,531cr/ton) => 102,727cr
+  ----------------------------------------------------------------------------
+Finish at PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 2,727cr (1,363cr/ton) => est 102,727cr total
+
+---------------------------------------------------------------------------------------------------------
+Best Trade Shuttle starting and ending at Patocuda/Auer Station with 76.5 ly between trades
+For MEDIUM and SMALL ships only, generated at 05/11/2016- 5:58:58.98 [DD/MM/YYYY-UTC]
+---------------------------------------------------------------------------------------------------------
+PATOCUDA/Auer Station -> PATOCUDA/Auer Station (score: 2744.389440)
+  Load from PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
+        1 x Gold                9,074cr vs   10,291cr, 7 days vs 5 days
+  Unload at EORASA/Leonov Enterprise (801ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,217cr (1,217cr/ton) => 101,217cr
+  Load from EORASA/Leonov Enterprise (801ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Personal Weapons    3,340cr vs    4,867cr, 5 days vs 7 days
+  Unload at PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,527cr (1,527cr/ton) => 102,744cr
+  ----------------------------------------------------------------------------
+Finish at PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 2,744cr (1,372cr/ton) => est 102,744cr total
+
+---------------------------------------------------------------------------------------------------------
+Best Trade Shuttle starting and ending at Patocuda/Auer Station with 105.7 ly between trades
+For MEDIUM and SMALL ships only, generated at 05/11/2016- 5:59:21.18 [DD/MM/YYYY-UTC]
+---------------------------------------------------------------------------------------------------------
+PATOCUDA/Auer Station -> PATOCUDA/Auer Station (score: 3407.067320)
+  Load from PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
+        1 x Silver             4,451cr vs    4,825cr, 7 days vs 3 days
+  Unload at LTT 8517/Howe Ring (923ls, BMk:N, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 374cr (374cr/ton) => 100,374cr
+  Load from LTT 8517/Howe Ring (923ls, BMk:N, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
+        1 x Imperial Slaves   12,645cr vs   15,678cr, 3 days vs 7 days
+  Unload at PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 3,033cr (3,033cr/ton) => 103,407cr
+  ----------------------------------------------------------------------------
+Finish at PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 3,407cr (1,703cr/ton) => est 103,407cr total
+
