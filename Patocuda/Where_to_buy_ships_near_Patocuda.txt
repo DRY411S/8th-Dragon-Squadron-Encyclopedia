@@ -1,5 +1,5 @@
 # This file is a list of places that you can buy ships within 25ly of Patocuda
-# It is based on data in the public TradeDangerous database, and generated at 04/11/2016-18:25:09.11 [DD/MM/YYYY-UTC]
+# It is based on data in the public TradeDangerous database, and generated at 06/11/2016-12:09:20.48 [DD/MM/YYYY-UTC]
 # Crowd sourced data about where to buy ships is limited
 # There are likely to be many other places where you can buy ships in the area
 # Especially the smaller ones

@@ -56,70 +56,70 @@
 #
 ---------------------------------------------------------------------------------------------------------
 Best Trade Shuttle starting and ending at KOLABINATES/Grant Plant with 13 ly between trades
-For MEDIUM and SMALL ships only, generated at 05/11/2016- 0:36:22.33 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 06/11/2016- 9:01:55.72 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
 KOLABINATES/Grant Plant -> KOLABINATES/Grant Plant (score: 1797.417120)
   Load from KOLABINATES/Grant Plant (471ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Gold                8,907cr vs    9,835cr, 4 days vs 4 days
+        1 x Gold                8,907cr vs    9,835cr, 5 days vs 5 days
   Unload at LODHARY/Anthony Dock (17ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 928cr (928cr/ton) => 100,928cr
   Load from LODHARY/Anthony Dock (17ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
-        1 x Personal Weapons    3,511cr vs    4,380cr, 4 days vs 4 days
+        1 x Personal Weapons    3,511cr vs    4,380cr, 5 days vs 5 days
   Unload at KOLABINATES/Grant Plant (471ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 869cr (869cr/ton) => 101,797cr
   ----------------------------------------------------------------------------
 Finish at KOLABINATES/Grant Plant (471ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 1,797cr (898cr/ton) => est 101,797cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Shuttle starting and ending at KOLABINATES/Grant Plant with 37.5 ly between trades
-For MEDIUM and SMALL ships only, generated at 05/11/2016- 0:36:33.20 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 06/11/2016- 9:02:09.17 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
 KOLABINATES/Grant Plant -> KOLABINATES/Grant Plant (score: 2549.765720)
   Load from KOLABINATES/Grant Plant (471ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Superconductors          6,106cr vs    7,632cr, 4 days vs 20 days
+        1 x Superconductors          6,106cr vs    7,632cr, 5 days vs 22 days
   Unload at URU/Stafford Gateway (946ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 1,526cr (1,526cr/ton) => 101,526cr
   Load from URU/Stafford Gateway (946ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
-        1 x Resonating Separators    5,852cr vs    6,875cr, 20 days vs 4 days
+        1 x Resonating Separators    5,852cr vs    6,875cr, 22 days vs 5 days
   Unload at KOLABINATES/Grant Plant (471ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,023cr (1,023cr/ton) => 102,549cr
   ----------------------------------------------------------------------------
 Finish at KOLABINATES/Grant Plant (471ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 2,549cr (1,274cr/ton) => est 102,549cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Shuttle starting and ending at KOLABINATES/Grant Plant with 42.5 ly between trades
-For MEDIUM and SMALL ships only, generated at 05/11/2016- 0:36:44.18 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 06/11/2016- 9:02:22.82 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
 KOLABINATES/Grant Plant -> KOLABINATES/Grant Plant (score: 2785.336320)
   Load from KOLABINATES/Grant Plant (471ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Silver                   4,269cr vs    5,433cr, 4 days vs 3 days
+        1 x Silver                   4,269cr vs    5,433cr, 5 days vs 4 days
   Unload at HIP 116213/Yolen Hub (458ls, BMk:N, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,164cr (1,164cr/ton) => 101,164cr
   Load from HIP 116213/Yolen Hub (458ls, BMk:N, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Resonating Separators    5,255cr vs    6,875cr, 3 days vs 4 days
+        1 x Resonating Separators    5,255cr vs    6,875cr, 4 days vs 5 days
   Unload at KOLABINATES/Grant Plant (471ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,620cr (1,620cr/ton) => 102,784cr
   ----------------------------------------------------------------------------
 Finish at KOLABINATES/Grant Plant (471ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 2,784cr (1,392cr/ton) => est 102,784cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Shuttle starting and ending at KOLABINATES/Grant Plant with 76.5 ly between trades
-For MEDIUM and SMALL ships only, generated at 05/11/2016- 0:36:55.20 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 06/11/2016- 9:02:36.56 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
 KOLABINATES/Grant Plant -> KOLABINATES/Grant Plant (score: 2805.369680)
   Load from KOLABINATES/Grant Plant (471ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Silver                   4,269cr vs    5,457cr, 4 days vs 23 days
+        1 x Silver                   4,269cr vs    5,457cr, 5 days vs 24 days
   Unload at BD+02 4718/Abernathy Enterprise (512ls, BMk:N, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,188cr (1,188cr/ton) => 101,188cr
   Load from BD+02 4718/Abernathy Enterprise (512ls, BMk:N, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Resonating Separators    5,259cr vs    6,875cr, 23 days vs 4 days
+        1 x Resonating Separators    5,259cr vs    6,875cr, 24 days vs 5 days
   Unload at KOLABINATES/Grant Plant (471ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,616cr (1,616cr/ton) => 102,804cr
   ----------------------------------------------------------------------------
 Finish at KOLABINATES/Grant Plant (471ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 2,804cr (1,402cr/ton) => est 102,804cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Shuttle starting and ending at KOLABINATES/Grant Plant with 105.7 ly between trades
-For MEDIUM and SMALL ships only, generated at 05/11/2016- 0:37:12.16 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 06/11/2016- 9:02:58.49 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
 KOLABINATES/Grant Plant -> KOLABINATES/Grant Plant (score: 3068.859060)
   Load from KOLABINATES/Grant Plant (471ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Beryllium                7,683cr vs    8,964cr, 4 days vs 4 days
+        1 x Beryllium                7,683cr vs    8,964cr, 5 days vs 5 days
   Unload at ATATA/Zahn Enterprise (1.35Kls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,281cr (1,281cr/ton) => 101,281cr
   Load from ATATA/Zahn Enterprise (1.35Kls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Resonating Separators    5,087cr vs    6,875cr, 4 days vs 4 days
+        1 x Resonating Separators    5,087cr vs    6,875cr, 5 days vs 5 days
   Unload at KOLABINATES/Grant Plant (471ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,788cr (1,788cr/ton) => 103,069cr
   ----------------------------------------------------------------------------
 Finish at KOLABINATES/Grant Plant (471ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 3,069cr (1,534cr/ton) => est 103,069cr total
