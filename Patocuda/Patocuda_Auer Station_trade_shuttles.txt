@@ -56,71 +56,71 @@
 #
 ---------------------------------------------------------------------------------------------------------
 Best Trade Shuttle starting and ending at Patocuda/Auer Station with 13 ly between trades
-For MEDIUM and SMALL ships only, generated at 06/11/2016-14:14:55.33 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 14/11/2016-13:38:08.26 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
 PATOCUDA/Auer Station -> PATOCUDA/Auer Station (score: 2317.495360)
   Load from PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Silver                   4,451cr vs    5,483cr, 9 days vs 4 days
+        1 x Silver                   4,451cr vs    5,483cr, 16 days vs 12 days
   Unload at URU/Bessemer Vision (675ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,032cr (1,032cr/ton) => 101,032cr
   Load from URU/Bessemer Vision (675ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Performance Enhancers    6,206cr vs    7,491cr, 4 days vs 9 days
+        1 x Performance Enhancers    6,206cr vs    7,491cr, 12 days vs 16 days
   Unload at PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,285cr (1,285cr/ton) => 102,317cr
   ----------------------------------------------------------------------------
 Finish at PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 2,317cr (1,158cr/ton) => est 102,317cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Shuttle starting and ending at Patocuda/Auer Station with 37.5 ly between trades
-For MEDIUM and SMALL ships only, generated at 06/11/2016-14:15:06.52 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 14/11/2016-13:38:20.09 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-PATOCUDA/Auer Station -> PATOCUDA/Auer Station (score: 2317.495360)
+PATOCUDA/Auer Station -> PATOCUDA/Auer Station (score: 2373.646080)
   Load from PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Silver                   4,451cr vs    5,483cr, 9 days vs 4 days
-  Unload at URU/Bessemer Vision (675ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,032cr (1,032cr/ton) => 101,032cr
-  Load from URU/Bessemer Vision (675ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Performance Enhancers    6,206cr vs    7,491cr, 4 days vs 9 days
-  Unload at PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,285cr (1,285cr/ton) => 102,317cr
+        1 x Gold                     9,074cr vs   10,088cr, 16 days vs 13 hrs
+  Unload at NERVI/Savitskaya Vision (2.26Kls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,014cr (1,014cr/ton) => 101,014cr
+  Load from NERVI/Savitskaya Vision (2.26Kls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Performance Enhancers    6,126cr vs    7,491cr, 13 hrs vs 16 days
+  Unload at PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,365cr (1,365cr/ton) => 102,379cr
   ----------------------------------------------------------------------------
-Finish at PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 2,317cr (1,158cr/ton) => est 102,317cr total
+Finish at PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 2,379cr (1,189cr/ton) => est 102,379cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Shuttle starting and ending at Patocuda/Auer Station with 42.5 ly between trades
-For MEDIUM and SMALL ships only, generated at 06/11/2016-14:15:17.74 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 14/11/2016-13:38:31.79 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-PATOCUDA/Auer Station -> PATOCUDA/Auer Station (score: 2726.425920)
+PATOCUDA/Auer Station -> PATOCUDA/Auer Station (score: 2602.485440)
   Load from PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Gold                9,074cr vs   10,270cr, 9 days vs 5 days
-  Unload at KRAURNO/Sabine Platform (1.23Kls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,196cr (1,196cr/ton) => 101,196cr
+        1 x Silver              4,451cr vs    5,523cr, 16 days vs 16 hrs
+  Unload at KRAURNO/Sabine Platform (1.23Kls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,072cr (1,072cr/ton) => 101,072cr
   Load from KRAURNO/Sabine Platform (1.23Kls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Personal Weapons    3,336cr vs    4,867cr, 5 days vs 9 days
-  Unload at PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,531cr (1,531cr/ton) => 102,727cr
+        1 x Personal Weapons    3,336cr vs    4,867cr, 16 hrs vs 16 days
+  Unload at PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,531cr (1,531cr/ton) => 102,603cr
   ----------------------------------------------------------------------------
-Finish at PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 2,727cr (1,363cr/ton) => est 102,727cr total
+Finish at PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 2,603cr (1,301cr/ton) => est 102,603cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Shuttle starting and ending at Patocuda/Auer Station with 76.5 ly between trades
-For MEDIUM and SMALL ships only, generated at 06/11/2016-14:15:29.08 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 14/11/2016-13:38:44.03 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
 PATOCUDA/Auer Station -> PATOCUDA/Auer Station (score: 2744.389440)
   Load from PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Gold                9,074cr vs   10,291cr, 9 days vs 6 days
+        1 x Gold                9,074cr vs   10,291cr, 16 days vs 14 days
   Unload at EORASA/Leonov Enterprise (801ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,217cr (1,217cr/ton) => 101,217cr
   Load from EORASA/Leonov Enterprise (801ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Personal Weapons    3,340cr vs    4,867cr, 6 days vs 9 days
+        1 x Personal Weapons    3,340cr vs    4,867cr, 14 days vs 16 days
   Unload at PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,527cr (1,527cr/ton) => 102,744cr
   ----------------------------------------------------------------------------
 Finish at PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 2,744cr (1,372cr/ton) => est 102,744cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Shuttle starting and ending at Patocuda/Auer Station with 105.7 ly between trades
-For MEDIUM and SMALL ships only, generated at 06/11/2016-14:15:50.36 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 14/11/2016-13:39:04.53 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-PATOCUDA/Auer Station -> PATOCUDA/Auer Station (score: 3407.067320)
+PATOCUDA/Auer Station -> PATOCUDA/Auer Station (score: 2981.333480)
   Load from PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Silver             4,451cr vs    4,825cr, 9 days vs 4 days
-  Unload at LTT 8517/Howe Ring (923ls, BMk:N, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 374cr (374cr/ton) => 100,374cr
-  Load from LTT 8517/Howe Ring (923ls, BMk:N, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
-        1 x Imperial Slaves   12,645cr vs   15,678cr, 4 days vs 9 days
-  Unload at PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 3,033cr (3,033cr/ton) => 103,407cr
+        1 x Silver             4,451cr vs    5,245cr, 16 days vs 17 hrs
+  Unload at LFT 37/Savinykh Hub (376ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:N, Ref:Y) => Gain 794cr (794cr/ton) => 100,794cr
+  Load from LFT 37/Savinykh Hub (376ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:N, Ref:Y):
+        1 x Imperial Slaves   13,491cr vs   15,678cr, 17 hrs vs 16 days
+  Unload at PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 2,187cr (2,187cr/ton) => 102,981cr
   ----------------------------------------------------------------------------
-Finish at PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 3,407cr (1,703cr/ton) => est 103,407cr total
+Finish at PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 2,981cr (1,490cr/ton) => est 102,981cr total
 

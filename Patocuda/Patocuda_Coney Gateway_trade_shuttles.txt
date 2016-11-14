@@ -56,141 +56,141 @@
 #
 ---------------------------------------------------------------------------------------------------------
 Best Trade Shuttle starting and ending at Patocuda/Coney Gateway with 13 ly between trades
-For ANY SIZE ship, generated at 06/11/2016-12:27:11.24 [DD/MM/YYYY-UTC] 
+For ANY SIZE ship, generated at 14/11/2016-12:00:17.83 [DD/MM/YYYY-UTC] 
 ---------------------------------------------------------------------------------------------------------
-PATOCUDA/Coney Gateway -> PATOCUDA/Coney Gateway (score: 1472.089280)
+PATOCUDA/Coney Gateway -> PATOCUDA/Coney Gateway (score: 1366.037440)
   Load from PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Animal Meat              1,100cr vs    1,286cr, 6 days vs 4 days
-  Unload at URU/Bessemer Vision (675ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 186cr (186cr/ton) => 100,186cr
+        1 x Water                       46cr vs      124cr, 16 hrs vs 12 days
+  Unload at URU/Bessemer Vision (675ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 78cr (78cr/ton) => 100,078cr
   Load from URU/Bessemer Vision (675ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Performance Enhancers    6,206cr vs    7,492cr, 4 days vs 6 days
-  Unload at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,286cr (1,286cr/ton) => 101,472cr
+        1 x Performance Enhancers    6,206cr vs    7,494cr, 12 days vs 16 hrs
+  Unload at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,288cr (1,288cr/ton) => 101,366cr
   ----------------------------------------------------------------------------
-Finish at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 1,472cr (736cr/ton) => est 101,472cr total
+Finish at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 1,366cr (683cr/ton) => est 101,366cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Shuttle starting and ending at Patocuda/Coney Gateway with 13 ly between trades
-For MEDIUM and SMALL ships only, generated at 06/11/2016-12:27:19.79 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 14/11/2016-12:00:26.98 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-PATOCUDA/Coney Gateway -> PATOCUDA/Coney Gateway (score: 1560.167940)
+PATOCUDA/Coney Gateway -> PATOCUDA/Coney Gateway (score: 1366.037440)
   Load from PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Tobacco                4,530cr vs    5,463cr, 6 days vs 22 days
-  Unload at URU/Stafford Gateway (946ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 933cr (933cr/ton) => 100,933cr
-  Load from URU/Stafford Gateway (946ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
-        1 x Consumer Technology    6,725cr vs    7,352cr, 22 days vs 6 days
-  Unload at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 627cr (627cr/ton) => 101,560cr
+        1 x Water                       46cr vs      124cr, 16 hrs vs 12 days
+  Unload at URU/Bessemer Vision (675ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 78cr (78cr/ton) => 100,078cr
+  Load from URU/Bessemer Vision (675ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Performance Enhancers    6,206cr vs    7,494cr, 12 days vs 16 hrs
+  Unload at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,288cr (1,288cr/ton) => 101,366cr
   ----------------------------------------------------------------------------
-Finish at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 1,560cr (780cr/ton) => est 101,560cr total
+Finish at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 1,366cr (683cr/ton) => est 101,366cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Shuttle starting and ending at Patocuda/Coney Gateway with 37.5 ly between trades
-For ANY SIZE ship, generated at 06/11/2016-12:27:31.99 [DD/MM/YYYY-UTC] 
+For ANY SIZE ship, generated at 14/11/2016-12:00:40.36 [DD/MM/YYYY-UTC] 
 ---------------------------------------------------------------------------------------------------------
-PATOCUDA/Coney Gateway -> PATOCUDA/Coney Gateway (score: 1888.680000)
+PATOCUDA/Coney Gateway -> PATOCUDA/Coney Gateway (score: 1657.154560)
   Load from PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Imperial Slaves    16,093cr vs   16,968cr, 6 days vs 14 days
-  Unload at LTT 16548/Tyson Gateway (3.23Kls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 875cr (875cr/ton) => 100,875cr
-  Load from LTT 16548/Tyson Gateway (3.23Kls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Progenitor Cells    6,424cr vs    7,450cr, 14 days vs 6 days
-  Unload at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,026cr (1,026cr/ton) => 101,901cr
+        1 x Tobacco             4,836cr vs    5,158cr, 16 hrs vs 13 days
+  Unload at WIRNAKO/Moffitt Platform (405ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 322cr (322cr/ton) => 100,322cr
+  Load from WIRNAKO/Moffitt Platform (405ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Marine Equipment    3,334cr vs    4,669cr, 13 days vs 16 hrs
+  Unload at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,335cr (1,335cr/ton) => 101,657cr
   ----------------------------------------------------------------------------
-Finish at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 1,901cr (950cr/ton) => est 101,901cr total
+Finish at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 1,657cr (828cr/ton) => est 101,657cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Shuttle starting and ending at Patocuda/Coney Gateway with 37.5 ly between trades
-For MEDIUM and SMALL ships only, generated at 06/11/2016-12:27:40.72 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 14/11/2016-12:00:49.58 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-PATOCUDA/Coney Gateway -> PATOCUDA/Coney Gateway (score: 2215.000000)
+PATOCUDA/Coney Gateway -> PATOCUDA/Coney Gateway (score: 1914.000000)
   Load from PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Tobacco             4,530cr vs    5,376cr, 6 days vs 5 days
-  Unload at LODHARY/Anthony Dock (17ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 846cr (846cr/ton) => 100,846cr
+        1 x Tobacco             4,836cr vs    5,376cr, 16 hrs vs 13 days
+  Unload at LODHARY/Anthony Dock (17ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 540cr (540cr/ton) => 100,540cr
   Load from LODHARY/Anthony Dock (17ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
-        1 x Personal Weapons    3,511cr vs    4,880cr, 5 days vs 6 days
-  Unload at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,369cr (1,369cr/ton) => 102,215cr
+        1 x Personal Weapons    3,511cr vs    4,885cr, 13 days vs 16 hrs
+  Unload at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,374cr (1,374cr/ton) => 101,914cr
   ----------------------------------------------------------------------------
-Finish at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 2,215cr (1,107cr/ton) => est 102,215cr total
+Finish at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 1,914cr (957cr/ton) => est 101,914cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Shuttle starting and ending at Patocuda/Coney Gateway with 42.5 ly between trades
-For ANY SIZE ship, generated at 06/11/2016-12:27:53.02 [DD/MM/YYYY-UTC] 
+For ANY SIZE ship, generated at 14/11/2016-12:01:03.00 [DD/MM/YYYY-UTC] 
 ---------------------------------------------------------------------------------------------------------
-PATOCUDA/Coney Gateway -> PATOCUDA/Coney Gateway (score: 2443.568000)
+PATOCUDA/Coney Gateway -> PATOCUDA/Coney Gateway (score: 2076.746560)
   Load from PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Tobacco             4,530cr vs    5,430cr, 6 days vs 5 days
-  Unload at KRAURNO/Sabine Platform (1.23Kls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 900cr (900cr/ton) => 100,900cr
+        1 x Tobacco             4,836cr vs    5,364cr, 16 hrs vs 14 hrs
+  Unload at KRAURNO/Sabine Platform (1.23Kls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 528cr (528cr/ton) => 100,528cr
   Load from KRAURNO/Sabine Platform (1.23Kls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Personal Weapons    3,336cr vs    4,880cr, 5 days vs 6 days
-  Unload at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,544cr (1,544cr/ton) => 102,444cr
+        1 x Personal Weapons    3,336cr vs    4,885cr, 14 hrs vs 16 hrs
+  Unload at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,549cr (1,549cr/ton) => 102,077cr
   ----------------------------------------------------------------------------
-Finish at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 2,444cr (1,222cr/ton) => est 102,444cr total
+Finish at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 2,077cr (1,038cr/ton) => est 102,077cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Shuttle starting and ending at Patocuda/Coney Gateway with 42.5 ly between trades
-For MEDIUM and SMALL ships only, generated at 06/11/2016-12:28:01.73 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 14/11/2016-12:01:12.36 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-PATOCUDA/Coney Gateway -> PATOCUDA/Coney Gateway (score: 2443.568000)
+PATOCUDA/Coney Gateway -> PATOCUDA/Coney Gateway (score: 2076.746560)
   Load from PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Tobacco             4,530cr vs    5,430cr, 6 days vs 5 days
-  Unload at KRAURNO/Sabine Platform (1.23Kls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 900cr (900cr/ton) => 100,900cr
+        1 x Tobacco             4,836cr vs    5,364cr, 16 hrs vs 14 hrs
+  Unload at KRAURNO/Sabine Platform (1.23Kls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 528cr (528cr/ton) => 100,528cr
   Load from KRAURNO/Sabine Platform (1.23Kls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Personal Weapons    3,336cr vs    4,880cr, 5 days vs 6 days
-  Unload at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,544cr (1,544cr/ton) => 102,444cr
+        1 x Personal Weapons    3,336cr vs    4,885cr, 14 hrs vs 16 hrs
+  Unload at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,549cr (1,549cr/ton) => 102,077cr
   ----------------------------------------------------------------------------
-Finish at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 2,444cr (1,222cr/ton) => est 102,444cr total
+Finish at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 2,077cr (1,038cr/ton) => est 102,077cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Shuttle starting and ending at Patocuda/Coney Gateway with 76.5 ly between trades
-For ANY SIZE ship, generated at 06/11/2016-12:28:14.23 [DD/MM/YYYY-UTC] 
+For ANY SIZE ship, generated at 14/11/2016-12:01:26.08 [DD/MM/YYYY-UTC] 
 ---------------------------------------------------------------------------------------------------------
-PATOCUDA/Coney Gateway -> PATOCUDA/Coney Gateway (score: 2444.450000)
+PATOCUDA/Coney Gateway -> PATOCUDA/Coney Gateway (score: 2657.039240)
   Load from PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Tobacco             4,530cr vs    5,430cr, 6 days vs 28 days
-  Unload at VELIS/Menezes Dock (590ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 900cr (900cr/ton) => 100,900cr
-  Load from VELIS/Menezes Dock (590ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Personal Weapons    3,336cr vs    4,880cr, 28 days vs 6 days
-  Unload at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,544cr (1,544cr/ton) => 102,444cr
+        1 x Leather              123cr vs      341cr, 16 hrs vs 13 days
+  Unload at CUCHUA/Prandtl Dock (159ls, BMk:N, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 218cr (218cr/ton) => 100,218cr
+  Load from CUCHUA/Prandtl Dock (159ls, BMk:N, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Imperial Slaves   14,044cr vs   16,483cr, 13 days vs 16 hrs
+  Unload at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 2,439cr (2,439cr/ton) => 102,657cr
   ----------------------------------------------------------------------------
-Finish at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 2,444cr (1,222cr/ton) => est 102,444cr total
+Finish at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 2,657cr (1,328cr/ton) => est 102,657cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Shuttle starting and ending at Patocuda/Coney Gateway with 76.5 ly between trades
-For MEDIUM and SMALL ships only, generated at 06/11/2016-12:28:29.36 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 14/11/2016-12:01:41.48 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-PATOCUDA/Coney Gateway -> PATOCUDA/Coney Gateway (score: 2444.450000)
+PATOCUDA/Coney Gateway -> PATOCUDA/Coney Gateway (score: 2657.039240)
   Load from PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Tobacco             4,530cr vs    5,430cr, 6 days vs 28 days
-  Unload at VELIS/Menezes Dock (590ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 900cr (900cr/ton) => 100,900cr
-  Load from VELIS/Menezes Dock (590ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Personal Weapons    3,336cr vs    4,880cr, 28 days vs 6 days
-  Unload at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,544cr (1,544cr/ton) => 102,444cr
+        1 x Leather              123cr vs      341cr, 16 hrs vs 13 days
+  Unload at CUCHUA/Prandtl Dock (159ls, BMk:N, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 218cr (218cr/ton) => 100,218cr
+  Load from CUCHUA/Prandtl Dock (159ls, BMk:N, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Imperial Slaves   14,044cr vs   16,483cr, 13 days vs 16 hrs
+  Unload at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 2,439cr (2,439cr/ton) => 102,657cr
   ----------------------------------------------------------------------------
-Finish at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 2,444cr (1,222cr/ton) => est 102,444cr total
+Finish at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 2,657cr (1,328cr/ton) => est 102,657cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Shuttle starting and ending at Patocuda/Coney Gateway with 105.7 ly between trades
-For ANY SIZE ship, generated at 06/11/2016-12:28:53.05 [DD/MM/YYYY-UTC] 
+For ANY SIZE ship, generated at 14/11/2016-12:02:06.20 [DD/MM/YYYY-UTC] 
 ---------------------------------------------------------------------------------------------------------
-PATOCUDA/Coney Gateway -> PATOCUDA/Coney Gateway (score: 3446.416220)
+PATOCUDA/Coney Gateway -> PATOCUDA/Coney Gateway (score: 3677.287700)
   Load from PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Tobacco            4,530cr vs    5,521cr, 6 days vs 4 days
-  Unload at LFT 37/Savinykh Hub (376ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:N, Ref:Y) => Gain 991cr (991cr/ton) => 100,991cr
+        1 x Tobacco            4,836cr vs    5,521cr, 16 hrs
+  Unload at LFT 37/Savinykh Hub (376ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:N, Ref:Y) => Gain 685cr (685cr/ton) => 100,685cr
   Load from LFT 37/Savinykh Hub (376ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:N, Ref:Y):
-        1 x Imperial Slaves   13,478cr vs   15,933cr, 4 days vs 6 days
-  Unload at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 2,455cr (2,455cr/ton) => 103,446cr
+        1 x Imperial Slaves   13,491cr vs   16,483cr, 16 hrs
+  Unload at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 2,992cr (2,992cr/ton) => 103,677cr
   ----------------------------------------------------------------------------
-Finish at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 3,446cr (1,723cr/ton) => est 103,446cr total
+Finish at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 3,677cr (1,838cr/ton) => est 103,677cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Shuttle starting and ending at Patocuda/Coney Gateway with 105.7 ly between trades
-For MEDIUM and SMALL ships only, generated at 06/11/2016-12:29:50.24 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 14/11/2016-12:03:03.92 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-PATOCUDA/Coney Gateway -> PATOCUDA/Coney Gateway (score: 3586.053640)
+PATOCUDA/Coney Gateway -> PATOCUDA/Coney Gateway (score: 3677.287700)
   Load from PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Natural Fabrics      286cr vs      584cr, 6 days vs 4 days
-  Unload at LTT 8517/Howe Ring (923ls, BMk:N, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 298cr (298cr/ton) => 100,298cr
-  Load from LTT 8517/Howe Ring (923ls, BMk:N, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
-        1 x Imperial Slaves   12,645cr vs   15,933cr, 4 days vs 6 days
-  Unload at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 3,288cr (3,288cr/ton) => 103,586cr
+        1 x Tobacco            4,836cr vs    5,521cr, 16 hrs
+  Unload at LFT 37/Savinykh Hub (376ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:N, Ref:Y) => Gain 685cr (685cr/ton) => 100,685cr
+  Load from LFT 37/Savinykh Hub (376ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:N, Ref:Y):
+        1 x Imperial Slaves   13,491cr vs   16,483cr, 16 hrs
+  Unload at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 2,992cr (2,992cr/ton) => 103,677cr
   ----------------------------------------------------------------------------
-Finish at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 3,586cr (1,793cr/ton) => est 103,586cr total
+Finish at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 3,677cr (1,838cr/ton) => est 103,677cr total
 

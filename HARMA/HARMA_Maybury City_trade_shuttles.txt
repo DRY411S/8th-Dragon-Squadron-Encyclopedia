@@ -56,71 +56,71 @@
 #
 ---------------------------------------------------------------------------------------------------------
 Best Trade Shuttle starting and ending at HARMA/Maybury City with 13 ly between trades
-For MEDIUM and SMALL ships only, generated at 06/11/2016-11:03:48.49 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 14/11/2016-10:35:33.35 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-HARMA/Maybury City -> HARMA/Maybury City (score: 1670.659260)
-  Load from HARMA/Maybury City (1.29Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:N):
-        1 x Military Grade Fabrics      545cr vs    1,244cr, 6 days vs 19 days
-  Unload at FENGAI/Tem Orbital (908ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:N) => Gain 699cr (699cr/ton) => 100,699cr
-  Load from FENGAI/Tem Orbital (908ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:N):
-        1 x Gold                      8,793cr vs    9,765cr, 19 days vs 6 days
-  Unload at HARMA/Maybury City (1.29Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:N) => Gain 972cr (972cr/ton) => 101,671cr
+HARMA/Maybury City -> HARMA/Maybury City (score: 1909.301600)
+  Load from HARMA/Maybury City (1.29Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
+        1 x Military Grade Fabrics      848cr vs    1,303cr, 4 hrs vs 24 hrs
+  Unload at PARHUA/Chalker Settlement (93ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 455cr (455cr/ton) => 100,455cr
+  Load from PARHUA/Chalker Settlement (93ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
+        1 x Gold                      8,667cr vs   10,122cr, 24 hrs vs 4 hrs
+  Unload at HARMA/Maybury City (1.29Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,455cr (1,455cr/ton) => 101,910cr
   ----------------------------------------------------------------------------
-Finish at HARMA/Maybury City (1.29Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:N) gaining 1,671cr (835cr/ton) => est 101,671cr total
+Finish at HARMA/Maybury City (1.29Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 1,910cr (955cr/ton) => est 101,910cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Shuttle starting and ending at HARMA/Maybury City with 37.5 ly between trades
-For MEDIUM and SMALL ships only, generated at 06/11/2016-11:04:00.82 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 14/11/2016-10:35:46.34 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-HARMA/Maybury City -> HARMA/Maybury City (score: 1991.860800)
-  Load from HARMA/Maybury City (1.29Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:N):
-        1 x Military Grade Fabrics      545cr vs    1,396cr, 6 days vs 4 days
-  Unload at URU/Bessemer Vision (675ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 851cr (851cr/ton) => 100,851cr
-  Load from URU/Bessemer Vision (675ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Consumer Technology       6,199cr vs    7,340cr, 4 days vs 6 days
-  Unload at HARMA/Maybury City (1.29Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:N) => Gain 1,141cr (1,141cr/ton) => 101,992cr
+HARMA/Maybury City -> HARMA/Maybury City (score: 2134.330400)
+  Load from HARMA/Maybury City (1.29Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
+        1 x Military Grade Fabrics      848cr vs    1,588cr, 4 hrs vs 36 hrs
+  Unload at SAONTIANA/Barjavel Port (12ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 740cr (740cr/ton) => 100,740cr
+  Load from SAONTIANA/Barjavel Port (12ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
+        1 x Gold                      8,727cr vs   10,122cr, 36 hrs vs 4 hrs
+  Unload at HARMA/Maybury City (1.29Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,395cr (1,395cr/ton) => 102,135cr
   ----------------------------------------------------------------------------
-Finish at HARMA/Maybury City (1.29Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:N) gaining 1,992cr (996cr/ton) => est 101,992cr total
+Finish at HARMA/Maybury City (1.29Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 2,135cr (1,067cr/ton) => est 102,135cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Shuttle starting and ending at HARMA/Maybury City with 42.5 ly between trades
-For MEDIUM and SMALL ships only, generated at 06/11/2016-11:04:13.26 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 14/11/2016-10:35:59.44 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-HARMA/Maybury City -> HARMA/Maybury City (score: 1991.860800)
-  Load from HARMA/Maybury City (1.29Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:N):
-        1 x Military Grade Fabrics      545cr vs    1,396cr, 6 days vs 4 days
-  Unload at URU/Bessemer Vision (675ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 851cr (851cr/ton) => 100,851cr
-  Load from URU/Bessemer Vision (675ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Consumer Technology       6,199cr vs    7,340cr, 4 days vs 6 days
-  Unload at HARMA/Maybury City (1.29Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:N) => Gain 1,141cr (1,141cr/ton) => 101,992cr
+HARMA/Maybury City -> HARMA/Maybury City (score: 2134.330400)
+  Load from HARMA/Maybury City (1.29Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
+        1 x Military Grade Fabrics      848cr vs    1,588cr, 4 hrs vs 36 hrs
+  Unload at SAONTIANA/Barjavel Port (12ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 740cr (740cr/ton) => 100,740cr
+  Load from SAONTIANA/Barjavel Port (12ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
+        1 x Gold                      8,727cr vs   10,122cr, 36 hrs vs 4 hrs
+  Unload at HARMA/Maybury City (1.29Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,395cr (1,395cr/ton) => 102,135cr
   ----------------------------------------------------------------------------
-Finish at HARMA/Maybury City (1.29Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:N) gaining 1,992cr (996cr/ton) => est 101,992cr total
+Finish at HARMA/Maybury City (1.29Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 2,135cr (1,067cr/ton) => est 102,135cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Shuttle starting and ending at HARMA/Maybury City with 76.5 ly between trades
-For MEDIUM and SMALL ships only, generated at 06/11/2016-11:04:25.99 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 14/11/2016-10:36:12.50 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-HARMA/Maybury City -> HARMA/Maybury City (score: 2259.448480)
-  Load from HARMA/Maybury City (1.29Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:N):
-        1 x Military Grade Fabrics      545cr vs    1,656cr, 6 days vs 27 days
-  Unload at TJAKIRI/Offutt Dock (36ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 1,111cr (1,111cr/ton) => 101,111cr
-  Load from TJAKIRI/Offutt Dock (36ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
-        1 x Progenitor Cells          5,878cr vs    7,027cr, 27 days vs 6 days
-  Unload at HARMA/Maybury City (1.29Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:N) => Gain 1,149cr (1,149cr/ton) => 102,260cr
+HARMA/Maybury City -> HARMA/Maybury City (score: 2494.766240)
+  Load from HARMA/Maybury City (1.29Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
+        1 x Mineral Extractors      544cr vs    1,548cr, 4 hrs vs 23 days
+  Unload at HIP 112823/Tanaka Mine (648ls, BMk:N, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,004cr (1,004cr/ton) => 101,004cr
+  Load from HIP 112823/Tanaka Mine (648ls, BMk:N, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
+        1 x Gold                  8,631cr vs   10,122cr, 23 days vs 4 hrs
+  Unload at HARMA/Maybury City (1.29Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,491cr (1,491cr/ton) => 102,495cr
   ----------------------------------------------------------------------------
-Finish at HARMA/Maybury City (1.29Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:N) gaining 2,260cr (1,130cr/ton) => est 102,260cr total
+Finish at HARMA/Maybury City (1.29Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 2,495cr (1,247cr/ton) => est 102,495cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Shuttle starting and ending at HARMA/Maybury City with 105.7 ly between trades
-For MEDIUM and SMALL ships only, generated at 06/11/2016-11:04:46.14 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 14/11/2016-10:36:32.91 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-HARMA/Maybury City -> HARMA/Maybury City (score: 3147.921280)
-  Load from HARMA/Maybury City (1.29Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:N):
-        1 x Basic Medicines      238cr vs    3,222cr, 6 days vs 4 days
-  Unload at NITITJA/Garratt Camp (56ls, BMk:N, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 2,984cr (2,984cr/ton) => 102,984cr
+HARMA/Maybury City -> HARMA/Maybury City (score: 3170.890560)
+  Load from HARMA/Maybury City (1.29Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
+        1 x Basic Medicines      279cr vs    3,222cr, 4 hrs vs 12 days
+  Unload at NITITJA/Garratt Camp (56ls, BMk:N, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 2,943cr (2,943cr/ton) => 102,943cr
   Load from NITITJA/Garratt Camp (56ls, BMk:N, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
-        1 x Bauxite               79cr vs      243cr, 4 days vs 6 days
-  Unload at HARMA/Maybury City (1.29Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:N) => Gain 164cr (164cr/ton) => 103,148cr
+        1 x Bauxite               79cr vs      307cr, 12 days vs 4 hrs
+  Unload at HARMA/Maybury City (1.29Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 228cr (228cr/ton) => 103,171cr
   ----------------------------------------------------------------------------
-Finish at HARMA/Maybury City (1.29Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:N) gaining 3,148cr (1,574cr/ton) => est 103,148cr total
+Finish at HARMA/Maybury City (1.29Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 3,171cr (1,585cr/ton) => est 103,171cr total
 
