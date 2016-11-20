@@ -56,106 +56,106 @@
 #
 ---------------------------------------------------------------------------------------------------------
 Best Trade Square starting and ending at Patocuda/Auer Station with 13 ly between trades
-For MEDIUM and SMALL ships only, generated at 14/11/2016-13:49:14.86 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 20/11/2016-13:27:00.55 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
 NOTE: Pruned 5 origins too far from any end stations
-PATOCUDA/Auer Station -> PATOCUDA/Auer Station (score: 4719.175040)
+PATOCUDA/Auer Station -> PATOCUDA/Auer Station (score: 4459.496080)
   Load from PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Palladium                      12,936cr vs   14,127cr, 16 days vs 14 days
-  Unload at SADHEN/Garriott Vision (942ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:N) => Gain 1,191cr (1,191cr/ton) => 101,191cr
-  Load from SADHEN/Garriott Vision (942ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:N):
-        1 x Power Generators                  332cr vs      717cr, 14 days vs 29 hrs
-  Unload at URU/Stafford Gateway (946ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 385cr (385cr/ton) => 101,576cr
+        1 x Silver                   4,451cr vs    5,611cr, 22 days vs 22 hrs
+  Unload at URU/Stafford Gateway (946ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 1,160cr (1,160cr/ton) => 101,160cr
   Load from URU/Stafford Gateway (946ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
-        1 x Medical Diagnostic Equipment    2,461cr vs    4,318cr, 29 hrs vs 12 days
-  Unload at URU/Bessemer Vision (675ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,857cr (1,857cr/ton) => 103,433cr
-  Load from URU/Bessemer Vision (675ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Performance Enhancers           6,206cr vs    7,491cr, 12 days vs 16 days
-  Unload at PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,285cr (1,285cr/ton) => 104,718cr
+        1 x Resonating Separators    5,852cr vs    6,967cr, 22 hrs vs 41 hrs
+  Unload at BELACAJAN/Crown Base (17ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,115cr (1,115cr/ton) => 102,275cr
+  Load from BELACAJAN/Crown Base (17ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
+        1 x Indium                   5,126cr vs    6,722cr, 41 hrs vs 22 hrs
+  Unload at URU/Stafford Gateway (946ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 1,596cr (1,596cr/ton) => 103,871cr
+  Load from URU/Stafford Gateway (946ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
+        1 x Consumer Technology      6,725cr vs    7,313cr, 22 hrs vs 22 days
+  Unload at PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 588cr (588cr/ton) => 104,459cr
   ----------------------------------------------------------------------------
-Finish at PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 4,718cr (1,179cr/ton) => est 104,718cr total
+Finish at PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 4,459cr (1,114cr/ton) => est 104,459cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Square starting and ending at Patocuda/Auer Station with 37.5 ly between trades
-For MEDIUM and SMALL ships only, generated at 14/11/2016-13:49:25.94 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 20/11/2016-13:27:11.08 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-NOTE: Pruned 1645 origins too far from any end stations
-PATOCUDA/Auer Station -> PATOCUDA/Auer Station (score: 5830.453800)
+NOTE: Pruned 1590 origins too far from any end stations
+PATOCUDA/Auer Station -> PATOCUDA/Auer Station (score: 7280.501300)
   Load from PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Palladium                      12,936cr vs   13,986cr, 16 days vs 13 days
-  Unload at TZ'UTULS/Kanwar Orbital (724ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,050cr (1,050cr/ton) => 101,050cr
-  Load from TZ'UTULS/Kanwar Orbital (724ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Medical Diagnostic Equipment    2,208cr vs    4,318cr, 13 days vs 12 days
-  Unload at URU/Bessemer Vision (675ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 2,110cr (2,110cr/ton) => 103,160cr
-  Load from URU/Bessemer Vision (675ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Performance Enhancers           6,206cr vs    7,519cr, 12 days vs 13 days
-  Unload at LODHARY/Anthony Dock (17ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 1,313cr (1,313cr/ton) => 104,473cr
-  Load from LODHARY/Anthony Dock (17ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
-        1 x Personal Weapons                3,511cr vs    4,867cr, 13 days vs 16 days
-  Unload at PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,356cr (1,356cr/ton) => 105,829cr
+        1 x Gold                            9,074cr vs   10,164cr, 22 days vs 40 hrs
+  Unload at MATUCANTH/Sagan Orbital (788ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,090cr (1,090cr/ton) => 101,090cr
+  Load from MATUCANTH/Sagan Orbital (788ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Imperial Slaves                15,593cr vs   16,987cr, 40 hrs vs 2 days
+  Unload at URU/Resnik Dock (949ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 1,394cr (1,394cr/ton) => 102,484cr
+  Load from URU/Resnik Dock (949ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
+        1 x Medical Diagnostic Equipment    2,647cr vs    6,588cr, 2 days vs 12 hrs
+  Unload at HARMA/Muhammad Ibn Battuta Point (2.12Kls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y) => Gain 3,941cr (3,941cr/ton) => 106,425cr
+  Load from HARMA/Muhammad Ibn Battuta Point (2.12Kls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y):
+        1 x Personal Weapons                3,994cr vs    4,867cr, 12 hrs vs 22 days
+  Unload at PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 873cr (873cr/ton) => 107,298cr
   ----------------------------------------------------------------------------
-Finish at PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 5,829cr (1,457cr/ton) => est 105,829cr total
+Finish at PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 7,298cr (1,824cr/ton) => est 107,298cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Square starting and ending at Patocuda/Auer Station with 42.5 ly between trades
-For MEDIUM and SMALL ships only, generated at 14/11/2016-13:49:40.22 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 20/11/2016-13:27:24.26 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-NOTE: Pruned 2896 origins too far from any end stations
-PATOCUDA/Auer Station -> PATOCUDA/Auer Station (score: 6254.160200)
+NOTE: Pruned 2816 origins too far from any end stations
+PATOCUDA/Auer Station -> PATOCUDA/Auer Station (score: 7306.537040)
   Load from PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Palladium                      12,936cr vs   13,986cr, 16 days vs 13 days
-  Unload at TZ'UTULS/Kanwar Orbital (724ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,050cr (1,050cr/ton) => 101,050cr
-  Load from TZ'UTULS/Kanwar Orbital (724ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Medical Diagnostic Equipment    2,208cr vs    4,398cr, 13 days vs 13 hrs
-  Unload at NERVI/Savitskaya Vision (2.26Kls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 2,190cr (2,190cr/ton) => 103,240cr
-  Load from NERVI/Savitskaya Vision (2.26Kls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Performance Enhancers           6,126cr vs    7,621cr, 13 hrs vs 16 hrs
-  Unload at KRAURNO/Sabine Platform (1.23Kls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,495cr (1,495cr/ton) => 104,735cr
+        1 x Silver                          4,451cr vs    5,523cr, 22 days vs 17 hrs
+  Unload at KRAURNO/Sabine Platform (1.23Kls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,072cr (1,072cr/ton) => 101,072cr
   Load from KRAURNO/Sabine Platform (1.23Kls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Personal Weapons                3,336cr vs    4,867cr, 16 hrs vs 16 days
-  Unload at PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,531cr (1,531cr/ton) => 106,266cr
+        1 x Personal Weapons                3,336cr vs    4,775cr, 17 hrs vs 2 days
+  Unload at URU/Resnik Dock (949ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 1,439cr (1,439cr/ton) => 102,511cr
+  Load from URU/Resnik Dock (949ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
+        1 x Medical Diagnostic Equipment    2,647cr vs    6,588cr, 2 days vs 12 hrs
+  Unload at HARMA/Muhammad Ibn Battuta Point (2.12Kls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y) => Gain 3,941cr (3,941cr/ton) => 106,452cr
+  Load from HARMA/Muhammad Ibn Battuta Point (2.12Kls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y):
+        1 x Personal Weapons                3,994cr vs    4,867cr, 12 hrs vs 22 days
+  Unload at PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 873cr (873cr/ton) => 107,325cr
   ----------------------------------------------------------------------------
-Finish at PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 6,266cr (1,566cr/ton) => est 106,266cr total
+Finish at PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 7,325cr (1,831cr/ton) => est 107,325cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Square starting and ending at Patocuda/Auer Station with 76.5 ly between trades
-For MEDIUM and SMALL ships only, generated at 14/11/2016-13:50:00.49 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 20/11/2016-13:27:42.55 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-NOTE: Pruned 11839 origins too far from any end stations
-PATOCUDA/Auer Station -> PATOCUDA/Auer Station (score: 7722.713500)
+NOTE: Pruned 11911 origins too far from any end stations
+PATOCUDA/Auer Station -> PATOCUDA/Auer Station (score: 8794.512220)
   Load from PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Gold                  9,074cr vs   10,055cr, 16 days vs 16 days
-  Unload at HATMEHING/Celsius Dock (591ls, BMk:N, Pad:M, Plt:N, Shp:N, Out:N, Ref:N) => Gain 981cr (981cr/ton) => 100,981cr
-  Load from HATMEHING/Celsius Dock (591ls, BMk:N, Pad:M, Plt:N, Shp:N, Out:N, Ref:N):
-        1 x Advanced Medicines    1,043cr vs    2,959cr, 16 days vs 26 hrs
-  Unload at TAU-2 GRUIS A/Lintott Hub (502ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:N) => Gain 1,916cr (1,916cr/ton) => 102,897cr
-  Load from TAU-2 GRUIS A/Lintott Hub (502ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:N):
-        1 x Imperial Slaves      12,542cr vs   17,072cr, 26 hrs vs 28 days
-  Unload at FAROAHY/Makarov Landing (577ls, BMk:N, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y) => Gain 4,530cr (4,530cr/ton) => 107,427cr
-  Load from FAROAHY/Makarov Landing (577ls, BMk:N, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y):
-        1 x Explosives              200cr vs      492cr, 28 days vs 16 days
-  Unload at PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 292cr (292cr/ton) => 107,719cr
+        1 x Silver                          4,451cr vs    5,506cr, 22 days vs 19 days
+  Unload at CUCHUA/Prandtl Dock (159ls, BMk:N, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,055cr (1,055cr/ton) => 101,055cr
+  Load from CUCHUA/Prandtl Dock (159ls, BMk:N, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Imperial Slaves                14,044cr vs   16,987cr, 19 days vs 2 days
+  Unload at URU/Resnik Dock (949ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 2,943cr (2,943cr/ton) => 103,998cr
+  Load from URU/Resnik Dock (949ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
+        1 x Medical Diagnostic Equipment    2,647cr vs    6,588cr, 2 days vs 12 hrs
+  Unload at HARMA/Muhammad Ibn Battuta Point (2.12Kls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y) => Gain 3,941cr (3,941cr/ton) => 107,939cr
+  Load from HARMA/Muhammad Ibn Battuta Point (2.12Kls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y):
+        1 x Personal Weapons                3,994cr vs    4,867cr, 12 hrs vs 22 days
+  Unload at PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 873cr (873cr/ton) => 108,812cr
   ----------------------------------------------------------------------------
-Finish at PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 7,719cr (1,929cr/ton) => est 107,719cr total
+Finish at PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 8,812cr (2,203cr/ton) => est 108,812cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Square starting and ending at Patocuda/Auer Station with 105.7 ly between trades
-For MEDIUM and SMALL ships only, generated at 14/11/2016-14:01:56.01 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 20/11/2016-13:38:05.96 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-NOTE: Pruned 11727 origins too far from any end stations
-PATOCUDA/Auer Station -> PATOCUDA/Auer Station (score: 9058.317040)
+NOTE: Pruned 11940 origins too far from any end stations
+PATOCUDA/Auer Station -> PATOCUDA/Auer Station (score: 9138.978800)
   Load from PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Silver                          4,451cr vs    5,575cr, 16 days vs 14 days
-  Unload at MINERVA/Abasheli Terminal (1.15Kls, BMk:N, Pad:M, Plt:N, Shp:N, Out:N, Ref:N) => Gain 1,124cr (1,124cr/ton) => 101,124cr
-  Load from MINERVA/Abasheli Terminal (1.15Kls, BMk:N, Pad:M, Plt:N, Shp:N, Out:N, Ref:N):
-        1 x Medical Diagnostic Equipment    2,223cr vs    6,810cr, 14 days vs 8 hrs
-  Unload at ZEARLA/Qian Depot (444ls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y) => Gain 4,587cr (4,587cr/ton) => 105,711cr
-  Load from ZEARLA/Qian Depot (444ls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y):
-        1 x Non-Lethal Weapons              1,479cr vs    2,612cr, 8 hrs vs 14 hrs
-  Unload at LFT 37/Roentgen Hub (282ls, BMk:N, Pad:L, Plt:N, Shp:Y, Out:N, Ref:Y) => Gain 1,133cr (1,133cr/ton) => 106,844cr
-  Load from LFT 37/Roentgen Hub (282ls, BMk:N, Pad:L, Plt:N, Shp:Y, Out:N, Ref:Y):
-        1 x Imperial Slaves                13,466cr vs   15,678cr, 14 hrs vs 16 days
-  Unload at PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 2,212cr (2,212cr/ton) => 109,056cr
+        1 x Gold                            9,074cr vs   10,236cr, 22 days vs 12 hrs
+  Unload at ARTUME/Sanctuary (456ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,162cr (1,162cr/ton) => 101,162cr
+  Load from ARTUME/Sanctuary (456ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Medical Diagnostic Equipment    2,203cr vs    6,807cr, 13 hrs
+  Unload at G 99-49/Noguchi Arsenal (1.74Kls, BMk:N, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y) => Gain 4,604cr (4,604cr/ton) => 105,766cr
+  Load from G 99-49/Noguchi Arsenal (1.74Kls, BMk:N, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y):
+        1 x Reactive Armour                 1,695cr vs    2,878cr, 13 hrs vs 5 hrs
+  Unload at LFT 37/Onnes Gateway (282ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:N, Ref:Y) => Gain 1,183cr (1,183cr/ton) => 106,949cr
+  Load from LFT 37/Onnes Gateway (282ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:N, Ref:Y):
+        1 x Imperial Slaves                13,478cr vs   15,678cr, 5 hrs vs 22 days
+  Unload at PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 2,200cr (2,200cr/ton) => 109,149cr
   ----------------------------------------------------------------------------
-Finish at PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 9,056cr (2,264cr/ton) => est 109,056cr total
+Finish at PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 9,149cr (2,287cr/ton) => est 109,149cr total
 

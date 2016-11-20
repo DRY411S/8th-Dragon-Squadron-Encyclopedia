@@ -56,91 +56,91 @@
 #
 ---------------------------------------------------------------------------------------------------------
 Best Trade Triangle starting and ending at KOLABINATES/Grant Plant with 13 ly between trades
-For MEDIUM and SMALL ships only, generated at 14/11/2016- 8:40:39.29 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 20/11/2016- 8:55:26.92 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
 NOTE: Pruned 7 origins too far from any end stations
-KOLABINATES/Grant Plant -> KOLABINATES/Grant Plant (score: 3245.648960)
+KOLABINATES/Grant Plant -> KOLABINATES/Grant Plant (score: 3733.123400)
   Load from KOLABINATES/Grant Plant (471ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Military Grade Fabrics      803cr vs    1,588cr, 16 hrs vs 34 hrs
-  Unload at SAONTIANA/Barjavel Port (12ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 785cr (785cr/ton) => 100,785cr
-  Load from SAONTIANA/Barjavel Port (12ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Gold                      8,727cr vs    9,835cr, 34 hrs vs 13 days
-  Unload at LODHARY/Anthony Dock (17ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 1,108cr (1,108cr/ton) => 101,893cr
+        1 x Military Grade Fabrics      746cr vs    2,364cr, 18 hrs vs 8 hrs
+  Unload at HARMA/Muhammad Ibn Battuta Point (2.12Kls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y) => Gain 1,618cr (1,618cr/ton) => 101,618cr
+  Load from HARMA/Muhammad Ibn Battuta Point (2.12Kls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y):
+        1 x Reactive Armour           1,674cr vs    2,549cr, 8 hrs vs 12 hrs
+  Unload at LODHARY/Anthony Dock (17ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 875cr (875cr/ton) => 102,493cr
   Load from LODHARY/Anthony Dock (17ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
-        1 x Personal Weapons          3,511cr vs    4,863cr, 13 days vs 16 hrs
-  Unload at KOLABINATES/Grant Plant (471ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,352cr (1,352cr/ton) => 103,245cr
+        1 x Personal Weapons          3,979cr vs    5,226cr, 12 hrs vs 18 hrs
+  Unload at KOLABINATES/Grant Plant (471ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,247cr (1,247cr/ton) => 103,740cr
   ----------------------------------------------------------------------------
-Finish at KOLABINATES/Grant Plant (471ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 3,245cr (1,081cr/ton) => est 103,245cr total
+Finish at KOLABINATES/Grant Plant (471ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 3,740cr (1,246cr/ton) => est 103,740cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Triangle starting and ending at KOLABINATES/Grant Plant with 37.5 ly between trades
-For MEDIUM and SMALL ships only, generated at 14/11/2016- 8:40:52.07 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 20/11/2016- 8:55:37.60 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
 NOTE: Pruned 207 origins too far from any end stations
-KOLABINATES/Grant Plant -> KOLABINATES/Grant Plant (score: 4026.663800)
+KOLABINATES/Grant Plant -> KOLABINATES/Grant Plant (score: 6032.541800)
   Load from KOLABINATES/Grant Plant (471ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Beryllium                       8,225cr vs    9,119cr, 16 hrs vs 24 hrs
-  Unload at URU/Stafford Gateway (946ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 894cr (894cr/ton) => 100,894cr
-  Load from URU/Stafford Gateway (946ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
-        1 x Medical Diagnostic Equipment    2,461cr vs    4,318cr, 24 hrs vs 12 days
-  Unload at URU/Bessemer Vision (675ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,857cr (1,857cr/ton) => 102,751cr
-  Load from URU/Bessemer Vision (675ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Performance Enhancers           6,206cr vs    7,480cr, 12 days vs 16 hrs
-  Unload at KOLABINATES/Grant Plant (471ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,274cr (1,274cr/ton) => 104,025cr
+        1 x Superconductors                 6,723cr vs    7,600cr, 18 hrs vs 2 days
+  Unload at URU/Resnik Dock (949ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 877cr (877cr/ton) => 100,877cr
+  Load from URU/Resnik Dock (949ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
+        1 x Medical Diagnostic Equipment    2,647cr vs    6,588cr, 2 days vs 8 hrs
+  Unload at HARMA/Muhammad Ibn Battuta Point (2.12Kls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y) => Gain 3,941cr (3,941cr/ton) => 104,818cr
+  Load from HARMA/Muhammad Ibn Battuta Point (2.12Kls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y):
+        1 x Personal Weapons                3,994cr vs    5,226cr, 8 hrs vs 18 hrs
+  Unload at KOLABINATES/Grant Plant (471ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,232cr (1,232cr/ton) => 106,050cr
   ----------------------------------------------------------------------------
-Finish at KOLABINATES/Grant Plant (471ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 4,025cr (1,341cr/ton) => est 104,025cr total
+Finish at KOLABINATES/Grant Plant (471ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 6,050cr (2,016cr/ton) => est 106,050cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Triangle starting and ending at KOLABINATES/Grant Plant with 42.5 ly between trades
-For MEDIUM and SMALL ships only, generated at 14/11/2016- 8:41:04.78 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 20/11/2016- 8:55:48.49 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-NOTE: Pruned 347 origins too far from any end stations
-KOLABINATES/Grant Plant -> KOLABINATES/Grant Plant (score: 4516.166720)
+NOTE: Pruned 344 origins too far from any end stations
+KOLABINATES/Grant Plant -> KOLABINATES/Grant Plant (score: 6032.541800)
   Load from KOLABINATES/Grant Plant (471ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Gallium                         5,083cr vs    5,809cr, 16 hrs vs 36 hrs
-  Unload at HIP 116213/Wiener Dock (456ls, BMk:N, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 726cr (726cr/ton) => 100,726cr
-  Load from HIP 116213/Wiener Dock (456ls, BMk:N, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Medical Diagnostic Equipment    2,230cr vs    4,398cr, 36 hrs vs 8 hrs
-  Unload at HIP 116213/Yolen Hub (458ls, BMk:N, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 2,168cr (2,168cr/ton) => 102,894cr
-  Load from HIP 116213/Yolen Hub (458ls, BMk:N, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Resonating Separators           5,255cr vs    6,875cr, 8 hrs vs 16 hrs
-  Unload at KOLABINATES/Grant Plant (471ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,620cr (1,620cr/ton) => 104,514cr
+        1 x Superconductors                 6,723cr vs    7,600cr, 18 hrs vs 2 days
+  Unload at URU/Resnik Dock (949ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 877cr (877cr/ton) => 100,877cr
+  Load from URU/Resnik Dock (949ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
+        1 x Medical Diagnostic Equipment    2,647cr vs    6,588cr, 2 days vs 8 hrs
+  Unload at HARMA/Muhammad Ibn Battuta Point (2.12Kls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y) => Gain 3,941cr (3,941cr/ton) => 104,818cr
+  Load from HARMA/Muhammad Ibn Battuta Point (2.12Kls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y):
+        1 x Personal Weapons                3,994cr vs    5,226cr, 8 hrs vs 18 hrs
+  Unload at KOLABINATES/Grant Plant (471ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,232cr (1,232cr/ton) => 106,050cr
   ----------------------------------------------------------------------------
-Finish at KOLABINATES/Grant Plant (471ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 4,514cr (1,504cr/ton) => est 104,514cr total
+Finish at KOLABINATES/Grant Plant (471ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 6,050cr (2,016cr/ton) => est 106,050cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Triangle starting and ending at KOLABINATES/Grant Plant with 76.5 ly between trades
-For MEDIUM and SMALL ships only, generated at 14/11/2016- 8:41:17.83 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 20/11/2016- 8:55:59.57 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-NOTE: Pruned 4689 origins too far from any end stations
-KOLABINATES/Grant Plant -> KOLABINATES/Grant Plant (score: 4614.839680)
+NOTE: Pruned 4711 origins too far from any end stations
+KOLABINATES/Grant Plant -> KOLABINATES/Grant Plant (score: 6246.810760)
   Load from KOLABINATES/Grant Plant (471ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Silver                          4,770cr vs    5,477cr, 16 hrs vs 16 days
-  Unload at NGUNA/Bear Holdings (1.87Kls, BMk:N, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y) => Gain 707cr (707cr/ton) => 100,707cr
-  Load from NGUNA/Bear Holdings (1.87Kls, BMk:N, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y):
-        1 x Medical Diagnostic Equipment    2,110cr vs    4,398cr, 16 days vs 8 hrs
-  Unload at HIP 116213/Yolen Hub (458ls, BMk:N, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 2,288cr (2,288cr/ton) => 102,995cr
-  Load from HIP 116213/Yolen Hub (458ls, BMk:N, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Resonating Separators           5,255cr vs    6,875cr, 8 hrs vs 16 hrs
-  Unload at KOLABINATES/Grant Plant (471ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,620cr (1,620cr/ton) => 104,615cr
+        1 x Tantalum                        3,902cr vs    4,581cr, 18 hrs vs 22 days
+  Unload at NANKUL/Tombaugh Ring (502ls, BMk:N, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 679cr (679cr/ton) => 100,679cr
+  Load from NANKUL/Tombaugh Ring (502ls, BMk:N, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Medical Diagnostic Equipment    2,233cr vs    6,588cr, 22 days vs 8 hrs
+  Unload at HARMA/Muhammad Ibn Battuta Point (2.12Kls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y) => Gain 4,355cr (4,355cr/ton) => 105,034cr
+  Load from HARMA/Muhammad Ibn Battuta Point (2.12Kls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y):
+        1 x Personal Weapons                3,994cr vs    5,226cr, 8 hrs vs 18 hrs
+  Unload at KOLABINATES/Grant Plant (471ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,232cr (1,232cr/ton) => 106,266cr
   ----------------------------------------------------------------------------
-Finish at KOLABINATES/Grant Plant (471ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 4,615cr (1,538cr/ton) => est 104,615cr total
+Finish at KOLABINATES/Grant Plant (471ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 6,266cr (2,088cr/ton) => est 106,266cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Triangle starting and ending at KOLABINATES/Grant Plant with 105.7 ly between trades
-For MEDIUM and SMALL ships only, generated at 14/11/2016- 8:41:56.65 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 20/11/2016- 8:56:33.26 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-NOTE: Pruned 9379 origins too far from any end stations
-KOLABINATES/Grant Plant -> KOLABINATES/Grant Plant (score: 5341.432160)
+NOTE: Pruned 9417 origins too far from any end stations
+KOLABINATES/Grant Plant -> KOLABINATES/Grant Plant (score: 6323.859380)
   Load from KOLABINATES/Grant Plant (471ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Silver                4,770cr vs    5,575cr, 17 hrs vs 14 days
-  Unload at MINERVA/Abasheli Terminal (1.15Kls, BMk:N, Pad:M, Plt:N, Shp:N, Out:N, Ref:N) => Gain 805cr (805cr/ton) => 100,805cr
-  Load from MINERVA/Abasheli Terminal (1.15Kls, BMk:N, Pad:M, Plt:N, Shp:N, Out:N, Ref:N):
-        1 x Advanced Medicines    1,011cr vs    2,934cr, 14 days vs 20 days
-  Unload at HIP 117865/Nomen Gateway (2.79Kls, BMk:N, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,923cr (1,923cr/ton) => 102,728cr
-  Load from HIP 117865/Nomen Gateway (2.79Kls, BMk:N, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Imperial Slaves      14,072cr vs   16,702cr, 20 days vs 17 hrs
-  Unload at KOLABINATES/Grant Plant (471ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 2,630cr (2,630cr/ton) => 105,358cr
+        1 x Superconductors                 6,723cr vs    7,888cr, 18 hrs vs 33 hrs
+  Unload at TARACH TOR/Tranquillity (359ls, BMk:N, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,165cr (1,165cr/ton) => 101,165cr
+  Load from TARACH TOR/Tranquillity (359ls, BMk:N, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Medical Diagnostic Equipment    2,644cr vs    6,588cr, 33 hrs vs 8 hrs
+  Unload at HARMA/Muhammad Ibn Battuta Point (2.12Kls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y) => Gain 3,944cr (3,944cr/ton) => 105,109cr
+  Load from HARMA/Muhammad Ibn Battuta Point (2.12Kls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y):
+        1 x Personal Weapons                3,994cr vs    5,226cr, 8 hrs vs 18 hrs
+  Unload at KOLABINATES/Grant Plant (471ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,232cr (1,232cr/ton) => 106,341cr
   ----------------------------------------------------------------------------
-Finish at KOLABINATES/Grant Plant (471ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 5,358cr (1,786cr/ton) => est 105,358cr total
+Finish at KOLABINATES/Grant Plant (471ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 6,341cr (2,113cr/ton) => est 106,341cr total
 
