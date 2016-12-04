@@ -1,5 +1,5 @@
 # This file is a list of places that you can buy ships within 25ly of KOLABINATES
-# It is based on data in the public TradeDangerous database, and generated at 20/11/2016- 8:36:04.09 [DD/MM/YYYY-UTC]
+# It is based on data in the public TradeDangerous database, and generated at 04/12/2016- 0:35:52.83 [DD/MM/YYYY-UTC]
 # Crowd sourced data about where to buy ships is limited
 # There are likely to be many other places where you can buy ships in the area
 # Especially the smaller ones
@@ -21,7 +21,7 @@ You can buy "'Adder'"s and [typically] pay 87810 Cr At...
 
 Station                       DistLy      StnLs B/mkt Pad Plt
 -------------------------------------------------------------
-HARMA/Gabriel Enterprise        2.40        259    No Lrg  No
+HARMA/Gabriel Enterprise        2.40        259   Yes Lrg  No
 PHRACES/Potter Enterprise       4.62        375   Yes Lrg  No
 LODHARY/Lagrange Gateway        8.38          6   Yes Lrg  No
 GLIESE 1272/Bao Dock           10.66         49   Yes Lrg  No
@@ -30,7 +30,7 @@ HIP 113980/Clapperton Station  13.74      7.67K   Yes Lrg  No
 PATOCUDA/Coney Gateway         18.21         97   Yes Lrg  No
 PATOCUDA/Fernao Do Po Port     18.21      1.47K   Yes Lrg  No
 AUTA ISUANG/Evans Settlement   21.28        353   Yes Lrg  No
-KAKMBUTAN/MacGregor Orbital    22.45          ?   Yes Lrg  No
+KAKMBUTAN/MacGregor Orbital    22.45         75   Yes Lrg  No
 URU/Bessemer Vision            22.81        675   Yes Lrg  No
 TEWI'XILAK/Newman Terminal     23.00         35   Yes Lrg  No
 TEWI'XILAK/Zholobov Station    23.00         21   Yes Lrg  No
@@ -42,8 +42,8 @@ You can buy "'Anaconda'"s and [typically] pay 146969450 Cr At...
 
 Station                     DistLy      StnLs B/mkt Pad Plt
 -----------------------------------------------------------
-HARMA/Gabriel Enterprise      2.40        259    No Lrg  No
-KAKMBUTAN/MacGregor Orbital  22.45          ?   Yes Lrg  No
+HARMA/Gabriel Enterprise      2.40        259   Yes Lrg  No
+KAKMBUTAN/MacGregor Orbital  22.45         75   Yes Lrg  No
 TEWI'XILAK/Newman Terminal   23.00         35   Yes Lrg  No
 TEWI'XILAK/Zholobov Station  23.00         21   Yes Lrg  No
 BIRRETI/Platt City           24.83      7.25K   Yes Lrg  No
@@ -54,13 +54,13 @@ You can buy "'Asp'"s and [typically] pay 6661150 Cr At...
 
 Station                            DistLy      StnLs B/mkt Pad Plt
 ------------------------------------------------------------------
-HARMA/Gabriel Enterprise             2.40        259    No Lrg  No
+HARMA/Gabriel Enterprise             2.40        259   Yes Lrg  No
 PHRACES/Potter Enterprise            4.62        375   Yes Lrg  No
 LODHARY/Lagrange Gateway             8.38          6   Yes Lrg  No
 GLIESE 1272/Murphy Dock             10.66         86   Yes Lrg  No
 HIP 113980/Clapperton Station       13.74      7.67K   Yes Lrg  No
 WIRNAKO/Moffitt Platform            16.57        405   Yes Lrg  No
-KAKMBUTAN/MacGregor Orbital         22.45          ?   Yes Lrg  No
+KAKMBUTAN/MacGregor Orbital         22.45         75   Yes Lrg  No
 34 PEGASI/Henderson Dock            23.89        993   Yes Lrg  No
 34 PEGASI/Rayhan Al-Biruni Orbital  23.89        465   Yes Lrg  No
 34 PEGASI/Webb Port                 23.89        262   Yes Lrg  No
@@ -91,13 +91,13 @@ You can buy "'Cobra'"s and [typically] pay 379720 Cr At...
 
 Station                     DistLy      StnLs B/mkt Pad Plt
 -----------------------------------------------------------
-HARMA/Gabriel Enterprise      2.40        259    No Lrg  No
+HARMA/Gabriel Enterprise      2.40        259   Yes Lrg  No
 LODHARY/Lagrange Gateway      8.38          6   Yes Lrg  No
 GLIESE 1272/Murphy Dock      10.66         86   Yes Lrg  No
 PATOCUDA/Coney Gateway       18.21         97   Yes Lrg  No
 PATOCUDA/Fernao Do Po Port   18.21      1.47K   Yes Lrg  No
 SADHEN/Birkeland Platform    19.60        472   Yes Lrg  No
-KAKMBUTAN/MacGregor Orbital  22.45          ?   Yes Lrg  No
+KAKMBUTAN/MacGregor Orbital  22.45         75   Yes Lrg  No
 URU/Bessemer Vision          22.81        675   Yes Lrg  No
 TEWI'XILAK/Deb Orbital       23.00        30K   Yes Lrg  No
 TEWI'XILAK/Newman Terminal   23.00         35   Yes Lrg  No
@@ -137,7 +137,7 @@ You can buy "'Eagle'"s and [typically] pay 44800 Cr At...
 
 Station                            DistLy      StnLs B/mkt Pad Plt
 ------------------------------------------------------------------
-HARMA/Gabriel Enterprise             2.40        259    No Lrg  No
+HARMA/Gabriel Enterprise             2.40        259   Yes Lrg  No
 PHRACES/Potter Enterprise            4.62        375   Yes Lrg  No
 LODHARY/Lagrange Gateway             8.38          6   Yes Lrg  No
 GLIESE 1272/Bao Dock                10.66         49   Yes Lrg  No
@@ -147,7 +147,7 @@ WIRNAKO/Moffitt Platform            16.57        405   Yes Lrg  No
 PATOCUDA/Coney Gateway              18.21         97   Yes Lrg  No
 PATOCUDA/Fernao Do Po Port          18.21      1.47K   Yes Lrg  No
 AUTA ISUANG/Evans Settlement        21.28        353   Yes Lrg  No
-KAKMBUTAN/MacGregor Orbital         22.45          ?   Yes Lrg  No
+KAKMBUTAN/MacGregor Orbital         22.45         75   Yes Lrg  No
 URU/Bessemer Vision                 22.81        675   Yes Lrg  No
 TEWI'XILAK/Newman Terminal          23.00         35   Yes Lrg  No
 TEWI'XILAK/Zholobov Station         23.00         21   Yes Lrg  No
@@ -191,7 +191,7 @@ You can buy "'Hauler'"s and [typically] pay 52720 Cr At...
 
 Station                            DistLy      StnLs B/mkt Pad Plt
 ------------------------------------------------------------------
-HARMA/Gabriel Enterprise             2.40        259    No Lrg  No
+HARMA/Gabriel Enterprise             2.40        259   Yes Lrg  No
 PHRACES/Potter Enterprise            4.62        375   Yes Lrg  No
 LODHARY/Lagrange Gateway             8.38          6   Yes Lrg  No
 GLIESE 1272/Bao Dock                10.66         49   Yes Lrg  No
@@ -202,7 +202,7 @@ PATOCUDA/Coney Gateway              18.21         97   Yes Lrg  No
 PATOCUDA/Fernao Do Po Port          18.21      1.47K   Yes Lrg  No
 SADHEN/Birkeland Platform           19.60        472   Yes Lrg  No
 AUTA ISUANG/Evans Settlement        21.28        353   Yes Lrg  No
-KAKMBUTAN/MacGregor Orbital         22.45          ?   Yes Lrg  No
+KAKMBUTAN/MacGregor Orbital         22.45         75   Yes Lrg  No
 URU/Bessemer Vision                 22.81        675   Yes Lrg  No
 TEWI'XILAK/Deb Orbital              23.00        30K   Yes Lrg  No
 TEWI'XILAK/Newman Terminal          23.00         35   Yes Lrg  No
@@ -258,7 +258,7 @@ You can buy "'Sidewinder'"s and [typically] pay 32000 Cr At...
 
 Station                            DistLy      StnLs B/mkt Pad Plt
 ------------------------------------------------------------------
-HARMA/Gabriel Enterprise             2.40        259    No Lrg  No
+HARMA/Gabriel Enterprise             2.40        259   Yes Lrg  No
 PHRACES/Potter Enterprise            4.62        375   Yes Lrg  No
 LODHARY/Lagrange Gateway             8.38          6   Yes Lrg  No
 GLIESE 1272/Bao Dock                10.66         49   Yes Lrg  No
@@ -270,7 +270,7 @@ PATOCUDA/Fernao Do Po Port          18.21      1.47K   Yes Lrg  No
 SADHEN/Birkeland Platform           19.60        472   Yes Lrg  No
 AUTA ISUANG/Evans Settlement        21.28        353   Yes Lrg  No
 HIP 110205/Tokubei Hub              21.78        572   Yes Lrg  No
-KAKMBUTAN/MacGregor Orbital         22.45          ?   Yes Lrg  No
+KAKMBUTAN/MacGregor Orbital         22.45         75   Yes Lrg  No
 URU/Bessemer Vision                 22.81        675   Yes Lrg  No
 TEWI'XILAK/Deb Orbital              23.00        30K   Yes Lrg  No
 TEWI'XILAK/Newman Terminal          23.00         35   Yes Lrg  No
@@ -305,12 +305,12 @@ You can buy "'Viper'"s and [typically] pay 142930 Cr At...
 
 Station                     DistLy      StnLs B/mkt Pad Plt
 -----------------------------------------------------------
-HARMA/Gabriel Enterprise      2.40        259    No Lrg  No
+HARMA/Gabriel Enterprise      2.40        259   Yes Lrg  No
 PHRACES/Potter Enterprise     4.62        375   Yes Lrg  No
 LODHARY/Lagrange Gateway      8.38          6   Yes Lrg  No
 PATOCUDA/Coney Gateway       18.21         97   Yes Lrg  No
 PATOCUDA/Fernao Do Po Port   18.21      1.47K   Yes Lrg  No
-KAKMBUTAN/MacGregor Orbital  22.45          ?   Yes Lrg  No
+KAKMBUTAN/MacGregor Orbital  22.45         75   Yes Lrg  No
 URU/Bessemer Vision          22.81        675   Yes Lrg  No
 TEWI'XILAK/Newman Terminal   23.00         35   Yes Lrg  No
 TEWI'XILAK/Zholobov Station  23.00         21   Yes Lrg  No

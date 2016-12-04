@@ -1,5 +1,5 @@
 # This file is a list of places that you can buy ships within 25ly of Patocuda
-# It is based on data in the public TradeDangerous database, and generated at 20/11/2016-11:29:19.79 [DD/MM/YYYY-UTC]
+# It is based on data in the public TradeDangerous database, and generated at 04/12/2016- 3:49:50.22 [DD/MM/YYYY-UTC]
 # Crowd sourced data about where to buy ships is limited
 # There are likely to be many other places where you can buy ships in the area
 # Especially the smaller ones
@@ -29,7 +29,7 @@ TEWI'XILAK/Zholobov Station    11.12         21   Yes Lrg  No
 MATUCANTH/Ericsson Ring        14.33      1.40K   Yes Lrg  No
 HIP 113980/Clapperton Station  15.70      7.67K   Yes Lrg  No
 DHANKA/Bierce Horizons         16.73         42   Yes Lrg  No
-HARMA/Gabriel Enterprise       17.40        259    No Lrg  No
+HARMA/Gabriel Enterprise       17.40        259   Yes Lrg  No
 CASPI/Fontana Orbital          17.52        350   Yes Lrg  No
 BD-00 4461/Piccard Hub         18.48        279   Yes Lrg  No
 PHRACES/Potter Enterprise      20.30        375   Yes Lrg  No
@@ -46,11 +46,11 @@ Station                     DistLy      StnLs B/mkt Pad Plt
 TEWI'XILAK/Newman Terminal   11.12         35   Yes Lrg  No
 TEWI'XILAK/Zholobov Station  11.12         21   Yes Lrg  No
 MATUCANTH/Robinson Station   14.33      1.40K   Yes Lrg  No
-HARMA/Gabriel Enterprise     17.40        259    No Lrg  No
+HARMA/Gabriel Enterprise     17.40        259   Yes Lrg  No
 CASPI/Fontana Orbital        17.52        350   Yes Lrg  No
 BD-00 4461/Piccard Hub       18.48        279   Yes Lrg  No
 BIRRETI/Platt City           20.52      7.25K   Yes Lrg  No
-HIP 112095/Savitskaya City   21.48          ?   Yes Lrg  No
+HIP 112095/Savitskaya City   21.48        10K   Yes Lrg  No
 
 --------------------
 You can buy "'Asp'"s and [typically] pay 6661150 Cr At...
@@ -60,7 +60,7 @@ Station                            DistLy      StnLs B/mkt Pad Plt
 ------------------------------------------------------------------
 MATUCANTH/Robinson Station          14.33      1.40K   Yes Lrg  No
 HIP 113980/Clapperton Station       15.70      7.67K   Yes Lrg  No
-HARMA/Gabriel Enterprise            17.40        259    No Lrg  No
+HARMA/Gabriel Enterprise            17.40        259   Yes Lrg  No
 CASPI/Fontana Orbital               17.52        350   Yes Lrg  No
 BD-00 4461/Piccard Hub              18.48        279   Yes Lrg  No
 BD-00 4461/Webb Orbital             18.48        208   Yes Lrg  No
@@ -71,9 +71,9 @@ WIRNAKO/Moffitt Platform            18.78        405   Yes Lrg  No
 34 PEGASI/Weiss Orbital             19.66        328   Yes Lrg  No
 PHRACES/Potter Enterprise           20.30        375   Yes Lrg  No
 BIRRETI/Platt City                  20.52      7.25K   Yes Lrg  No
-HIP 112095/Savitskaya City          21.48          ?   Yes Lrg  No
+HIP 112095/Savitskaya City          21.48        10K   Yes Lrg  No
 GLIESE 1272/Murphy Dock             22.23         86   Yes Lrg  No
-171 G. AQUARII/Elcano Dock          24.28      3.19K   Yes Lrg  No
+171 G. AQUARII/Elcano Dock          24.28      3.17K   Yes Lrg  No
 
 --------------------
 You can buy "'Asp Scout'"s and [typically] pay 3961150 Cr At...
@@ -108,7 +108,7 @@ TEWI'XILAK/Newman Terminal   11.12         35   Yes Lrg  No
 TEWI'XILAK/Zholobov Station  11.12         21   Yes Lrg  No
 MATUCANTH/Ericsson Ring      14.33      1.40K   Yes Lrg  No
 DHANKA/Bierce Horizons       16.73         42   Yes Lrg  No
-HARMA/Gabriel Enterprise     17.40        259    No Lrg  No
+HARMA/Gabriel Enterprise     17.40        259   Yes Lrg  No
 CASPI/Fontana Orbital        17.52        350   Yes Lrg  No
 BD-00 4461/Piccard Hub       18.48        279   Yes Lrg  No
 BIRRETI/Platt City           20.52      7.25K   Yes Lrg  No
@@ -142,7 +142,7 @@ MATUCANTH/Robinson Station  14.33      1.40K   Yes Lrg  No
 MATUCANTH/Sagan Orbital     14.33        788   Yes Lrg  No
 34 PEGASI/Henderson Dock    19.66        993   Yes Lrg  No
 PHRACES/Potter Enterprise   20.30        375   Yes Lrg  No
-HIP 112095/Savitskaya City  21.48          ?   Yes Lrg  No
+HIP 112095/Savitskaya City  21.48        10K   Yes Lrg  No
 
 --------------------
 You can buy "'Eagle'"s and [typically] pay 44800 Cr At...
@@ -160,7 +160,7 @@ MATUCANTH/Robinson Station          14.33      1.40K   Yes Lrg  No
 MATUCANTH/Sagan Orbital             14.33        788   Yes Lrg  No
 HIP 113980/Clapperton Station       15.70      7.67K   Yes Lrg  No
 DHANKA/Bierce Horizons              16.73         42   Yes Lrg  No
-HARMA/Gabriel Enterprise            17.40        259    No Lrg  No
+HARMA/Gabriel Enterprise            17.40        259   Yes Lrg  No
 CASPI/Fontana Orbital               17.52        350   Yes Lrg  No
 BD-00 4461/Piccard Hub              18.48        279   Yes Lrg  No
 BD-00 4461/Webb Orbital             18.48        208   Yes Lrg  No
@@ -171,10 +171,10 @@ WIRNAKO/Moffitt Platform            18.78        405   Yes Lrg  No
 34 PEGASI/Weiss Orbital             19.66        328   Yes Lrg  No
 PHRACES/Potter Enterprise           20.30        375   Yes Lrg  No
 BIRRETI/Platt City                  20.52      7.25K   Yes Lrg  No
-HIP 112095/Savitskaya City          21.48          ?   Yes Lrg  No
+HIP 112095/Savitskaya City          21.48        10K   Yes Lrg  No
 GLIESE 1272/Bao Dock                22.23         49   Yes Lrg  No
 GLIESE 1272/Murphy Dock             22.23         86   Yes Lrg  No
-171 G. AQUARII/Elcano Dock          24.28      3.19K   Yes Lrg  No
+171 G. AQUARII/Elcano Dock          24.28      3.17K   Yes Lrg  No
 
 --------------------
 You can buy "'Federal Assault Ship'"s and [typically] pay 19814210 Cr At...
@@ -221,7 +221,7 @@ MATUCANTH/Robinson Station          14.33      1.40K   Yes Lrg  No
 MATUCANTH/Sagan Orbital             14.33        788   Yes Lrg  No
 HIP 113980/Clapperton Station       15.70      7.67K   Yes Lrg  No
 DHANKA/Bierce Horizons              16.73         42   Yes Lrg  No
-HARMA/Gabriel Enterprise            17.40        259    No Lrg  No
+HARMA/Gabriel Enterprise            17.40        259   Yes Lrg  No
 BD-00 4461/Webb Orbital             18.48        208   Yes Lrg  No
 WIRNAKO/Moffitt Platform            18.78        405   Yes Lrg  No
 34 PEGASI/Henderson Dock            19.66        993   Yes Lrg  No
@@ -230,10 +230,10 @@ WIRNAKO/Moffitt Platform            18.78        405   Yes Lrg  No
 34 PEGASI/Weiss Orbital             19.66        328   Yes Lrg  No
 PHRACES/Potter Enterprise           20.30        375   Yes Lrg  No
 BIRRETI/Platt City                  20.52      7.25K   Yes Lrg  No
-HIP 112095/Savitskaya City          21.48          ?   Yes Lrg  No
+HIP 112095/Savitskaya City          21.48        10K   Yes Lrg  No
 GLIESE 1272/Bao Dock                22.23         49   Yes Lrg  No
 GLIESE 1272/Murphy Dock             22.23         86   Yes Lrg  No
-171 G. AQUARII/Elcano Dock          24.28      3.19K   Yes Lrg  No
+171 G. AQUARII/Elcano Dock          24.28      3.17K   Yes Lrg  No
 
 --------------------
 You can buy "'Imperial Courier'"s and [typically] pay 2542930 Cr At...
@@ -293,7 +293,7 @@ MATUCANTH/Robinson Station          14.33      1.40K   Yes Lrg  No
 MATUCANTH/Sagan Orbital             14.33        788   Yes Lrg  No
 HIP 113980/Clapperton Station       15.70      7.67K   Yes Lrg  No
 DHANKA/Bierce Horizons              16.73         42   Yes Lrg  No
-HARMA/Gabriel Enterprise            17.40        259    No Lrg  No
+HARMA/Gabriel Enterprise            17.40        259   Yes Lrg  No
 CASPI/Fontana Orbital               17.52        350   Yes Lrg  No
 BD-00 4461/Piccard Hub              18.48        279   Yes Lrg  No
 BD-00 4461/Webb Orbital             18.48        208   Yes Lrg  No
@@ -304,10 +304,10 @@ WIRNAKO/Moffitt Platform            18.78        405   Yes Lrg  No
 34 PEGASI/Weiss Orbital             19.66        328   Yes Lrg  No
 PHRACES/Potter Enterprise           20.30        375   Yes Lrg  No
 BIRRETI/Platt City                  20.52      7.25K   Yes Lrg  No
-HIP 112095/Savitskaya City          21.48          ?   Yes Lrg  No
+HIP 112095/Savitskaya City          21.48        10K   Yes Lrg  No
 GLIESE 1272/Bao Dock                22.23         49   Yes Lrg  No
 GLIESE 1272/Murphy Dock             22.23         86   Yes Lrg  No
-171 G. AQUARII/Elcano Dock          24.28      3.19K   Yes Lrg  No
+171 G. AQUARII/Elcano Dock          24.28      3.17K   Yes Lrg  No
 
 --------------------
 You can buy "'Type 6'"s and [typically] pay 1045950 Cr At...
@@ -340,12 +340,12 @@ TEWI'XILAK/Newman Terminal   11.12         35   Yes Lrg  No
 TEWI'XILAK/Zholobov Station  11.12         21   Yes Lrg  No
 MATUCANTH/Ericsson Ring      14.33      1.40K   Yes Lrg  No
 MATUCANTH/Robinson Station   14.33      1.40K   Yes Lrg  No
-HARMA/Gabriel Enterprise     17.40        259    No Lrg  No
+HARMA/Gabriel Enterprise     17.40        259   Yes Lrg  No
 CASPI/Fontana Orbital        17.52        350   Yes Lrg  No
 BD-00 4461/Piccard Hub       18.48        279   Yes Lrg  No
 PHRACES/Potter Enterprise    20.30        375   Yes Lrg  No
 BIRRETI/Platt City           20.52      7.25K   Yes Lrg  No
-171 G. AQUARII/Elcano Dock   24.28      3.19K   Yes Lrg  No
+171 G. AQUARII/Elcano Dock   24.28      3.17K   Yes Lrg  No
 
 --------------------
 You can buy "'Viper MkIV'"s and [typically] pay 437930 Cr At...

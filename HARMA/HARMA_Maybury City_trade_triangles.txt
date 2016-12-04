@@ -56,91 +56,91 @@
 #
 ---------------------------------------------------------------------------------------------------------
 Best Trade Triangle starting and ending at HARMA/Maybury City with 13 ly between trades
-For MEDIUM and SMALL ships only, generated at 20/11/2016-10:36:15.02 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 04/12/2016- 2:50:35.19 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
 NOTE: Pruned 6 origins too far from any end stations
-HARMA/Maybury City -> HARMA/Maybury City (score: 3949.033920)
+HARMA/Maybury City -> HARMA/Maybury City (score: 3268.521480)
   Load from HARMA/Maybury City (1.29Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Military Grade Fabrics      788cr vs    2,364cr, 16 hrs vs 9 hrs
-  Unload at HARMA/Muhammad Ibn Battuta Point (2.12Kls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y) => Gain 1,576cr (1,576cr/ton) => 101,576cr
-  Load from HARMA/Muhammad Ibn Battuta Point (2.12Kls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y):
-        1 x Reactive Armour           1,674cr vs    2,628cr, 9 hrs vs 5 days
-  Unload at ASOORAJARA/Stableford Hangar (43ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 954cr (954cr/ton) => 102,530cr
-  Load from ASOORAJARA/Stableford Hangar (43ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Beryllium                 7,461cr vs    8,888cr, 5 days vs 16 hrs
-  Unload at HARMA/Maybury City (1.29Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,427cr (1,427cr/ton) => 103,957cr
+        1 x Military Grade Fabrics      788cr vs    1,478cr, 2 days vs 10 days
+  Unload at MBAYO/Hopkins Plant (564ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 690cr (690cr/ton) => 100,690cr
+  Load from MBAYO/Hopkins Plant (564ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
+        1 x Gold                      8,643cr vs   10,229cr, 10 days vs 9 days
+  Unload at BIKO/Forstchen Horizons (2.01Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 1,586cr (1,586cr/ton) => 102,276cr
+  Load from BIKO/Forstchen Horizons (2.01Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
+        1 x Imperial Slaves          15,984cr vs   16,983cr, 9 days vs 2 days
+  Unload at HARMA/Maybury City (1.29Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 999cr (999cr/ton) => 103,275cr
   ----------------------------------------------------------------------------
-Finish at HARMA/Maybury City (1.29Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 3,957cr (1,319cr/ton) => est 103,957cr total
+Finish at HARMA/Maybury City (1.29Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 3,275cr (1,091cr/ton) => est 103,275cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Triangle starting and ending at HARMA/Maybury City with 37.5 ly between trades
-For MEDIUM and SMALL ships only, generated at 20/11/2016-10:36:25.61 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 04/12/2016- 2:50:46.44 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-NOTE: Pruned 180 origins too far from any end stations
-HARMA/Maybury City -> HARMA/Maybury City (score: 5473.563560)
+NOTE: Pruned 204 origins too far from any end stations
+HARMA/Maybury City -> HARMA/Maybury City (score: 3879.908300)
   Load from HARMA/Maybury City (1.29Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Superconductors                 6,819cr vs    7,600cr, 16 hrs vs 2 days
-  Unload at URU/Resnik Dock (949ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 781cr (781cr/ton) => 100,781cr
-  Load from URU/Resnik Dock (949ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
-        1 x Medical Diagnostic Equipment    2,647cr vs    6,588cr, 2 days vs 9 hrs
-  Unload at HARMA/Muhammad Ibn Battuta Point (2.12Kls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y) => Gain 3,941cr (3,941cr/ton) => 104,722cr
-  Load from HARMA/Muhammad Ibn Battuta Point (2.12Kls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y):
-        1 x Reactive Armour                 1,674cr vs    2,444cr, 9 hrs vs 16 hrs
-  Unload at HARMA/Maybury City (1.29Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 770cr (770cr/ton) => 105,492cr
+        1 x Military Grade Fabrics      788cr vs    1,449cr, 2 days vs 13 days
+  Unload at DEIVE/Obruchev Orbital (1.95Kls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 661cr (661cr/ton) => 100,661cr
+  Load from DEIVE/Obruchev Orbital (1.95Kls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Resonating Separators     5,273cr vs    7,023cr, 13 days vs 10 days
+  Unload at MBAYO/Hopkins Plant (564ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 1,750cr (1,750cr/ton) => 102,411cr
+  Load from MBAYO/Hopkins Plant (564ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
+        1 x Beryllium                 7,417cr vs    8,888cr, 10 days vs 2 days
+  Unload at HARMA/Maybury City (1.29Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,471cr (1,471cr/ton) => 103,882cr
   ----------------------------------------------------------------------------
-Finish at HARMA/Maybury City (1.29Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 5,492cr (1,830cr/ton) => est 105,492cr total
+Finish at HARMA/Maybury City (1.29Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 3,882cr (1,294cr/ton) => est 103,882cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Triangle starting and ending at HARMA/Maybury City with 42.5 ly between trades
-For MEDIUM and SMALL ships only, generated at 20/11/2016-10:36:36.40 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 04/12/2016- 2:50:57.96 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-NOTE: Pruned 317 origins too far from any end stations
-HARMA/Maybury City -> HARMA/Maybury City (score: 5473.563560)
+NOTE: Pruned 339 origins too far from any end stations
+HARMA/Maybury City -> HARMA/Maybury City (score: 4597.445440)
   Load from HARMA/Maybury City (1.29Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Superconductors                 6,819cr vs    7,600cr, 16 hrs vs 2 days
-  Unload at URU/Resnik Dock (949ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 781cr (781cr/ton) => 100,781cr
-  Load from URU/Resnik Dock (949ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
-        1 x Medical Diagnostic Equipment    2,647cr vs    6,588cr, 2 days vs 9 hrs
-  Unload at HARMA/Muhammad Ibn Battuta Point (2.12Kls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y) => Gain 3,941cr (3,941cr/ton) => 104,722cr
-  Load from HARMA/Muhammad Ibn Battuta Point (2.12Kls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y):
-        1 x Reactive Armour                 1,674cr vs    2,444cr, 9 hrs vs 16 hrs
-  Unload at HARMA/Maybury City (1.29Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 770cr (770cr/ton) => 105,492cr
+        1 x Superconductors       6,819cr vs    7,655cr, 2 days vs 3 days
+  Unload at NERVI/Savitskaya Vision (2.26Kls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 836cr (836cr/ton) => 100,836cr
+  Load from NERVI/Savitskaya Vision (2.26Kls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Advanced Medicines    1,118cr vs    3,202cr, 3 days vs 6 days
+  Unload at DHANKA/Morrison Dock (283ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 2,084cr (2,084cr/ton) => 102,920cr
+  Load from DHANKA/Morrison Dock (283ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Imperial Slaves      15,301cr vs   16,983cr, 6 days vs 2 days
+  Unload at HARMA/Maybury City (1.29Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,682cr (1,682cr/ton) => 104,602cr
   ----------------------------------------------------------------------------
-Finish at HARMA/Maybury City (1.29Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 5,492cr (1,830cr/ton) => est 105,492cr total
+Finish at HARMA/Maybury City (1.29Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 4,602cr (1,534cr/ton) => est 104,602cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Triangle starting and ending at HARMA/Maybury City with 76.5 ly between trades
-For MEDIUM and SMALL ships only, generated at 20/11/2016-10:36:47.40 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 04/12/2016- 2:51:09.72 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-NOTE: Pruned 4611 origins too far from any end stations
-HARMA/Maybury City -> HARMA/Maybury City (score: 5473.563560)
+NOTE: Pruned 4864 origins too far from any end stations
+HARMA/Maybury City -> HARMA/Maybury City (score: 4597.445440)
   Load from HARMA/Maybury City (1.29Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Superconductors                 6,819cr vs    7,600cr, 16 hrs vs 2 days
-  Unload at URU/Resnik Dock (949ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 781cr (781cr/ton) => 100,781cr
-  Load from URU/Resnik Dock (949ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
-        1 x Medical Diagnostic Equipment    2,647cr vs    6,588cr, 2 days vs 9 hrs
-  Unload at HARMA/Muhammad Ibn Battuta Point (2.12Kls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y) => Gain 3,941cr (3,941cr/ton) => 104,722cr
-  Load from HARMA/Muhammad Ibn Battuta Point (2.12Kls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y):
-        1 x Reactive Armour                 1,674cr vs    2,444cr, 9 hrs vs 16 hrs
-  Unload at HARMA/Maybury City (1.29Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 770cr (770cr/ton) => 105,492cr
+        1 x Superconductors       6,819cr vs    7,655cr, 2 days vs 3 days
+  Unload at NERVI/Savitskaya Vision (2.26Kls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 836cr (836cr/ton) => 100,836cr
+  Load from NERVI/Savitskaya Vision (2.26Kls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Advanced Medicines    1,118cr vs    3,202cr, 3 days vs 6 days
+  Unload at DHANKA/Morrison Dock (283ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 2,084cr (2,084cr/ton) => 102,920cr
+  Load from DHANKA/Morrison Dock (283ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Imperial Slaves      15,301cr vs   16,983cr, 6 days vs 2 days
+  Unload at HARMA/Maybury City (1.29Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,682cr (1,682cr/ton) => 104,602cr
   ----------------------------------------------------------------------------
-Finish at HARMA/Maybury City (1.29Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 5,492cr (1,830cr/ton) => est 105,492cr total
+Finish at HARMA/Maybury City (1.29Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 4,602cr (1,534cr/ton) => est 104,602cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Triangle starting and ending at HARMA/Maybury City with 105.7 ly between trades
-For MEDIUM and SMALL ships only, generated at 20/11/2016-10:37:21.64 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 04/12/2016- 2:51:45.72 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-NOTE: Pruned 9452 origins too far from any end stations
-HARMA/Maybury City -> HARMA/Maybury City (score: 5791.261480)
+NOTE: Pruned 10584 origins too far from any end stations
+HARMA/Maybury City -> HARMA/Maybury City (score: 5886.968980)
   Load from HARMA/Maybury City (1.29Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Superconductors       6,819cr vs    7,888cr, 17 hrs vs 35 hrs
-  Unload at TARACH TOR/Tranquillity (359ls, BMk:N, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,069cr (1,069cr/ton) => 101,069cr
-  Load from TARACH TOR/Tranquillity (359ls, BMk:N, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Advanced Medicines    1,105cr vs    2,934cr, 35 hrs vs 26 days
-  Unload at HIP 117865/Nomen Gateway (2.79Kls, BMk:N, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,829cr (1,829cr/ton) => 102,898cr
-  Load from HIP 117865/Nomen Gateway (2.79Kls, BMk:N, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Imperial Slaves      14,072cr vs   16,983cr, 26 days vs 17 hrs
-  Unload at HARMA/Maybury City (1.29Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 2,911cr (2,911cr/ton) => 105,809cr
+        1 x Superconductors                 6,819cr vs    7,888cr, 2 days vs 35 hrs
+  Unload at TARACH TOR/Carter's Haven (1.28Kls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,069cr (1,069cr/ton) => 101,069cr
+  Load from TARACH TOR/Carter's Haven (1.28Kls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Medical Diagnostic Equipment    2,475cr vs    6,624cr, 35 hrs vs 8 hrs
+  Unload at BLODES/Stafford Keep (1.95Kls, BMk:N, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y) => Gain 4,149cr (4,149cr/ton) => 105,218cr
+  Load from BLODES/Stafford Keep (1.95Kls, BMk:N, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y):
+        1 x Reactive Armour                 1,760cr vs    2,444cr, 8 hrs vs 2 days
+  Unload at HARMA/Maybury City (1.29Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 684cr (684cr/ton) => 105,902cr
   ----------------------------------------------------------------------------
-Finish at HARMA/Maybury City (1.29Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 5,809cr (1,936cr/ton) => est 105,809cr total
+Finish at HARMA/Maybury City (1.29Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 5,902cr (1,967cr/ton) => est 105,902cr total
 

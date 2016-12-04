@@ -1,5 +1,5 @@
 # This file is a list of places that you can buy ships within 25ly of SADHEN
-# It is based on data in the public TradeDangerous database, and generated at 20/11/2016- 8:21:40.79 [DD/MM/YYYY-UTC]
+# It is based on data in the public TradeDangerous database, and generated at 04/12/2016- 0:19:56.98 [DD/MM/YYYY-UTC]
 # Crowd sourced data about where to buy ships is limited
 # There are likely to be many other places where you can buy ships in the area
 # Especially the smaller ones
@@ -30,7 +30,7 @@ MATUCANTH/Ericsson Ring        13.73      1.40K   Yes Lrg  No
 HIP 113980/Clapperton Station  14.15      7.67K   Yes Lrg  No
 DHANKA/Bierce Horizons         14.32         42   Yes Lrg  No
 CASPI/Fontana Orbital          16.98        350   Yes Lrg  No
-HARMA/Gabriel Enterprise       18.68        259    No Lrg  No
+HARMA/Gabriel Enterprise       18.68        259   Yes Lrg  No
 BIRRETI/Platt City             18.81      7.25K   Yes Lrg  No
 BD-00 4461/Piccard Hub         19.53        279   Yes Lrg  No
 PHRACES/Potter Enterprise      20.93        375   Yes Lrg  No
@@ -47,10 +47,10 @@ TEWI'XILAK/Newman Terminal   12.59         35   Yes Lrg  No
 TEWI'XILAK/Zholobov Station  12.59         21   Yes Lrg  No
 MATUCANTH/Robinson Station   13.73      1.40K   Yes Lrg  No
 CASPI/Fontana Orbital        16.98        350   Yes Lrg  No
-HARMA/Gabriel Enterprise     18.68        259    No Lrg  No
+HARMA/Gabriel Enterprise     18.68        259   Yes Lrg  No
 BIRRETI/Platt City           18.81      7.25K   Yes Lrg  No
 BD-00 4461/Piccard Hub       19.53        279   Yes Lrg  No
-HIP 112095/Savitskaya City   22.25          ?   Yes Lrg  No
+HIP 112095/Savitskaya City   22.25        10K   Yes Lrg  No
 
 --------------------
 You can buy "'Asp'"s and [typically] pay 6661150 Cr At...
@@ -62,12 +62,12 @@ MATUCANTH/Robinson Station          13.73      1.40K   Yes Lrg  No
 HIP 113980/Clapperton Station       14.15      7.67K   Yes Lrg  No
 CASPI/Fontana Orbital               16.98        350   Yes Lrg  No
 WIRNAKO/Moffitt Platform            17.31        405   Yes Lrg  No
-HARMA/Gabriel Enterprise            18.68        259    No Lrg  No
+HARMA/Gabriel Enterprise            18.68        259   Yes Lrg  No
 BIRRETI/Platt City                  18.81      7.25K   Yes Lrg  No
 BD-00 4461/Piccard Hub              19.53        279   Yes Lrg  No
 BD-00 4461/Webb Orbital             19.53        208   Yes Lrg  No
 PHRACES/Potter Enterprise           20.93        375   Yes Lrg  No
-HIP 112095/Savitskaya City          22.25          ?   Yes Lrg  No
+HIP 112095/Savitskaya City          22.25        10K   Yes Lrg  No
 34 PEGASI/Henderson Dock            23.28        993   Yes Lrg  No
 34 PEGASI/Rayhan Al-Biruni Orbital  23.28        465   Yes Lrg  No
 34 PEGASI/Webb Port                 23.28        262   Yes Lrg  No
@@ -108,7 +108,7 @@ TEWI'XILAK/Zholobov Station  12.59         21   Yes Lrg  No
 MATUCANTH/Ericsson Ring      13.73      1.40K   Yes Lrg  No
 DHANKA/Bierce Horizons       14.32         42   Yes Lrg  No
 CASPI/Fontana Orbital        16.98        350   Yes Lrg  No
-HARMA/Gabriel Enterprise     18.68        259    No Lrg  No
+HARMA/Gabriel Enterprise     18.68        259   Yes Lrg  No
 BIRRETI/Platt City           18.81      7.25K   Yes Lrg  No
 BD-00 4461/Piccard Hub       19.53        279   Yes Lrg  No
 GLIESE 1272/Murphy Dock      24.72         86   Yes Lrg  No
@@ -140,7 +140,7 @@ Station                    DistLy      StnLs B/mkt Pad Plt
 MATUCANTH/Robinson Station  13.73      1.40K   Yes Lrg  No
 MATUCANTH/Sagan Orbital     13.73        788   Yes Lrg  No
 PHRACES/Potter Enterprise   20.93        375   Yes Lrg  No
-HIP 112095/Savitskaya City  22.25          ?   Yes Lrg  No
+HIP 112095/Savitskaya City  22.25        10K   Yes Lrg  No
 34 PEGASI/Henderson Dock    23.28        993   Yes Lrg  No
 
 --------------------
@@ -161,12 +161,12 @@ HIP 113980/Clapperton Station       14.15      7.67K   Yes Lrg  No
 DHANKA/Bierce Horizons              14.32         42   Yes Lrg  No
 CASPI/Fontana Orbital               16.98        350   Yes Lrg  No
 WIRNAKO/Moffitt Platform            17.31        405   Yes Lrg  No
-HARMA/Gabriel Enterprise            18.68        259    No Lrg  No
+HARMA/Gabriel Enterprise            18.68        259   Yes Lrg  No
 BIRRETI/Platt City                  18.81      7.25K   Yes Lrg  No
 BD-00 4461/Piccard Hub              19.53        279   Yes Lrg  No
 BD-00 4461/Webb Orbital             19.53        208   Yes Lrg  No
 PHRACES/Potter Enterprise           20.93        375   Yes Lrg  No
-HIP 112095/Savitskaya City          22.25          ?   Yes Lrg  No
+HIP 112095/Savitskaya City          22.25        10K   Yes Lrg  No
 34 PEGASI/Henderson Dock            23.28        993   Yes Lrg  No
 34 PEGASI/Rayhan Al-Biruni Orbital  23.28        465   Yes Lrg  No
 34 PEGASI/Webb Port                 23.28        262   Yes Lrg  No
@@ -220,11 +220,11 @@ MATUCANTH/Sagan Orbital             13.73        788   Yes Lrg  No
 HIP 113980/Clapperton Station       14.15      7.67K   Yes Lrg  No
 DHANKA/Bierce Horizons              14.32         42   Yes Lrg  No
 WIRNAKO/Moffitt Platform            17.31        405   Yes Lrg  No
-HARMA/Gabriel Enterprise            18.68        259    No Lrg  No
+HARMA/Gabriel Enterprise            18.68        259   Yes Lrg  No
 BIRRETI/Platt City                  18.81      7.25K   Yes Lrg  No
 BD-00 4461/Webb Orbital             19.53        208   Yes Lrg  No
 PHRACES/Potter Enterprise           20.93        375   Yes Lrg  No
-HIP 112095/Savitskaya City          22.25          ?   Yes Lrg  No
+HIP 112095/Savitskaya City          22.25        10K   Yes Lrg  No
 34 PEGASI/Henderson Dock            23.28        993   Yes Lrg  No
 34 PEGASI/Rayhan Al-Biruni Orbital  23.28        465   Yes Lrg  No
 34 PEGASI/Webb Port                 23.28        262   Yes Lrg  No
@@ -292,12 +292,12 @@ HIP 113980/Clapperton Station       14.15      7.67K   Yes Lrg  No
 DHANKA/Bierce Horizons              14.32         42   Yes Lrg  No
 CASPI/Fontana Orbital               16.98        350   Yes Lrg  No
 WIRNAKO/Moffitt Platform            17.31        405   Yes Lrg  No
-HARMA/Gabriel Enterprise            18.68        259    No Lrg  No
+HARMA/Gabriel Enterprise            18.68        259   Yes Lrg  No
 BIRRETI/Platt City                  18.81      7.25K   Yes Lrg  No
 BD-00 4461/Piccard Hub              19.53        279   Yes Lrg  No
 BD-00 4461/Webb Orbital             19.53        208   Yes Lrg  No
 PHRACES/Potter Enterprise           20.93        375   Yes Lrg  No
-HIP 112095/Savitskaya City          22.25          ?   Yes Lrg  No
+HIP 112095/Savitskaya City          22.25        10K   Yes Lrg  No
 34 PEGASI/Henderson Dock            23.28        993   Yes Lrg  No
 34 PEGASI/Rayhan Al-Biruni Orbital  23.28        465   Yes Lrg  No
 34 PEGASI/Webb Port                 23.28        262   Yes Lrg  No
@@ -337,7 +337,7 @@ TEWI'XILAK/Zholobov Station  12.59         21   Yes Lrg  No
 MATUCANTH/Ericsson Ring      13.73      1.40K   Yes Lrg  No
 MATUCANTH/Robinson Station   13.73      1.40K   Yes Lrg  No
 CASPI/Fontana Orbital        16.98        350   Yes Lrg  No
-HARMA/Gabriel Enterprise     18.68        259    No Lrg  No
+HARMA/Gabriel Enterprise     18.68        259   Yes Lrg  No
 BIRRETI/Platt City           18.81      7.25K   Yes Lrg  No
 BD-00 4461/Piccard Hub       19.53        279   Yes Lrg  No
 PHRACES/Potter Enterprise    20.93        375   Yes Lrg  No

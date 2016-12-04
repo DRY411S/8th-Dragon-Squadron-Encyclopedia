@@ -56,106 +56,86 @@
 #
 ---------------------------------------------------------------------------------------------------------
 Best Trade Square starting and ending at Patocuda/Auer Station with 13 ly between trades
-For MEDIUM and SMALL ships only, generated at 20/11/2016-13:27:00.55 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 04/12/2016- 5:56:36.73 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-NOTE: Pruned 5 origins too far from any end stations
-PATOCUDA/Auer Station -> PATOCUDA/Auer Station (score: 4459.496080)
-  Load from PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Silver                   4,451cr vs    5,611cr, 22 days vs 22 hrs
-  Unload at URU/Stafford Gateway (946ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 1,160cr (1,160cr/ton) => 101,160cr
-  Load from URU/Stafford Gateway (946ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
-        1 x Resonating Separators    5,852cr vs    6,967cr, 22 hrs vs 41 hrs
-  Unload at BELACAJAN/Crown Base (17ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,115cr (1,115cr/ton) => 102,275cr
-  Load from BELACAJAN/Crown Base (17ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Indium                   5,126cr vs    6,722cr, 41 hrs vs 22 hrs
-  Unload at URU/Stafford Gateway (946ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 1,596cr (1,596cr/ton) => 103,871cr
-  Load from URU/Stafford Gateway (946ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
-        1 x Consumer Technology      6,725cr vs    7,313cr, 22 hrs vs 22 days
-  Unload at PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 588cr (588cr/ton) => 104,459cr
-  ----------------------------------------------------------------------------
-Finish at PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 4,459cr (1,114cr/ton) => est 104,459cr total
+P:\Program Files (x86)\td\trade.py: Error: No buying prices at PATOCUDA/Auer Station.
+
+Possible causes:
+- No profitable runs or routes meet your criteria,
+- Missing Systems or Stations along the route (see "local -vv"),
+- Missing price data (see "market -vv" or "update -h"),
+
+If you are not sure where to get data from, consider using a crowd-sourcing
+project such as "maddavo's" (http://www.davek.com.au/td/).
+
+For more help, see the TradeDangerous Wiki:
+    http://kfs.org/td/wiki
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Square starting and ending at Patocuda/Auer Station with 37.5 ly between trades
-For MEDIUM and SMALL ships only, generated at 20/11/2016-13:27:11.08 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 04/12/2016- 5:56:47.93 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-NOTE: Pruned 1590 origins too far from any end stations
-PATOCUDA/Auer Station -> PATOCUDA/Auer Station (score: 7280.501300)
-  Load from PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Gold                            9,074cr vs   10,164cr, 22 days vs 40 hrs
-  Unload at MATUCANTH/Sagan Orbital (788ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,090cr (1,090cr/ton) => 101,090cr
-  Load from MATUCANTH/Sagan Orbital (788ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Imperial Slaves                15,593cr vs   16,987cr, 40 hrs vs 2 days
-  Unload at URU/Resnik Dock (949ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 1,394cr (1,394cr/ton) => 102,484cr
-  Load from URU/Resnik Dock (949ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
-        1 x Medical Diagnostic Equipment    2,647cr vs    6,588cr, 2 days vs 12 hrs
-  Unload at HARMA/Muhammad Ibn Battuta Point (2.12Kls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y) => Gain 3,941cr (3,941cr/ton) => 106,425cr
-  Load from HARMA/Muhammad Ibn Battuta Point (2.12Kls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y):
-        1 x Personal Weapons                3,994cr vs    4,867cr, 12 hrs vs 22 days
-  Unload at PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 873cr (873cr/ton) => 107,298cr
-  ----------------------------------------------------------------------------
-Finish at PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 7,298cr (1,824cr/ton) => est 107,298cr total
+P:\Program Files (x86)\td\trade.py: Error: No buying prices at PATOCUDA/Auer Station.
+
+Possible causes:
+- No profitable runs or routes meet your criteria,
+- Missing Systems or Stations along the route (see "local -vv"),
+- Missing price data (see "market -vv" or "update -h"),
+
+If you are not sure where to get data from, consider using a crowd-sourcing
+project such as "maddavo's" (http://www.davek.com.au/td/).
+
+For more help, see the TradeDangerous Wiki:
+    http://kfs.org/td/wiki
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Square starting and ending at Patocuda/Auer Station with 42.5 ly between trades
-For MEDIUM and SMALL ships only, generated at 20/11/2016-13:27:24.26 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 04/12/2016- 5:56:59.10 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-NOTE: Pruned 2816 origins too far from any end stations
-PATOCUDA/Auer Station -> PATOCUDA/Auer Station (score: 7306.537040)
-  Load from PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Silver                          4,451cr vs    5,523cr, 22 days vs 17 hrs
-  Unload at KRAURNO/Sabine Platform (1.23Kls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,072cr (1,072cr/ton) => 101,072cr
-  Load from KRAURNO/Sabine Platform (1.23Kls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Personal Weapons                3,336cr vs    4,775cr, 17 hrs vs 2 days
-  Unload at URU/Resnik Dock (949ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 1,439cr (1,439cr/ton) => 102,511cr
-  Load from URU/Resnik Dock (949ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
-        1 x Medical Diagnostic Equipment    2,647cr vs    6,588cr, 2 days vs 12 hrs
-  Unload at HARMA/Muhammad Ibn Battuta Point (2.12Kls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y) => Gain 3,941cr (3,941cr/ton) => 106,452cr
-  Load from HARMA/Muhammad Ibn Battuta Point (2.12Kls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y):
-        1 x Personal Weapons                3,994cr vs    4,867cr, 12 hrs vs 22 days
-  Unload at PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 873cr (873cr/ton) => 107,325cr
-  ----------------------------------------------------------------------------
-Finish at PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 7,325cr (1,831cr/ton) => est 107,325cr total
+P:\Program Files (x86)\td\trade.py: Error: No buying prices at PATOCUDA/Auer Station.
+
+Possible causes:
+- No profitable runs or routes meet your criteria,
+- Missing Systems or Stations along the route (see "local -vv"),
+- Missing price data (see "market -vv" or "update -h"),
+
+If you are not sure where to get data from, consider using a crowd-sourcing
+project such as "maddavo's" (http://www.davek.com.au/td/).
+
+For more help, see the TradeDangerous Wiki:
+    http://kfs.org/td/wiki
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Square starting and ending at Patocuda/Auer Station with 76.5 ly between trades
-For MEDIUM and SMALL ships only, generated at 20/11/2016-13:27:42.55 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 04/12/2016- 5:57:10.29 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-NOTE: Pruned 11911 origins too far from any end stations
-PATOCUDA/Auer Station -> PATOCUDA/Auer Station (score: 8794.512220)
-  Load from PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Silver                          4,451cr vs    5,506cr, 22 days vs 19 days
-  Unload at CUCHUA/Prandtl Dock (159ls, BMk:N, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,055cr (1,055cr/ton) => 101,055cr
-  Load from CUCHUA/Prandtl Dock (159ls, BMk:N, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Imperial Slaves                14,044cr vs   16,987cr, 19 days vs 2 days
-  Unload at URU/Resnik Dock (949ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 2,943cr (2,943cr/ton) => 103,998cr
-  Load from URU/Resnik Dock (949ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
-        1 x Medical Diagnostic Equipment    2,647cr vs    6,588cr, 2 days vs 12 hrs
-  Unload at HARMA/Muhammad Ibn Battuta Point (2.12Kls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y) => Gain 3,941cr (3,941cr/ton) => 107,939cr
-  Load from HARMA/Muhammad Ibn Battuta Point (2.12Kls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y):
-        1 x Personal Weapons                3,994cr vs    4,867cr, 12 hrs vs 22 days
-  Unload at PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 873cr (873cr/ton) => 108,812cr
-  ----------------------------------------------------------------------------
-Finish at PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 8,812cr (2,203cr/ton) => est 108,812cr total
+P:\Program Files (x86)\td\trade.py: Error: No buying prices at PATOCUDA/Auer Station.
+
+Possible causes:
+- No profitable runs or routes meet your criteria,
+- Missing Systems or Stations along the route (see "local -vv"),
+- Missing price data (see "market -vv" or "update -h"),
+
+If you are not sure where to get data from, consider using a crowd-sourcing
+project such as "maddavo's" (http://www.davek.com.au/td/).
+
+For more help, see the TradeDangerous Wiki:
+    http://kfs.org/td/wiki
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Square starting and ending at Patocuda/Auer Station with 105.7 ly between trades
-For MEDIUM and SMALL ships only, generated at 20/11/2016-13:38:05.96 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 04/12/2016- 5:57:21.46 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-NOTE: Pruned 11940 origins too far from any end stations
-PATOCUDA/Auer Station -> PATOCUDA/Auer Station (score: 9138.978800)
-  Load from PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Gold                            9,074cr vs   10,236cr, 22 days vs 12 hrs
-  Unload at ARTUME/Sanctuary (456ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,162cr (1,162cr/ton) => 101,162cr
-  Load from ARTUME/Sanctuary (456ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Medical Diagnostic Equipment    2,203cr vs    6,807cr, 13 hrs
-  Unload at G 99-49/Noguchi Arsenal (1.74Kls, BMk:N, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y) => Gain 4,604cr (4,604cr/ton) => 105,766cr
-  Load from G 99-49/Noguchi Arsenal (1.74Kls, BMk:N, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y):
-        1 x Reactive Armour                 1,695cr vs    2,878cr, 13 hrs vs 5 hrs
-  Unload at LFT 37/Onnes Gateway (282ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:N, Ref:Y) => Gain 1,183cr (1,183cr/ton) => 106,949cr
-  Load from LFT 37/Onnes Gateway (282ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:N, Ref:Y):
-        1 x Imperial Slaves                13,478cr vs   15,678cr, 5 hrs vs 22 days
-  Unload at PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 2,200cr (2,200cr/ton) => 109,149cr
-  ----------------------------------------------------------------------------
-Finish at PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 9,149cr (2,287cr/ton) => est 109,149cr total
+P:\Program Files (x86)\td\trade.py: Error: No buying prices at PATOCUDA/Auer Station.
+
+Possible causes:
+- No profitable runs or routes meet your criteria,
+- Missing Systems or Stations along the route (see "local -vv"),
+- Missing price data (see "market -vv" or "update -h"),
+
+If you are not sure where to get data from, consider using a crowd-sourcing
+project such as "maddavo's" (http://www.davek.com.au/td/).
+
+For more help, see the TradeDangerous Wiki:
+    http://kfs.org/td/wiki
 

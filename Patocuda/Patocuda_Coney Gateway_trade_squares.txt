@@ -56,211 +56,211 @@
 #
 ---------------------------------------------------------------------------------------------------------
 Best Trade Square starting and ending at Patocuda/Coney Gateway with 13 ly between trades
-For ANY SIZE ship, generated at 20/11/2016-12:00:31.86 [DD/MM/YYYY-UTC] 
+For ANY SIZE ship, generated at 04/12/2016- 4:23:59.49 [DD/MM/YYYY-UTC] 
 ---------------------------------------------------------------------------------------------------------
-NOTE: Pruned 4 origins too far from any end stations
-PATOCUDA/Coney Gateway -> PATOCUDA/Coney Gateway (score: 3768.037280)
+NOTE: Pruned 5 origins too far from any end stations
+PATOCUDA/Coney Gateway -> PATOCUDA/Coney Gateway (score: 3645.006080)
   Load from PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Tea                   1,417cr vs    1,977cr, 37 hrs vs 12 hrs
-  Unload at SADHEN/Birkeland Platform (472ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 560cr (560cr/ton) => 100,560cr
-  Load from SADHEN/Birkeland Platform (472ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Survival Equipment      286cr vs    1,221cr, 12 hrs vs 20 hrs
-  Unload at BELACAJAN/Viehbock Prospect (11ls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y) => Gain 935cr (935cr/ton) => 101,495cr
-  Load from BELACAJAN/Viehbock Prospect (11ls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y):
-        1 x Silver                4,107cr vs    5,708cr, 20 hrs vs 12 hrs
-  Unload at SADHEN/Birkeland Platform (472ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,601cr (1,601cr/ton) => 103,096cr
-  Load from SADHEN/Birkeland Platform (472ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Marine Equipment      4,160cr vs    4,831cr, 12 hrs vs 37 hrs
-  Unload at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 671cr (671cr/ton) => 103,767cr
+        1 x Tobacco            4,407cr vs    5,455cr, 5 days vs 10 days
+  Unload at URU/Bessemer Vision (675ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,048cr (1,048cr/ton) => 101,048cr
+  Load from URU/Bessemer Vision (675ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Animal Monitors      135cr vs      909cr, 10 days vs 5 days
+  Unload at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 774cr (774cr/ton) => 101,822cr
+  Load from PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Tobacco            4,407cr vs    5,455cr, 5 days vs 10 days
+  Unload at URU/Bessemer Vision (675ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,048cr (1,048cr/ton) => 102,870cr
+  Load from URU/Bessemer Vision (675ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Animal Monitors      135cr vs      909cr, 10 days vs 5 days
+  Unload at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 774cr (774cr/ton) => 103,644cr
   ----------------------------------------------------------------------------
-Finish at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 3,767cr (941cr/ton) => est 103,767cr total
+Finish at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 3,644cr (911cr/ton) => est 103,644cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Square starting and ending at Patocuda/Coney Gateway with 13 ly between trades
-For MEDIUM and SMALL ships only, generated at 20/11/2016-12:00:39.21 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 04/12/2016- 4:24:07.40 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-NOTE: Pruned 5 origins too far from any end stations
-PATOCUDA/Coney Gateway -> PATOCUDA/Coney Gateway (score: 4067.378180)
+NOTE: Pruned 7 origins too far from any end stations
+PATOCUDA/Coney Gateway -> PATOCUDA/Coney Gateway (score: 4509.188640)
   Load from PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Tea                        1,417cr vs    1,922cr, 37 hrs vs 20 hrs
-  Unload at URU/Stafford Gateway (946ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 505cr (505cr/ton) => 100,505cr
-  Load from URU/Stafford Gateway (946ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
-        1 x Resonating Separators      5,852cr vs    6,967cr, 20 hrs vs 40 hrs
-  Unload at BELACAJAN/Crown Base (17ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,115cr (1,115cr/ton) => 101,620cr
+        1 x Tobacco                  4,407cr vs    5,455cr, 5 days vs 11 hrs
+  Unload at URU/Stafford Gateway (946ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:N) => Gain 1,048cr (1,048cr/ton) => 101,048cr
+  Load from URU/Stafford Gateway (946ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:N):
+        1 x Resonating Separators    5,852cr vs    6,967cr, 11 hrs vs 15 days
+  Unload at BELACAJAN/Crown Base (17ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,115cr (1,115cr/ton) => 102,163cr
   Load from BELACAJAN/Crown Base (17ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Indium                     5,126cr vs    6,722cr, 40 hrs vs 20 hrs
-  Unload at URU/Stafford Gateway (946ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 1,596cr (1,596cr/ton) => 103,216cr
-  Load from URU/Stafford Gateway (946ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
-        1 x Land Enrichment Systems    4,575cr vs    5,426cr, 20 hrs vs 37 hrs
-  Unload at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 851cr (851cr/ton) => 104,067cr
+        1 x Gold                     8,672cr vs   10,109cr, 15 days vs 11 days
+  Unload at TEWI'XILAK/Zholobov Station (21ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,437cr (1,437cr/ton) => 103,600cr
+  Load from TEWI'XILAK/Zholobov Station (21ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Personal Weapons         3,901cr vs    4,810cr, 11 days vs 5 days
+  Unload at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 909cr (909cr/ton) => 104,509cr
   ----------------------------------------------------------------------------
-Finish at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 4,067cr (1,016cr/ton) => est 104,067cr total
+Finish at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 4,509cr (1,127cr/ton) => est 104,509cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Square starting and ending at Patocuda/Coney Gateway with 37.5 ly between trades
-For ANY SIZE ship, generated at 20/11/2016-12:00:49.74 [DD/MM/YYYY-UTC] 
+For ANY SIZE ship, generated at 04/12/2016- 4:24:18.68 [DD/MM/YYYY-UTC] 
 ---------------------------------------------------------------------------------------------------------
-NOTE: Pruned 842 origins too far from any end stations
-PATOCUDA/Coney Gateway -> PATOCUDA/Coney Gateway (score: 6633.164840)
+NOTE: Pruned 938 origins too far from any end stations
+PATOCUDA/Coney Gateway -> PATOCUDA/Coney Gateway (score: 6160.186840)
   Load from PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Tea                             1,417cr vs    1,906cr, 37 hrs vs 2 days
-  Unload at URU/Bessemer Vision (675ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 489cr (489cr/ton) => 100,489cr
-  Load from URU/Bessemer Vision (675ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Medical Diagnostic Equipment    2,802cr vs    6,588cr, 2 days vs 11 hrs
-  Unload at HARMA/Muhammad Ibn Battuta Point (2.12Kls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y) => Gain 3,786cr (3,786cr/ton) => 104,275cr
-  Load from HARMA/Muhammad Ibn Battuta Point (2.12Kls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y):
-        1 x Reactive Armour                 1,674cr vs    2,552cr, 11 hrs vs 19 days
-  Unload at WIRNAKO/Moffitt Platform (405ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 878cr (878cr/ton) => 105,153cr
-  Load from WIRNAKO/Moffitt Platform (405ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Marine Equipment                3,334cr vs    4,831cr, 19 days vs 37 hrs
-  Unload at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,497cr (1,497cr/ton) => 106,650cr
-  ----------------------------------------------------------------------------
-Finish at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 6,650cr (1,662cr/ton) => est 106,650cr total
-
----------------------------------------------------------------------------------------------------------
-Best Trade Square starting and ending at Patocuda/Coney Gateway with 37.5 ly between trades
-For MEDIUM and SMALL ships only, generated at 20/11/2016-12:00:58.03 [DD/MM/YYYY-UTC]
----------------------------------------------------------------------------------------------------------
-NOTE: Pruned 1582 origins too far from any end stations
-PATOCUDA/Coney Gateway -> PATOCUDA/Coney Gateway (score: 7107.094080)
-  Load from PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Tea                             1,417cr vs    1,979cr, 37 hrs vs 7 days
-  Unload at KRISHA/Fincke Depot (14ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 562cr (562cr/ton) => 100,562cr
-  Load from KRISHA/Fincke Depot (14ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Superconductors                 5,925cr vs    7,600cr, 7 days vs 2 days
-  Unload at URU/Resnik Dock (949ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 1,675cr (1,675cr/ton) => 102,237cr
-  Load from URU/Resnik Dock (949ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
-        1 x Medical Diagnostic Equipment    2,647cr vs    6,588cr, 2 days vs 11 hrs
-  Unload at HARMA/Muhammad Ibn Battuta Point (2.12Kls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y) => Gain 3,941cr (3,941cr/ton) => 106,178cr
-  Load from HARMA/Muhammad Ibn Battuta Point (2.12Kls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y):
-        1 x Reactive Armour                 1,674cr vs    2,621cr, 11 hrs vs 37 hrs
-  Unload at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 947cr (947cr/ton) => 107,125cr
-  ----------------------------------------------------------------------------
-Finish at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 7,125cr (1,781cr/ton) => est 107,125cr total
-
----------------------------------------------------------------------------------------------------------
-Best Trade Square starting and ending at Patocuda/Coney Gateway with 42.5 ly between trades
-For ANY SIZE ship, generated at 20/11/2016-12:01:11.17 [DD/MM/YYYY-UTC] 
----------------------------------------------------------------------------------------------------------
-NOTE: Pruned 1626 origins too far from any end stations
-PATOCUDA/Coney Gateway -> PATOCUDA/Coney Gateway (score: 6633.164840)
-  Load from PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Tea                             1,417cr vs    1,906cr, 37 hrs vs 2 days
-  Unload at URU/Bessemer Vision (675ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 489cr (489cr/ton) => 100,489cr
-  Load from URU/Bessemer Vision (675ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Medical Diagnostic Equipment    2,802cr vs    6,588cr, 2 days vs 11 hrs
-  Unload at HARMA/Muhammad Ibn Battuta Point (2.12Kls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y) => Gain 3,786cr (3,786cr/ton) => 104,275cr
-  Load from HARMA/Muhammad Ibn Battuta Point (2.12Kls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y):
-        1 x Reactive Armour                 1,674cr vs    2,552cr, 11 hrs vs 19 days
-  Unload at WIRNAKO/Moffitt Platform (405ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 878cr (878cr/ton) => 105,153cr
-  Load from WIRNAKO/Moffitt Platform (405ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Marine Equipment                3,334cr vs    4,831cr, 19 days vs 37 hrs
-  Unload at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,497cr (1,497cr/ton) => 106,650cr
-  ----------------------------------------------------------------------------
-Finish at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 6,650cr (1,662cr/ton) => est 106,650cr total
-
----------------------------------------------------------------------------------------------------------
-Best Trade Square starting and ending at Patocuda/Coney Gateway with 42.5 ly between trades
-For MEDIUM and SMALL ships only, generated at 20/11/2016-12:01:21.45 [DD/MM/YYYY-UTC]
----------------------------------------------------------------------------------------------------------
-NOTE: Pruned 2805 origins too far from any end stations
-PATOCUDA/Coney Gateway -> PATOCUDA/Coney Gateway (score: 7107.094080)
-  Load from PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Tea                             1,417cr vs    1,979cr, 37 hrs vs 7 days
-  Unload at KRISHA/Fincke Depot (14ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 562cr (562cr/ton) => 100,562cr
-  Load from KRISHA/Fincke Depot (14ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Superconductors                 5,925cr vs    7,600cr, 7 days vs 2 days
-  Unload at URU/Resnik Dock (949ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 1,675cr (1,675cr/ton) => 102,237cr
-  Load from URU/Resnik Dock (949ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
-        1 x Medical Diagnostic Equipment    2,647cr vs    6,588cr, 2 days vs 11 hrs
-  Unload at HARMA/Muhammad Ibn Battuta Point (2.12Kls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y) => Gain 3,941cr (3,941cr/ton) => 106,178cr
-  Load from HARMA/Muhammad Ibn Battuta Point (2.12Kls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y):
-        1 x Reactive Armour                 1,674cr vs    2,621cr, 11 hrs vs 37 hrs
-  Unload at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 947cr (947cr/ton) => 107,125cr
-  ----------------------------------------------------------------------------
-Finish at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 7,125cr (1,781cr/ton) => est 107,125cr total
-
----------------------------------------------------------------------------------------------------------
-Best Trade Square starting and ending at Patocuda/Coney Gateway with 76.5 ly between trades
-For ANY SIZE ship, generated at 20/11/2016-12:01:39.61 [DD/MM/YYYY-UTC] 
----------------------------------------------------------------------------------------------------------
-NOTE: Pruned 7254 origins too far from any end stations
-PATOCUDA/Coney Gateway -> PATOCUDA/Coney Gateway (score: 7889.367200)
-  Load from PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Natural Fabrics                   315cr vs      628cr, 37 hrs vs 19 days
-  Unload at CUCHUA/Prandtl Dock (159ls, BMk:N, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 313cr (313cr/ton) => 100,313cr
-  Load from CUCHUA/Prandtl Dock (159ls, BMk:N, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Imperial Slaves                14,044cr vs   16,939cr, 19 days vs 19 hrs
-  Unload at NERVI/Savitskaya Vision (2.26Kls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 2,895cr (2,895cr/ton) => 103,208cr
+        1 x Tobacco                         4,407cr vs    5,378cr, 5 days vs 3 days
+  Unload at NERVI/Savitskaya Vision (2.26Kls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 971cr (971cr/ton) => 100,971cr
   Load from NERVI/Savitskaya Vision (2.26Kls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Medical Diagnostic Equipment    2,821cr vs    6,588cr, 19 hrs vs 11 hrs
-  Unload at HARMA/Muhammad Ibn Battuta Point (2.12Kls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y) => Gain 3,767cr (3,767cr/ton) => 106,975cr
-  Load from HARMA/Muhammad Ibn Battuta Point (2.12Kls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y):
-        1 x Reactive Armour                 1,674cr vs    2,621cr, 11 hrs vs 37 hrs
-  Unload at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 947cr (947cr/ton) => 107,922cr
+        1 x Medical Diagnostic Equipment    2,558cr vs    5,556cr, 3 days vs 3 days
+  Unload at NERVI/Davis Arsenal (2.31Kls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y) => Gain 2,998cr (2,998cr/ton) => 103,969cr
+  Load from NERVI/Davis Arsenal (2.31Kls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y):
+        1 x Personal Weapons                3,800cr vs    4,133cr, 4 days vs 3 days
+  Unload at NERVI/Savitskaya Vision (2.26Kls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 333cr (333cr/ton) => 104,302cr
+  Load from NERVI/Savitskaya Vision (2.26Kls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Advanced Medicines              1,118cr vs    3,001cr, 3 days vs 5 days
+  Unload at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,883cr (1,883cr/ton) => 106,185cr
   ----------------------------------------------------------------------------
-Finish at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 7,922cr (1,980cr/ton) => est 107,922cr total
+Finish at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 6,185cr (1,546cr/ton) => est 106,185cr total
+
+---------------------------------------------------------------------------------------------------------
+Best Trade Square starting and ending at Patocuda/Coney Gateway with 37.5 ly between trades
+For MEDIUM and SMALL ships only, generated at 04/12/2016- 4:24:27.57 [DD/MM/YYYY-UTC]
+---------------------------------------------------------------------------------------------------------
+NOTE: Pruned 1646 origins too far from any end stations
+PATOCUDA/Coney Gateway -> PATOCUDA/Coney Gateway (score: 6645.352860)
+  Load from PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Tobacco                         4,407cr vs    5,380cr, 5 days vs 3 days
+  Unload at KOLABINATES/Grant Plant (471ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 973cr (973cr/ton) => 100,973cr
+  Load from KOLABINATES/Grant Plant (471ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
+        1 x Superconductors                 5,868cr vs    7,632cr, 3 days vs 6 days
+  Unload at URU/Resnik Dock (949ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 1,764cr (1,764cr/ton) => 102,737cr
+  Load from URU/Resnik Dock (949ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
+        1 x Medical Diagnostic Equipment    2,641cr vs    5,556cr, 6 days vs 3 days
+  Unload at NERVI/Davis Arsenal (2.31Kls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y) => Gain 2,915cr (2,915cr/ton) => 105,652cr
+  Load from NERVI/Davis Arsenal (2.31Kls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y):
+        1 x Personal Weapons                3,800cr vs    4,810cr, 4 days vs 5 days
+  Unload at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,010cr (1,010cr/ton) => 106,662cr
+  ----------------------------------------------------------------------------
+Finish at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 6,662cr (1,665cr/ton) => est 106,662cr total
+
+---------------------------------------------------------------------------------------------------------
+Best Trade Square starting and ending at Patocuda/Coney Gateway with 42.5 ly between trades
+For ANY SIZE ship, generated at 04/12/2016- 4:24:41.92 [DD/MM/YYYY-UTC] 
+---------------------------------------------------------------------------------------------------------
+NOTE: Pruned 1735 origins too far from any end stations
+PATOCUDA/Coney Gateway -> PATOCUDA/Coney Gateway (score: 6377.206560)
+  Load from PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Tobacco               4,407cr vs    5,378cr, 5 days vs 3 days
+  Unload at NERVI/Savitskaya Vision (2.26Kls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 971cr (971cr/ton) => 100,971cr
+  Load from NERVI/Savitskaya Vision (2.26Kls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Advanced Medicines    1,118cr vs    3,202cr, 3 days vs 9 days
+  Unload at DHANKA/Bierce Horizons (42ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 2,084cr (2,084cr/ton) => 103,055cr
+  Load from DHANKA/Bierce Horizons (42ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Gold                  8,771cr vs   10,223cr, 9 days vs 3 days
+  Unload at NERVI/Savitskaya Vision (2.26Kls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,452cr (1,452cr/ton) => 104,507cr
+  Load from NERVI/Savitskaya Vision (2.26Kls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Advanced Medicines    1,118cr vs    3,001cr, 3 days vs 5 days
+  Unload at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,883cr (1,883cr/ton) => 106,390cr
+  ----------------------------------------------------------------------------
+Finish at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 6,390cr (1,597cr/ton) => est 106,390cr total
+
+---------------------------------------------------------------------------------------------------------
+Best Trade Square starting and ending at Patocuda/Coney Gateway with 42.5 ly between trades
+For MEDIUM and SMALL ships only, generated at 04/12/2016- 4:24:52.93 [DD/MM/YYYY-UTC]
+---------------------------------------------------------------------------------------------------------
+NOTE: Pruned 2989 origins too far from any end stations
+PATOCUDA/Coney Gateway -> PATOCUDA/Coney Gateway (score: 6817.488960)
+  Load from PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Tobacco               4,407cr vs    5,378cr, 5 days vs 3 days
+  Unload at NERVI/Savitskaya Vision (2.26Kls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 971cr (971cr/ton) => 100,971cr
+  Load from NERVI/Savitskaya Vision (2.26Kls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Advanced Medicines    1,118cr vs    3,308cr, 3 days vs 3 days
+  Unload at KOLABINATES/Grant Plant (471ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 2,190cr (2,190cr/ton) => 103,161cr
+  Load from KOLABINATES/Grant Plant (471ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
+        1 x Superconductors       5,868cr vs    7,655cr, 3 days vs 3 days
+  Unload at NERVI/Savitskaya Vision (2.26Kls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,787cr (1,787cr/ton) => 104,948cr
+  Load from NERVI/Savitskaya Vision (2.26Kls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Advanced Medicines    1,118cr vs    3,001cr, 3 days vs 5 days
+  Unload at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,883cr (1,883cr/ton) => 106,831cr
+  ----------------------------------------------------------------------------
+Finish at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 6,831cr (1,707cr/ton) => est 106,831cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Square starting and ending at Patocuda/Coney Gateway with 76.5 ly between trades
-For MEDIUM and SMALL ships only, generated at 20/11/2016-12:05:45.43 [DD/MM/YYYY-UTC]
+For ANY SIZE ship, generated at 04/12/2016- 4:25:12.56 [DD/MM/YYYY-UTC] 
 ---------------------------------------------------------------------------------------------------------
-NOTE: Pruned 11907 origins too far from any end stations
-PATOCUDA/Coney Gateway -> PATOCUDA/Coney Gateway (score: 8126.378660)
+NOTE: Pruned 8430 origins too far from any end stations
+PATOCUDA/Coney Gateway -> PATOCUDA/Coney Gateway (score: 8065.291440)
   Load from PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Natural Fabrics                   315cr vs      628cr, 37 hrs vs 19 days
-  Unload at CUCHUA/Prandtl Dock (159ls, BMk:N, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 313cr (313cr/ton) => 100,313cr
-  Load from CUCHUA/Prandtl Dock (159ls, BMk:N, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Imperial Slaves                14,044cr vs   16,987cr, 19 days vs 2 days
-  Unload at URU/Resnik Dock (949ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 2,943cr (2,943cr/ton) => 103,256cr
-  Load from URU/Resnik Dock (949ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
-        1 x Medical Diagnostic Equipment    2,647cr vs    6,588cr, 2 days vs 11 hrs
-  Unload at HARMA/Muhammad Ibn Battuta Point (2.12Kls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y) => Gain 3,941cr (3,941cr/ton) => 107,197cr
-  Load from HARMA/Muhammad Ibn Battuta Point (2.12Kls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y):
-        1 x Reactive Armour                 1,674cr vs    2,621cr, 11 hrs vs 37 hrs
-  Unload at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 947cr (947cr/ton) => 108,144cr
+        1 x Fish                              256cr vs    2,194cr, 5 days vs 9 days
+  Unload at DHAK/King Installation (219ls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y) => Gain 1,938cr (1,938cr/ton) => 101,938cr
+  Load from DHAK/King Installation (219ls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y):
+        1 x Bismuth                         1,592cr vs    2,757cr, 9 days vs 6 hrs
+  Unload at HATMEHING/Gorey Ring (936ls, BMk:N, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,165cr (1,165cr/ton) => 103,103cr
+  Load from HATMEHING/Gorey Ring (936ls, BMk:N, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Medical Diagnostic Equipment    2,373cr vs    6,624cr, 6 hrs vs 9 hrs
+  Unload at BLODES/Stafford Keep (1.95Kls, BMk:N, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y) => Gain 4,251cr (4,251cr/ton) => 107,354cr
+  Load from BLODES/Stafford Keep (1.95Kls, BMk:N, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y):
+        1 x Reactive Armour                 1,760cr vs    2,485cr, 9 hrs vs 5 days
+  Unload at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 725cr (725cr/ton) => 108,079cr
   ----------------------------------------------------------------------------
-Finish at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 8,144cr (2,036cr/ton) => est 108,144cr total
+Finish at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 8,079cr (2,019cr/ton) => est 108,079cr total
+
+---------------------------------------------------------------------------------------------------------
+Best Trade Square starting and ending at Patocuda/Coney Gateway with 76.5 ly between trades
+For MEDIUM and SMALL ships only, generated at 04/12/2016- 4:29:57.54 [DD/MM/YYYY-UTC]
+---------------------------------------------------------------------------------------------------------
+NOTE: Pruned 13608 origins too far from any end stations
+PATOCUDA/Coney Gateway -> PATOCUDA/Coney Gateway (score: 8065.291440)
+  Load from PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Fish                              256cr vs    2,194cr, 5 days vs 9 days
+  Unload at DHAK/King Installation (219ls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y) => Gain 1,938cr (1,938cr/ton) => 101,938cr
+  Load from DHAK/King Installation (219ls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y):
+        1 x Bismuth                         1,592cr vs    2,757cr, 9 days vs 21 days
+  Unload at HATMEHING/Elbakyan Port (934ls, BMk:N, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 1,165cr (1,165cr/ton) => 103,103cr
+  Load from HATMEHING/Elbakyan Port (934ls, BMk:N, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
+        1 x Medical Diagnostic Equipment    2,373cr vs    6,624cr, 21 days vs 9 hrs
+  Unload at BLODES/Stafford Keep (1.95Kls, BMk:N, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y) => Gain 4,251cr (4,251cr/ton) => 107,354cr
+  Load from BLODES/Stafford Keep (1.95Kls, BMk:N, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y):
+        1 x Reactive Armour                 1,760cr vs    2,485cr, 9 hrs vs 5 days
+  Unload at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 725cr (725cr/ton) => 108,079cr
+  ----------------------------------------------------------------------------
+Finish at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 8,079cr (2,019cr/ton) => est 108,079cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Square starting and ending at Patocuda/Coney Gateway with 105.7 ly between trades
-For ANY SIZE ship, generated at 20/11/2016-12:16:06.13 [DD/MM/YYYY-UTC] 
+For ANY SIZE ship, generated at 04/12/2016- 4:41:16.41 [DD/MM/YYYY-UTC] 
 ---------------------------------------------------------------------------------------------------------
-NOTE: Pruned 7326 origins too far from any end stations
-PATOCUDA/Coney Gateway -> PATOCUDA/Coney Gateway (score: 9111.587020)
+NOTE: Pruned 8620 origins too far from any end stations
+PATOCUDA/Coney Gateway -> PATOCUDA/Coney Gateway (score: 8847.331160)
   Load from PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Animal Meat                     1,242cr vs    1,622cr, 37 hrs vs 19 days
-  Unload at LIDPAR/Carlisle Station (984ls, BMk:N, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 380cr (380cr/ton) => 100,380cr
-  Load from LIDPAR/Carlisle Station (984ls, BMk:N, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Medical Diagnostic Equipment    2,244cr vs    6,807cr, 19 days vs 11 hrs
-  Unload at G 99-49/Noguchi Arsenal (1.74Kls, BMk:N, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y) => Gain 4,563cr (4,563cr/ton) => 104,943cr
-  Load from G 99-49/Noguchi Arsenal (1.74Kls, BMk:N, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y):
-        1 x Reactive Armour                 1,695cr vs    2,878cr, 11 hrs vs 4 hrs
-  Unload at LFT 37/Onnes Gateway (282ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:N, Ref:Y) => Gain 1,183cr (1,183cr/ton) => 106,126cr
-  Load from LFT 37/Onnes Gateway (282ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:N, Ref:Y):
-        1 x Imperial Slaves                13,478cr vs   16,474cr, 4 hrs vs 37 hrs
-  Unload at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 2,996cr (2,996cr/ton) => 109,122cr
+        1 x Tobacco                         4,407cr vs    5,484cr, 5 days vs 6 days
+  Unload at DJINAURA/Willis Park (394ls, BMk:Y, Pad:L, Plt:Y, Shp:Y, Out:Y, Ref:Y) => Gain 1,077cr (1,077cr/ton) => 101,077cr
+  Load from DJINAURA/Willis Park (394ls, BMk:Y, Pad:L, Plt:Y, Shp:Y, Out:Y, Ref:Y):
+        1 x Medical Diagnostic Equipment    2,745cr vs    6,877cr, 6 days vs 7 hrs
+  Unload at BA PIN/Derleth Bastion (3.18Kls, BMk:N, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y) => Gain 4,132cr (4,132cr/ton) => 105,209cr
+  Load from BA PIN/Derleth Bastion (3.18Kls, BMk:N, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y):
+        1 x Landmines                       3,436cr vs    5,049cr, 7 hrs vs 6 days
+  Unload at DJINAURA/Willis Park (394ls, BMk:Y, Pad:L, Plt:Y, Shp:Y, Out:Y, Ref:Y) => Gain 1,613cr (1,613cr/ton) => 106,822cr
+  Load from DJINAURA/Willis Park (394ls, BMk:Y, Pad:L, Plt:Y, Shp:Y, Out:Y, Ref:Y):
+        1 x Advanced Medicines                923cr vs    3,001cr, 6 days vs 5 days
+  Unload at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 2,078cr (2,078cr/ton) => 108,900cr
   ----------------------------------------------------------------------------
-Finish at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 9,122cr (2,280cr/ton) => est 109,122cr total
+Finish at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 8,900cr (2,225cr/ton) => est 108,900cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Square starting and ending at Patocuda/Coney Gateway with 105.7 ly between trades
-For MEDIUM and SMALL ships only, generated at 20/11/2016-12:32:37.78 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 04/12/2016- 5:01:25.61 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-NOTE: Pruned 11944 origins too far from any end stations
-PATOCUDA/Coney Gateway -> PATOCUDA/Coney Gateway (score: 9208.898880)
+NOTE: Pruned 14063 origins too far from any end stations
+PATOCUDA/Coney Gateway -> PATOCUDA/Coney Gateway (score: 9133.105500)
   Load from PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Tea                1,417cr vs    2,044cr, 38 hrs vs 4 hrs
-  Unload at LFT 37/Onnes Gateway (282ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:N, Ref:Y) => Gain 627cr (627cr/ton) => 100,627cr
-  Load from LFT 37/Onnes Gateway (282ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:N, Ref:Y):
-        1 x Imperial Slaves   13,478cr vs   16,881cr, 4 hrs vs 21 hrs
-  Unload at TELLIYA/Ayton Innes Orbital (1.07Kls, BMk:N, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 3,403cr (3,403cr/ton) => 104,030cr
-  Load from TELLIYA/Ayton Innes Orbital (1.07Kls, BMk:N, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Superconductors    5,691cr vs    7,873cr, 21 hrs vs 4 hrs
-  Unload at LFT 37/Onnes Gateway (282ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:N, Ref:Y) => Gain 2,182cr (2,182cr/ton) => 106,212cr
-  Load from LFT 37/Onnes Gateway (282ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:N, Ref:Y):
-        1 x Imperial Slaves   13,478cr vs   16,474cr, 4 hrs vs 38 hrs
-  Unload at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 2,996cr (2,996cr/ton) => 109,208cr
+        1 x Tobacco                         4,407cr vs    5,414cr, 5 days vs 21 days
+  Unload at LTT 8517/Howe Ring (923ls, BMk:N, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 1,007cr (1,007cr/ton) => 101,007cr
+  Load from LTT 8517/Howe Ring (923ls, BMk:N, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
+        1 x Imperial Slaves                13,478cr vs   17,084cr, 21 days vs 4 days
+  Unload at MUNFAYL/Nicolet Orbital (1.48Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 3,606cr (3,606cr/ton) => 104,613cr
+  Load from MUNFAYL/Nicolet Orbital (1.48Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
+        1 x Medical Diagnostic Equipment    2,812cr vs    6,624cr, 4 days vs 10 hrs
+  Unload at BLODES/Stafford Keep (1.95Kls, BMk:N, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y) => Gain 3,812cr (3,812cr/ton) => 108,425cr
+  Load from BLODES/Stafford Keep (1.95Kls, BMk:N, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y):
+        1 x Reactive Armour                 1,760cr vs    2,485cr, 10 hrs vs 5 days
+  Unload at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 725cr (725cr/ton) => 109,150cr
   ----------------------------------------------------------------------------
-Finish at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 9,208cr (2,302cr/ton) => est 109,208cr total
+Finish at PATOCUDA/Coney Gateway (97ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 9,150cr (2,287cr/ton) => est 109,150cr total
 
