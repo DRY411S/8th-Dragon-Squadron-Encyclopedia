@@ -1,0 +1,146 @@
+# These trade routes are generated with different distances between trades.
+# The default distances of 13,37.5,42.5,76.5,105.7 ly between trades represent 
+# a cross-section of the minimum 1-jump, average 2-jump, maximum 3-jump ranges
+# and the minimum and average for TOTAL ranges of fully laden, fully shielded trading ships
+#
+# The distances used in this report are 13,37.5,42.5,76.5,105.7 ly
+#
+# Calculation limits
+# ------------------
+# 
+# All trade data that is older than 30 days is not used
+# Only stations where there is more than 64t of supplies are used
+# However, it is assumed that your ship capacity is only 1t so that the best profit per ton for a single commodity can be calculated
+# narcotics are excluded from these calculations as the price database is unreliable for these commodities and/or locations
+# Starting credits assumed to be 100000Cr, so deduct that from the total to see profit
+# 
+# Note that there is not always extra money to be made by travelling the longer distances. Sometimes trades for longer distances will be
+# identical to the trades for a shorter distance
+#
+# For each distance, up to two trades are shown. The first works for ANY size ship, the second for SMALL and MEDIUM ships ONLY {which can trade at outposts}
+# However, sometimes the trades for the different sized ships are the same {i.e no decent trades available at outposts}
+# NOTE: Trades for large ships will not appear if the source station does not allow large ships to land there
+#
+# WARNING: No account is taken of whether the commodities are prohibited. Use these recommendations at your peril!
+# 
+# GUIDE TO THE OUTPUT FORMAT
+# --------------------------
+# 
+# 'Pruned XX origins ...' is output from the utility I use called TradeDangerous. I have no idea what it means!
+# {score: [large number]} See above :D
+#
+# {Un}Load from [SYSTEM]/[Station] {L, B, P, N, S, O, R} =] Gain F {F/ton} =]  T
+# 1 x [Commodity] PB vs PS, TB vs TS
+# Finish at [SYSTEM]/[Station] {L, B, P, N, S, O, R} =] gaining C {A/ton} =]  T
+#
+# L - Distance of station from Star in ls
+# B - Black Market Present Y/N/?
+# P - Largest Ship Size that can land at station L/M/?
+# N - Whether the station is on a planet Y/N/?
+# S - Shipyard Present Y/N/?
+# O - Outfitters Present Y/N/?
+# R - Refuelling Present Y/N/?
+# F - Profit made from the trade
+# T - Running total of Credits {assuming a starting point of 100000}
+#
+# PB - Buy Price
+# PS - Sell Price
+# TB - The time relative to report generation time since the buy  price was updated in the community database
+# TS - The time relative to report generation time since the sell price was updated in the community database
+#
+# C - Total number of credits profit
+# A - Average Credits per ton profit across all the trades on the route
+#
+# TRADE OUTPUT BEGINS ....
+# ------------------------
+#
+---------------------------------------------------------------------------------------------------------
+Best Trade Triangle starting and ending at SADHEN/Barsanti Port with 13 ly between trades
+For MEDIUM and SMALL ships only, generated at 18/01/2017-11:25:00.08 [DD/MM/YYYY-UTC]
+---------------------------------------------------------------------------------------------------------
+NOTE: Pruned 13 origins too far from any end stations
+SADHEN/Barsanti Port -> SADHEN/Barsanti Port (score: 5843.705980)
+  Load from SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
+        1 x Survival Equipment      286cr vs    1,221cr, 5 days vs 3 days
+  Unload at BELACAJAN/Viehbock Prospect (11ls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y) => Gain 935cr (935cr/ton) => 100,935cr
+  Load from BELACAJAN/Viehbock Prospect (11ls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y):
+        1 x Palladium            12,460cr vs   13,939cr, 3 days vs 10 days
+  Unload at URU/Stafford Gateway (946ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:N) => Gain 1,479cr (1,479cr/ton) => 102,414cr
+  Load from URU/Stafford Gateway (946ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:N):
+        1 x Micro Controllers     2,697cr vs    6,125cr, 10 days vs 5 days
+  Unload at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 3,428cr (3,428cr/ton) => 105,842cr
+  ----------------------------------------------------------------------------
+Finish at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 5,842cr (1,947cr/ton) => est 105,842cr total
+
+---------------------------------------------------------------------------------------------------------
+Best Trade Triangle starting and ending at SADHEN/Barsanti Port with 37.5 ly between trades
+For MEDIUM and SMALL ships only, generated at 18/01/2017-11:25:13.70 [DD/MM/YYYY-UTC]
+---------------------------------------------------------------------------------------------------------
+NOTE: Pruned 629 origins too far from any end stations
+SADHEN/Barsanti Port -> SADHEN/Barsanti Port (score: 6450.376900)
+  Load from SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
+        1 x Survival Equipment       286cr vs    1,221cr, 5 days vs 3 days
+  Unload at BELACAJAN/Viehbock Prospect (11ls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y) => Gain 935cr (935cr/ton) => 100,935cr
+  Load from BELACAJAN/Viehbock Prospect (11ls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y):
+        1 x Bertrandite            1,963cr vs    2,987cr, 3 days vs 12 days
+  Unload at 34 PEGASI/Rayhan Al-Biruni Orbital (465ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,024cr (1,024cr/ton) => 101,959cr
+  Load from 34 PEGASI/Rayhan Al-Biruni Orbital (465ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Insulating Membrane    7,359cr vs   11,848cr, 12 days vs 5 days
+  Unload at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 4,489cr (4,489cr/ton) => 106,448cr
+  ----------------------------------------------------------------------------
+Finish at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 6,448cr (2,149cr/ton) => est 106,448cr total
+
+---------------------------------------------------------------------------------------------------------
+Best Trade Triangle starting and ending at SADHEN/Barsanti Port with 42.5 ly between trades
+For MEDIUM and SMALL ships only, generated at 18/01/2017-11:25:28.45 [DD/MM/YYYY-UTC]
+---------------------------------------------------------------------------------------------------------
+NOTE: Pruned 1046 origins too far from any end stations
+SADHEN/Barsanti Port -> SADHEN/Barsanti Port (score: 6450.376900)
+  Load from SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
+        1 x Survival Equipment       286cr vs    1,221cr, 5 days vs 3 days
+  Unload at BELACAJAN/Viehbock Prospect (11ls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y) => Gain 935cr (935cr/ton) => 100,935cr
+  Load from BELACAJAN/Viehbock Prospect (11ls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y):
+        1 x Bertrandite            1,963cr vs    2,987cr, 3 days vs 12 days
+  Unload at 34 PEGASI/Rayhan Al-Biruni Orbital (465ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,024cr (1,024cr/ton) => 101,959cr
+  Load from 34 PEGASI/Rayhan Al-Biruni Orbital (465ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Insulating Membrane    7,359cr vs   11,848cr, 12 days vs 5 days
+  Unload at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 4,489cr (4,489cr/ton) => 106,448cr
+  ----------------------------------------------------------------------------
+Finish at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 6,448cr (2,149cr/ton) => est 106,448cr total
+
+---------------------------------------------------------------------------------------------------------
+Best Trade Triangle starting and ending at SADHEN/Barsanti Port with 76.5 ly between trades
+For MEDIUM and SMALL ships only, generated at 18/01/2017-11:25:44.35 [DD/MM/YYYY-UTC]
+---------------------------------------------------------------------------------------------------------
+NOTE: Pruned 8240 origins too far from any end stations
+SADHEN/Barsanti Port -> SADHEN/Barsanti Port (score: 7457.335520)
+  Load from SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
+        1 x Crop Harvesters        2,098cr vs    2,563cr, 5 days vs 12 hrs
+  Unload at CUCHUA/Harrison Hub (638ls, BMk:N, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 465cr (465cr/ton) => 100,465cr
+  Load from CUCHUA/Harrison Hub (638ls, BMk:N, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Imperial Slaves       13,910cr vs   16,859cr, 12 hrs vs 9 days
+  Unload at 34 PEGASI/Ozanne Vision (464ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 2,949cr (2,949cr/ton) => 103,414cr
+  Load from 34 PEGASI/Ozanne Vision (464ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
+        1 x Insulating Membrane    7,808cr vs   11,848cr, 9 days vs 5 days
+  Unload at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 4,040cr (4,040cr/ton) => 107,454cr
+  ----------------------------------------------------------------------------
+Finish at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 7,454cr (2,484cr/ton) => est 107,454cr total
+
+---------------------------------------------------------------------------------------------------------
+Best Trade Triangle starting and ending at SADHEN/Barsanti Port with 105.7 ly between trades
+For MEDIUM and SMALL ships only, generated at 18/01/2017-11:27:36.65 [DD/MM/YYYY-UTC]
+---------------------------------------------------------------------------------------------------------
+NOTE: Pruned 14645 origins too far from any end stations
+SADHEN/Barsanti Port -> SADHEN/Barsanti Port (score: 8608.780600)
+  Load from SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
+        1 x Survival Equipment       286cr vs      644cr, 5 days vs 36 hrs
+  Unload at LTT 8517/Howe Ring (923ls, BMk:N, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 358cr (358cr/ton) => 100,358cr
+  Load from LTT 8517/Howe Ring (923ls, BMk:N, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
+        1 x Imperial Slaves       12,652cr vs   16,859cr, 36 hrs vs 9 days
+  Unload at 34 PEGASI/Ozanne Vision (464ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 4,207cr (4,207cr/ton) => 104,565cr
+  Load from 34 PEGASI/Ozanne Vision (464ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
+        1 x Insulating Membrane    7,808cr vs   11,848cr, 9 days vs 5 days
+  Unload at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 4,040cr (4,040cr/ton) => 108,605cr
+  ----------------------------------------------------------------------------
+Finish at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 8,605cr (2,868cr/ton) => est 108,605cr total
+

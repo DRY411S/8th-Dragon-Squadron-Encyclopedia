@@ -1,5 +1,5 @@
-# This file is a list of places that you can buy ships within 25ly of Patocuda
-# It is based on data in the public TradeDangerous database, and generated at 04/12/2016- 3:49:50.22 [DD/MM/YYYY-UTC]
+# This file is a list of places that you can buy ships within 25ly of PATOCUDA
+# It is based on data in the public TradeDangerous database, and generated at 18/01/2017-13:48:22.50 [DD/MM/YYYY-UTC]
 # Crowd sourced data about where to buy ships is limited
 # There are likely to be many other places where you can buy ships in the area
 # Especially the smaller ones
@@ -9,7 +9,7 @@
 # Founders and Beta Backers may pay less
 # KEY
 # Station  - self explanatory
-# DistLy   - Distance in Light Years from Patocuda
+# DistLy   - Distance in Light Years from PATOCUDA
 # StnLs    - Distance of the station from the system star in Ls. 0.01 ly = 100 KLs
 # B/Mkt    - Is there a Black Market at the station?
 # Pad      - Maximum Ship Size that can land. Lrg implies that this is a station, Med implies an Outpost
