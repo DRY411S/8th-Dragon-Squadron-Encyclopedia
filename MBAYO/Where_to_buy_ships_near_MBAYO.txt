@@ -1,5 +1,5 @@
-# This file is a list of places that you can buy ships within 25ly of PHRACES
-# It is based on data in the public TradeDangerous database, and generated at 18/01/2017-12:17:01.76 [DD/MM/YYYY-UTC]
+# This file is a list of places that you can buy ships within 25ly of MBAYO
+# It is based on data in the public TradeDangerous database, and generated at 18/01/2017-14:41:12.85 [DD/MM/YYYY-UTC]
 # Crowd sourced data about where to buy ships is limited
 # There are likely to be many other places where you can buy ships in the area
 # Especially the smaller ones
@@ -9,7 +9,7 @@
 # Founders and Beta Backers may pay less
 # KEY
 # Station  - self explanatory
-# DistLy   - Distance in Light Years from PHRACES
+# DistLy   - Distance in Light Years from MBAYO
 # StnLs    - Distance of the station from the system star in Ls. 0.01 ly = 100 KLs
 # B/Mkt    - Is there a Black Market at the station?
 # Pad      - Maximum Ship Size that can land. Lrg implies that this is a station, Med implies an Outpost
@@ -21,17 +21,16 @@ You can buy "'Adder'"s and [typically] pay 87810 Cr At...
 
 Station                       DistLy      StnLs B/mkt Pad Plt
 -------------------------------------------------------------
-PHRACES/Potter Enterprise       0.00        375   Yes Lrg  No
-HARMA/Gabriel Enterprise        5.60        259   Yes Lrg  No
-LODHARY/Lagrange Gateway        9.73          6   Yes Lrg  No
-HIP 113980/Clapperton Station  11.97      7.67K   Yes Lrg  No
-GLIESE 1272/Bao Dock           13.56         49   Yes Lrg  No
-GLIESE 1272/Murphy Dock        13.56         86   Yes Lrg  No
-PATOCUDA/Coney Gateway         20.30         97   Yes Lrg  No
-PATOCUDA/Fernao Do Po Port     20.30      1.47K   Yes Lrg  No
-AUTA ISUANG/Evans Settlement   20.43        353   Yes Lrg  No
-KAKMBUTAN/MacGregor Orbital    23.17         75   Yes Lrg  No
-URU/Bessemer Vision            24.92        675   Yes Lrg  No
+LODHARY/Lagrange Gateway        4.84          6   Yes Lrg  No
+HARMA/Gabriel Enterprise        5.69        259   Yes Lrg  No
+PHRACES/Potter Enterprise       8.02        375   Yes Lrg  No
+GLIESE 1272/Bao Dock           12.85         49   Yes Lrg  No
+GLIESE 1272/Murphy Dock        12.85         86   Yes Lrg  No
+KAKMBUTAN/MacGregor Orbital    17.04         75   Yes Lrg  No
+AUTA ISUANG/Evans Settlement   17.17        353   Yes Lrg  No
+HIP 113980/Clapperton Station  17.50      7.67K   Yes Lrg  No
+PATOCUDA/Coney Gateway         22.69         97   Yes Lrg  No
+PATOCUDA/Fernao Do Po Port     22.69      1.47K   Yes Lrg  No
 
 --------------------
 You can buy "'Anaconda'"s and [typically] pay 146969450 Cr At...
@@ -39,8 +38,8 @@ You can buy "'Anaconda'"s and [typically] pay 146969450 Cr At...
 
 Station                     DistLy      StnLs B/mkt Pad Plt
 -----------------------------------------------------------
-HARMA/Gabriel Enterprise      5.60        259   Yes Lrg  No
-KAKMBUTAN/MacGregor Orbital  23.17         75   Yes Lrg  No
+HARMA/Gabriel Enterprise      5.69        259   Yes Lrg  No
+KAKMBUTAN/MacGregor Orbital  17.04         75   Yes Lrg  No
 
 --------------------
 You can buy "'Asp'"s and [typically] pay 6661150 Cr At...
@@ -48,13 +47,13 @@ You can buy "'Asp'"s and [typically] pay 6661150 Cr At...
 
 Station                       DistLy      StnLs B/mkt Pad Plt
 -------------------------------------------------------------
-PHRACES/Potter Enterprise       0.00        375   Yes Lrg  No
-HARMA/Gabriel Enterprise        5.60        259   Yes Lrg  No
-LODHARY/Lagrange Gateway        9.73          6   Yes Lrg  No
-HIP 113980/Clapperton Station  11.97      7.67K   Yes Lrg  No
-GLIESE 1272/Murphy Dock        13.56         86   Yes Lrg  No
-WIRNAKO/Moffitt Platform       13.89        405   Yes Lrg  No
-KAKMBUTAN/MacGregor Orbital    23.17         75   Yes Lrg  No
+LODHARY/Lagrange Gateway        4.84          6   Yes Lrg  No
+HARMA/Gabriel Enterprise        5.69        259   Yes Lrg  No
+PHRACES/Potter Enterprise       8.02        375   Yes Lrg  No
+GLIESE 1272/Murphy Dock        12.85         86   Yes Lrg  No
+KAKMBUTAN/MacGregor Orbital    17.04         75   Yes Lrg  No
+HIP 113980/Clapperton Station  17.50      7.67K   Yes Lrg  No
+WIRNAKO/Moffitt Platform       21.57        405   Yes Lrg  No
 
 --------------------
 You can buy "'Asp Scout'"s and [typically] pay 3961150 Cr At...
@@ -80,14 +79,13 @@ You can buy "'Cobra'"s and [typically] pay 379720 Cr At...
 
 Station                     DistLy      StnLs B/mkt Pad Plt
 -----------------------------------------------------------
-HARMA/Gabriel Enterprise      5.60        259   Yes Lrg  No
-LODHARY/Lagrange Gateway      9.73          6   Yes Lrg  No
-GLIESE 1272/Murphy Dock      13.56         86   Yes Lrg  No
-PATOCUDA/Coney Gateway       20.30         97   Yes Lrg  No
-PATOCUDA/Fernao Do Po Port   20.30      1.47K   Yes Lrg  No
-SADHEN/Birkeland Platform    20.93        472   Yes Lrg  No
-KAKMBUTAN/MacGregor Orbital  23.17         75   Yes Lrg  No
-URU/Bessemer Vision          24.92        675   Yes Lrg  No
+LODHARY/Lagrange Gateway      4.84          6   Yes Lrg  No
+HARMA/Gabriel Enterprise      5.69        259   Yes Lrg  No
+GLIESE 1272/Murphy Dock      12.85         86   Yes Lrg  No
+KAKMBUTAN/MacGregor Orbital  17.04         75   Yes Lrg  No
+PATOCUDA/Coney Gateway       22.69         97   Yes Lrg  No
+PATOCUDA/Fernao Do Po Port   22.69      1.47K   Yes Lrg  No
+SADHEN/Birkeland Platform    24.19        472   Yes Lrg  No
 
 --------------------
 You can buy "'Cobra MkIV'"s and [typically] pay 764720 Cr At...
@@ -113,7 +111,7 @@ You can buy "'Dropship'"s and [typically] pay 14314210 Cr At...
 
 Station                   DistLy      StnLs B/mkt Pad Plt
 ---------------------------------------------------------
-PHRACES/Potter Enterprise   0.00        375   Yes Lrg  No
+PHRACES/Potter Enterprise   8.02        375   Yes Lrg  No
 
 --------------------
 You can buy "'Eagle'"s and [typically] pay 44800 Cr At...
@@ -121,18 +119,17 @@ You can buy "'Eagle'"s and [typically] pay 44800 Cr At...
 
 Station                       DistLy      StnLs B/mkt Pad Plt
 -------------------------------------------------------------
-PHRACES/Potter Enterprise       0.00        375   Yes Lrg  No
-HARMA/Gabriel Enterprise        5.60        259   Yes Lrg  No
-LODHARY/Lagrange Gateway        9.73          6   Yes Lrg  No
-HIP 113980/Clapperton Station  11.97      7.67K   Yes Lrg  No
-GLIESE 1272/Bao Dock           13.56         49   Yes Lrg  No
-GLIESE 1272/Murphy Dock        13.56         86   Yes Lrg  No
-WIRNAKO/Moffitt Platform       13.89        405   Yes Lrg  No
-PATOCUDA/Coney Gateway         20.30         97   Yes Lrg  No
-PATOCUDA/Fernao Do Po Port     20.30      1.47K   Yes Lrg  No
-AUTA ISUANG/Evans Settlement   20.43        353   Yes Lrg  No
-KAKMBUTAN/MacGregor Orbital    23.17         75   Yes Lrg  No
-URU/Bessemer Vision            24.92        675   Yes Lrg  No
+LODHARY/Lagrange Gateway        4.84          6   Yes Lrg  No
+HARMA/Gabriel Enterprise        5.69        259   Yes Lrg  No
+PHRACES/Potter Enterprise       8.02        375   Yes Lrg  No
+GLIESE 1272/Bao Dock           12.85         49   Yes Lrg  No
+GLIESE 1272/Murphy Dock        12.85         86   Yes Lrg  No
+KAKMBUTAN/MacGregor Orbital    17.04         75   Yes Lrg  No
+AUTA ISUANG/Evans Settlement   17.17        353   Yes Lrg  No
+HIP 113980/Clapperton Station  17.50      7.67K   Yes Lrg  No
+WIRNAKO/Moffitt Platform       21.57        405   Yes Lrg  No
+PATOCUDA/Coney Gateway         22.69         97   Yes Lrg  No
+PATOCUDA/Fernao Do Po Port     22.69      1.47K   Yes Lrg  No
 
 --------------------
 You can buy "'Federal Assault Ship'"s and [typically] pay 19814210 Cr At...
@@ -158,9 +155,8 @@ You can buy "'Fer-de-Lance'"s and [typically] pay 51567040 Cr At...
 
 Station                   DistLy      StnLs B/mkt Pad Plt
 ---------------------------------------------------------
-PHRACES/Potter Enterprise   0.00        375   Yes Lrg  No
-LODHARY/Lagrange Gateway    9.73          6   Yes Lrg  No
-URU/Bessemer Vision        24.92        675   Yes Lrg  No
+LODHARY/Lagrange Gateway    4.84          6   Yes Lrg  No
+PHRACES/Potter Enterprise   8.02        375   Yes Lrg  No
 
 --------------------
 You can buy "'Hauler'"s and [typically] pay 52720 Cr At...
@@ -168,19 +164,18 @@ You can buy "'Hauler'"s and [typically] pay 52720 Cr At...
 
 Station                       DistLy      StnLs B/mkt Pad Plt
 -------------------------------------------------------------
-PHRACES/Potter Enterprise       0.00        375   Yes Lrg  No
-HARMA/Gabriel Enterprise        5.60        259   Yes Lrg  No
-LODHARY/Lagrange Gateway        9.73          6   Yes Lrg  No
-HIP 113980/Clapperton Station  11.97      7.67K   Yes Lrg  No
-GLIESE 1272/Bao Dock           13.56         49   Yes Lrg  No
-GLIESE 1272/Murphy Dock        13.56         86   Yes Lrg  No
-WIRNAKO/Moffitt Platform       13.89        405   Yes Lrg  No
-PATOCUDA/Coney Gateway         20.30         97   Yes Lrg  No
-PATOCUDA/Fernao Do Po Port     20.30      1.47K   Yes Lrg  No
-AUTA ISUANG/Evans Settlement   20.43        353   Yes Lrg  No
-SADHEN/Birkeland Platform      20.93        472   Yes Lrg  No
-KAKMBUTAN/MacGregor Orbital    23.17         75   Yes Lrg  No
-URU/Bessemer Vision            24.92        675   Yes Lrg  No
+LODHARY/Lagrange Gateway        4.84          6   Yes Lrg  No
+HARMA/Gabriel Enterprise        5.69        259   Yes Lrg  No
+PHRACES/Potter Enterprise       8.02        375   Yes Lrg  No
+GLIESE 1272/Bao Dock           12.85         49   Yes Lrg  No
+GLIESE 1272/Murphy Dock        12.85         86   Yes Lrg  No
+KAKMBUTAN/MacGregor Orbital    17.04         75   Yes Lrg  No
+AUTA ISUANG/Evans Settlement   17.17        353   Yes Lrg  No
+HIP 113980/Clapperton Station  17.50      7.67K   Yes Lrg  No
+WIRNAKO/Moffitt Platform       21.57        405   Yes Lrg  No
+PATOCUDA/Coney Gateway         22.69         97   Yes Lrg  No
+PATOCUDA/Fernao Do Po Port     22.69      1.47K   Yes Lrg  No
+SADHEN/Birkeland Platform      24.19        472   Yes Lrg  No
 
 --------------------
 You can buy "'Imperial Courier'"s and [typically] pay 2542930 Cr At...
@@ -218,7 +213,7 @@ You can buy "'Python'"s and [typically] pay 56978180 Cr At...
 
 Station                   DistLy      StnLs B/mkt Pad Plt
 ---------------------------------------------------------
-PHRACES/Potter Enterprise   0.00        375   Yes Lrg  No
+PHRACES/Potter Enterprise   8.02        375   Yes Lrg  No
 
 --------------------
 You can buy "'Sidewinder'"s and [typically] pay 32000 Cr At...
@@ -226,19 +221,19 @@ You can buy "'Sidewinder'"s and [typically] pay 32000 Cr At...
 
 Station                       DistLy      StnLs B/mkt Pad Plt
 -------------------------------------------------------------
-PHRACES/Potter Enterprise       0.00        375   Yes Lrg  No
-HARMA/Gabriel Enterprise        5.60        259   Yes Lrg  No
-LODHARY/Lagrange Gateway        9.73          6   Yes Lrg  No
-HIP 113980/Clapperton Station  11.97      7.67K   Yes Lrg  No
-GLIESE 1272/Bao Dock           13.56         49   Yes Lrg  No
-GLIESE 1272/Murphy Dock        13.56         86   Yes Lrg  No
-WIRNAKO/Moffitt Platform       13.89        405   Yes Lrg  No
-PATOCUDA/Coney Gateway         20.30         97   Yes Lrg  No
-PATOCUDA/Fernao Do Po Port     20.30      1.47K   Yes Lrg  No
-AUTA ISUANG/Evans Settlement   20.43        353   Yes Lrg  No
-SADHEN/Birkeland Platform      20.93        472   Yes Lrg  No
-KAKMBUTAN/MacGregor Orbital    23.17         75   Yes Lrg  No
-URU/Bessemer Vision            24.92        675   Yes Lrg  No
+LODHARY/Lagrange Gateway        4.84          6   Yes Lrg  No
+HARMA/Gabriel Enterprise        5.69        259   Yes Lrg  No
+PHRACES/Potter Enterprise       8.02        375   Yes Lrg  No
+GLIESE 1272/Bao Dock           12.85         49   Yes Lrg  No
+GLIESE 1272/Murphy Dock        12.85         86   Yes Lrg  No
+KAKMBUTAN/MacGregor Orbital    17.04         75   Yes Lrg  No
+AUTA ISUANG/Evans Settlement   17.17        353   Yes Lrg  No
+HIP 113980/Clapperton Station  17.50      7.67K   Yes Lrg  No
+HIP 110205/Tokubei Hub         19.33        572   Yes Lrg  No
+WIRNAKO/Moffitt Platform       21.57        405   Yes Lrg  No
+PATOCUDA/Coney Gateway         22.69         97   Yes Lrg  No
+PATOCUDA/Fernao Do Po Port     22.69      1.47K   Yes Lrg  No
+SADHEN/Birkeland Platform      24.19        472   Yes Lrg  No
 
 --------------------
 You can buy "'Type 6'"s and [typically] pay 1045950 Cr At...
@@ -264,13 +259,12 @@ You can buy "'Viper'"s and [typically] pay 142930 Cr At...
 
 Station                     DistLy      StnLs B/mkt Pad Plt
 -----------------------------------------------------------
-PHRACES/Potter Enterprise     0.00        375   Yes Lrg  No
-HARMA/Gabriel Enterprise      5.60        259   Yes Lrg  No
-LODHARY/Lagrange Gateway      9.73          6   Yes Lrg  No
-PATOCUDA/Coney Gateway       20.30         97   Yes Lrg  No
-PATOCUDA/Fernao Do Po Port   20.30      1.47K   Yes Lrg  No
-KAKMBUTAN/MacGregor Orbital  23.17         75   Yes Lrg  No
-URU/Bessemer Vision          24.92        675   Yes Lrg  No
+LODHARY/Lagrange Gateway      4.84          6   Yes Lrg  No
+HARMA/Gabriel Enterprise      5.69        259   Yes Lrg  No
+PHRACES/Potter Enterprise     8.02        375   Yes Lrg  No
+KAKMBUTAN/MacGregor Orbital  17.04         75   Yes Lrg  No
+PATOCUDA/Coney Gateway       22.69         97   Yes Lrg  No
+PATOCUDA/Fernao Do Po Port   22.69      1.47K   Yes Lrg  No
 
 --------------------
 You can buy "'Viper MkIV'"s and [typically] pay 437930 Cr At...
@@ -284,7 +278,7 @@ You can buy "'Vulture'"s and [typically] pay 4925620 Cr At...
 
 Station                       DistLy      StnLs B/mkt Pad Plt
 -------------------------------------------------------------
-PHRACES/Potter Enterprise       0.00        375   Yes Lrg  No
-LODHARY/Lagrange Gateway        9.73          6   Yes Lrg  No
-HIP 113980/Clapperton Station  11.97      7.67K   Yes Lrg  No
-WIRNAKO/Moffitt Platform       13.89        405   Yes Lrg  No
+LODHARY/Lagrange Gateway        4.84          6   Yes Lrg  No
+PHRACES/Potter Enterprise       8.02        375   Yes Lrg  No
+HIP 113980/Clapperton Station  17.50      7.67K   Yes Lrg  No
+WIRNAKO/Moffitt Platform       21.57        405   Yes Lrg  No

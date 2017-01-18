@@ -1,5 +1,5 @@
 # This file is a list of places that you can buy ships within 25ly of HARMA
-# It is based on data in the public TradeDangerous database, and generated at 04/12/2016- 2:28:04.58 [DD/MM/YYYY-UTC]
+# It is based on data in the public TradeDangerous database, and generated at 18/01/2017-13:10:34.58 [DD/MM/YYYY-UTC]
 # Crowd sourced data about where to buy ships is limited
 # There are likely to be many other places where you can buy ships in the area
 # Especially the smaller ones

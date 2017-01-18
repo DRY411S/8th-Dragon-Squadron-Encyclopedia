@@ -56,71 +56,71 @@
 #
 ---------------------------------------------------------------------------------------------------------
 Best Trade Shuttle starting and ending at HARMA/Maybury City with 13 ly between trades
-For MEDIUM and SMALL ships only, generated at 04/12/2016- 2:48:36.92 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 18/01/2017-13:33:13.22 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-HARMA/Maybury City -> HARMA/Maybury City (score: 2160.638920)
+HARMA/Maybury City -> HARMA/Maybury City (score: 1935.721680)
   Load from HARMA/Maybury City (1.29Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Military Grade Fabrics      788cr vs    1,478cr, 2 days vs 10 days
-  Unload at MBAYO/Hopkins Plant (564ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 690cr (690cr/ton) => 100,690cr
-  Load from MBAYO/Hopkins Plant (564ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
-        1 x Beryllium                 7,417cr vs    8,888cr, 10 days vs 2 days
-  Unload at HARMA/Maybury City (1.29Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,471cr (1,471cr/ton) => 102,161cr
+        1 x Superconductors    6,465cr vs    7,437cr, 7 hrs vs 14 days
+  Unload at HIP 113980/Dantec Station (7.59Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 972cr (972cr/ton) => 100,972cr
+  Load from HIP 113980/Dantec Station (7.59Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
+        1 x HN Shock Mount       292cr vs    1,351cr, 14 days vs 7 hrs
+  Unload at HARMA/Maybury City (1.29Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,059cr (1,059cr/ton) => 102,031cr
   ----------------------------------------------------------------------------
-Finish at HARMA/Maybury City (1.29Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 2,161cr (1,080cr/ton) => est 102,161cr total
+Finish at HARMA/Maybury City (1.29Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 2,031cr (1,015cr/ton) => est 102,031cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Shuttle starting and ending at HARMA/Maybury City with 37.5 ly between trades
-For MEDIUM and SMALL ships only, generated at 04/12/2016- 2:48:48.12 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 18/01/2017-13:33:26.90 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-HARMA/Maybury City -> HARMA/Maybury City (score: 2339.403200)
+HARMA/Maybury City -> HARMA/Maybury City (score: 4130.847040)
   Load from HARMA/Maybury City (1.29Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Crop Harvesters    2,103cr vs    2,761cr, 2 days vs 6 days
-  Unload at DHANKA/Morrison Dock (283ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 658cr (658cr/ton) => 100,658cr
-  Load from DHANKA/Morrison Dock (283ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Imperial Slaves   15,301cr vs   16,983cr, 6 days vs 2 days
-  Unload at HARMA/Maybury City (1.29Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,682cr (1,682cr/ton) => 102,340cr
+        1 x Basic Medicines          217cr vs    1,082cr, 7 hrs vs 9 days
+  Unload at 34 PEGASI/Ozanne Vision (464ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 865cr (865cr/ton) => 100,865cr
+  Load from 34 PEGASI/Ozanne Vision (464ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
+        1 x Insulating Membrane    7,808cr vs   11,075cr, 9 days vs 7 hrs
+  Unload at HARMA/Maybury City (1.29Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 3,267cr (3,267cr/ton) => 104,132cr
   ----------------------------------------------------------------------------
-Finish at HARMA/Maybury City (1.29Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 2,340cr (1,170cr/ton) => est 102,340cr total
+Finish at HARMA/Maybury City (1.29Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 4,132cr (2,066cr/ton) => est 104,132cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Shuttle starting and ending at HARMA/Maybury City with 42.5 ly between trades
-For MEDIUM and SMALL ships only, generated at 04/12/2016- 2:48:59.41 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 18/01/2017-13:33:40.82 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-HARMA/Maybury City -> HARMA/Maybury City (score: 2339.403200)
+HARMA/Maybury City -> HARMA/Maybury City (score: 4130.847040)
   Load from HARMA/Maybury City (1.29Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Crop Harvesters    2,103cr vs    2,761cr, 2 days vs 6 days
-  Unload at DHANKA/Morrison Dock (283ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 658cr (658cr/ton) => 100,658cr
-  Load from DHANKA/Morrison Dock (283ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Imperial Slaves   15,301cr vs   16,983cr, 6 days vs 2 days
-  Unload at HARMA/Maybury City (1.29Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,682cr (1,682cr/ton) => 102,340cr
+        1 x Basic Medicines          217cr vs    1,082cr, 7 hrs vs 9 days
+  Unload at 34 PEGASI/Ozanne Vision (464ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 865cr (865cr/ton) => 100,865cr
+  Load from 34 PEGASI/Ozanne Vision (464ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
+        1 x Insulating Membrane    7,808cr vs   11,075cr, 9 days vs 7 hrs
+  Unload at HARMA/Maybury City (1.29Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 3,267cr (3,267cr/ton) => 104,132cr
   ----------------------------------------------------------------------------
-Finish at HARMA/Maybury City (1.29Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 2,340cr (1,170cr/ton) => est 102,340cr total
+Finish at HARMA/Maybury City (1.29Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 4,132cr (2,066cr/ton) => est 104,132cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Shuttle starting and ending at HARMA/Maybury City with 76.5 ly between trades
-For MEDIUM and SMALL ships only, generated at 04/12/2016- 2:49:10.78 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 18/01/2017-13:33:54.73 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-HARMA/Maybury City -> HARMA/Maybury City (score: 2378.856480)
+HARMA/Maybury City -> HARMA/Maybury City (score: 4639.307520)
   Load from HARMA/Maybury City (1.29Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Mineral Extractors      508cr vs    1,548cr, 2 days vs 2 days
-  Unload at HIP 112823/Tanaka Mine (648ls, BMk:N, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,040cr (1,040cr/ton) => 101,040cr
-  Load from HIP 112823/Tanaka Mine (648ls, BMk:N, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Silver                4,057cr vs    5,396cr, 2 days vs 2 days
-  Unload at HARMA/Maybury City (1.29Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,339cr (1,339cr/ton) => 102,379cr
+        1 x Skimmer Components      654cr vs    1,769cr, 7 hrs vs 14 days
+  Unload at WARKUSHANUI/Brunner's Progress (86ls, BMk:Y, Pad:L, Plt:Y, Shp:Y, Out:Y, Ref:Y) => Gain 1,115cr (1,115cr/ton) => 101,115cr
+  Load from WARKUSHANUI/Brunner's Progress (86ls, BMk:Y, Pad:L, Plt:Y, Shp:Y, Out:Y, Ref:Y):
+        1 x CMM Composite         2,965cr vs    6,491cr, 14 days vs 7 hrs
+  Unload at HARMA/Maybury City (1.29Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 3,526cr (3,526cr/ton) => 104,641cr
   ----------------------------------------------------------------------------
-Finish at HARMA/Maybury City (1.29Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 2,379cr (1,189cr/ton) => est 102,379cr total
+Finish at HARMA/Maybury City (1.29Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 4,641cr (2,320cr/ton) => est 104,641cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Shuttle starting and ending at HARMA/Maybury City with 105.7 ly between trades
-For MEDIUM and SMALL ships only, generated at 04/12/2016- 2:49:27.74 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 18/01/2017-13:34:19.05 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-HARMA/Maybury City -> HARMA/Maybury City (score: 3405.779120)
+HARMA/Maybury City -> HARMA/Maybury City (score: 4731.308000)
   Load from HARMA/Maybury City (1.29Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Superconductors    6,819cr vs    7,447cr, 2 days vs 6 hrs
-  Unload at HIP 117865/Roskam Hub (105ls, BMk:N, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 628cr (628cr/ton) => 100,628cr
-  Load from HIP 117865/Roskam Hub (105ls, BMk:N, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Imperial Slaves   14,204cr vs   16,983cr, 6 hrs vs 2 days
-  Unload at HARMA/Maybury City (1.29Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 2,779cr (2,779cr/ton) => 103,407cr
+        1 x Skimmer Components      654cr vs    1,862cr, 7 hrs vs 9 days
+  Unload at FF ANDROMEDAE/Isherwood Works (9ls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y) => Gain 1,208cr (1,208cr/ton) => 101,208cr
+  Load from FF ANDROMEDAE/Isherwood Works (9ls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y):
+        1 x CMM Composite         2,966cr vs    6,491cr, 9 days vs 7 hrs
+  Unload at HARMA/Maybury City (1.29Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 3,525cr (3,525cr/ton) => 104,733cr
   ----------------------------------------------------------------------------
-Finish at HARMA/Maybury City (1.29Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 3,407cr (1,703cr/ton) => est 103,407cr total
+Finish at HARMA/Maybury City (1.29Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 4,733cr (2,366cr/ton) => est 104,733cr total
 

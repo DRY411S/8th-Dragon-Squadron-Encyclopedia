@@ -1,0 +1,146 @@
+# These trade routes are generated with different distances between trades.
+# The default distances of 13,37.5,42.5,76.5,105.7 ly between trades represent 
+# a cross-section of the minimum 1-jump, average 2-jump, maximum 3-jump ranges
+# and the minimum and average for TOTAL ranges of fully laden, fully shielded trading ships
+#
+# The distances used in this report are 13,37.5,42.5,76.5,105.7 ly
+#
+# Calculation limits
+# ------------------
+# 
+# All trade data that is older than 30 days is not used
+# Only stations where there is more than 64t of supplies are used
+# However, it is assumed that your ship capacity is only 1t so that the best profit per ton for a single commodity can be calculated
+# narcotics are excluded from these calculations as the price database is unreliable for these commodities and/or locations
+# Starting credits assumed to be 100000Cr, so deduct that from the total to see profit
+# 
+# Note that there is not always extra money to be made by travelling the longer distances. Sometimes trades for longer distances will be
+# identical to the trades for a shorter distance
+#
+# For each distance, up to two trades are shown. The first works for ANY size ship, the second for SMALL and MEDIUM ships ONLY {which can trade at outposts}
+# However, sometimes the trades for the different sized ships are the same {i.e no decent trades available at outposts}
+# NOTE: Trades for large ships will not appear if the source station does not allow large ships to land there
+#
+# WARNING: No account is taken of whether the commodities are prohibited. Use these recommendations at your peril!
+# 
+# GUIDE TO THE OUTPUT FORMAT
+# --------------------------
+# 
+# 'Pruned XX origins ...' is output from the utility I use called TradeDangerous. I have no idea what it means!
+# {score: [large number]} See above :D
+#
+# {Un}Load from [SYSTEM]/[Station] {L, B, P, N, S, O, R} =] Gain F {F/ton} =]  T
+# 1 x [Commodity] PB vs PS, TB vs TS
+# Finish at [SYSTEM]/[Station] {L, B, P, N, S, O, R} =] gaining C {A/ton} =]  T
+#
+# L - Distance of station from Star in ls
+# B - Black Market Present Y/N/?
+# P - Largest Ship Size that can land at station L/M/?
+# N - Whether the station is on a planet Y/N/?
+# S - Shipyard Present Y/N/?
+# O - Outfitters Present Y/N/?
+# R - Refuelling Present Y/N/?
+# F - Profit made from the trade
+# T - Running total of Credits {assuming a starting point of 100000}
+#
+# PB - Buy Price
+# PS - Sell Price
+# TB - The time relative to report generation time since the buy  price was updated in the community database
+# TS - The time relative to report generation time since the sell price was updated in the community database
+#
+# C - Total number of credits profit
+# A - Average Credits per ton profit across all the trades on the route
+#
+# TRADE OUTPUT BEGINS ....
+# ------------------------
+#
+---------------------------------------------------------------------------------------------------------
+Best Trade Triangle starting and ending at MBAYO/Hopkins Plant with 13 ly between trades
+For MEDIUM and SMALL ships only, generated at 18/01/2017-15:05:03.13 [DD/MM/YYYY-UTC]
+---------------------------------------------------------------------------------------------------------
+NOTE: Pruned 9 origins too far from any end stations
+MBAYO/Hopkins Plant -> MBAYO/Hopkins Plant (score: 3110.035580)
+  Load from MBAYO/Hopkins Plant (564ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
+        1 x Uranium             2,588cr vs    2,959cr, 4 days vs 21 days
+  Unload at PHRACES/Mullane Ring (625ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 371cr (371cr/ton) => 100,371cr
+  Load from PHRACES/Mullane Ring (625ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
+        1 x HN Shock Mount        281cr vs    1,304cr, 21 days vs 3 days
+  Unload at LODHARY/Anthony Dock (17ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:N) => Gain 1,023cr (1,023cr/ton) => 101,394cr
+  Load from LODHARY/Anthony Dock (17ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:N):
+        1 x Personal Weapons    3,511cr vs    5,226cr, 3 days vs 4 days
+  Unload at MBAYO/Hopkins Plant (564ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 1,715cr (1,715cr/ton) => 103,109cr
+  ----------------------------------------------------------------------------
+Finish at MBAYO/Hopkins Plant (564ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) gaining 3,109cr (1,036cr/ton) => est 103,109cr total
+
+---------------------------------------------------------------------------------------------------------
+Best Trade Triangle starting and ending at MBAYO/Hopkins Plant with 37.5 ly between trades
+For MEDIUM and SMALL ships only, generated at 18/01/2017-15:05:17.10 [DD/MM/YYYY-UTC]
+---------------------------------------------------------------------------------------------------------
+NOTE: Pruned 378 origins too far from any end stations
+MBAYO/Hopkins Plant -> MBAYO/Hopkins Plant (score: 6174.017160)
+  Load from MBAYO/Hopkins Plant (564ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
+        1 x Beryllium            7,958cr vs    8,845cr, 4 days vs 10 days
+  Unload at URU/Stafford Gateway (946ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:N) => Gain 887cr (887cr/ton) => 100,887cr
+  Load from URU/Stafford Gateway (946ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:N):
+        1 x Micro Controllers    2,697cr vs    6,268cr, 10 days vs 3 days
+  Unload at LODHARY/Anthony Dock (17ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:N) => Gain 3,571cr (3,571cr/ton) => 104,458cr
+  Load from LODHARY/Anthony Dock (17ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:N):
+        1 x Personal Weapons     3,511cr vs    5,226cr, 3 days vs 4 days
+  Unload at MBAYO/Hopkins Plant (564ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 1,715cr (1,715cr/ton) => 106,173cr
+  ----------------------------------------------------------------------------
+Finish at MBAYO/Hopkins Plant (564ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) gaining 6,173cr (2,057cr/ton) => est 106,173cr total
+
+---------------------------------------------------------------------------------------------------------
+Best Trade Triangle starting and ending at MBAYO/Hopkins Plant with 42.5 ly between trades
+For MEDIUM and SMALL ships only, generated at 18/01/2017-15:05:31.78 [DD/MM/YYYY-UTC]
+---------------------------------------------------------------------------------------------------------
+NOTE: Pruned 622 origins too far from any end stations
+MBAYO/Hopkins Plant -> MBAYO/Hopkins Plant (score: 6359.087580)
+  Load from MBAYO/Hopkins Plant (564ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
+        1 x Biowaste                   5cr vs       13cr, 4 days vs 12 days
+  Unload at 34 PEGASI/Rayhan Al-Biruni Orbital (465ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 8cr (8cr/ton) => 100,008cr
+  Load from 34 PEGASI/Rayhan Al-Biruni Orbital (465ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Insulating Membrane    7,359cr vs   11,872cr, 12 days vs 32 hrs
+  Unload at KAMORIN/Godwin Vision (447ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 4,513cr (4,513cr/ton) => 104,521cr
+  Load from KAMORIN/Godwin Vision (447ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Personal Weapons       3,391cr vs    5,226cr, 32 hrs vs 4 days
+  Unload at MBAYO/Hopkins Plant (564ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 1,835cr (1,835cr/ton) => 106,356cr
+  ----------------------------------------------------------------------------
+Finish at MBAYO/Hopkins Plant (564ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) gaining 6,356cr (2,118cr/ton) => est 106,356cr total
+
+---------------------------------------------------------------------------------------------------------
+Best Trade Triangle starting and ending at MBAYO/Hopkins Plant with 76.5 ly between trades
+For MEDIUM and SMALL ships only, generated at 18/01/2017-15:05:46.99 [DD/MM/YYYY-UTC]
+---------------------------------------------------------------------------------------------------------
+NOTE: Pruned 6688 origins too far from any end stations
+MBAYO/Hopkins Plant -> MBAYO/Hopkins Plant (score: 6560.314220)
+  Load from MBAYO/Hopkins Plant (564ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
+        1 x Beryllium            7,958cr vs    8,845cr, 4 days vs 10 days
+  Unload at URU/Stafford Gateway (946ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:N) => Gain 887cr (887cr/ton) => 100,887cr
+  Load from URU/Stafford Gateway (946ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:N):
+        1 x Micro Controllers    2,697cr vs    6,480cr, 10 days vs 5 days
+  Unload at EORASA/Vasyutin Dock (802ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:N) => Gain 3,783cr (3,783cr/ton) => 104,670cr
+  Load from EORASA/Vasyutin Dock (802ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:N):
+        1 x Personal Weapons     3,338cr vs    5,226cr, 5 days vs 4 days
+  Unload at MBAYO/Hopkins Plant (564ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 1,888cr (1,888cr/ton) => 106,558cr
+  ----------------------------------------------------------------------------
+Finish at MBAYO/Hopkins Plant (564ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) gaining 6,558cr (2,186cr/ton) => est 106,558cr total
+
+---------------------------------------------------------------------------------------------------------
+Best Trade Triangle starting and ending at MBAYO/Hopkins Plant with 105.7 ly between trades
+For MEDIUM and SMALL ships only, generated at 18/01/2017-15:06:54.33 [DD/MM/YYYY-UTC]
+---------------------------------------------------------------------------------------------------------
+NOTE: Pruned 13612 origins too far from any end stations
+MBAYO/Hopkins Plant -> MBAYO/Hopkins Plant (score: 7208.696000)
+  Load from MBAYO/Hopkins Plant (564ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
+        1 x Beryllium            7,958cr vs    8,845cr, 4 days vs 10 days
+  Unload at URU/Stafford Gateway (946ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:N) => Gain 887cr (887cr/ton) => 100,887cr
+  Load from URU/Stafford Gateway (946ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:N):
+        1 x Micro Controllers    2,697cr vs    6,159cr, 10 days vs 42 hrs
+  Unload at CUCHUA/Curtis Ring (217ls, BMk:N, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 3,462cr (3,462cr/ton) => 104,349cr
+  Load from CUCHUA/Curtis Ring (217ls, BMk:N, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
+        1 x Imperial Slaves     13,910cr vs   16,767cr, 42 hrs vs 4 days
+  Unload at MBAYO/Hopkins Plant (564ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 2,857cr (2,857cr/ton) => 107,206cr
+  ----------------------------------------------------------------------------
+Finish at MBAYO/Hopkins Plant (564ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) gaining 7,206cr (2,402cr/ton) => est 107,206cr total
+

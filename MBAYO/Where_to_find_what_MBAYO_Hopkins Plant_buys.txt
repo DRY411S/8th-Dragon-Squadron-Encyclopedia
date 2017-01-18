@@ -1,0 +1,863 @@
+# This file is a list of commodities that can be BOUGHT within  25ly of MBAYO
+# and sold with an expected profit at a Commodities Market at Hopkins Plant
+# It is based on data in the public TradeDangerous database.
+# You should not rely on the prices or stock levels
+# But you can be confident about the locations
+# For each commodity, there is a list by buy price [cheapest first]
+# Note that the buy price may be less than the sell price at MBAYO
+# The typical buy price at MBAYO/Hopkins Plant is shown for reference
+# KEY
+# Station  - self explanatory
+# Cost     - The last known buy price
+# Units    - The last known quantity
+# DistLy   - Distance in Light Years from MBAYO system
+# Age/Days - The age of this station's price data relative to the time that this report was generated at 18/01/2017-14:58:14.68 [DD/MM/YYYY-UTC]
+# StnLs    - Distance of the station from the system star in Ls. 0.01 ly = 100 KLs
+# B/Mkt    - Is there a Black Market at the station?
+# Pad      - Maximum Ship Size that can land. Lrg implies that this is a station, Med implies an Outpost
+# Plt      - Whether or not the station is on the surface of a planet
+
+--------------------
+MBAYO/Hopkins Plant Buys "Hydrogen Peroxide" with H demand and (typically) pays 967 Cr From...
+--------------------
+
+# No available stations found
+
+--------------------
+MBAYO/Hopkins Plant Buys "Mineral Oil" with H demand and (typically) pays 433 Cr From...
+--------------------
+
+Station                      Cost      Units DistLy Age/days      StnLs B/mkt Pad Plt
+-------------------------------------------------------------------------------------
+HIP 110205/Tokubei Hub         76     75,051  19.33     2.97        572   Yes Lrg  No
+PATOCUDA/Coney Gateway         87     48,790  22.69     0.49         97   Yes Lrg  No
+
+--------------------
+MBAYO/Hopkins Plant Buys "Water" with H demand and (typically) pays 332 Cr From...
+--------------------
+
+Station                             Cost      Units DistLy Age/days      StnLs B/mkt Pad Plt
+--------------------------------------------------------------------------------------------
+HIP 110205/Tokubei Hub                14  2,549,585  19.33     2.97        572   Yes Lrg  No
+PATOCUDA/Morrow's Inheritance         24    131,075  22.69    12.79         16   Yes Lrg Yes
+PATOCUDA/Coney Gateway                24     12,056  22.69     0.49         97   Yes Lrg  No
+KAMCHANDIKA/Fozard Mines              27     59,355  11.01    51.99         32   Yes Lrg Yes
+
+--------------------
+MBAYO/Hopkins Plant Buys "Clothing" with L demand and (typically) pays 315 Cr From...
+--------------------
+
+Station                              Cost      Units DistLy Age/days      StnLs B/mkt Pad Plt
+---------------------------------------------------------------------------------------------
+WIRNAKO/Moffitt Platform              157      1,065  21.57     1.42        405   Yes Lrg  No
+BIKO/Stjepan Seljan Settlement        158      1,630   9.93    12.09      1.41K   Yes Lrg  No
+WIRNAKO/Morgan Installation           158        926  21.57   140.91        510   Yes Med  No
+WIRNAKO/Cobb Landing                  158        735  21.57   131.86        736   Yes Med  No
+HIP 113980/Grimwood Gateway           184    177,241  17.50    12.99      7.71K   Yes Lrg  No
+HIP 113980/Belyanin Ring              184     13,471  17.50    12.99      7.71K   Yes Med  No
+SADHEN/Barsanti Port                  185         64  24.19     5.80        708   Yes Med  No
+SADHEN/Garriott Vision                185         53  24.19     4.28        942   Yes Med  No
+BIKO/Forstchen Horizons               189      7,904   9.93    18.88      2.01K   Yes Med  No
+SADHEN/Birkeland Platform             189        644  24.19     1.84        472   Yes Lrg  No
+CRATHAJAPUS/Daley City                190      1,617  24.93    77.90        382    No Lrg  No
+HIP 113980/Williams Depot             208      5,015  17.50    14.12          ?     ?   ?   ?
+HARMA/Gabriel Enterprise              210     86,558   5.69     0.21        259   Yes Lrg  No
+HIP 113980/Pippin Terminal            210      6,556  17.50    79.23      7.61K   Yes Med  No
+GANDII/Gorbatko Enterprise            212      5,111  22.57   167.98          ?   Yes Med  No
+HIP 113495/Thoreau Station            217      5,996  23.11   122.40         23   Yes Lrg  No
+HIP 113495/Horowitz Port              217      4,042  23.11    12.10          ?   Yes Med  No
+LODHARY/Lagrange Gateway              217      3,853   4.84     5.02          6   Yes Lrg  No
+GANDII/Lu Hub                         218        749  22.57     6.72      3.60K   Yes Lrg  No
+GANDII/Babbage Station                218        656  22.57    35.93          ?   Yes Med  No
+HARMA/Celebi City                     219     68,947   5.69     7.72      1.27K   Yes Med  No
+HARMA/Maybury City                    231     50,229   5.69     0.37      1.29K   Yes Med  No
+BHADO/Napier Station                  235     36,184  13.45    12.11      2.91K   Yes Med  No
+KAKMBUTAN/Gessi Station               235     27,018  17.04    56.23          ?   Yes Med  No
+LODHARY/Anthony Dock                  235     25,737   4.84     3.22         17   Yes Med  No
+CRATHAJAPUS/Godwin Station            238      1,393  24.93   540.79        382   Yes Med  No
+KAKMBUTAN/MacGregor Orbital           249     34,544  17.04   245.79         75   Yes Lrg  No
+
+--------------------
+MBAYO/Hopkins Plant Buys "Consumer Technology" with H demand and (typically) pays 7250 Cr From...
+--------------------
+
+Station                      Cost      Units DistLy Age/days      StnLs B/mkt Pad Plt
+-------------------------------------------------------------------------------------
+DEIVE/Obruchev Orbital      6,765      3,438  21.79     5.79      1.95K   Yes Lrg  No
+
+--------------------
+MBAYO/Hopkins Plant Buys "Domestic Appliances" with L demand and (typically) pays 527 Cr From...
+--------------------
+
+Station                              Cost      Units DistLy Age/days      StnLs B/mkt Pad Plt
+---------------------------------------------------------------------------------------------
+BHADO/Rasmussen Enterprise            313     66,847  13.45    33.86      2.94K   Yes Lrg  No
+WIRNAKO/Morgan Installation           314        566  21.57   140.91        510   Yes Med  No
+WIRNAKO/Cobb Landing                  315        448  21.57   131.86        736   Yes Med  No
+BIKO/Stjepan Seljan Settlement        317      9,820   9.93    12.09      1.41K   Yes Lrg  No
+WIRNAKO/Moffitt Platform              317        643  21.57     1.42        405   Yes Lrg  No
+HIP 113980/Grimwood Gateway           357    106,250  17.50    12.99      7.71K   Yes Lrg  No
+HIP 113980/Belyanin Ring              357      8,111  17.50    12.99      7.71K   Yes Med  No
+BIKO/Forstchen Horizons               365      4,716   9.93    18.88      2.01K   Yes Med  No
+CRATHAJAPUS/Daley City                365        970  24.93    77.90        382    No Lrg  No
+SADHEN/Birkeland Platform             365        386  24.19     1.84        472   Yes Lrg  No
+HARMA/Gabriel Enterprise              386     49,558   5.69     0.21        259   Yes Lrg  No
+HIP 113980/Williams Depot             392      2,998  17.50    14.12          ?     ?   ?   ?
+SADHEN/Barsanti Port                  392         20  24.19     5.80        708   Yes Med  No
+SADHEN/Garriott Vision                392         16  24.19     4.28        942   Yes Med  No
+HIP 113980/Pippin Terminal            395      3,931  17.50    79.23      7.61K   Yes Med  No
+HARMA/Celebi City                     396     38,004   5.69     7.72      1.27K   Yes Med  No
+GANDII/Gorbatko Enterprise            398      3,065  22.57   167.98          ?   Yes Med  No
+HARMA/Maybury City                    410     26,075   5.69     0.37      1.29K   Yes Med  No
+LODHARY/Anthony Dock                  418     13,851   4.84     3.22         17   Yes Med  No
+CRATHAJAPUS/Godwin Station            438        834  24.93   540.79        382   Yes Med  No
+HIP 113495/Thoreau Station            447      2,109  23.11   122.40         23   Yes Lrg  No
+HIP 113495/Horowitz Port              447      1,399  23.11    12.10          ?   Yes Med  No
+LODHARY/Lagrange Gateway              447      1,115   4.84     5.02          6   Yes Lrg  No
+GANDII/Babbage Station                448        200  22.57    35.93          ?   Yes Med  No
+GANDII/Lu Hub                         449        229  22.57     6.72      3.60K   Yes Lrg  No
+HIP 113495/Sharma Terminal            463     12,513  23.11   380.98          ?   Yes Med  No
+HIP 110776/Puleston Dock              488      9,576  16.59   528.82          ?   Yes Lrg  No
+
+--------------------
+MBAYO/Hopkins Plant Buys "Animal Meat" with H demand and (typically) pays 1712 Cr From...
+--------------------
+
+Station                      Cost      Units DistLy Age/days      StnLs B/mkt Pad Plt
+-------------------------------------------------------------------------------------
+HIP 110205/Tokubei Hub        969     93,753  19.33     2.97        572   Yes Lrg  No
+PATOCUDA/Coney Gateway      1,033      7,485  22.69     0.49         97   Yes Lrg  No
+
+--------------------
+MBAYO/Hopkins Plant Buys "Coffee" with H demand and (typically) pays 1712 Cr From...
+--------------------
+
+Station                      Cost      Units DistLy Age/days      StnLs B/mkt Pad Plt
+-------------------------------------------------------------------------------------
+HIP 110205/Tokubei Hub        901    140,796  19.33     2.97        572   Yes Lrg  No
+PATOCUDA/Coney Gateway      1,036     40,958  22.69     0.49         97   Yes Lrg  No
+
+--------------------
+MBAYO/Hopkins Plant Buys "Fish" with H demand and (typically) pays 717 Cr From...
+--------------------
+
+Station                      Cost      Units DistLy Age/days      StnLs B/mkt Pad Plt
+-------------------------------------------------------------------------------------
+HIP 110205/Tokubei Hub        198  2,092,324  19.33     2.97        572   Yes Lrg  No
+PATOCUDA/Coney Gateway        256      2,075  22.69     0.49         97   Yes Lrg  No
+
+--------------------
+MBAYO/Hopkins Plant Buys "Food Cartridges" with L demand and (typically) pays 141 Cr From...
+--------------------
+
+Station                              Cost      Units DistLy Age/days      StnLs B/mkt Pad Plt
+---------------------------------------------------------------------------------------------
+CRATHAJAPUS/Daley City                 13    147,141  24.93    77.90        382    No Lrg  No
+WIRNAKO/Morgan Installation            13     78,722  21.57   140.91        510   Yes Med  No
+WIRNAKO/Cobb Landing                   13     61,191  21.57   131.86        736   Yes Med  No
+SADHEN/Birkeland Platform              13     50,999  24.19     1.84        472   Yes Lrg  No
+BIKO/Stjepan Seljan Settlement         16      9,681   9.93    12.09      1.41K   Yes Lrg  No
+BHADO/Rasmussen Enterprise             27    668,977  13.45    33.86      2.94K   Yes Lrg  No
+HIP 113980/Clapperton Station          27    333,320  17.50    15.01      7.67K   Yes Lrg  No
+BHADO/Napier Station                   27    260,628  13.45    12.11      2.91K   Yes Med  No
+KAKMBUTAN/Gessi Station                27    193,513  17.04    56.23          ?   Yes Med  No
+LODHARY/Anthony Dock                   27    175,710   4.84     3.22         17   Yes Med  No
+HIP 113980/Grimwood Gateway            27    156,728  17.50    12.99      7.71K   Yes Lrg  No
+HIP 113980/Belyanin Ring               27    117,869  17.50    12.99      7.71K   Yes Med  No
+HIP 113980/Pippin Terminal             27     57,148  17.50    79.23      7.61K   Yes Med  No
+HIP 113980/Williams Depot              27     43,207  17.50    14.12          ?     ?   ?   ?
+WIRNAKO/Moffitt Platform               29      5,461  21.57     1.42        405   Yes Lrg  No
+GANDII/Gorbatko Enterprise             30    465,323  22.57   167.98          ?   Yes Med  No
+HARMA/Gabriel Enterprise               34     53,236   5.69     0.21        259   Yes Lrg  No
+HARMA/Celebi City                      39     33,973   5.69     7.72      1.27K   Yes Med  No
+BIKO/Forstchen Horizons                39      4,268   9.93    18.88      2.01K   Yes Med  No
+KAKMBUTAN/MacGregor Orbital            44    278,235  17.04   245.80         75   Yes Lrg  No
+HIP 113495/Sharma Terminal             44    153,680  23.11   380.98          ?   Yes Med  No
+CRATHAJAPUS/Godwin Station             45    127,321  24.93   540.79        382   Yes Med  No
+HARMA/Maybury City                     49     19,119   5.69     0.37      1.29K   Yes Med  No
+PHRACES/Mullane Ring                   51      8,736   8.02    21.74        625   Yes Med  No
+HIP 110776/Puleston Dock               72     10,475  16.59   528.82          ?   Yes Lrg  No
+GANDII/Babbage Station                 76     58,722  22.57    35.93          ?   Yes Med  No
+HIP 113495/Thoreau Station             76     42,864  23.11   122.40         23   Yes Lrg  No
+HIP 113495/Horowitz Port               76     29,736  23.11    12.10          ?   Yes Med  No
+LODHARY/Lagrange Gateway               76     29,600   4.84     5.02          6   Yes Lrg  No
+SADHEN/Barsanti Port                   76      4,848  24.19     5.80        708   Yes Med  No
+SADHEN/Garriott Vision                 76      3,785  24.19     4.28        942   Yes Med  No
+PHRACES/Potter Enterprise              76      1,462   8.02     1.82        375   Yes Lrg  No
+GANDII/Lu Hub                          77     67,186  22.57     6.73      3.60K   Yes Lrg  No
+
+--------------------
+MBAYO/Hopkins Plant Buys "Fruit And Vegetables" with H demand and (typically) pays 595 Cr From...
+--------------------
+
+Station                      Cost      Units DistLy Age/days      StnLs B/mkt Pad Plt
+-------------------------------------------------------------------------------------
+HIP 110205/Tokubei Hub        138    213,529  19.33     2.97        572   Yes Lrg  No
+PATOCUDA/Coney Gateway        198     42,547  22.69     0.49         97   Yes Lrg  No
+
+--------------------
+MBAYO/Hopkins Plant Buys "Grain" with H demand and (typically) pays 450 Cr From...
+--------------------
+
+Station                      Cost      Units DistLy Age/days      StnLs B/mkt Pad Plt
+-------------------------------------------------------------------------------------
+HIP 110205/Tokubei Hub         64  6,803,779  19.33     2.97        572   Yes Lrg  No
+PATOCUDA/Coney Gateway        113     25,686  22.69     0.49         97   Yes Lrg  No
+
+--------------------
+MBAYO/Hopkins Plant Buys "Synthetic Meat" with H demand and (typically) pays 510 Cr From...
+--------------------
+
+Station                      Cost      Units DistLy Age/days      StnLs B/mkt Pad Plt
+-------------------------------------------------------------------------------------
+DEIVE/Obruchev Orbital        136      3,172  21.79     5.79      1.95K   Yes Lrg  No
+
+--------------------
+MBAYO/Hopkins Plant Buys "Tea" with H demand and (typically) pays 1915 Cr From...
+--------------------
+
+Station                      Cost      Units DistLy Age/days      StnLs B/mkt Pad Plt
+-------------------------------------------------------------------------------------
+HIP 110205/Tokubei Hub      1,136     86,113  19.33     2.97        572   Yes Lrg  No
+PATOCUDA/Coney Gateway      1,264     40,745  22.69     0.49         97   Yes Lrg  No
+
+--------------------
+MBAYO/Hopkins Plant Buys "Beer" with H demand and (typically) pays 411 Cr From...
+--------------------
+
+Station                      Cost      Units DistLy Age/days      StnLs B/mkt Pad Plt
+-------------------------------------------------------------------------------------
+HIP 110205/Tokubei Hub         63     87,945  19.33     2.97        572   Yes Lrg  No
+PATOCUDA/Coney Gateway         72      5,739  22.69     0.49         97   Yes Lrg  No
+
+--------------------
+MBAYO/Hopkins Plant Buys "Bootleg Liquor" with H demand and (typically) pays 605 Cr From...
+--------------------
+
+# No available stations found
+
+--------------------
+MBAYO/Hopkins Plant Buys "Liquor" with M demand and (typically) pays 824 Cr From...
+--------------------
+
+Station                              Cost      Units DistLy Age/days      StnLs B/mkt Pad Plt
+---------------------------------------------------------------------------------------------
+HIP 110205/Tokubei Hub                423     11,055  19.33     2.97        572   Yes Lrg  No
+BIKO/Stjepan Seljan Settlement        428        273   9.93    12.09      1.41K   Yes Lrg  No
+HIP 113980/Grimwood Gateway           437      1,457  17.50    12.99      7.71K   Yes Lrg  No
+SADHEN/Birkeland Platform             446      1,073  24.19     1.84        472   Yes Lrg  No
+BIKO/Forstchen Horizons               446        576   9.93    18.88      2.01K   Yes Med  No
+CRATHAJAPUS/Daley City                447      2,698  24.93    77.90        382    No Lrg  No
+PATOCUDA/Coney Gateway                459         26  22.69     0.49         97   Yes Lrg  No
+HIP 113980/Belyanin Ring              462        228  17.50    13.00      7.71K   Yes Med  No
+HIP 113980/Williams Depot             481         86  17.50    14.12          ?     ?   ?   ?
+HIP 113980/Pippin Terminal            484        110  17.50    79.23      7.61K   Yes Med  No
+GANDII/Gorbatko Enterprise            486         44  22.57   167.98          ?   Yes Med  No
+CRATHAJAPUS/Godwin Station            538        479  24.93   540.79        382   Yes Med  No
+WIRNAKO/Morgan Installation           561      1,356  21.57   140.91        510   Yes Med  No
+WIRNAKO/Cobb Landing                  561      1,080  21.57   131.86        736   Yes Med  No
+WIRNAKO/Moffitt Platform              561        181  21.57     1.42        405   Yes Lrg  No
+
+--------------------
+MBAYO/Hopkins Plant Buys "Tobacco" with H demand and (typically) pays 5445 Cr From...
+--------------------
+
+Station                      Cost      Units DistLy Age/days      StnLs B/mkt Pad Plt
+-------------------------------------------------------------------------------------
+HIP 110205/Tokubei Hub      4,297     46,120  19.33     2.97        572   Yes Lrg  No
+PATOCUDA/Coney Gateway      4,408      1,081  22.69     0.49         97   Yes Lrg  No
+
+--------------------
+MBAYO/Hopkins Plant Buys "Wine" with H demand and (typically) pays 510 Cr From...
+--------------------
+
+Station                      Cost      Units DistLy Age/days      StnLs B/mkt Pad Plt
+-------------------------------------------------------------------------------------
+HIP 110205/Tokubei Hub        122     53,215  19.33     2.97        572   Yes Lrg  No
+PATOCUDA/Coney Gateway        153     40,575  22.69     0.49         97   Yes Lrg  No
+
+--------------------
+MBAYO/Hopkins Plant Buys "Microbial Furnaces" with H demand and (typically) pays 442 Cr From...
+--------------------
+
+Station                      Cost      Units DistLy Age/days      StnLs B/mkt Pad Plt
+-------------------------------------------------------------------------------------
+DEIVE/Obruchev Orbital        128      4,799  21.79     5.79      1.95K   Yes Lrg  No
+
+--------------------
+MBAYO/Hopkins Plant Buys "Power Generators" with L demand and (typically) pays 527 Cr From...
+--------------------
+
+Station                              Cost      Units DistLy Age/days      StnLs B/mkt Pad Plt
+---------------------------------------------------------------------------------------------
+WIRNAKO/Morgan Installation           273     41,454  21.57   140.91        510   Yes Med  No
+WIRNAKO/Moffitt Platform              273      1,915  21.57     1.42        405   Yes Lrg  No
+WIRNAKO/Cobb Landing                  274     32,942  21.57   131.86        736   Yes Med  No
+BIKO/Stjepan Seljan Settlement        275      2,928   9.93    12.09      1.41K   Yes Lrg  No
+BHADO/Napier Station                  282    212,904  13.45    12.12      2.91K   Yes Med  No
+KAKMBUTAN/Gessi Station               282    149,691  17.04    56.23          ?   Yes Med  No
+BIKO/Forstchen Horizons               332     35,442   9.93    18.88      2.01K   Yes Med  No
+SADHEN/Birkeland Platform             332     28,905  24.19     1.84        472   Yes Lrg  No
+CRATHAJAPUS/Daley City                333     72,628  24.93    77.90        382    No Lrg  No
+HIP 113980/Grimwood Gateway           334    790,479  17.50    12.99      7.71K   Yes Lrg  No
+HIP 113980/Belyanin Ring              334     24,134  17.50    13.00      7.71K   Yes Med  No
+KAKMBUTAN/MacGregor Orbital           372    464,171  17.04   245.80         75   Yes Lrg  No
+HARMA/Gabriel Enterprise              373    367,880   5.69     0.21        259   Yes Lrg  No
+CRATHAJAPUS/Godwin Station            373    219,773  24.93   540.79        382   Yes Med  No
+BHADO/Rasmussen Enterprise            374     15,402  13.45    33.86      2.94K   Yes Lrg  No
+HIP 113980/Williams Depot             374      8,987  17.50    14.12          ?     ?   ?   ?
+HIP 113980/Pippin Terminal            378     11,803  17.50    79.23      7.61K   Yes Med  No
+GANDII/Gorbatko Enterprise            383      9,203  22.57   167.98          ?   Yes Med  No
+HARMA/Celebi City                     384    281,543   5.69     7.72      1.27K   Yes Med  No
+LODHARY/Anthony Dock                  384     37,522   4.84     3.22         17   Yes Med  No
+HARMA/Maybury City                    399    192,558   5.69     0.37      1.29K   Yes Med  No
+PHRACES/Mullane Ring                  425      4,059   8.02    21.74        625   Yes Med  No
+SADHEN/Barsanti Port                  446      2,769  24.19     5.80        708   Yes Med  No
+SADHEN/Garriott Vision                446      2,261  24.19     4.28        942   Yes Med  No
+PHRACES/Potter Enterprise             446        577   8.02     1.82        375   Yes Lrg  No
+HIP 113495/Thoreau Station            447     13,463  23.11   122.40         23   Yes Lrg  No
+HIP 113495/Horowitz Port              447      9,162  23.11    12.10          ?   Yes Med  No
+LODHARY/Lagrange Gateway              447      5,987   4.84     5.02          6   Yes Lrg  No
+GANDII/Babbage Station                448      1,140  22.57    35.93          ?   Yes Med  No
+GANDII/Lu Hub                         449      1,303  22.57     6.73      3.60K   Yes Lrg  No
+HIP 110776/Puleston Dock              507      2,643  16.59   528.82          ?   Yes Lrg  No
+
+--------------------
+MBAYO/Hopkins Plant Buys "Water Purifiers" with L demand and (typically) pays 300 Cr From...
+--------------------
+
+Station                              Cost      Units DistLy Age/days      StnLs B/mkt Pad Plt
+---------------------------------------------------------------------------------------------
+BHADO/Rasmussen Enterprise            143    977,011  13.45    33.86      2.94K   Yes Lrg  No
+WIRNAKO/Cobb Landing                  145      2,312  21.57   131.86        736   Yes Med  No
+BIKO/Stjepan Seljan Settlement        146    127,120   9.93    12.09      1.41K   Yes Lrg  No
+WIRNAKO/Moffitt Platform              146     82,707  21.57     1.42        405   Yes Lrg  No
+WIRNAKO/Morgan Installation           146      2,903  21.57   140.91        510   Yes Med  No
+HIP 113980/Belyanin Ring              172  1,045,483  17.50    13.00      7.71K   Yes Med  No
+HIP 113980/Grimwood Gateway           172     55,285  17.50    12.99      7.71K   Yes Lrg  No
+SADHEN/Birkeland Platform             177      2,046  24.19     1.84        472   Yes Lrg  No
+CRATHAJAPUS/Daley City                178      5,135  24.93    77.90        382    No Lrg  No
+BIKO/Forstchen Horizons               178      2,503   9.93    18.88      2.01K   Yes Med  No
+HIP 113495/Sharma Terminal            181    473,440  23.11   380.98          ?   Yes Med  No
+PHRACES/Mullane Ring                  195    132,351   8.02    21.74        625   Yes Med  No
+HIP 113980/Williams Depot             195      1,594  17.50    14.12          ?     ?   ?   ?
+HIP 113980/Pippin Terminal            197    517,219  17.50    79.23      7.61K   Yes Med  No
+GANDII/Gorbatko Enterprise            199    403,290  22.57   167.98          ?   Yes Med  No
+PHRACES/Potter Enterprise             200     20,099   8.02     1.82        375   Yes Lrg  No
+HIP 113495/Horowitz Port              200      1,220  23.11    12.10          ?   Yes Med  No
+LODHARY/Lagrange Gateway              200      1,140   4.84     5.02          6   Yes Lrg  No
+SADHEN/Barsanti Port                  200        182  24.19     5.80        708   Yes Med  No
+SADHEN/Garriott Vision                200        149  24.19     4.28        942   Yes Med  No
+GANDII/Lu Hub                         201     58,806  22.57     6.73      3.60K   Yes Lrg  No
+GANDII/Babbage Station                201     46,973  22.57    35.93          ?   Yes Med  No
+HIP 113495/Thoreau Station            201      1,724  23.11   122.40         23   Yes Lrg  No
+CRATHAJAPUS/Godwin Station            205      5,293  24.93   540.79        382   Yes Med  No
+HARMA/Celebi City                     211     22,790   5.69     7.72      1.27K   Yes Med  No
+HIP 110776/Puleston Dock              218    336,116  16.59   528.82          ?   Yes Lrg  No
+KAKMBUTAN/Gessi Station               226      9,177  17.04    56.23          ?   Yes Med  No
+LODHARY/Anthony Dock                  226      8,740   4.84     3.22         17   Yes Med  No
+BHADO/Napier Station                  227     12,289  13.45    12.12      2.91K   Yes Med  No
+KAKMBUTAN/MacGregor Orbital           238     11,355  17.04   245.80         75   Yes Lrg  No
+
+--------------------
+MBAYO/Hopkins Plant Buys "Advanced Medicines" with H demand and (typically) pays 1563 Cr From...
+--------------------
+
+# No available stations found
+
+--------------------
+MBAYO/Hopkins Plant Buys "Basic Medicines" with L demand and (typically) pays 315 Cr From...
+--------------------
+
+Station                              Cost      Units DistLy Age/days      StnLs B/mkt Pad Plt
+---------------------------------------------------------------------------------------------
+BHADO/Napier Station                  149     23,644  13.45    12.12      2.91K   Yes Med  No
+BHADO/Rasmussen Enterprise            150     61,887  13.45    33.87      2.94K   Yes Lrg  No
+KAKMBUTAN/Gessi Station               157     16,223  17.04    56.23          ?   Yes Med  No
+WIRNAKO/Morgan Installation           161      4,831  21.57   140.91        510   Yes Med  No
+WIRNAKO/Cobb Landing                  161      3,841  21.57   131.86        736   Yes Med  No
+BIKO/Stjepan Seljan Settlement        174      3,631   9.93    12.09      1.41K   Yes Lrg  No
+WIRNAKO/Moffitt Platform              174      2,361  21.57     1.42        405   Yes Lrg  No
+HIP 113980/Grimwood Gateway           186     36,416  17.50    12.99      7.71K   Yes Lrg  No
+HIP 113980/Belyanin Ring              186     27,683  17.50    13.00      7.71K   Yes Med  No
+HIP 113495/Sharma Terminal            193     28,394  23.11   380.98          ?   Yes Med  No
+SADHEN/Birkeland Platform             193      3,361  24.19     1.84        472   Yes Lrg  No
+KAKMBUTAN/MacGregor Orbital           194     52,404  17.04   245.80         75   Yes Lrg  No
+CRATHAJAPUS/Daley City                194      8,452  24.93    77.90        382    No Lrg  No
+CRATHAJAPUS/Godwin Station            195     24,088  24.93   540.79        382   Yes Med  No
+HARMA/Gabriel Enterprise              203     16,638   5.69     0.21        259   Yes Lrg  No
+BIKO/Forstchen Horizons               203      1,740   9.93    18.88      2.01K   Yes Med  No
+HIP 113980/Williams Depot             206      5,042  17.50    14.12          ?     ?   ?   ?
+HARMA/Celebi City                     209     12,619   5.69     7.72      1.27K   Yes Med  No
+GANDII/Gorbatko Enterprise            211     25,721  22.57   167.98          ?   Yes Med  No
+HIP 113980/Pippin Terminal            212     13,470  17.50    79.23      7.61K   Yes Med  No
+LODHARY/Anthony Dock                  214     10,698   4.84     3.22         17   Yes Med  No
+HARMA/Maybury City                    217      8,493   5.69     0.37      1.29K   Yes Med  No
+PHRACES/Mullane Ring                  218      3,688   8.02    21.74        625   Yes Med  No
+HIP 110776/Puleston Dock              285      1,485  16.59   528.82          ?   Yes Lrg  No
+
+--------------------
+MBAYO/Hopkins Plant Buys "Performance Enhancers" with H demand and (typically) pays 7480 Cr From...
+--------------------
+
+# No available stations found
+
+--------------------
+MBAYO/Hopkins Plant Buys "Progenitor Cells" with H demand and (typically) pays 7405 Cr From...
+--------------------
+
+Station                      Cost      Units DistLy Age/days      StnLs B/mkt Pad Plt
+-------------------------------------------------------------------------------------
+DEIVE/Obruchev Orbital      6,765        209  21.79     5.79      1.95K   Yes Lrg  No
+
+--------------------
+MBAYO/Hopkins Plant Buys "Bauxite" with L demand and (typically) pays 152 Cr From...
+--------------------
+
+Station                             Cost      Units DistLy Age/days      StnLs B/mkt Pad Plt
+--------------------------------------------------------------------------------------------
+HIP 111657/Narvaez's Claim            32      8,964  13.76    18.23      1.74K    No Med  No
+BHADO/Napier Station                  36    569,343  13.45    12.12      2.91K   Yes Med  No
+PATOCUDA/Auer Station                 38 20,947,793  22.69    35.80         16   Yes Med  No
+PATOCUDA/Bentham Hub                  38  5,876,053  22.69     5.95      1.83K   Yes Lrg  No
+PATOCUDA/Morrow's Inheritance         51     64,137  22.69    12.80         16   Yes Lrg Yes
+PATOCUDA/Hausdorff Hub                52    233,954  22.69     6.60      1.48K   Yes Med  No
+BHADO/Rasmussen Enterprise            54    171,856  13.45    33.87      2.94K   Yes Lrg  No
+PANDINUS/Bulychev Mines               54     70,296  21.16   141.91         29   Yes Med  No
+KAMCHANDIKA/Fozard Mines              55     29,458  11.01    51.99         32   Yes Lrg Yes
+SAN KUNG/Cabrera Landing              55     28,411  24.70    48.16          ?   Yes Med  No
+PATOCUDA/Bao Orbital                  64    272,801  22.69    14.23         29   Yes Med  No
+PATOCUDA/Noon Enterprise              64    252,712  22.69    15.07         53   Yes Med  No
+PATOCUDA/Fernao Do Po Port            64    139,424  22.69     6.58      1.47K   Yes Lrg  No
+LODHARY/Anthony Dock                  70    258,795   4.84     3.22         17   Yes Med  No
+HIP 113894/Cheli Survey               70     19,912  17.00    66.65          ?    No Med  No
+PHRACES/Mullane Ring                  70      8,514   8.02    21.74        625   Yes Med  No
+KAKMBUTAN/Gessi Station               71     10,919  17.04    56.23          ?   Yes Med  No
+HIP 110776/Puleston Dock              75    512,140  16.59   528.82          ?   Yes Lrg  No
+SAONTIANA/Barjavel Port               76     54,203  10.27     9.90         12   Yes Med  No
+FENRICHA/Pinzon Stop                  76     14,923  23.78   519.73        668   Yes Med  No
+KAKMBUTAN/MacGregor Orbital           76      7,627  17.04   245.80         75   Yes Lrg  No
+KALUFON/Slayton Terminal              77        188  20.08   536.76        295   Yes Med  No
+TAPIYAN/Bachman Beacon                78     53,570  24.31   691.31          ?   Yes Med  No
+TAPIYAN/Grant Stop                    79     80,361  24.31   691.32          ?   Yes Med  No
+WATTUNUKAM/Drew Base                  83     18,250  22.33   115.91          ?   Yes Med  No
+LODHARY/Lagrange Gateway              84        535   4.84     5.02          6   Yes Lrg  No
+CELEVIK/Clervoy Orbital               86     56,066  21.02   337.10        391   Yes Med  No
+PHRACES/Potter Enterprise             86      8,825   8.02     1.82        375   Yes Lrg  No
+SAONTIANA/Kirtley Platform            94     23,538  10.27     7.61         21   Yes Med  No
+KRISHA/Fincke Depot                   94     22,168  11.93     0.26         14   Yes Med  No
+WARLA/Robinson Landing                95     56,339  22.87   248.04          ?   Yes Med  No
+HIP 113894/Otto Base                  95     15,870  17.00    78.22          ?   Yes Med  No
+WATTUNUKAM/Redi Mine                  95        609  22.33   119.10          ?   Yes Med  No
+PANDINUS/Saberhagen Station           96     30,978  21.16    23.64         51   Yes Med  No
+UADJARII/O'Donnell Colony             97     27,401   3.78     1.36         12   Yes Med  No
+WARLA/Dayuan Landing                  98     19,364  22.87     9.06         16   Yes Med  No
+KRISHA/Garan Survey                  103     17,230  11.93    34.99         26   Yes Med  No
+
+--------------------
+MBAYO/Hopkins Plant Buys "Bertrandite" with L demand and (typically) pays 2439 Cr From...
+--------------------
+
+Station                             Cost      Units DistLy Age/days      StnLs B/mkt Pad Plt
+--------------------------------------------------------------------------------------------
+PATOCUDA/Bao Orbital               1,976  1,061,015  22.69    14.23         29   Yes Med  No
+PATOCUDA/Noon Enterprise           1,976    976,097  22.69    15.07         53   Yes Med  No
+PATOCUDA/Hausdorff Hub             1,976    851,677  22.69     6.60      1.48K   Yes Med  No
+PATOCUDA/Fernao Do Po Port         1,976    497,183  22.69     6.58      1.47K   Yes Lrg  No
+PATOCUDA/Auer Station              1,976    363,705  22.69    35.80         16   Yes Med  No
+HIP 111657/Narvaez's Claim         2,016        216  13.76    18.23      1.74K    No Med  No
+PATOCUDA/Morrow's Inheritance      2,071     15,580  22.69    12.80         16   Yes Lrg Yes
+PATOCUDA/Bentham Hub               2,078    202,475  22.69     5.95      1.83K   Yes Lrg  No
+KAMCHANDIKA/Fozard Mines           2,099      7,008  11.01    51.99         32   Yes Lrg Yes
+BHADO/Rasmussen Enterprise         2,101     10,422  13.45    33.87      2.94K   Yes Lrg  No
+SAN KUNG/Cabrera Landing           2,104        841  24.70    48.16          ?   Yes Med  No
+PHRACES/Mullane Ring               2,221     15,118   8.02    21.74        625   Yes Med  No
+KAKMBUTAN/Gessi Station            2,225     25,854  17.04    56.23          ?   Yes Med  No
+LODHARY/Anthony Dock               2,225     18,467   4.84     3.22         17   Yes Med  No
+MBOLGARGL/Priest Landing           2,228      9,708  18.52   539.77          ?    No Med  No
+BHADO/Napier Station               2,229      8,653  13.45    12.12      2.91K   Yes Med  No
+KAKMBUTAN/MacGregor Orbital        2,330     13,546  17.04   245.80         75   Yes Lrg  No
+KALUFON/Slayton Terminal           2,345        349  20.08   536.76        295   Yes Med  No
+FENRICHA/Pinzon Stop               2,360        176  23.78   519.73        668   Yes Med  No
+TAPIYAN/Bachman Beacon             2,413        723  24.31   691.31          ?   Yes Med  No
+MBOLGARGL/Elder Mine               2,421      5,205  18.52   308.90          ?    No Med  No
+WATTUNUKAM/Drew Base               2,436      1,660  22.33   115.91          ?   Yes Med  No
+
+--------------------
+MBAYO/Hopkins Plant Buys "Coltan" with L demand and (typically) pays 1370 Cr From...
+--------------------
+
+Station                             Cost      Units DistLy Age/days      StnLs B/mkt Pad Plt
+--------------------------------------------------------------------------------------------
+HIP 111657/Narvaez's Claim           972        365  13.76    18.23      1.74K    No Med  No
+PATOCUDA/Auer Station              1,020  1,498,211  22.69    35.80         16   Yes Med  No
+PATOCUDA/Bao Orbital               1,063    334,270  22.69    14.23         29   Yes Med  No
+PATOCUDA/Noon Enterprise           1,077    300,595  22.69    15.07         53   Yes Med  No
+PATOCUDA/Morrow's Inheritance      1,090     32,111  22.69    12.80         16   Yes Lrg Yes
+PATOCUDA/Hausdorff Hub             1,100    232,592  22.69     6.60      1.48K   Yes Med  No
+KAMCHANDIKA/Fozard Mines           1,108     13,925  11.01    51.99         32   Yes Lrg Yes
+BHADO/Rasmussen Enterprise         1,109     17,149  13.45    33.87      2.94K   Yes Lrg  No
+SAN KUNG/Cabrera Landing           1,111      1,336  24.70    48.16          ?   Yes Med  No
+PATOCUDA/Bentham Hub               1,170    130,890  22.69     5.95      1.83K   Yes Lrg  No
+PATOCUDA/Fernao Do Po Port         1,170    130,890  22.69     6.58      1.47K   Yes Lrg  No
+PHRACES/Mullane Ring               1,195      7,991   8.02    21.74        625   Yes Med  No
+LODHARY/Anthony Dock               1,197     48,932   4.84     3.22         17   Yes Med  No
+KAKMBUTAN/Gessi Station            1,198     10,250  17.04    56.23          ?   Yes Med  No
+BHADO/Napier Station               1,200     13,724  13.45    12.12      2.91K   Yes Med  No
+KAKMBUTAN/MacGregor Orbital        1,260      7,161  17.04   245.80         75   Yes Lrg  No
+WATTUNUKAM/Drew Base               1,267      3,647  22.33   115.91          ?   Yes Med  No
+KALUFON/Slayton Terminal           1,278        184  20.08   536.76        295   Yes Med  No
+FENRICHA/Pinzon Stop               1,279        140  23.78   519.73        668   Yes Med  No
+HIP 113894/Cheli Survey            1,318      4,110  17.00    66.65          ?    No Med  No
+TAPIYAN/Bachman Beacon             1,341        663  24.31   691.31          ?   Yes Med  No
+UADJARII/O'Donnell Colony          1,342      5,177   3.78     1.36         12   Yes Med  No
+
+--------------------
+MBAYO/Hopkins Plant Buys "Cryolite" with H demand and (typically) pays 2886 Cr From...
+--------------------
+
+Station                             Cost      Units DistLy Age/days      StnLs B/mkt Pad Plt
+--------------------------------------------------------------------------------------------
+PATOCUDA/Morrow's Inheritance      1,796     35,814  22.69    12.80         16   Yes Lrg Yes
+KAMCHANDIKA/Fozard Mines           1,821     15,559  11.01    51.99         32   Yes Lrg Yes
+
+--------------------
+MBAYO/Hopkins Plant Buys "Gallite" with L demand and (typically) pays 1883 Cr From...
+--------------------
+
+Station                             Cost      Units DistLy Age/days      StnLs B/mkt Pad Plt
+--------------------------------------------------------------------------------------------
+PATOCUDA/Bao Orbital               1,475  1,554,890  22.69    14.23         29   Yes Med  No
+PATOCUDA/Noon Enterprise           1,475  1,424,585  22.69    15.07         53   Yes Med  No
+PATOCUDA/Hausdorff Hub             1,475  1,222,147  22.69     6.60      1.48K   Yes Med  No
+HIP 111657/Narvaez's Claim         1,501        280  13.76    18.23      1.74K    No Med  No
+PATOCUDA/Fernao Do Po Port         1,504    689,699  22.69     6.58      1.47K   Yes Lrg  No
+PATOCUDA/Morrow's Inheritance      1,558     24,729  22.69    12.80         16   Yes Lrg Yes
+PATOCUDA/Auer Station              1,574    369,948  22.69    35.80         16   Yes Med  No
+KAMCHANDIKA/Fozard Mines           1,582     10,753  11.01    51.99         32   Yes Lrg Yes
+BHADO/Rasmussen Enterprise         1,583     26,582  13.45    33.87      2.94K   Yes Lrg  No
+SAN KUNG/Cabrera Landing           1,585      1,031  24.70    48.16          ?   Yes Med  No
+KAKMBUTAN/Gessi Station            1,590     46,784  17.04    56.23          ?   Yes Med  No
+PATOCUDA/Bentham Hub               1,660    203,449  22.69     5.95      1.83K   Yes Lrg  No
+PHRACES/Mullane Ring               1,687     30,931   8.02    21.74        625   Yes Med  No
+LODHARY/Anthony Dock               1,690      7,532   4.84     3.22         17   Yes Med  No
+BHADO/Napier Station               1,693     10,593  13.45    12.12      2.91K   Yes Med  No
+KAKMBUTAN/MacGregor Orbital        1,773     27,716  17.04   245.80         75   Yes Lrg  No
+KALUFON/Slayton Terminal           1,784        714  20.08   536.76        295   Yes Med  No
+HIP 113699/Weston Dock             1,788      4,849  22.40   338.66       319K   Yes Med  No
+WATTUNUKAM/Drew Base               1,798        596  22.33   115.91          ?   Yes Med  No
+FENRICHA/Pinzon Stop               1,798        217  23.78   519.73        668   Yes Med  No
+MBOLGARGL/Elder Mine               1,805      2,753  18.52   308.90          ?    No Med  No
+KONSU/Lind Terminal                1,814      4,315  18.12     2.06      4.05K   Yes Med  No
+TAPIYAN/Grant Stop                 1,815      1,211  24.31   691.32          ?   Yes Med  No
+PARHUA/Chalker Settlement          1,823      4,912  14.92    20.47         93   Yes Med  No
+PANDINUS/Saberhagen Station        1,848      1,724  21.16    23.64         51   Yes Med  No
+MBOLGARGL/Priest Landing           1,850      4,731  18.52   539.77          ?    No Med  No
+CH'U TI/Snyder Landing             1,861      2,111  22.07   381.67        480   Yes Med  No
+
+--------------------
+MBAYO/Hopkins Plant Buys "Goslarite" with H demand and (typically) pays 1290 Cr From...
+--------------------
+
+Station                             Cost      Units DistLy Age/days      StnLs B/mkt Pad Plt
+--------------------------------------------------------------------------------------------
+PATOCUDA/Morrow's Inheritance        621      9,727  22.69    12.80         16   Yes Lrg Yes
+KAMCHANDIKA/Fozard Mines             634      4,196  11.01    51.99         32   Yes Lrg Yes
+
+--------------------
+MBAYO/Hopkins Plant Buys "Indite" with L demand and (typically) pays 2142 Cr From...
+--------------------
+
+Station                             Cost      Units DistLy Age/days      StnLs B/mkt Pad Plt
+--------------------------------------------------------------------------------------------
+HIP 111657/Narvaez's Claim         1,653      1,247  13.76    18.23      1.74K    No Med  No
+PATOCUDA/Auer Station              1,706  1,310,221  22.69    35.80         16   Yes Med  No
+PATOCUDA/Bentham Hub               1,706    713,749  22.69     5.95      1.83K   Yes Lrg  No
+PATOCUDA/Morrow's Inheritance      1,796      4,431  22.69    12.80         16   Yes Lrg Yes
+PANDINUS/Bulychev Mines            1,800      8,870  21.16   141.91         29   Yes Med  No
+PATOCUDA/Bao Orbital               1,813    213,818  22.69    14.23         29   Yes Med  No
+PATOCUDA/Hausdorff Hub             1,813    160,980  22.69     6.60      1.48K   Yes Med  No
+KAMCHANDIKA/Fozard Mines           1,822      1,931  11.01    51.99         32   Yes Lrg Yes
+BHADO/Rasmussen Enterprise         1,823     11,866  13.45    33.87      2.94K   Yes Lrg  No
+SAN KUNG/Cabrera Landing           1,825        928  24.70    48.16          ?   Yes Med  No
+PATOCUDA/Noon Enterprise           1,835    190,392  22.69    15.07         53   Yes Med  No
+BHADO/Napier Station               1,881     52,864  13.45    12.12      2.91K   Yes Med  No
+PATOCUDA/Fernao Do Po Port         1,907     91,052  22.69     6.58      1.47K   Yes Lrg  No
+PHRACES/Mullane Ring               1,935      5,555   8.02    21.74        625   Yes Med  No
+KAKMBUTAN/Gessi Station            1,939      7,129  17.04    56.23          ?   Yes Med  No
+LODHARY/Anthony Dock               1,939      6,788   4.84     3.22         17   Yes Med  No
+HIP 110776/Puleston Dock           2,015     34,689  16.59   528.82          ?   Yes Lrg  No
+KAKMBUTAN/MacGregor Orbital        2,032      4,979  17.04   245.80         75   Yes Lrg  No
+FENRICHA/Pinzon Stop               2,044        984  23.78   519.73        668   Yes Med  No
+SAONTIANA/Barjavel Port            2,049      8,736  10.27     9.90         12   Yes Med  No
+KALUFON/Slayton Terminal           2,056        129  20.08   536.76        295   Yes Med  No
+TAPIYAN/Grant Stop                 2,088      5,601  24.31   691.32          ?   Yes Med  No
+MBOLGARGL/Priest Landing           2,102        809  18.52   539.77          ?    No Med  No
+TAPIYAN/Bachman Beacon             2,119      4,236  24.31   691.31          ?   Yes Med  No
+
+--------------------
+MBAYO/Hopkins Plant Buys "Lepidolite" with L demand and (typically) pays 589 Cr From...
+--------------------
+
+Station                             Cost      Units DistLy Age/days      StnLs B/mkt Pad Plt
+--------------------------------------------------------------------------------------------
+PATOCUDA/Bentham Hub                 366  1,831,660  22.69     5.95      1.83K   Yes Lrg  No
+PATOCUDA/Bao Orbital                 366  1,789,976  22.69    14.23         29   Yes Med  No
+PATOCUDA/Noon Enterprise             366  1,651,619  22.69    15.07         53   Yes Med  No
+PATOCUDA/Hausdorff Hub               366  1,535,266  22.69     6.60      1.48K   Yes Med  No
+PATOCUDA/Fernao Do Po Port           366    871,319  22.69     6.58      1.47K   Yes Lrg  No
+HIP 111657/Narvaez's Claim           378         76  13.76    18.23      1.74K    No Med  No
+PATOCUDA/Morrow's Inheritance        407     52,217  22.69    12.80         16   Yes Lrg Yes
+PATOCUDA/Auer Station                411     98,438  22.69    35.80         16   Yes Med  No
+PANDINUS/Bulychev Mines              413     20,927  21.16   141.91         29   Yes Med  No
+BHADO/Rasmussen Enterprise           417     34,932  13.45    33.87      2.94K   Yes Lrg  No
+KAMCHANDIKA/Fozard Mines             417     22,838  11.01    51.99         32   Yes Lrg Yes
+SAN KUNG/Cabrera Landing             426        274  24.70    48.16          ?   Yes Med  No
+PHRACES/Mullane Ring                 467     65,691   8.02    21.74        625   Yes Med  No
+KAKMBUTAN/Gessi Station              468     42,123  17.04    56.23          ?   Yes Med  No
+LODHARY/Anthony Dock                 468      2,015   4.84     3.22         17   Yes Med  No
+BHADO/Napier Station                 469      2,833  13.45    12.12      2.91K   Yes Med  No
+KAKMBUTAN/MacGregor Orbital          497     58,859  17.04   245.80         75   Yes Lrg  No
+FENRICHA/Pinzon Stop                 500      2,889  23.78   519.73        668   Yes Med  No
+KALUFON/Slayton Terminal             500      1,517  20.08   536.76        295   Yes Med  No
+SAONTIANA/Barjavel Port              503     18,949  10.27     9.90         12   Yes Med  No
+TAPIYAN/Bachman Beacon               505     10,374  24.31   691.31          ?   Yes Med  No
+MBOLGARGL/Priest Landing             506      8,443  18.52   539.77          ?    No Med  No
+TAPIYAN/Grant Stop                   518     16,456  24.31   691.32          ?   Yes Med  No
+HIP 113699/Weston Dock               520     11,445  22.40   338.66       319K   Yes Med  No
+SAONTIANA/Kirtley Platform           531      6,946  10.27     7.61         21   Yes Med  No
+CELEVIK/Clervoy Orbital              533     10,853  21.02   337.10        391   Yes Med  No
+MBOLGARGL/Elder Mine                 534      7,103  18.52   308.90          ?    No Med  No
+GLIESE 1272/Barnes Port              545    403,078  12.85    80.70        164   Yes Med  No
+UADJARII/Asimov Platform             545      5,583   3.78    11.95         22   Yes Med  No
+PARHUA/Chalker Settlement            557     11,604  14.92    20.47         93   Yes Med  No
+PANDINUS/Saberhagen Station          557     10,071  21.16    23.64         51   Yes Med  No
+HIP 110776/Puleston Dock             560        607  16.59   528.82          ?   Yes Lrg  No
+LODHARY/Lagrange Gateway             569      6,077   4.84     5.02          6   Yes Lrg  No
+PHRACES/Potter Enterprise            576        127   8.02     1.82        375   Yes Lrg  No
+
+--------------------
+MBAYO/Hopkins Plant Buys "Lithium Hydroxide" with H demand and (typically) pays 5806 Cr From...
+--------------------
+
+# No available stations found
+
+--------------------
+MBAYO/Hopkins Plant Buys "Low Temperature Diamonds" with H demand and (typically) pays 57262 Cr From...
+--------------------
+
+# No available stations found
+
+--------------------
+MBAYO/Hopkins Plant Buys "Methane Clathrate" with H demand and (typically) pays 664 Cr From...
+--------------------
+
+# No available stations found
+
+--------------------
+MBAYO/Hopkins Plant Buys "Painite" with H demand and (typically) pays 40294 Cr From...
+--------------------
+
+# No available stations found
+
+--------------------
+MBAYO/Hopkins Plant Buys "Pyrophyllite" with H demand and (typically) pays 2066 Cr From...
+--------------------
+
+Station                             Cost      Units DistLy Age/days      StnLs B/mkt Pad Plt
+--------------------------------------------------------------------------------------------
+PATOCUDA/Morrow's Inheritance      1,176      8,336  22.69    12.80         16   Yes Lrg Yes
+KAMCHANDIKA/Fozard Mines           1,196      3,590  11.01    51.99         32   Yes Lrg Yes
+
+--------------------
+MBAYO/Hopkins Plant Buys "Rutile" with L demand and (typically) pays 330 Cr From...
+--------------------
+
+Station                             Cost      Units DistLy Age/days      StnLs B/mkt Pad Plt
+--------------------------------------------------------------------------------------------
+HIP 111657/Narvaez's Claim           157      3,119  13.76    18.23      1.74K    No Med  No
+BHADO/Napier Station                 164    202,546  13.45    12.12      2.91K   Yes Med  No
+BHADO/Rasmussen Enterprise           165     74,857  13.45    33.87      2.94K   Yes Lrg  No
+PATOCUDA/Auer Station                170  6,280,356  22.69    35.80         16   Yes Med  No
+HIP 113894/Cheli Survey              177      6,779  17.00    66.65          ?    No Med  No
+PATOCUDA/Morrow's Inheritance        197     22,346  22.69    12.80         16   Yes Lrg Yes
+PATOCUDA/Hausdorff Hub               199    811,015  22.69     6.60      1.48K   Yes Med  No
+KAMCHANDIKA/Fozard Mines             204     10,029  11.01    51.99         32   Yes Lrg Yes
+SAN KUNG/Cabrera Landing             204      4,833  24.70    48.16          ?   Yes Med  No
+PATOCUDA/Bao Orbital                 222    949,845  22.69    14.23         29   Yes Med  No
+PATOCUDA/Noon Enterprise             225    856,136  22.69    15.07         53   Yes Med  No
+PATOCUDA/Bentham Hub                 225    472,344  22.69     5.95      1.83K   Yes Lrg  No
+PATOCUDA/Fernao Do Po Port           225    472,344  22.69     6.58      1.47K   Yes Lrg  No
+PHRACES/Mullane Ring                 237     28,847   8.02    21.74        625   Yes Med  No
+LODHARY/Anthony Dock                 238     88,103   4.84     3.22         17   Yes Med  No
+KAKMBUTAN/Gessi Station              238     37,000  17.04    56.23          ?   Yes Med  No
+KAKMBUTAN/MacGregor Orbital          251     25,848  17.04   245.80         75   Yes Lrg  No
+WATTUNUKAM/Drew Base                 252      5,938  22.33   115.91          ?   Yes Med  No
+KALUFON/Slayton Terminal             252        667  20.08   536.76        295   Yes Med  No
+FENRICHA/Pinzon Stop                 252        507  23.78   519.73        668   Yes Med  No
+HIP 110776/Puleston Dock             256    162,360  16.59   528.82          ?   Yes Lrg  No
+HIP 113699/Weston Dock               263      4,893  22.40   338.66       319K   Yes Med  No
+SAONTIANA/Barjavel Port              265      8,318  10.27     9.90         12   Yes Med  No
+MBOLGARGL/Elder Mine                 271      2,974  18.52   308.90          ?    No Med  No
+LODHARY/Lagrange Gateway             271      2,204   4.84     5.02          6   Yes Lrg  No
+PHRACES/Potter Enterprise            275      1,827   8.02     1.82        375   Yes Lrg  No
+UADJARII/O'Donnell Colony            283      8,717   3.78     1.36         12   Yes Med  No
+GLIESE 1272/Gregory Terminal         284    494,489  12.85    33.94        200   Yes Med  No
+KRISHA/Garan Survey                  290      5,174  11.93    34.99         26   Yes Med  No
+WARLA/Robinson Landing               292     17,916  22.87   248.04          ?   Yes Med  No
+PANDINUS/Saberhagen Station          293      4,215  21.16    23.64         51   Yes Med  No
+PARHUA/Chalker Settlement            294      4,958  14.92    20.47         93   Yes Med  No
+WARLA/Dayuan Landing                 296      6,592  22.87     9.06         16   Yes Med  No
+WATTUNUKAM/Redi Mine                 297        223  22.33   119.10          ?   Yes Med  No
+KRISHA/Fincke Depot                  306      8,746  11.93     0.26         14   Yes Med  No
+
+--------------------
+MBAYO/Hopkins Plant Buys "Uraninite" with L demand and (typically) pays 889 Cr From...
+--------------------
+
+Station                             Cost      Units DistLy Age/days      StnLs B/mkt Pad Plt
+--------------------------------------------------------------------------------------------
+HIP 111657/Narvaez's Claim           588      2,549  13.76    18.23      1.74K    No Med  No
+BHADO/Napier Station                 603    144,163  13.45    12.12      2.91K   Yes Med  No
+PATOCUDA/Auer Station                615  5,833,177  22.69    35.80         16   Yes Med  No
+PATOCUDA/Bao Orbital                 639    491,743  22.69    14.23         29   Yes Med  No
+PATOCUDA/Noon Enterprise             649    443,428  22.69    15.07         53   Yes Med  No
+PATOCUDA/Morrow's Inheritance        669      9,138  22.69    12.80         16   Yes Lrg Yes
+PATOCUDA/Hausdorff Hub               676    331,840  22.69     6.60      1.48K   Yes Med  No
+KAMCHANDIKA/Fozard Mines             683      3,984  11.01    51.99         32   Yes Lrg Yes
+BHADO/Rasmussen Enterprise           684     24,466  13.45    33.87      2.94K   Yes Lrg  No
+SAN KUNG/Cabrera Landing             684      9,609  24.70    48.16          ?   Yes Med  No
+PANDINUS/Bulychev Mines              686      3,928  21.16   141.91         29   Yes Med  No
+PATOCUDA/Bentham Hub                 729    187,798  22.69     5.95      1.83K   Yes Lrg  No
+PATOCUDA/Fernao Do Po Port           729    187,798  22.69     6.58      1.47K   Yes Lrg  No
+PHRACES/Mullane Ring                 749     11,468   8.02    21.74        625   Yes Med  No
+KAKMBUTAN/Gessi Station              751     14,710  17.04    56.23          ?   Yes Med  No
+LODHARY/Anthony Dock                 751     14,010   4.84     3.22         17   Yes Med  No
+KAKMBUTAN/MacGregor Orbital          783     10,273  17.04   245.80         75   Yes Lrg  No
+HIP 110776/Puleston Dock             792     65,624  16.59   528.82          ?   Yes Lrg  No
+KALUFON/Slayton Terminal             795        265  20.08   536.76        295   Yes Med  No
+FENRICHA/Pinzon Stop                 795        202  23.78   519.73        668   Yes Med  No
+CELEVIK/Dirac Dock                   814      8,620  21.02   446.65        541   Yes Med  No
+MBOLGARGL/Priest Landing             820      1,669  18.52   539.77          ?    No Med  No
+TAPIYAN/Grant Stop                   822      1,212  24.31   691.32          ?   Yes Med  No
+WARLA/Robinson Landing               872      7,112  22.87   248.04          ?   Yes Med  No
+KONSU/Lind Terminal                  876      1,155  18.12     2.06      4.05K   Yes Med  No
+WARLA/Dayuan Landing                 887      5,686  22.87     9.06         16   Yes Med  No
+KRISHA/Fincke Depot                  888      6,952  11.93     0.26         14   Yes Med  No
+KRISHA/Garan Survey                  888      4,660  11.93    34.99         26   Yes Med  No
+
+--------------------
+MBAYO/Hopkins Plant Buys "Imperial Slaves" with L demand and (typically) pays 15678 Cr From...
+--------------------
+
+Station                          Cost      Units DistLy Age/days      StnLs B/mkt Pad Plt
+-----------------------------------------------------------------------------------------
+HIP 110205/Tokubei Hub         15,353    583,058  19.33     2.97        572   Yes Lrg  No
+BHADO/Rasmussen Enterprise     15,541     46,011  13.45    33.87      2.94K   Yes Lrg  No
+GANDII/Gorbatko Enterprise     15,599     30,461  22.57   167.98          ?   Yes Med  No
+
+--------------------
+MBAYO/Hopkins Plant Buys "Advanced Catalysers" with H demand and (typically) pays 3629 Cr From...
+--------------------
+
+Station                      Cost      Units DistLy Age/days      StnLs B/mkt Pad Plt
+-------------------------------------------------------------------------------------
+DEIVE/Obruchev Orbital      2,770     18,773  21.79     5.79      1.95K   Yes Lrg  No
+
+--------------------
+MBAYO/Hopkins Plant Buys "H.E. Suits" with H demand and (typically) pays 541 Cr From...
+--------------------
+
+# No available stations found
+
+--------------------
+MBAYO/Hopkins Plant Buys "Resonating Separators" with H demand and (typically) pays 6875 Cr From...
+--------------------
+
+Station                      Cost      Units DistLy Age/days      StnLs B/mkt Pad Plt
+-------------------------------------------------------------------------------------
+DEIVE/Obruchev Orbital      5,886     12,171  21.79     5.79      1.95K   Yes Lrg  No
+
+--------------------
+MBAYO/Hopkins Plant Buys "Chemical Waste" with H demand and (typically) pays 142 Cr From...
+--------------------
+
+# No available stations found
+
+--------------------
+MBAYO/Hopkins Plant Buys "Scrap" with L demand and (typically) pays 70 Cr From...
+--------------------
+
+Station                                Cost      Units DistLy Age/days      StnLs B/mkt Pad Plt
+-----------------------------------------------------------------------------------------------
+SADHEN/Barsanti Port                      9     33,538  24.19     5.80        708   Yes Med  No
+SADHEN/Garriott Vision                    9     26,392  24.19     4.28        942   Yes Med  No
+CRATHAJAPUS/Daley City                   13     87,688  24.93    77.90        382    No Lrg  No
+BIKO/Stjepan Seljan Settlement           13     64,860   9.93    12.09      1.41K   Yes Lrg  No
+WIRNAKO/Moffitt Platform                 13     41,223  21.57     1.42        405   Yes Lrg  No
+WIRNAKO/Morgan Installation              13     36,213  21.57   140.91        510   Yes Med  No
+SADHEN/Birkeland Platform                13     31,918  24.19     1.84        472   Yes Lrg  No
+GANDII/Babbage Station                   15    149,251  22.57    35.93          ?   Yes Med  No
+HIP 113495/Thoreau Station               15    125,178  23.11   122.40         23   Yes Lrg  No
+GANDII/Lu Hub                            16    168,844  22.57     6.73      3.60K   Yes Lrg  No
+WIRNAKO/Cobb Landing                     17     25,676  21.57   131.86        736   Yes Med  No
+HIP 113495/Horowitz Port                 18     81,753  23.11    12.10          ?   Yes Med  No
+PHRACES/Potter Enterprise                18     40,352   8.02     1.82        375   Yes Lrg  No
+LODHARY/Lagrange Gateway                 19     54,050   4.84     5.03          6   Yes Lrg  No
+DEIVE/Obruchev Orbital                   20     54,378  21.79     5.79      1.95K   Yes Lrg  No
+HIP 113980/Grimwood Gateway              21    445,690  17.50    12.99      7.71K   Yes Lrg  No
+HIP 113980/Belyanin Ring                 21    334,589  17.50    13.00      7.71K   Yes Med  No
+HIP 113980/Pippin Terminal               21    168,782  17.50    79.23      7.61K   Yes Med  No
+BHADO/Rasmussen Enterprise               21    160,575  13.45    33.87      2.94K   Yes Lrg  No
+HIP 113980/Clapperton Station            21     74,873  17.50    15.01      7.67K   Yes Lrg  No
+HIP 113980/Dantec Station                21     74,873  17.50    14.13      7.59K   Yes Med  No
+BHADO/Napier Station                     21     62,638  13.45    12.12      2.91K   Yes Med  No
+KAKMBUTAN/Gessi Station                  21     41,562  17.04    56.23          ?   Yes Med  No
+BIKO/Forstchen Horizons                  22     30,575   9.93    18.88      2.01K   Yes Med  No
+GANDII/Gorbatko Enterprise               23    112,417  22.57   167.98          ?   Yes Med  No
+HIP 110776/Puleston Dock                 31    120,270  16.59   528.82          ?   Yes Lrg  No
+CRATHAJAPUS/Godwin Station               31     79,077  24.93   540.79        382   Yes Med  No
+KAKMBUTAN/MacGregor Orbital              31     62,102  17.04   245.80         75   Yes Lrg  No
+PHRACES/Baxter Penal Colony              33     26,528   8.02    57.53          ?   Yes Lrg Yes
+PHRACES/Mullane Ring                     33     21,405   8.02    21.74        625   Yes Med  No
+LODHARY/Anthony Dock                     34     28,330   4.84     3.22         17   Yes Med  No
+HIP 113980/Williams Depot                34      7,683  17.50    14.12          ?     ?   ?   ?
+HARMA/Muhammad Ibn Battuta Point         34      5,109   5.69     2.10      2.12K   Yes Lrg Yes
+HARMA/Gabriel Enterprise                 35    121,198   5.69     0.21        259   Yes Lrg  No
+HARMA/Celebi City                        38     98,061   5.69     7.73      1.27K   Yes Med  No
+
+--------------------
+MBAYO/Hopkins Plant Buys "Non-Lethal Weapons" with H demand and (typically) pays 2271 Cr From...
+--------------------
+
+Station                                Cost      Units DistLy Age/days      StnLs B/mkt Pad Plt
+-----------------------------------------------------------------------------------------------
+HARMA/Muhammad Ibn Battuta Point      1,524         50   5.69     2.10      2.12K   Yes Lrg Yes
+PHRACES/Baxter Penal Colony           1,531        113   8.02    57.53          ?   Yes Lrg Yes
+
+--------------------
+MBAYO/Hopkins Plant Buys "Personal Weapons" with L demand and (typically) pays 4380 Cr From...
+--------------------
+
+Station                                Cost      Units DistLy Age/days      StnLs B/mkt Pad Plt
+-----------------------------------------------------------------------------------------------
+LODHARY/Anthony Dock                  3,511     16,928   4.84     3.22         17   Yes Med  No
+BHADO/Rasmussen Enterprise            3,522     63,450  13.45    33.87      2.94K   Yes Lrg  No
+SADHEN/Birkeland Platform             3,747         57  24.19     1.84        472   Yes Lrg  No
+BIKO/Forstchen Horizons               3,756         69   9.93    18.88      2.01K   Yes Med  No
+HIP 113495/Sharma Terminal            3,864      2,940  23.11   380.98          ?   Yes Med  No
+GANDII/Gorbatko Enterprise            3,868        234  22.57   167.98          ?   Yes Med  No
+HARMA/Muhammad Ibn Battuta Point      3,955         19   5.69     2.10      2.12K   Yes Lrg Yes
+WIRNAKO/Morgan Installation           3,994         84  21.57   140.91        510   Yes Med  No
+WIRNAKO/Cobb Landing                  3,994         70  21.57   131.86        736   Yes Med  No
+WIRNAKO/Moffitt Platform              3,995         95  21.57     1.42        405   Yes Lrg  No
+HIP 110776/Puleston Dock              4,353      3,158  16.59   528.82          ?   Yes Lrg  No
+
+--------------------
+MBAYO/Hopkins Plant Buys "Reactive Armour" with H demand and (typically) pays 2548 Cr From...
+--------------------
+
+Station                                Cost      Units DistLy Age/days      StnLs B/mkt Pad Plt
+-----------------------------------------------------------------------------------------------
+PHRACES/Baxter Penal Colony           1,760        102   8.02    57.53          ?   Yes Lrg Yes
+HARMA/Muhammad Ibn Battuta Point      1,775         44   5.69     2.10      2.12K   Yes Lrg Yes

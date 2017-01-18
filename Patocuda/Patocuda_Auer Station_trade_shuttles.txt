@@ -55,8 +55,8 @@
 # ------------------------
 #
 ---------------------------------------------------------------------------------------------------------
-Best Trade Shuttle starting and ending at Patocuda/Auer Station with 13 ly between trades
-For MEDIUM and SMALL ships only, generated at 04/12/2016- 5:54:44.80 [DD/MM/YYYY-UTC]
+Best Trade Shuttle starting and ending at PATOCUDA/Auer Station with 13 ly between trades
+For MEDIUM and SMALL ships only, generated at 18/01/2017-14:38:54.93 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
 P:\Program Files (x86)\td\trade.py: Error: No buying prices at PATOCUDA/Auer Station.
 
@@ -72,8 +72,8 @@ For more help, see the TradeDangerous Wiki:
     http://kfs.org/td/wiki
 
 ---------------------------------------------------------------------------------------------------------
-Best Trade Shuttle starting and ending at Patocuda/Auer Station with 37.5 ly between trades
-For MEDIUM and SMALL ships only, generated at 04/12/2016- 5:54:56.00 [DD/MM/YYYY-UTC]
+Best Trade Shuttle starting and ending at PATOCUDA/Auer Station with 37.5 ly between trades
+For MEDIUM and SMALL ships only, generated at 18/01/2017-14:39:08.72 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
 P:\Program Files (x86)\td\trade.py: Error: No buying prices at PATOCUDA/Auer Station.
 
@@ -89,8 +89,8 @@ For more help, see the TradeDangerous Wiki:
     http://kfs.org/td/wiki
 
 ---------------------------------------------------------------------------------------------------------
-Best Trade Shuttle starting and ending at Patocuda/Auer Station with 42.5 ly between trades
-For MEDIUM and SMALL ships only, generated at 04/12/2016- 5:55:07.19 [DD/MM/YYYY-UTC]
+Best Trade Shuttle starting and ending at PATOCUDA/Auer Station with 42.5 ly between trades
+For MEDIUM and SMALL ships only, generated at 18/01/2017-14:39:22.51 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
 P:\Program Files (x86)\td\trade.py: Error: No buying prices at PATOCUDA/Auer Station.
 
@@ -106,8 +106,8 @@ For more help, see the TradeDangerous Wiki:
     http://kfs.org/td/wiki
 
 ---------------------------------------------------------------------------------------------------------
-Best Trade Shuttle starting and ending at Patocuda/Auer Station with 76.5 ly between trades
-For MEDIUM and SMALL ships only, generated at 04/12/2016- 5:55:18.37 [DD/MM/YYYY-UTC]
+Best Trade Shuttle starting and ending at PATOCUDA/Auer Station with 76.5 ly between trades
+For MEDIUM and SMALL ships only, generated at 18/01/2017-14:39:36.36 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
 P:\Program Files (x86)\td\trade.py: Error: No buying prices at PATOCUDA/Auer Station.
 
@@ -123,8 +123,8 @@ For more help, see the TradeDangerous Wiki:
     http://kfs.org/td/wiki
 
 ---------------------------------------------------------------------------------------------------------
-Best Trade Shuttle starting and ending at Patocuda/Auer Station with 105.7 ly between trades
-For MEDIUM and SMALL ships only, generated at 04/12/2016- 5:55:29.59 [DD/MM/YYYY-UTC]
+Best Trade Shuttle starting and ending at PATOCUDA/Auer Station with 105.7 ly between trades
+For MEDIUM and SMALL ships only, generated at 18/01/2017-14:39:50.19 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
 P:\Program Files (x86)\td\trade.py: Error: No buying prices at PATOCUDA/Auer Station.
 
