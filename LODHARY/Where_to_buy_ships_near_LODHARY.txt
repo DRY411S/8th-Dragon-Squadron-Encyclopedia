@@ -1,5 +1,5 @@
 # This file is a list of places that you can buy ships within 25ly of LODHARY
-# It is based on data in the public TradeDangerous database, and generated at 18/01/2017-15:16:09.41 [DD/MM/YYYY-UTC]
+# It is based on data in the public TradeDangerous database, and generated at 25/01/2017- 3:35:23.26 [DD/MM/YYYY-UTC]
 # Crowd sourced data about where to buy ships is limited
 # There are likely to be many other places where you can buy ships in the area
 # Especially the smaller ones

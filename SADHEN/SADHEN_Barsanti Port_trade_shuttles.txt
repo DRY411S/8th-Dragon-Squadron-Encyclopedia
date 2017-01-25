@@ -56,71 +56,71 @@
 #
 ---------------------------------------------------------------------------------------------------------
 Best Trade Shuttle starting and ending at SADHEN/Barsanti Port with 13 ly between trades
-For MEDIUM and SMALL ships only, generated at 18/01/2017-11:21:24.04 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 24/01/2017-23:39:54.62 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-SADHEN/Barsanti Port -> SADHEN/Barsanti Port (score: 3560.463580)
+SADHEN/Barsanti Port -> SADHEN/Barsanti Port (score: 2536.672420)
   Load from SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Clothing               185cr vs      315cr, 5 days vs 9 days
-  Unload at URU/Resnik Dock (949ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 130cr (130cr/ton) => 100,130cr
-  Load from URU/Resnik Dock (949ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
-        1 x Micro Controllers    2,696cr vs    6,125cr, 9 days vs 5 days
-  Unload at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 3,429cr (3,429cr/ton) => 103,559cr
+        1 x Survival Equipment      286cr vs    1,221cr, 12 days vs 9 days
+  Unload at BELACAJAN/Viehbock Prospect (11ls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y) => Gain 935cr (935cr/ton) => 100,935cr
+  Load from BELACAJAN/Viehbock Prospect (11ls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y):
+        1 x Silver                4,107cr vs    5,708cr, 9 days vs 12 days
+  Unload at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,601cr (1,601cr/ton) => 102,536cr
   ----------------------------------------------------------------------------
-Finish at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 3,559cr (1,779cr/ton) => est 103,559cr total
+Finish at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 2,536cr (1,268cr/ton) => est 102,536cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Shuttle starting and ending at SADHEN/Barsanti Port with 37.5 ly between trades
-For MEDIUM and SMALL ships only, generated at 18/01/2017-11:21:37.61 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 24/01/2017-23:40:08.32 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-SADHEN/Barsanti Port -> SADHEN/Barsanti Port (score: 4716.993860)
+SADHEN/Barsanti Port -> SADHEN/Barsanti Port (score: 4315.163120)
   Load from SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Clothing                 185cr vs      411cr, 5 days vs 12 days
-  Unload at 34 PEGASI/Rayhan Al-Biruni Orbital (465ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 226cr (226cr/ton) => 100,226cr
-  Load from 34 PEGASI/Rayhan Al-Biruni Orbital (465ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Insulating Membrane    7,359cr vs   11,848cr, 12 days vs 5 days
-  Unload at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 4,489cr (4,489cr/ton) => 104,715cr
+        1 x Power Generators         446cr vs      722cr, 12 days vs 16 days
+  Unload at 34 PEGASI/Williams City (2.74Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 276cr (276cr/ton) => 100,276cr
+  Load from 34 PEGASI/Williams City (2.74Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
+        1 x Insulating Membrane    7,808cr vs   11,848cr, 16 days vs 12 days
+  Unload at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 4,040cr (4,040cr/ton) => 104,316cr
   ----------------------------------------------------------------------------
-Finish at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 4,715cr (2,357cr/ton) => est 104,715cr total
+Finish at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 4,316cr (2,158cr/ton) => est 104,316cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Shuttle starting and ending at SADHEN/Barsanti Port with 42.5 ly between trades
-For MEDIUM and SMALL ships only, generated at 18/01/2017-11:21:51.61 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 24/01/2017-23:40:22.31 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-SADHEN/Barsanti Port -> SADHEN/Barsanti Port (score: 4716.993860)
+SADHEN/Barsanti Port -> SADHEN/Barsanti Port (score: 4315.163120)
   Load from SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Clothing                 185cr vs      411cr, 5 days vs 12 days
-  Unload at 34 PEGASI/Rayhan Al-Biruni Orbital (465ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 226cr (226cr/ton) => 100,226cr
-  Load from 34 PEGASI/Rayhan Al-Biruni Orbital (465ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Insulating Membrane    7,359cr vs   11,848cr, 12 days vs 5 days
-  Unload at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 4,489cr (4,489cr/ton) => 104,715cr
+        1 x Power Generators         446cr vs      722cr, 12 days vs 16 days
+  Unload at 34 PEGASI/Williams City (2.74Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 276cr (276cr/ton) => 100,276cr
+  Load from 34 PEGASI/Williams City (2.74Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
+        1 x Insulating Membrane    7,808cr vs   11,848cr, 16 days vs 12 days
+  Unload at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 4,040cr (4,040cr/ton) => 104,316cr
   ----------------------------------------------------------------------------
-Finish at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 4,715cr (2,357cr/ton) => est 104,715cr total
+Finish at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 4,316cr (2,158cr/ton) => est 104,316cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Shuttle starting and ending at SADHEN/Barsanti Port with 76.5 ly between trades
-For MEDIUM and SMALL ships only, generated at 18/01/2017-11:22:05.81 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 24/01/2017-23:40:36.54 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-SADHEN/Barsanti Port -> SADHEN/Barsanti Port (score: 4866.292140)
+SADHEN/Barsanti Port -> SADHEN/Barsanti Port (score: 4513.753500)
   Load from SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Mineral Extractors       507cr vs    1,352cr, 5 days vs 12 days
-  Unload at MONTO/Werber Hangar (22Kls, BMk:N, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 845cr (845cr/ton) => 100,845cr
-  Load from MONTO/Werber Hangar (22Kls, BMk:N, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Insulating Membrane    7,026cr vs   11,848cr, 12 days vs 5 days
-  Unload at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 4,822cr (4,822cr/ton) => 105,667cr
+        1 x Survival Equipment      286cr vs      623cr, 12 days vs 15 days
+  Unload at PISCIUM SECTOR IC-V B2-6/Russ Terminal (8ls, BMk:N, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y) => Gain 337cr (337cr/ton) => 100,337cr
+  Load from PISCIUM SECTOR IC-V B2-6/Russ Terminal (8ls, BMk:N, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y):
+        1 x CMM Composite         2,618cr vs    6,793cr, 15 days vs 12 days
+  Unload at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 4,175cr (4,175cr/ton) => 104,512cr
   ----------------------------------------------------------------------------
-Finish at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 5,667cr (2,833cr/ton) => est 105,667cr total
+Finish at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 4,512cr (2,256cr/ton) => est 104,512cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Shuttle starting and ending at SADHEN/Barsanti Port with 105.7 ly between trades
-For MEDIUM and SMALL ships only, generated at 18/01/2017-11:22:35.88 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 24/01/2017-23:41:07.49 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-SADHEN/Barsanti Port -> SADHEN/Barsanti Port (score: 5205.240580)
+SADHEN/Barsanti Port -> SADHEN/Barsanti Port (score: 4680.856200)
   Load from SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Survival Equipment      286cr vs    1,208cr, 5 days vs 11 days
-  Unload at GUITE/Ampere Holdings (481ls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y) => Gain 922cr (922cr/ton) => 100,922cr
-  Load from GUITE/Ampere Holdings (481ls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y):
-        1 x CMM Composite         2,512cr vs    6,793cr, 11 days vs 5 days
-  Unload at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 4,281cr (4,281cr/ton) => 105,203cr
+        1 x Clothing                 185cr vs      415cr, 12 days vs 25 days
+  Unload at LAO ZI/Wafer City (23Kls, BMk:N, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 230cr (230cr/ton) => 100,230cr
+  Load from LAO ZI/Wafer City (23Kls, BMk:N, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
+        1 x Insulating Membrane    7,158cr vs   11,848cr, 25 days vs 12 days
+  Unload at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 4,690cr (4,690cr/ton) => 104,920cr
   ----------------------------------------------------------------------------
-Finish at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 5,203cr (2,601cr/ton) => est 105,203cr total
+Finish at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 4,920cr (2,460cr/ton) => est 104,920cr total
 

@@ -56,71 +56,71 @@
 #
 ---------------------------------------------------------------------------------------------------------
 Best Trade Shuttle starting and ending at ASOORAJARA/Stableford Hangar with 13 ly between trades
-For MEDIUM and SMALL ships only, generated at 18/01/2017-16:51:14.80 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 25/01/2017- 1:14:28.71 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-ASOORAJARA/Stableford Hangar -> ASOORAJARA/Stableford Hangar (score: 2349.172000)
+ASOORAJARA/Stableford Hangar -> ASOORAJARA/Stableford Hangar (score: 2088.876640)
   Load from ASOORAJARA/Stableford Hangar (43ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Tantalum            3,696cr vs    4,653cr, 10 days vs 18 days
-  Unload at BIKO/Forstchen Horizons (2.01Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 957cr (957cr/ton) => 100,957cr
-  Load from BIKO/Forstchen Horizons (2.01Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
-        1 x Personal Weapons    3,756cr vs    5,152cr, 18 days vs 10 days
-  Unload at ASOORAJARA/Stableford Hangar (43ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,396cr (1,396cr/ton) => 102,353cr
+        1 x Conductive Fabrics      425cr vs    1,428cr, 2 days vs 18 days
+  Unload at BIKO/Stjepan Seljan Settlement (1.41Kls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,003cr (1,003cr/ton) => 101,003cr
+  Load from BIKO/Stjepan Seljan Settlement (1.41Kls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Basic Medicines         174cr vs    1,261cr, 18 days vs 2 days
+  Unload at ASOORAJARA/Stableford Hangar (43ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,087cr (1,087cr/ton) => 102,090cr
   ----------------------------------------------------------------------------
-Finish at ASOORAJARA/Stableford Hangar (43ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 2,353cr (1,176cr/ton) => est 102,353cr total
+Finish at ASOORAJARA/Stableford Hangar (43ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 2,090cr (1,045cr/ton) => est 102,090cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Shuttle starting and ending at ASOORAJARA/Stableford Hangar with 37.5 ly between trades
-For MEDIUM and SMALL ships only, generated at 18/01/2017-16:51:29.12 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 25/01/2017- 1:14:42.68 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-ASOORAJARA/Stableford Hangar -> ASOORAJARA/Stableford Hangar (score: 2704.176400)
+ASOORAJARA/Stableford Hangar -> ASOORAJARA/Stableford Hangar (score: 2911.476120)
   Load from ASOORAJARA/Stableford Hangar (43ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Conductive Fabrics         425cr vs    1,405cr, 10 days
-  Unload at URU/Stafford Gateway (946ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:N) => Gain 980cr (980cr/ton) => 100,980cr
-  Load from URU/Stafford Gateway (946ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:N):
-        1 x Performance Enhancers    6,042cr vs    7,766cr, 10 days
-  Unload at ASOORAJARA/Stableford Hangar (43ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,724cr (1,724cr/ton) => 102,704cr
+        1 x Tantalum               3,692cr vs    3,858cr, 2 days vs 16 days
+  Unload at 34 PEGASI/Williams City (2.74Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 166cr (166cr/ton) => 100,166cr
+  Load from 34 PEGASI/Williams City (2.74Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
+        1 x Insulating Membrane    7,808cr vs   10,555cr, 16 days vs 2 days
+  Unload at ASOORAJARA/Stableford Hangar (43ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 2,747cr (2,747cr/ton) => 102,913cr
   ----------------------------------------------------------------------------
-Finish at ASOORAJARA/Stableford Hangar (43ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 2,704cr (1,352cr/ton) => est 102,704cr total
+Finish at ASOORAJARA/Stableford Hangar (43ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 2,913cr (1,456cr/ton) => est 102,913cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Shuttle starting and ending at ASOORAJARA/Stableford Hangar with 42.5 ly between trades
-For MEDIUM and SMALL ships only, generated at 18/01/2017-16:51:43.43 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 25/01/2017- 1:14:56.81 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-ASOORAJARA/Stableford Hangar -> ASOORAJARA/Stableford Hangar (score: 2704.176400)
+ASOORAJARA/Stableford Hangar -> ASOORAJARA/Stableford Hangar (score: 2911.476120)
   Load from ASOORAJARA/Stableford Hangar (43ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Conductive Fabrics         425cr vs    1,405cr, 10 days
-  Unload at URU/Stafford Gateway (946ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:N) => Gain 980cr (980cr/ton) => 100,980cr
-  Load from URU/Stafford Gateway (946ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:N):
-        1 x Performance Enhancers    6,042cr vs    7,766cr, 10 days
-  Unload at ASOORAJARA/Stableford Hangar (43ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,724cr (1,724cr/ton) => 102,704cr
+        1 x Tantalum               3,692cr vs    3,858cr, 2 days vs 16 days
+  Unload at 34 PEGASI/Williams City (2.74Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 166cr (166cr/ton) => 100,166cr
+  Load from 34 PEGASI/Williams City (2.74Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
+        1 x Insulating Membrane    7,808cr vs   10,555cr, 16 days vs 2 days
+  Unload at ASOORAJARA/Stableford Hangar (43ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 2,747cr (2,747cr/ton) => 102,913cr
   ----------------------------------------------------------------------------
-Finish at ASOORAJARA/Stableford Hangar (43ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 2,704cr (1,352cr/ton) => est 102,704cr total
+Finish at ASOORAJARA/Stableford Hangar (43ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 2,913cr (1,456cr/ton) => est 102,913cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Shuttle starting and ending at ASOORAJARA/Stableford Hangar with 76.5 ly between trades
-For MEDIUM and SMALL ships only, generated at 18/01/2017-16:51:57.65 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 25/01/2017- 1:15:11.07 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-ASOORAJARA/Stableford Hangar -> ASOORAJARA/Stableford Hangar (score: 2870.419000)
+ASOORAJARA/Stableford Hangar -> ASOORAJARA/Stableford Hangar (score: 2911.476120)
   Load from ASOORAJARA/Stableford Hangar (43ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Tantalum            3,696cr vs    4,750cr, 10 days vs 10 days
-  Unload at LELALITES/Stokes Installation (1.52Kls, BMk:N, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,054cr (1,054cr/ton) => 101,054cr
-  Load from LELALITES/Stokes Installation (1.52Kls, BMk:N, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Personal Weapons    3,334cr vs    5,152cr, 10 days vs 10 days
-  Unload at ASOORAJARA/Stableford Hangar (43ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,818cr (1,818cr/ton) => 102,872cr
+        1 x Tantalum               3,692cr vs    3,858cr, 2 days vs 16 days
+  Unload at 34 PEGASI/Williams City (2.74Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 166cr (166cr/ton) => 100,166cr
+  Load from 34 PEGASI/Williams City (2.74Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
+        1 x Insulating Membrane    7,808cr vs   10,555cr, 16 days vs 2 days
+  Unload at ASOORAJARA/Stableford Hangar (43ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 2,747cr (2,747cr/ton) => 102,913cr
   ----------------------------------------------------------------------------
-Finish at ASOORAJARA/Stableford Hangar (43ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 2,872cr (1,436cr/ton) => est 102,872cr total
+Finish at ASOORAJARA/Stableford Hangar (43ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 2,913cr (1,456cr/ton) => est 102,913cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Shuttle starting and ending at ASOORAJARA/Stableford Hangar with 105.7 ly between trades
-For MEDIUM and SMALL ships only, generated at 18/01/2017-16:52:23.34 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 25/01/2017- 1:15:36.83 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-ASOORAJARA/Stableford Hangar -> ASOORAJARA/Stableford Hangar (score: 4091.297280)
+ASOORAJARA/Stableford Hangar -> ASOORAJARA/Stableford Hangar (score: 4099.461000)
   Load from ASOORAJARA/Stableford Hangar (43ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Conductive Fabrics      425cr vs    1,354cr, 10 days vs 44 hrs
-  Unload at CUCHUA/Curtis Ring (217ls, BMk:N, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 929cr (929cr/ton) => 100,929cr
-  Load from CUCHUA/Curtis Ring (217ls, BMk:N, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
-        1 x Imperial Slaves      13,910cr vs   17,072cr, 44 hrs vs 10 days
-  Unload at ASOORAJARA/Stableford Hangar (43ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 3,162cr (3,162cr/ton) => 104,091cr
+        1 x Conductive Fabrics      425cr vs    1,347cr, 2 days vs 2 days
+  Unload at CUCHUA/Hevelius Station (519ls, BMk:N, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 922cr (922cr/ton) => 100,922cr
+  Load from CUCHUA/Hevelius Station (519ls, BMk:N, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
+        1 x Imperial Slaves      13,910cr vs   17,087cr, 2 days vs 2 days
+  Unload at ASOORAJARA/Stableford Hangar (43ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 3,177cr (3,177cr/ton) => 104,099cr
   ----------------------------------------------------------------------------
-Finish at ASOORAJARA/Stableford Hangar (43ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 4,091cr (2,045cr/ton) => est 104,091cr total
+Finish at ASOORAJARA/Stableford Hangar (43ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 4,099cr (2,049cr/ton) => est 104,099cr total
 

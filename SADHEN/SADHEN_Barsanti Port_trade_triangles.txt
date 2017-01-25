@@ -56,91 +56,91 @@
 #
 ---------------------------------------------------------------------------------------------------------
 Best Trade Triangle starting and ending at SADHEN/Barsanti Port with 13 ly between trades
-For MEDIUM and SMALL ships only, generated at 18/01/2017-11:25:00.08 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 24/01/2017-23:43:31.83 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
 NOTE: Pruned 13 origins too far from any end stations
-SADHEN/Barsanti Port -> SADHEN/Barsanti Port (score: 5843.705980)
+SADHEN/Barsanti Port -> SADHEN/Barsanti Port (score: 4205.012980)
   Load from SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Survival Equipment      286cr vs    1,221cr, 5 days vs 3 days
+        1 x Survival Equipment         286cr vs    1,221cr, 12 days vs 9 days
   Unload at BELACAJAN/Viehbock Prospect (11ls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y) => Gain 935cr (935cr/ton) => 100,935cr
   Load from BELACAJAN/Viehbock Prospect (11ls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y):
-        1 x Palladium            12,460cr vs   13,939cr, 3 days vs 10 days
-  Unload at URU/Stafford Gateway (946ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:N) => Gain 1,479cr (1,479cr/ton) => 102,414cr
+        1 x Palladium               12,460cr vs   13,960cr, 9 days vs 44 hrs
+  Unload at URU/Stafford Gateway (946ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:N) => Gain 1,500cr (1,500cr/ton) => 102,435cr
   Load from URU/Stafford Gateway (946ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:N):
-        1 x Micro Controllers     2,697cr vs    6,125cr, 10 days vs 5 days
-  Unload at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 3,428cr (3,428cr/ton) => 105,842cr
+        1 x Performance Enhancers    6,021cr vs    7,790cr, 44 hrs vs 12 days
+  Unload at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,769cr (1,769cr/ton) => 104,204cr
   ----------------------------------------------------------------------------
-Finish at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 5,842cr (1,947cr/ton) => est 105,842cr total
+Finish at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 4,204cr (1,401cr/ton) => est 104,204cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Triangle starting and ending at SADHEN/Barsanti Port with 37.5 ly between trades
-For MEDIUM and SMALL ships only, generated at 18/01/2017-11:25:13.70 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 24/01/2017-23:43:45.63 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-NOTE: Pruned 629 origins too far from any end stations
-SADHEN/Barsanti Port -> SADHEN/Barsanti Port (score: 6450.376900)
+NOTE: Pruned 677 origins too far from any end stations
+SADHEN/Barsanti Port -> SADHEN/Barsanti Port (score: 6271.240220)
   Load from SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Survival Equipment       286cr vs    1,221cr, 5 days vs 3 days
-  Unload at BELACAJAN/Viehbock Prospect (11ls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y) => Gain 935cr (935cr/ton) => 100,935cr
-  Load from BELACAJAN/Viehbock Prospect (11ls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y):
-        1 x Bertrandite            1,963cr vs    2,987cr, 3 days vs 12 days
-  Unload at 34 PEGASI/Rayhan Al-Biruni Orbital (465ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,024cr (1,024cr/ton) => 101,959cr
-  Load from 34 PEGASI/Rayhan Al-Biruni Orbital (465ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Insulating Membrane    7,359cr vs   11,848cr, 12 days vs 5 days
-  Unload at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 4,489cr (4,489cr/ton) => 106,448cr
+        1 x Crop Harvesters        2,098cr vs    2,835cr, 12 days vs 9 days
+  Unload at HIP 110205/Tokubei Hub (572ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 737cr (737cr/ton) => 100,737cr
+  Load from HIP 110205/Tokubei Hub (572ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Imperial Slaves       15,353cr vs   16,859cr, 9 days vs 16 days
+  Unload at 34 PEGASI/Williams City (2.74Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,506cr (1,506cr/ton) => 102,243cr
+  Load from 34 PEGASI/Williams City (2.74Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
+        1 x Insulating Membrane    7,808cr vs   11,848cr, 16 days vs 12 days
+  Unload at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 4,040cr (4,040cr/ton) => 106,283cr
   ----------------------------------------------------------------------------
-Finish at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 6,448cr (2,149cr/ton) => est 106,448cr total
+Finish at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 6,283cr (2,094cr/ton) => est 106,283cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Triangle starting and ending at SADHEN/Barsanti Port with 42.5 ly between trades
-For MEDIUM and SMALL ships only, generated at 18/01/2017-11:25:28.45 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 24/01/2017-23:44:00.77 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-NOTE: Pruned 1046 origins too far from any end stations
-SADHEN/Barsanti Port -> SADHEN/Barsanti Port (score: 6450.376900)
+NOTE: Pruned 1142 origins too far from any end stations
+SADHEN/Barsanti Port -> SADHEN/Barsanti Port (score: 6271.240220)
   Load from SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Survival Equipment       286cr vs    1,221cr, 5 days vs 3 days
-  Unload at BELACAJAN/Viehbock Prospect (11ls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y) => Gain 935cr (935cr/ton) => 100,935cr
-  Load from BELACAJAN/Viehbock Prospect (11ls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y):
-        1 x Bertrandite            1,963cr vs    2,987cr, 3 days vs 12 days
-  Unload at 34 PEGASI/Rayhan Al-Biruni Orbital (465ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,024cr (1,024cr/ton) => 101,959cr
-  Load from 34 PEGASI/Rayhan Al-Biruni Orbital (465ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Insulating Membrane    7,359cr vs   11,848cr, 12 days vs 5 days
-  Unload at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 4,489cr (4,489cr/ton) => 106,448cr
+        1 x Crop Harvesters        2,098cr vs    2,835cr, 12 days vs 9 days
+  Unload at HIP 110205/Tokubei Hub (572ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 737cr (737cr/ton) => 100,737cr
+  Load from HIP 110205/Tokubei Hub (572ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Imperial Slaves       15,353cr vs   16,859cr, 9 days vs 16 days
+  Unload at 34 PEGASI/Williams City (2.74Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,506cr (1,506cr/ton) => 102,243cr
+  Load from 34 PEGASI/Williams City (2.74Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
+        1 x Insulating Membrane    7,808cr vs   11,848cr, 16 days vs 12 days
+  Unload at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 4,040cr (4,040cr/ton) => 106,283cr
   ----------------------------------------------------------------------------
-Finish at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 6,448cr (2,149cr/ton) => est 106,448cr total
+Finish at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 6,283cr (2,094cr/ton) => est 106,283cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Triangle starting and ending at SADHEN/Barsanti Port with 76.5 ly between trades
-For MEDIUM and SMALL ships only, generated at 18/01/2017-11:25:44.35 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 24/01/2017-23:44:17.16 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-NOTE: Pruned 8240 origins too far from any end stations
-SADHEN/Barsanti Port -> SADHEN/Barsanti Port (score: 7457.335520)
+NOTE: Pruned 8671 origins too far from any end stations
+SADHEN/Barsanti Port -> SADHEN/Barsanti Port (score: 7285.785980)
   Load from SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Crop Harvesters        2,098cr vs    2,563cr, 5 days vs 12 hrs
-  Unload at CUCHUA/Harrison Hub (638ls, BMk:N, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 465cr (465cr/ton) => 100,465cr
-  Load from CUCHUA/Harrison Hub (638ls, BMk:N, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Imperial Slaves       13,910cr vs   16,859cr, 12 hrs vs 9 days
-  Unload at 34 PEGASI/Ozanne Vision (464ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 2,949cr (2,949cr/ton) => 103,414cr
-  Load from 34 PEGASI/Ozanne Vision (464ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
-        1 x Insulating Membrane    7,808cr vs   11,848cr, 9 days vs 5 days
-  Unload at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 4,040cr (4,040cr/ton) => 107,454cr
+        1 x Survival Equipment       286cr vs      608cr, 12 days vs 2 days
+  Unload at CUCHUA/Hevelius Station (519ls, BMk:N, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 322cr (322cr/ton) => 100,322cr
+  Load from CUCHUA/Hevelius Station (519ls, BMk:N, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
+        1 x Imperial Slaves       13,910cr vs   16,859cr, 2 days vs 16 days
+  Unload at 34 PEGASI/Williams City (2.74Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 2,949cr (2,949cr/ton) => 103,271cr
+  Load from 34 PEGASI/Williams City (2.74Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
+        1 x Insulating Membrane    7,808cr vs   11,848cr, 16 days vs 12 days
+  Unload at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 4,040cr (4,040cr/ton) => 107,311cr
   ----------------------------------------------------------------------------
-Finish at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 7,454cr (2,484cr/ton) => est 107,454cr total
+Finish at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 7,311cr (2,437cr/ton) => est 107,311cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Triangle starting and ending at SADHEN/Barsanti Port with 105.7 ly between trades
-For MEDIUM and SMALL ships only, generated at 18/01/2017-11:27:36.65 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 24/01/2017-23:46:22.73 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-NOTE: Pruned 14645 origins too far from any end stations
-SADHEN/Barsanti Port -> SADHEN/Barsanti Port (score: 8608.780600)
+NOTE: Pruned 15538 origins too far from any end stations
+SADHEN/Barsanti Port -> SADHEN/Barsanti Port (score: 7987.748360)
   Load from SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Survival Equipment       286cr vs      644cr, 5 days vs 36 hrs
-  Unload at LTT 8517/Howe Ring (923ls, BMk:N, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 358cr (358cr/ton) => 100,358cr
-  Load from LTT 8517/Howe Ring (923ls, BMk:N, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
-        1 x Imperial Slaves       12,652cr vs   16,859cr, 36 hrs vs 9 days
-  Unload at 34 PEGASI/Ozanne Vision (464ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 4,207cr (4,207cr/ton) => 104,565cr
-  Load from 34 PEGASI/Ozanne Vision (464ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
-        1 x Insulating Membrane    7,808cr vs   11,848cr, 9 days vs 5 days
-  Unload at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 4,040cr (4,040cr/ton) => 108,605cr
+        1 x Crop Harvesters        2,098cr vs    2,574cr, 12 days vs 2 hrs
+  Unload at LTT 8517/Hopkins Dock (397ls, BMk:N, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 476cr (476cr/ton) => 100,476cr
+  Load from LTT 8517/Hopkins Dock (397ls, BMk:N, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Imperial Slaves       13,357cr vs   16,859cr, 2 hrs vs 16 days
+  Unload at 34 PEGASI/Williams City (2.74Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 3,502cr (3,502cr/ton) => 103,978cr
+  Load from 34 PEGASI/Williams City (2.74Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
+        1 x Insulating Membrane    7,808cr vs   11,848cr, 16 days vs 12 days
+  Unload at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 4,040cr (4,040cr/ton) => 108,018cr
   ----------------------------------------------------------------------------
-Finish at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 8,605cr (2,868cr/ton) => est 108,605cr total
+Finish at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 8,018cr (2,672cr/ton) => est 108,018cr total
 

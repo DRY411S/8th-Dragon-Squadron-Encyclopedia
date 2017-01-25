@@ -56,7 +56,7 @@
 #
 ---------------------------------------------------------------------------------------------------------
 Best Trade Triangle starting and ending at PATOCUDA/Auer Station with 13 ly between trades
-For MEDIUM and SMALL ships only, generated at 18/01/2017-14:40:03.99 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 25/01/2017- 2:59:29.24 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
 P:\Program Files (x86)\td\trade.py: Error: No buying prices at PATOCUDA/Auer Station.
 
@@ -73,7 +73,7 @@ For more help, see the TradeDangerous Wiki:
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Triangle starting and ending at PATOCUDA/Auer Station with 37.5 ly between trades
-For MEDIUM and SMALL ships only, generated at 18/01/2017-14:40:17.92 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 25/01/2017- 2:59:43.84 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
 P:\Program Files (x86)\td\trade.py: Error: No buying prices at PATOCUDA/Auer Station.
 
@@ -90,7 +90,7 @@ For more help, see the TradeDangerous Wiki:
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Triangle starting and ending at PATOCUDA/Auer Station with 42.5 ly between trades
-For MEDIUM and SMALL ships only, generated at 18/01/2017-14:40:31.77 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 25/01/2017- 2:59:58.43 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
 P:\Program Files (x86)\td\trade.py: Error: No buying prices at PATOCUDA/Auer Station.
 
@@ -107,7 +107,7 @@ For more help, see the TradeDangerous Wiki:
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Triangle starting and ending at PATOCUDA/Auer Station with 76.5 ly between trades
-For MEDIUM and SMALL ships only, generated at 18/01/2017-14:40:45.64 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 25/01/2017- 3:00:13.05 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
 P:\Program Files (x86)\td\trade.py: Error: No buying prices at PATOCUDA/Auer Station.
 
@@ -124,7 +124,7 @@ For more help, see the TradeDangerous Wiki:
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Triangle starting and ending at PATOCUDA/Auer Station with 105.7 ly between trades
-For MEDIUM and SMALL ships only, generated at 18/01/2017-14:40:59.65 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 25/01/2017- 3:00:27.77 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
 P:\Program Files (x86)\td\trade.py: Error: No buying prices at PATOCUDA/Auer Station.
 

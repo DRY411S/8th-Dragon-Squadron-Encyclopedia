@@ -56,91 +56,91 @@
 #
 ---------------------------------------------------------------------------------------------------------
 Best Trade Triangle starting and ending at ASOORAJARA/Stableford Hangar with 13 ly between trades
-For MEDIUM and SMALL ships only, generated at 18/01/2017-16:54:19.16 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 25/01/2017- 1:17:32.24 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-NOTE: Pruned 8 origins too far from any end stations
-ASOORAJARA/Stableford Hangar -> ASOORAJARA/Stableford Hangar (score: 3717.000000)
+NOTE: Pruned 9 origins too far from any end stations
+ASOORAJARA/Stableford Hangar -> ASOORAJARA/Stableford Hangar (score: 3735.000000)
   Load from ASOORAJARA/Stableford Hangar (43ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Military Grade Fabrics      746cr vs    1,480cr, 10 days vs 3 days
-  Unload at GLIESE 1272/Maler Station (65ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 734cr (734cr/ton) => 100,734cr
-  Load from GLIESE 1272/Maler Station (65ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Insulating Membrane      10,193cr vs   11,535cr, 3 days vs 3 days
+        1 x Military Grade Fabrics      746cr vs    1,480cr, 2 days vs 14 days
+  Unload at GLIESE 1272/Bao Dock (49ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 734cr (734cr/ton) => 100,734cr
+  Load from GLIESE 1272/Bao Dock (49ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Insulating Membrane      10,193cr vs   11,535cr, 14 days vs 9 days
   Unload at LODHARY/Anthony Dock (17ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:N) => Gain 1,342cr (1,342cr/ton) => 102,076cr
   Load from LODHARY/Anthony Dock (17ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:N):
-        1 x Personal Weapons          3,511cr vs    5,152cr, 3 days vs 10 days
-  Unload at ASOORAJARA/Stableford Hangar (43ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,641cr (1,641cr/ton) => 103,717cr
+        1 x Personal Weapons          3,511cr vs    5,170cr, 9 days vs 2 days
+  Unload at ASOORAJARA/Stableford Hangar (43ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,659cr (1,659cr/ton) => 103,735cr
   ----------------------------------------------------------------------------
-Finish at ASOORAJARA/Stableford Hangar (43ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 3,717cr (1,239cr/ton) => est 103,717cr total
+Finish at ASOORAJARA/Stableford Hangar (43ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 3,735cr (1,245cr/ton) => est 103,735cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Triangle starting and ending at ASOORAJARA/Stableford Hangar with 37.5 ly between trades
-For MEDIUM and SMALL ships only, generated at 18/01/2017-16:54:33.29 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 25/01/2017- 1:17:46.26 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-NOTE: Pruned 452 origins too far from any end stations
-ASOORAJARA/Stableford Hangar -> ASOORAJARA/Stableford Hangar (score: 6192.176400)
+NOTE: Pruned 515 origins too far from any end stations
+ASOORAJARA/Stableford Hangar -> ASOORAJARA/Stableford Hangar (score: 5745.162820)
   Load from ASOORAJARA/Stableford Hangar (43ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Conductive Fabrics      425cr vs    1,405cr, 10 days
-  Unload at URU/Stafford Gateway (946ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:N) => Gain 980cr (980cr/ton) => 100,980cr
+        1 x Tantalum                 3,692cr vs    3,858cr, 2 days vs 16 days
+  Unload at 34 PEGASI/Williams City (2.74Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 166cr (166cr/ton) => 100,166cr
+  Load from 34 PEGASI/Williams City (2.74Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
+        1 x Insulating Membrane      7,808cr vs   11,623cr, 16 days vs 46 hrs
+  Unload at URU/Stafford Gateway (946ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:N) => Gain 3,815cr (3,815cr/ton) => 103,981cr
   Load from URU/Stafford Gateway (946ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:N):
-        1 x Micro Controllers     2,697cr vs    6,268cr, 10 days vs 3 days
-  Unload at LODHARY/Anthony Dock (17ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:N) => Gain 3,571cr (3,571cr/ton) => 104,551cr
-  Load from LODHARY/Anthony Dock (17ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:N):
-        1 x Personal Weapons      3,511cr vs    5,152cr, 3 days vs 10 days
-  Unload at ASOORAJARA/Stableford Hangar (43ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,641cr (1,641cr/ton) => 106,192cr
+        1 x Performance Enhancers    6,021cr vs    7,786cr, 46 hrs vs 2 days
+  Unload at ASOORAJARA/Stableford Hangar (43ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,765cr (1,765cr/ton) => 105,746cr
   ----------------------------------------------------------------------------
-Finish at ASOORAJARA/Stableford Hangar (43ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 6,192cr (2,064cr/ton) => est 106,192cr total
+Finish at ASOORAJARA/Stableford Hangar (43ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 5,746cr (1,915cr/ton) => est 105,746cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Triangle starting and ending at ASOORAJARA/Stableford Hangar with 42.5 ly between trades
-For MEDIUM and SMALL ships only, generated at 18/01/2017-16:54:48.36 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 25/01/2017- 1:18:01.20 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-NOTE: Pruned 681 origins too far from any end stations
-ASOORAJARA/Stableford Hangar -> ASOORAJARA/Stableford Hangar (score: 6283.169600)
+NOTE: Pruned 737 origins too far from any end stations
+ASOORAJARA/Stableford Hangar -> ASOORAJARA/Stableford Hangar (score: 6009.426840)
   Load from ASOORAJARA/Stableford Hangar (43ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Biowaste                   6cr vs       13cr, 10 days vs 12 days
-  Unload at 34 PEGASI/Rayhan Al-Biruni Orbital (465ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 7cr (7cr/ton) => 100,007cr
-  Load from 34 PEGASI/Rayhan Al-Biruni Orbital (465ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Insulating Membrane    7,359cr vs   11,872cr, 12 days vs 34 hrs
-  Unload at KAMORIN/Godwin Vision (447ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 4,513cr (4,513cr/ton) => 104,520cr
+        1 x Tantalum               3,692cr vs    3,858cr, 2 days vs 16 days
+  Unload at 34 PEGASI/Williams City (2.74Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 166cr (166cr/ton) => 100,166cr
+  Load from 34 PEGASI/Williams City (2.74Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
+        1 x Insulating Membrane    7,808cr vs   11,872cr, 16 days vs 28 hrs
+  Unload at KAMORIN/Godwin Vision (447ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 4,064cr (4,064cr/ton) => 104,230cr
   Load from KAMORIN/Godwin Vision (447ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Personal Weapons       3,391cr vs    5,152cr, 34 hrs vs 10 days
-  Unload at ASOORAJARA/Stableford Hangar (43ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,761cr (1,761cr/ton) => 106,281cr
+        1 x Personal Weapons       3,391cr vs    5,170cr, 28 hrs vs 2 days
+  Unload at ASOORAJARA/Stableford Hangar (43ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,779cr (1,779cr/ton) => 106,009cr
   ----------------------------------------------------------------------------
-Finish at ASOORAJARA/Stableford Hangar (43ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 6,281cr (2,093cr/ton) => est 106,281cr total
+Finish at ASOORAJARA/Stableford Hangar (43ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 6,009cr (2,003cr/ton) => est 106,009cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Triangle starting and ending at ASOORAJARA/Stableford Hangar with 76.5 ly between trades
-For MEDIUM and SMALL ships only, generated at 18/01/2017-16:55:03.85 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 25/01/2017- 1:18:16.86 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-NOTE: Pruned 7208 origins too far from any end stations
-ASOORAJARA/Stableford Hangar -> ASOORAJARA/Stableford Hangar (score: 6684.060520)
+NOTE: Pruned 7590 origins too far from any end stations
+ASOORAJARA/Stableford Hangar -> ASOORAJARA/Stableford Hangar (score: 6215.521300)
   Load from ASOORAJARA/Stableford Hangar (43ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Military Grade Fabrics      746cr vs    1,396cr, 10 days vs 13 days
-  Unload at MONTO/Werber Hangar (22Kls, BMk:N, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 650cr (650cr/ton) => 100,650cr
-  Load from MONTO/Werber Hangar (22Kls, BMk:N, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Insulating Membrane       7,026cr vs   11,862cr, 13 days vs 5 days
-  Unload at EORASA/Vasyutin Dock (802ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:N) => Gain 4,836cr (4,836cr/ton) => 105,486cr
-  Load from EORASA/Vasyutin Dock (802ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:N):
-        1 x Personal Weapons          3,338cr vs    5,152cr, 5 days vs 10 days
-  Unload at ASOORAJARA/Stableford Hangar (43ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,814cr (1,814cr/ton) => 107,300cr
+        1 x Tantalum                        3,692cr vs    4,533cr, 2 days vs 3 days
+  Unload at TZ'UTULS/Gamow Terminal (922ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 841cr (841cr/ton) => 100,841cr
+  Load from TZ'UTULS/Gamow Terminal (922ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
+        1 x Medical Diagnostic Equipment    2,207cr vs    6,488cr, 3 days vs 9 days
+  Unload at BARKINDJI/Tryggvason Barracks (813ls, BMk:Y, Pad:L, Plt:Y, Shp:Y, Out:Y, Ref:Y) => Gain 4,281cr (4,281cr/ton) => 105,122cr
+  Load from BARKINDJI/Tryggvason Barracks (813ls, BMk:Y, Pad:L, Plt:Y, Shp:Y, Out:Y, Ref:Y):
+        1 x Reactive Armour                 1,699cr vs    2,791cr, 9 days vs 2 days
+  Unload at ASOORAJARA/Stableford Hangar (43ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,092cr (1,092cr/ton) => 106,214cr
   ----------------------------------------------------------------------------
-Finish at ASOORAJARA/Stableford Hangar (43ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 7,300cr (2,433cr/ton) => est 107,300cr total
+Finish at ASOORAJARA/Stableford Hangar (43ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 6,214cr (2,071cr/ton) => est 106,214cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Triangle starting and ending at ASOORAJARA/Stableford Hangar with 105.7 ly between trades
-For MEDIUM and SMALL ships only, generated at 18/01/2017-16:56:22.92 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 25/01/2017- 1:19:40.82 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-NOTE: Pruned 13835 origins too far from any end stations
-ASOORAJARA/Stableford Hangar -> ASOORAJARA/Stableford Hangar (score: 7827.592160)
+NOTE: Pruned 14648 origins too far from any end stations
+ASOORAJARA/Stableford Hangar -> ASOORAJARA/Stableford Hangar (score: 7103.681600)
   Load from ASOORAJARA/Stableford Hangar (43ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Military Grade Fabrics      746cr vs    1,369cr, 10 days vs 11 days
-  Unload at GUITE/Ampere Holdings (481ls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y) => Gain 623cr (623cr/ton) => 100,623cr
-  Load from GUITE/Ampere Holdings (481ls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y):
-        1 x CMM Composite             2,512cr vs    6,553cr, 11 days vs 44 hrs
-  Unload at CUCHUA/Curtis Ring (217ls, BMk:N, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 4,041cr (4,041cr/ton) => 104,664cr
-  Load from CUCHUA/Curtis Ring (217ls, BMk:N, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
-        1 x Imperial Slaves          13,910cr vs   17,072cr, 44 hrs vs 10 days
-  Unload at ASOORAJARA/Stableford Hangar (43ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 3,162cr (3,162cr/ton) => 107,826cr
+        1 x Biowaste               6cr vs       11cr, 2 days vs 23 days
+  Unload at WUONJAMI/Varley Beacon (5.87Kls, BMk:N, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y) => Gain 5cr (5cr/ton) => 100,005cr
+  Load from WUONJAMI/Varley Beacon (5.87Kls, BMk:N, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y):
+        1 x CMM Composite      2,633cr vs    6,553cr, 23 days vs 2 days
+  Unload at CUCHUA/Hevelius Station (519ls, BMk:N, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 3,920cr (3,920cr/ton) => 103,925cr
+  Load from CUCHUA/Hevelius Station (519ls, BMk:N, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
+        1 x Imperial Slaves   13,910cr vs   17,087cr, 2 days vs 2 days
+  Unload at ASOORAJARA/Stableford Hangar (43ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 3,177cr (3,177cr/ton) => 107,102cr
   ----------------------------------------------------------------------------
-Finish at ASOORAJARA/Stableford Hangar (43ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 7,826cr (2,608cr/ton) => est 107,826cr total
+Finish at ASOORAJARA/Stableford Hangar (43ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 7,102cr (2,367cr/ton) => est 107,102cr total
 
