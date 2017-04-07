@@ -56,71 +56,71 @@
 #
 ---------------------------------------------------------------------------------------------------------
 Best Trade Shuttle starting and ending at MBAYO/Hopkins Plant with 13 ly between trades
-For MEDIUM and SMALL ships only, generated at 25/01/2017- 3:21:03.30 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 07/04/2017-12:45:39.81 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-MBAYO/Hopkins Plant -> MBAYO/Hopkins Plant (score: 2010.857500)
+MBAYO/Hopkins Plant -> MBAYO/Hopkins Plant (score: 2197.024500)
   Load from MBAYO/Hopkins Plant (564ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
-        1 x Uranium             2,588cr vs    2,883cr, 3 days vs 9 days
-  Unload at LODHARY/Anthony Dock (17ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:N) => Gain 295cr (295cr/ton) => 100,295cr
-  Load from LODHARY/Anthony Dock (17ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:N):
-        1 x Personal Weapons    3,511cr vs    5,226cr, 9 days vs 3 days
-  Unload at MBAYO/Hopkins Plant (564ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 1,715cr (1,715cr/ton) => 102,010cr
+        1 x Superconductors     6,049cr vs    7,844cr, 16 days vs 5 days
+  Unload at BIKO/Forstchen Horizons (2.01Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 1,795cr (1,795cr/ton) => 101,795cr
+  Load from BIKO/Forstchen Horizons (2.01Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
+        1 x Personal Weapons    3,971cr vs    4,380cr, 5 days vs 16 days
+  Unload at MBAYO/Hopkins Plant (564ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 409cr (409cr/ton) => 102,204cr
   ----------------------------------------------------------------------------
-Finish at MBAYO/Hopkins Plant (564ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) gaining 2,010cr (1,005cr/ton) => est 102,010cr total
+Finish at MBAYO/Hopkins Plant (564ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) gaining 2,204cr (1,102cr/ton) => est 102,204cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Shuttle starting and ending at MBAYO/Hopkins Plant with 37.5 ly between trades
-For MEDIUM and SMALL ships only, generated at 25/01/2017- 3:21:17.36 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 07/04/2017-12:45:52.88 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-MBAYO/Hopkins Plant -> MBAYO/Hopkins Plant (score: 2943.448860)
+MBAYO/Hopkins Plant -> MBAYO/Hopkins Plant (score: 3815.536080)
   Load from MBAYO/Hopkins Plant (564ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
-        1 x Beryllium           7,958cr vs    9,065cr, 3 days vs 30 hrs
-  Unload at KAMORIN/Godwin Vision (447ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,107cr (1,107cr/ton) => 101,107cr
-  Load from KAMORIN/Godwin Vision (447ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Personal Weapons    3,391cr vs    5,226cr, 30 hrs vs 3 days
-  Unload at MBAYO/Hopkins Plant (564ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 1,835cr (1,835cr/ton) => 102,942cr
+        1 x Beryllium             7,417cr vs    9,043cr, 16 days vs 11 days
+  Unload at DEIVE/Obruchev Orbital (1.95Kls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,626cr (1,626cr/ton) => 101,626cr
+  Load from DEIVE/Obruchev Orbital (1.95Kls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Advanced Medicines    1,117cr vs    3,311cr, 11 days vs 16 days
+  Unload at MBAYO/Hopkins Plant (564ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 2,194cr (2,194cr/ton) => 103,820cr
   ----------------------------------------------------------------------------
-Finish at MBAYO/Hopkins Plant (564ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) gaining 2,942cr (1,471cr/ton) => est 102,942cr total
+Finish at MBAYO/Hopkins Plant (564ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) gaining 3,820cr (1,910cr/ton) => est 103,820cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Shuttle starting and ending at MBAYO/Hopkins Plant with 42.5 ly between trades
-For MEDIUM and SMALL ships only, generated at 25/01/2017- 3:21:31.50 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 07/04/2017-12:46:06.04 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-MBAYO/Hopkins Plant -> MBAYO/Hopkins Plant (score: 2943.448860)
+MBAYO/Hopkins Plant -> MBAYO/Hopkins Plant (score: 3855.533220)
   Load from MBAYO/Hopkins Plant (564ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
-        1 x Beryllium           7,958cr vs    9,065cr, 3 days vs 30 hrs
-  Unload at KAMORIN/Godwin Vision (447ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,107cr (1,107cr/ton) => 101,107cr
-  Load from KAMORIN/Godwin Vision (447ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Personal Weapons    3,391cr vs    5,226cr, 30 hrs vs 3 days
-  Unload at MBAYO/Hopkins Plant (564ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 1,835cr (1,835cr/ton) => 102,942cr
+        1 x Beryllium             7,417cr vs    9,043cr, 16 days vs 18 hrs
+  Unload at NERVI/Savitskaya Vision (2.26Kls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,626cr (1,626cr/ton) => 101,626cr
+  Load from NERVI/Savitskaya Vision (2.26Kls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Advanced Medicines    1,074cr vs    3,311cr, 18 hrs vs 16 days
+  Unload at MBAYO/Hopkins Plant (564ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 2,237cr (2,237cr/ton) => 103,863cr
   ----------------------------------------------------------------------------
-Finish at MBAYO/Hopkins Plant (564ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) gaining 2,942cr (1,471cr/ton) => est 102,942cr total
+Finish at MBAYO/Hopkins Plant (564ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) gaining 3,863cr (1,931cr/ton) => est 103,863cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Shuttle starting and ending at MBAYO/Hopkins Plant with 76.5 ly between trades
-For MEDIUM and SMALL ships only, generated at 25/01/2017- 3:21:45.83 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 07/04/2017-12:46:19.31 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-MBAYO/Hopkins Plant -> MBAYO/Hopkins Plant (score: 3064.319640)
+MBAYO/Hopkins Plant -> MBAYO/Hopkins Plant (score: 3863.151000)
   Load from MBAYO/Hopkins Plant (564ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
-        1 x Beryllium           7,958cr vs    9,135cr, 3 days vs 19 days
-  Unload at EORASA/Leonov Enterprise (801ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,177cr (1,177cr/ton) => 101,177cr
-  Load from EORASA/Leonov Enterprise (801ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Personal Weapons    3,340cr vs    5,226cr, 19 days vs 3 days
-  Unload at MBAYO/Hopkins Plant (564ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 1,886cr (1,886cr/ton) => 103,063cr
+        1 x Beryllium             7,417cr vs    8,977cr, 16 days vs 13 hrs
+  Unload at HIRANYAKSHA/Wood Ring (23ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,560cr (1,560cr/ton) => 101,560cr
+  Load from HIRANYAKSHA/Wood Ring (23ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Advanced Medicines    1,009cr vs    3,311cr, 13 hrs vs 16 days
+  Unload at MBAYO/Hopkins Plant (564ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 2,302cr (2,302cr/ton) => 103,862cr
   ----------------------------------------------------------------------------
-Finish at MBAYO/Hopkins Plant (564ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) gaining 3,063cr (1,531cr/ton) => est 103,063cr total
+Finish at MBAYO/Hopkins Plant (564ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) gaining 3,862cr (1,931cr/ton) => est 103,862cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Shuttle starting and ending at MBAYO/Hopkins Plant with 105.7 ly between trades
-For MEDIUM and SMALL ships only, generated at 25/01/2017- 3:22:09.85 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 07/04/2017-12:46:43.63 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-MBAYO/Hopkins Plant -> MBAYO/Hopkins Plant (score: 3737.868000)
+MBAYO/Hopkins Plant -> MBAYO/Hopkins Plant (score: 3869.359640)
   Load from MBAYO/Hopkins Plant (564ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
-        1 x Beryllium          7,958cr vs    8,837cr, 3 days vs 2 days
-  Unload at CUCHUA/Hevelius Station (519ls, BMk:N, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 879cr (879cr/ton) => 100,879cr
-  Load from CUCHUA/Hevelius Station (519ls, BMk:N, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Imperial Slaves   13,910cr vs   16,767cr, 2 days vs 3 days
-  Unload at MBAYO/Hopkins Plant (564ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 2,857cr (2,857cr/ton) => 103,736cr
+        1 x Beryllium             7,417cr vs    9,024cr, 16 days vs 15 hrs
+  Unload at 7 ANDROMEDAE/Hardy Landing (1.23Kls, BMk:N, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y) => Gain 1,607cr (1,607cr/ton) => 101,607cr
+  Load from 7 ANDROMEDAE/Hardy Landing (1.23Kls, BMk:N, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y):
+        1 x Advanced Medicines    1,049cr vs    3,311cr, 15 hrs vs 16 days
+  Unload at MBAYO/Hopkins Plant (564ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 2,262cr (2,262cr/ton) => 103,869cr
   ----------------------------------------------------------------------------
-Finish at MBAYO/Hopkins Plant (564ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) gaining 3,736cr (1,868cr/ton) => est 103,736cr total
+Finish at MBAYO/Hopkins Plant (564ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) gaining 3,869cr (1,934cr/ton) => est 103,869cr total
 

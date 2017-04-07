@@ -1,0 +1,1096 @@
+# This file is a list of places that you can buy ships within 60ly of "BIKO"
+# It is based on data in the public TradeDangerous database, and generated at 07/04/2017-13:17:12.57 [DD/MM/YYYY-UTC]
+# Crowd sourced data about where to buy ships is limited
+# There are likely to be many other places where you can buy ships in the area
+# Especially the smaller ones
+# But you can be confident about the locations
+# For each ship, there is a list by system and station [nearest first]
+# The typical buy price is shown for reference
+# Founders and Beta Backers may pay less
+# KEY
+# Station  - self explanatory
+# DistLy   - Distance in Light Years from "BIKO"
+# StnLs    - Distance of the station from the system star in Ls. 0.01 ly = 100 KLs
+# B/Mkt    - Is there a Black Market at the station?
+# Pad      - Maximum Ship Size that can land. Lrg implies that this is a station, Med implies an Outpost
+# Plt      - Whether or not the station is on the surface of a planet
+
+--------------------
+You can buy "'Adder'"s and [typically] pay 87810 Cr At...
+--------------------
+
+Station                         DistLy      StnLs B/mkt Pad Plt
+---------------------------------------------------------------
+HARMA/Gabriel Enterprise          9.00        259   Yes Lrg  No
+PHRACES/Potter Enterprise        11.43        375   Yes Lrg  No
+HIP 113980/Clapperton Station    12.75      7.67K   Yes Lrg  No
+LODHARY/Lagrange Gateway         14.47          6   Yes Lrg  No
+KAKMBUTAN/MacGregor Orbital      16.18         75   Yes Lrg  No
+BIRRETI/Platt City               16.74      7.25K   Yes Lrg  No
+PATOCUDA/Coney Gateway           20.81         97   Yes Lrg  No
+PATOCUDA/Fernao Do Po Port       20.81      1.47K   Yes Lrg  No
+GLIESE 1272/Bao Dock             21.24         49   Yes Lrg  No
+GLIESE 1272/Murphy Dock          21.24         86   Yes Lrg  No
+TEWI'XILAK/Newman Terminal       21.48         35   Yes Lrg  No
+TEWI'XILAK/Zholobov Station      21.48         21   Yes Lrg  No
+AUTA ISUANG/Evans Settlement     23.78        353   Yes Lrg  No
+URU/Bessemer Vision              25.28        675   Yes Lrg  No
+MATUCANTH/Ericsson Ring          27.94      1.40K   Yes Lrg  No
+FAN CECHEHE/Hermite Dock         28.13        121   Yes Lrg  No
+DHANKA/Bierce Horizons           30.08         42   Yes Lrg  No
+KACHIRIGIN/Nowak Orbital         35.25        340   Yes Lrg  No
+KACHIRIGIN/Schrodinger Terminal  35.25        420   Yes Lrg  No
+HIP 112580/Heinlein Dock         36.99      1.75K    No Lrg  No
+CASPI/Fontana Orbital            38.01        350   Yes Lrg  No
+BD-00 4461/Piccard Hub           39.07        279   Yes Lrg  No
+HIP 112974/Bachman Port          41.78      1.70K   Yes Lrg  No
+HIP 114702/Artyukhin Port        42.84        653   Yes Lrg  No
+LALANDE 45165/Burstein Ring      43.07      2.21K   Yes Lrg  No
+NANKOBI/Deslandres Station       43.53         10   Yes Lrg  No
+ADITYAN/Hopkins City             43.65        429   Yes Lrg  No
+ADITYAN/Huygens Enterprise       43.65       148K   Yes Lrg  No
+LTT 16548/Tyson Gateway          44.21      3.23K   Yes Lrg  No
+HR 8737/Marshburn Ring           44.99        491    No Lrg  No
+HR 8737/Perrin Dock              44.99        798    No Lrg  No
+HR 8737/Savery Dock              44.99        332    No Lrg  No
+WOLF 1326/Frimout Terminal       45.33        315    No Lrg  No
+WADJALKAN/Potter Station         45.51      2.52K   Yes Lrg  No
+ZAPORISNI/Riccioli Gateway       45.71       118K    No Lrg  No
+FIRENSES/Roberts Gateway         46.37        610   Yes Lrg  No
+BD+15 4829/Kimbrough Terminal    47.38        296   Yes Lrg  No
+LTT 9246/Gabriel Enterprise      48.38         26   Yes Lrg  No
+PANJABELL/Moore Hub              48.87        139   Yes Lrg  No
+TYRFING/Cheli City               49.02      2.53K    No Lrg  No
+GLIESE 867.1/Friesner Port       49.48       326K   Yes Lrg  No
+GLIESE 867.1/Holberg Hub         49.48       326K   Yes Lrg  No
+GLIESE 867.1/Minkowski Terminal  49.48        65K   Yes Lrg  No
+HUAICH/Schilling Dock            49.94          ?   Yes Lrg  No
+ELUSUGHNA/Waldrop City           50.16      2.23K   Yes Lrg  No
+YAPELICI/Kubasov Station         50.19         15    No Lrg  No
+HR 8514/Hennen Station           50.98      2.54K   Yes Lrg  No
+BYERU BESE/Chebyshev Dock        51.13        861   Yes Lrg  No
+BYERU BESE/Garnier Station       51.13        629   Yes Lrg  No
+CANDRA/Wohler Horizons           51.50        475    No Lrg  No
+HIP 116213/Yolen Hub             51.66        458    No Lrg  No
+PAELIS/Rennie Station            51.92        304   Yes Lrg  No
+HALBANGAAY/Charlois Orbital      52.07      1.25K   Yes Lrg  No
+HALBANGAAY/Hill Tinsley Orbital  52.07      2.29K   Yes Lrg  No
+HALBANGAAY/Valigursky Station    52.07      2.75K   Yes Lrg  No
+ANEDJETE/Struzan Hub             52.52        155    No Lrg  No
+NAXIXO/Hanke-Woods Platform      52.62         88   Yes Lrg  No
+COMANGA/Henry Port               52.79        141   Yes Lrg  No
+TAURINA/Kerr City                53.15        227   Yes Lrg  No
+BELGETH/Rowley City              53.21        127   Yes Lrg  No
+LALANDE 43492/Polansky Hub       53.59      2.18K   Yes Lrg  No
+SUMOD/Sharp Dock                 53.66          7   Yes Lrg  No
+32 C PISCIUM/Eyharts Enterprise  53.66        189    No Lrg  No
+NGUNA/Biggle Hub                 53.78      1.87K    No Lrg  No
+77 AQUARII/Chertok City          53.95        362    No Lrg  No
+SOPONTET/Gernhardt Dock          54.62         39   Yes Lrg  No
+SOPONTET/Parker City             54.62         47   Yes Lrg  No
+SOPONTET/Thoreau Port            54.62         24   Yes Lrg  No
+SEURBI/Trujillo Port             55.03         13   Yes Lrg  No
+THRUTII/Butcher Gateway          55.30      1.20K   Yes Lrg  No
+ALYA/Malaspina Gateway           55.73        54K   Yes Lrg  No
+WAIMI/Hahn Dock                  55.90        376   Yes Lrg  No
+BHADRA/Frimout Gateway           55.94        111    No Lrg  No
+HIP 105202/Caidin Hub            56.37        839    No Lrg  No
+HIP 105202/Dummer Orbital        56.37        57K    No Lrg  No
+HIP 105202/Marques Enterprise    56.37        56K    No Lrg  No
+HIP 105202/Wells Dock            56.37        57K    No Lrg  No
+NIRROS/Littrow Enterprise        56.40      4.62K    No Lrg  No
+ARAWERE/Korolyov Hub             56.64      1.42K    No Lrg  No
+MARIMPT/Longyear Mines           57.17        579    No Lrg  No
+ATORII/Lu Terminal               57.55          8   Yes Lrg  No
+INMUTHA/Abernathy Gateway        58.29         59   Yes Lrg  No
+INMUTHA/Bujold Orbital           58.29        112   Yes Lrg  No
+INMUTHA/Mitropoulos City         58.29         74   Yes Lrg  No
+OMEGA-1 AQUARII/McArthur Port    58.85      1.97K   Yes Lrg  No
+KPONIUGO/Lessing Hub             59.06      1.04K   Yes Lrg  No
+KAMMATO/Grijalva Hub             59.27         67    No Lrg  No
+KAMMATO/Hughes Port              59.27        578    No Lrg  No
+KAMMATO/O'Brien Enterprise       59.27         88    No Lrg  No
+KUI XING/Andreas City            59.77        401   Yes Lrg  No
+NANKUL/Tombaugh Ring             59.82        502    No Lrg  No
+
+--------------------
+You can buy "'Anaconda'"s and [typically] pay 146969450 Cr At...
+--------------------
+
+Station                         DistLy      StnLs B/mkt Pad Plt
+---------------------------------------------------------------
+HARMA/Gabriel Enterprise          9.00        259   Yes Lrg  No
+KAKMBUTAN/MacGregor Orbital      16.18         75   Yes Lrg  No
+BIRRETI/Platt City               16.74      7.25K   Yes Lrg  No
+TEWI'XILAK/Newman Terminal       21.48         35   Yes Lrg  No
+TEWI'XILAK/Zholobov Station      21.48         21   Yes Lrg  No
+MATUCANTH/Robinson Station       27.94      1.40K   Yes Lrg  No
+TEHUEVI/Ford Port                29.90      1.12K    No Lrg  No
+HIP 112095/Savitskaya City       35.06        10K   Yes Lrg  No
+KACHIRIGIN/Schrodinger Terminal  35.25        420   Yes Lrg  No
+CASPI/Fontana Orbital            38.01        350   Yes Lrg  No
+BD-00 4461/Piccard Hub           39.07        279   Yes Lrg  No
+HR 8737/Marshburn Ring           44.99        491    No Lrg  No
+HR 8737/Savery Dock              44.99        332    No Lrg  No
+WOLF 1326/Frimout Terminal       45.33        315    No Lrg  No
+MADIMO/Sinisalo Terminal         46.17      1.33K    No Lrg  No
+BD+15 4829/Kimbrough Terminal    47.38        296   Yes Lrg  No
+HALBANGAAY/Charlois Orbital      52.07      1.25K   Yes Lrg  No
+ANEDJETE/Struzan Hub             52.52        155    No Lrg  No
+BELGETH/Rowley City              53.21        127   Yes Lrg  No
+SOPONTET/Parker City             54.62         47   Yes Lrg  No
+SEURBI/Trujillo Port             55.03         13   Yes Lrg  No
+BLETANI/Smith City               55.09        603    No Lrg  No
+SAMNIENAS/Avicenna Gateway       55.57        378    No Lrg  No
+WOLF 1022/McDivitt Port          56.51        255   Yes Lrg  No
+ARAWERE/Korolyov Hub             56.64      1.42K    No Lrg  No
+ATORII/Lu Terminal               57.55          8   Yes Lrg  No
+INMUTHA/Abernathy Gateway        58.29         59   Yes Lrg  No
+KAMMATO/Oliver Dock              59.27        132    No Lrg  No
+KUI XING/Andreas City            59.77        401   Yes Lrg  No
+
+--------------------
+You can buy "'Asp'"s and [typically] pay 6661150 Cr At...
+--------------------
+
+Station                            DistLy      StnLs B/mkt Pad Plt
+------------------------------------------------------------------
+HARMA/Gabriel Enterprise             9.00        259   Yes Lrg  No
+PHRACES/Potter Enterprise           11.43        375   Yes Lrg  No
+HIP 113980/Clapperton Station       12.75      7.67K   Yes Lrg  No
+LODHARY/Lagrange Gateway            14.47          6   Yes Lrg  No
+KAKMBUTAN/MacGregor Orbital         16.18         75   Yes Lrg  No
+BIRRETI/Platt City                  16.74      7.25K   Yes Lrg  No
+WIRNAKO/Moffitt Platform            20.47        405   Yes Lrg  No
+GLIESE 1272/Murphy Dock             21.24         86   Yes Lrg  No
+34 PEGASI/Henderson Dock            27.61        993   Yes Lrg  No
+34 PEGASI/Rayhan Al-Biruni Orbital  27.61        465   Yes Lrg  No
+34 PEGASI/Webb Port                 27.61        262   Yes Lrg  No
+34 PEGASI/Weiss Orbital             27.61        328   Yes Lrg  No
+MATUCANTH/Robinson Station          27.94      1.40K   Yes Lrg  No
+FAN CECHEHE/Hermite Dock            28.13        121   Yes Lrg  No
+TEHUEVI/Ford Port                   29.90      1.12K    No Lrg  No
+ZHU JI/Curie Enterprise             32.85        280    No Lrg  No
+RUGI/Fermi Ring                     34.84         38   Yes Lrg  No
+HIP 112095/Savitskaya City          35.06        10K   Yes Lrg  No
+MANISSYET/Jensen Station            35.28        426   Yes Lrg  No
+HIP 112580/Heinlein Dock            36.99      1.75K    No Lrg  No
+CASPI/Fontana Orbital               38.01        350   Yes Lrg  No
+BD-00 4461/Piccard Hub              39.07        279   Yes Lrg  No
+BD-00 4461/Webb Orbital             39.07        208   Yes Lrg  No
+KAMORIN/Godwin Vision               40.63        447   Yes Lrg  No
+171 G. AQUARII/Elcano Dock          41.29      3.17K   Yes Lrg  No
+LALANDE 45165/Burstein Ring         43.07      2.21K   Yes Lrg  No
+ADITYAN/Kooi Station                43.65       148K   Yes Lrg  No
+LTT 16548/Tyson Gateway             44.21      3.23K   Yes Lrg  No
+NERVI/Savitskaya Vision             44.61      2.26K   Yes Lrg  No
+HR 8737/Marshburn Ring              44.99        491    No Lrg  No
+HR 8737/Savery Dock                 44.99        332    No Lrg  No
+HR 8631/Nicollet Market             45.15      1.16K   Yes Lrg  No
+WOLF 1326/Frimout Terminal          45.33        315    No Lrg  No
+WADJALKAN/Potter Station            45.51      2.52K   Yes Lrg  No
+ZAPORISNI/Riccioli Gateway          45.71       118K    No Lrg  No
+FIRENSES/Roberts Gateway            46.37        610   Yes Lrg  No
+BD+15 4829/Kimbrough Terminal       47.38        296   Yes Lrg  No
+MEHURS/Schroeder Dock               48.32        338   Yes Lrg  No
+LTT 9246/Gabriel Enterprise         48.38         26   Yes Lrg  No
+PANJABELL/Moore Hub                 48.87        139   Yes Lrg  No
+TYRFING/Cheli City                  49.02      2.53K    No Lrg  No
+YAPELICI/Kubasov Station            50.19         15    No Lrg  No
+HIP 116213/Yolen Hub                51.66        458    No Lrg  No
+HALBANGAAY/Charlois Orbital         52.07      1.25K   Yes Lrg  No
+HALBANGAAY/Haack Gateway            52.07        892    No Lrg  No
+ANEDJETE/Struzan Hub                52.52        155    No Lrg  No
+COMANGA/Henry Port                  52.79        141   Yes Lrg  No
+TAURINA/Kerr City                   53.15        227   Yes Lrg  No
+BELGETH/Rowley City                 53.21        127   Yes Lrg  No
+77 AQUARII/Chertok City             53.95        362    No Lrg  No
+SOPONTET/Parker City                54.62         47   Yes Lrg  No
+SEURBI/Trujillo Port                55.03         13   Yes Lrg  No
+SAMNIENAS/Avicenna Gateway          55.57        378    No Lrg  No
+GCIRTHI/Kent Station                55.87       231K   Yes Lrg  No
+WAIMI/Hahn Dock                     55.90        376   Yes Lrg  No
+HIP 105202/Caidin Hub               56.37        839    No Lrg  No
+HIP 105202/Dummer Orbital           56.37        57K    No Lrg  No
+HIP 105202/Marques Enterprise       56.37        56K    No Lrg  No
+HIP 105202/Wells Dock               56.37        57K    No Lrg  No
+WOLF 1022/McDivitt Port             56.51        255   Yes Lrg  No
+ARAWERE/Korolyov Hub                56.64      1.42K    No Lrg  No
+VELIS/Menezes Dock                  57.01        590   Yes Lrg  No
+JADIMO/Grzimek Dock                 57.03        200   Yes Lrg  No
+ATORII/Lu Terminal                  57.55          8   Yes Lrg  No
+HIRANYAKSHA/Wood Ring               57.86         23   Yes Lrg  No
+INMUTHA/Abernathy Gateway           58.29         59   Yes Lrg  No
+INMUTHA/Mitropoulos City            58.29         74   Yes Lrg  No
+KPONIUGO/Lessing Hub                59.06      1.04K   Yes Lrg  No
+KAMMATO/Oliver Dock                 59.27        132    No Lrg  No
+KUI XING/Andreas City               59.77        401   Yes Lrg  No
+
+--------------------
+You can buy "'Asp Scout'"s and [typically] pay 3961150 Cr At...
+--------------------
+
+# No available items found
+
+--------------------
+You can buy "'Beluga Liner'"s and [typically] pay 79654620 Cr At...
+--------------------
+
+# No available items found
+
+--------------------
+You can buy "'Clipper'"s and [typically] pay 22295860 Cr At...
+--------------------
+
+Station                    DistLy      StnLs B/mkt Pad Plt
+----------------------------------------------------------
+FAN CECHEHE/Hermite Dock    28.13        121   Yes Lrg  No
+NANKOBI/Deslandres Station  43.53         10   Yes Lrg  No
+SEURBI/Trujillo Port        55.03         13   Yes Lrg  No
+ATORII/Lu Terminal          57.55          8   Yes Lrg  No
+KUI XING/Andreas City       59.77        401   Yes Lrg  No
+
+--------------------
+You can buy "'Cobra'"s and [typically] pay 379720 Cr At...
+--------------------
+
+Station                         DistLy      StnLs B/mkt Pad Plt
+---------------------------------------------------------------
+HARMA/Gabriel Enterprise          9.00        259   Yes Lrg  No
+LODHARY/Lagrange Gateway         14.47          6   Yes Lrg  No
+KAKMBUTAN/MacGregor Orbital      16.18         75   Yes Lrg  No
+BIRRETI/Platt City               16.74      7.25K   Yes Lrg  No
+PATOCUDA/Coney Gateway           20.81         97   Yes Lrg  No
+PATOCUDA/Fernao Do Po Port       20.81      1.47K   Yes Lrg  No
+SADHEN/Birkeland Platform        21.13        472   Yes Lrg  No
+GLIESE 1272/Murphy Dock          21.24         86   Yes Lrg  No
+TEWI'XILAK/Deb Orbital           21.48        30K   Yes Lrg  No
+TEWI'XILAK/Newman Terminal       21.48         35   Yes Lrg  No
+TEWI'XILAK/Zholobov Station      21.48         21   Yes Lrg  No
+URU/Bessemer Vision              25.28        675   Yes Lrg  No
+MATUCANTH/Ericsson Ring          27.94      1.40K   Yes Lrg  No
+TEHUEVI/Ford Port                29.90      1.12K    No Lrg  No
+DHANKA/Bierce Horizons           30.08         42   Yes Lrg  No
+KACHIRIGIN/Nowak Orbital         35.25        340   Yes Lrg  No
+KACHIRIGIN/Schrodinger Terminal  35.25        420   Yes Lrg  No
+HIP 112580/Heinlein Dock         36.99      1.75K    No Lrg  No
+CASPI/Fontana Orbital            38.01        350   Yes Lrg  No
+BD-00 4461/Piccard Hub           39.07        279   Yes Lrg  No
+HIP 114702/Artyukhin Port        42.84        653   Yes Lrg  No
+LALANDE 45165/Burstein Ring      43.07      2.21K   Yes Lrg  No
+NANKOBI/Deslandres Station       43.53         10   Yes Lrg  No
+ADITYAN/Hopkins City             43.65        429   Yes Lrg  No
+ADITYAN/Huygens Enterprise       43.65       148K   Yes Lrg  No
+LTT 16548/Tyson Gateway          44.21      3.23K   Yes Lrg  No
+SHONPONO/Tucker Enterprise       44.48        140    No Lrg  No
+NERVI/Savitskaya Vision          44.61      2.26K   Yes Lrg  No
+HR 8737/Marshburn Ring           44.99        491    No Lrg  No
+HR 8737/Perrin Dock              44.99        798    No Lrg  No
+HR 8631/Nicollet Market          45.15      1.16K   Yes Lrg  No
+WOLF 1326/Frimout Terminal       45.33        315    No Lrg  No
+ZAPORISNI/Riccioli Gateway       45.71       118K    No Lrg  No
+FIRENSES/Roberts Gateway         46.37        610   Yes Lrg  No
+TZ'UTULS/Kanwar Orbital          46.64        724   Yes Lrg  No
+LTT 9391/Kanwar Orbital          47.08        419   Yes Lrg  No
+BD+15 4829/Kimbrough Terminal    47.38        296   Yes Lrg  No
+LTT 9246/Gabriel Enterprise      48.38         26   Yes Lrg  No
+ZENUS/Gunn Station               48.82        328    No Lrg  No
+PANJABELL/Moore Hub              48.87        139   Yes Lrg  No
+TYRFING/Cheli City               49.02      2.53K    No Lrg  No
+GLIESE 867.1/Minkowski Terminal  49.48        65K   Yes Lrg  No
+HUAICH/Schilling Dock            49.94          ?   Yes Lrg  No
+ELUSUGHNA/Waldrop City           50.16      2.23K   Yes Lrg  No
+YAPELICI/Kubasov Station         50.19         15    No Lrg  No
+HR 8514/Hennen Station           50.98      2.54K   Yes Lrg  No
+BYERU BESE/Chebyshev Dock        51.13        861   Yes Lrg  No
+BYERU BESE/Garnier Station       51.13        629   Yes Lrg  No
+CANDRA/Wohler Horizons           51.50        475    No Lrg  No
+HIP 116213/Yolen Hub             51.66        458    No Lrg  No
+PAELIS/Rennie Station            51.92        304   Yes Lrg  No
+HALBANGAAY/Hill Tinsley Orbital  52.07      2.29K   Yes Lrg  No
+HALBANGAAY/Valigursky Station    52.07      2.75K   Yes Lrg  No
+KHARYI/Duckworth Port            52.24        360   Yes Lrg  No
+ANEDJETE/Struzan Hub             52.52        155    No Lrg  No
+NAXIXO/Hanke-Woods Platform      52.62         88   Yes Lrg  No
+COMANGA/Reilly Dock              52.79      1.54K   Yes Lrg  No
+TAURINA/Kerr City                53.15        227   Yes Lrg  No
+BELGETH/Rowley City              53.21        127   Yes Lrg  No
+LALANDE 43492/Polansky Hub       53.59      2.18K   Yes Lrg  No
+SUMOD/Sharp Dock                 53.66          7   Yes Lrg  No
+32 C PISCIUM/Eyharts Enterprise  53.66        189    No Lrg  No
+NGUNA/Biggle Hub                 53.78      1.87K    No Lrg  No
+AMBIBARII/Gunn Station           53.89        16K    No Lrg  No
+77 AQUARII/Chertok City          53.95        362    No Lrg  No
+SOPONTET/Parker City             54.62         47   Yes Lrg  No
+SOPONTET/Thoreau Port            54.62         24   Yes Lrg  No
+SEURBI/Trujillo Port             55.03         13   Yes Lrg  No
+BLETANI/Smith City               55.09        603    No Lrg  No
+THRUTII/Butcher Gateway          55.30      1.20K   Yes Lrg  No
+ALYA/Malaspina Gateway           55.73        54K   Yes Lrg  No
+WAIMI/Hahn Dock                  55.90        376   Yes Lrg  No
+BHADRA/Frimout Gateway           55.94        111    No Lrg  No
+HIP 105202/Caidin Hub            56.37        839    No Lrg  No
+HIP 105202/Dummer Orbital        56.37        57K    No Lrg  No
+HIP 105202/Marques Enterprise    56.37        56K    No Lrg  No
+HIP 105202/Wells Dock            56.37        57K    No Lrg  No
+WOLF 1022/McDivitt Port          56.51        255   Yes Lrg  No
+ARAWERE/Korolyov Hub             56.64      1.42K    No Lrg  No
+MARIMPT/Longyear Mines           57.17        579    No Lrg  No
+ATORII/Lu Terminal               57.55          8   Yes Lrg  No
+LTT 16385/Morgan Port            57.68        249   Yes Lrg  No
+HIRANYAKSHA/Wood Ring            57.86         23   Yes Lrg  No
+INMUTHA/Abernathy Gateway        58.29         59   Yes Lrg  No
+INMUTHA/Bujold Orbital           58.29        112   Yes Lrg  No
+INMUTHA/Mitropoulos City         58.29         74   Yes Lrg  No
+OMEGA-1 AQUARII/McArthur Port    58.85      1.97K   Yes Lrg  No
+KORA PIN/Zamka Hub               58.94      4.44K   Yes Lrg  No
+KPONIUGO/Lessing Hub             59.06      1.04K   Yes Lrg  No
+KAMMATO/Hughes Port              59.27        578    No Lrg  No
+KUI XING/Andreas City            59.77        401   Yes Lrg  No
+NANKUL/Tombaugh Ring             59.82        502    No Lrg  No
+HIP 107412/Bramah Dock           59.91        147   Yes Lrg  No
+
+--------------------
+You can buy "'Cobra MkIV'"s and [typically] pay 764720 Cr At...
+--------------------
+
+# No available items found
+
+--------------------
+You can buy "'Diamondback Explorer'"s and [typically] pay 1894760 Cr At...
+--------------------
+
+# No available items found
+
+--------------------
+You can buy "'Diamondback Scout'"s and [typically] pay 564330 Cr At...
+--------------------
+
+# No available items found
+
+--------------------
+You can buy "'Dropship'"s and [typically] pay 14314210 Cr At...
+--------------------
+
+Station                         DistLy      StnLs B/mkt Pad Plt
+---------------------------------------------------------------
+PHRACES/Potter Enterprise        11.43        375   Yes Lrg  No
+34 PEGASI/Henderson Dock         27.61        993   Yes Lrg  No
+MATUCANTH/Robinson Station       27.94      1.40K   Yes Lrg  No
+MATUCANTH/Sagan Orbital          27.94        788   Yes Lrg  No
+FAN CECHEHE/Hermite Dock         28.13        121   Yes Lrg  No
+TEHUEVI/Ford Port                29.90      1.12K    No Lrg  No
+ZHU JI/Curie Enterprise          32.85        280    No Lrg  No
+RUGI/Fermi Ring                  34.84         38   Yes Lrg  No
+HIP 112095/Savitskaya City       35.06        10K   Yes Lrg  No
+NGARTHA/Savinykh Terminal        43.59        125   Yes Lrg  No
+ADITYAN/Kooi Station             43.65       148K   Yes Lrg  No
+LTT 16548/Tyson Gateway          44.21      3.23K   Yes Lrg  No
+NERVI/Savitskaya Vision          44.61      2.26K   Yes Lrg  No
+HR 8737/Marshburn Ring           44.99        491    No Lrg  No
+HR 8737/Savery Dock              44.99        332    No Lrg  No
+WOLF 1326/Frimout Terminal       45.33        315    No Lrg  No
+WADJALKAN/Potter Station         45.51      2.52K   Yes Lrg  No
+FIRENSES/Roberts Gateway         46.37        610   Yes Lrg  No
+BD+15 4829/Kimbrough Terminal    47.38        296   Yes Lrg  No
+LTT 9246/Gabriel Enterprise      48.38         26   Yes Lrg  No
+YAPELICI/Kubasov Station         50.19         15    No Lrg  No
+HR 8514/Hennen Station           50.98      2.54K   Yes Lrg  No
+GLIESE 828.4/Wundt Terminal      51.74        512   Yes Lrg  No
+PAELIS/Rennie Station            51.92        304   Yes Lrg  No
+HALBANGAAY/Charlois Orbital      52.07      1.25K   Yes Lrg  No
+SUMOD/Sharp Dock                 53.66          7   Yes Lrg  No
+32 C PISCIUM/Eyharts Enterprise  53.66        189    No Lrg  No
+SOPONTET/Gernhardt Dock          54.62         39   Yes Lrg  No
+SOPONTET/Parker City             54.62         47   Yes Lrg  No
+THRUTII/Butcher Gateway          55.30      1.20K   Yes Lrg  No
+SAMNIENAS/Avicenna Gateway       55.57        378    No Lrg  No
+WAIMI/Hahn Dock                  55.90        376   Yes Lrg  No
+WOLF 1022/McDivitt Port          56.51        255   Yes Lrg  No
+JADIMO/Grzimek Dock              57.03        200   Yes Lrg  No
+ATORII/Lu Terminal               57.55          8   Yes Lrg  No
+NANKUL/Tombaugh Ring             59.82        502    No Lrg  No
+
+--------------------
+You can buy "'Eagle'"s and [typically] pay 44800 Cr At...
+--------------------
+
+Station                            DistLy      StnLs B/mkt Pad Plt
+------------------------------------------------------------------
+HARMA/Gabriel Enterprise             9.00        259   Yes Lrg  No
+PHRACES/Potter Enterprise           11.43        375   Yes Lrg  No
+HIP 113980/Clapperton Station       12.75      7.67K   Yes Lrg  No
+LODHARY/Lagrange Gateway            14.47          6   Yes Lrg  No
+KAKMBUTAN/MacGregor Orbital         16.18         75   Yes Lrg  No
+BIRRETI/Platt City                  16.74      7.25K   Yes Lrg  No
+WIRNAKO/Moffitt Platform            20.47        405   Yes Lrg  No
+PATOCUDA/Coney Gateway              20.81         97   Yes Lrg  No
+PATOCUDA/Fernao Do Po Port          20.81      1.47K   Yes Lrg  No
+GLIESE 1272/Bao Dock                21.24         49   Yes Lrg  No
+GLIESE 1272/Murphy Dock             21.24         86   Yes Lrg  No
+TEWI'XILAK/Newman Terminal          21.48         35   Yes Lrg  No
+TEWI'XILAK/Zholobov Station         21.48         21   Yes Lrg  No
+AUTA ISUANG/Evans Settlement        23.78        353   Yes Lrg  No
+URU/Bessemer Vision                 25.28        675   Yes Lrg  No
+34 PEGASI/Henderson Dock            27.61        993   Yes Lrg  No
+34 PEGASI/Rayhan Al-Biruni Orbital  27.61        465   Yes Lrg  No
+34 PEGASI/Webb Port                 27.61        262   Yes Lrg  No
+34 PEGASI/Weiss Orbital             27.61        328   Yes Lrg  No
+MATUCANTH/Ericsson Ring             27.94      1.40K   Yes Lrg  No
+MATUCANTH/Robinson Station          27.94      1.40K   Yes Lrg  No
+MATUCANTH/Sagan Orbital             27.94        788   Yes Lrg  No
+FAN CECHEHE/Hermite Dock            28.13        121   Yes Lrg  No
+TEHUEVI/Ford Port                   29.90      1.12K    No Lrg  No
+DHANKA/Bierce Horizons              30.08         42   Yes Lrg  No
+ZHU JI/Curie Enterprise             32.85        280    No Lrg  No
+RUGI/Fermi Ring                     34.84         38   Yes Lrg  No
+HIP 112095/Savitskaya City          35.06        10K   Yes Lrg  No
+KACHIRIGIN/Nowak Orbital            35.25        340   Yes Lrg  No
+KACHIRIGIN/Schrodinger Terminal     35.25        420   Yes Lrg  No
+MANISSYET/Stebler Ring              35.28          ?   Yes Lrg  No
+HIP 112580/Heinlein Dock            36.99      1.75K    No Lrg  No
+CASPI/Fontana Orbital               38.01        350   Yes Lrg  No
+BD-00 4461/Piccard Hub              39.07        279   Yes Lrg  No
+BD-00 4461/Webb Orbital             39.07        208   Yes Lrg  No
+KAMORIN/Godwin Vision               40.63        447   Yes Lrg  No
+171 G. AQUARII/Elcano Dock          41.29      3.17K   Yes Lrg  No
+ANCENTO/O'Donnell Terminal          42.56        799    No Lrg  No
+LALANDE 45165/Burstein Ring         43.07      2.21K   Yes Lrg  No
+NANKOBI/Deslandres Station          43.53         10   Yes Lrg  No
+NGARTHA/Savinykh Terminal           43.59        125   Yes Lrg  No
+ADITYAN/Hopkins City                43.65        429   Yes Lrg  No
+ADITYAN/Huygens Enterprise          43.65       148K   Yes Lrg  No
+ADITYAN/Kooi Station                43.65       148K   Yes Lrg  No
+LTT 16548/Tyson Gateway             44.21      3.23K   Yes Lrg  No
+SHONPONO/Tucker Enterprise          44.48        140    No Lrg  No
+NERVI/Savitskaya Vision             44.61      2.26K   Yes Lrg  No
+HR 8737/Marshburn Ring              44.99        491    No Lrg  No
+HR 8737/Perrin Dock                 44.99        798    No Lrg  No
+HR 8737/Savery Dock                 44.99        332    No Lrg  No
+HR 8631/Nicollet Market             45.15      1.16K   Yes Lrg  No
+WOLF 1326/Frimout Terminal          45.33        315    No Lrg  No
+WADJALKAN/Potter Station            45.51      2.52K   Yes Lrg  No
+ZAPORISNI/Riccioli Gateway          45.71       118K    No Lrg  No
+MADIMO/Sinisalo Terminal            46.17      1.33K    No Lrg  No
+FIRENSES/Roberts Gateway            46.37        610   Yes Lrg  No
+LTT 9391/Kanwar Orbital             47.08        419   Yes Lrg  No
+BD+15 4829/Kimbrough Terminal       47.38        296   Yes Lrg  No
+MEHURS/Schroeder Dock               48.32        338   Yes Lrg  No
+LTT 9246/Gabriel Enterprise         48.38         26   Yes Lrg  No
+ZENUS/Gunn Station                  48.82        328    No Lrg  No
+PANJABELL/Moore Hub                 48.87        139   Yes Lrg  No
+TYRFING/Cheli City                  49.02      2.53K    No Lrg  No
+GLIESE 867.1/Friesner Port          49.48       326K   Yes Lrg  No
+GLIESE 867.1/Holberg Hub            49.48       326K   Yes Lrg  No
+GLIESE 867.1/Minkowski Terminal     49.48        65K   Yes Lrg  No
+ELUSUGHNA/Waldrop City              50.16      2.23K   Yes Lrg  No
+YAPELICI/Kubasov Station            50.19         15    No Lrg  No
+HR 8514/Hennen Station              50.98      2.54K   Yes Lrg  No
+BYERU BESE/Garnier Station          51.13        629   Yes Lrg  No
+HIP 116213/Yolen Hub                51.66        458    No Lrg  No
+HALBANGAAY/Charlois Orbital         52.07      1.25K   Yes Lrg  No
+KHARYI/Duckworth Port               52.24        360   Yes Lrg  No
+ANEDJETE/Struzan Hub                52.52        155    No Lrg  No
+COMANGA/Henry Port                  52.79        141   Yes Lrg  No
+COMANGA/Reilly Dock                 52.79      1.54K   Yes Lrg  No
+MISKAI/Bowersox Park                52.95         65   Yes Lrg  No
+TAURINA/Kerr City                   53.15        227   Yes Lrg  No
+BELGETH/Rowley City                 53.21        127   Yes Lrg  No
+LALANDE 43492/Polansky Hub          53.59      2.18K   Yes Lrg  No
+SUMOD/Sharp Dock                    53.66          7   Yes Lrg  No
+32 C PISCIUM/Eyharts Enterprise     53.66        189    No Lrg  No
+NGUNA/Biggle Hub                    53.78      1.87K    No Lrg  No
+SALI'NAMAN/Barr Ring                53.84      1.04K   Yes Lrg  No
+SALI'NAMAN/Russell Ring             53.84      1.58K   Yes Lrg  No
+AMBIBARII/Gunn Station              53.89        16K    No Lrg  No
+77 AQUARII/Chertok City             53.95        362    No Lrg  No
+SOPONTET/Parker City                54.62         47   Yes Lrg  No
+SOPONTET/Thoreau Port               54.62         24   Yes Lrg  No
+SEURBI/Trujillo Port                55.03         13   Yes Lrg  No
+BLETANI/Smith City                  55.09        603    No Lrg  No
+THRUTII/Butcher Gateway             55.30      1.20K   Yes Lrg  No
+SAMNIENAS/Avicenna Gateway          55.57        378    No Lrg  No
+ALYA/Malaspina Gateway              55.73        54K   Yes Lrg  No
+GCIRTHI/Kent Station                55.87       231K   Yes Lrg  No
+WAIMI/Hahn Dock                     55.90        376   Yes Lrg  No
+HIP 105202/Caidin Hub               56.37        839    No Lrg  No
+HIP 105202/Dummer Orbital           56.37        57K    No Lrg  No
+HIP 105202/Marques Enterprise       56.37        56K    No Lrg  No
+HIP 105202/Wells Dock               56.37        57K    No Lrg  No
+NIRROS/Littrow Enterprise           56.40      4.62K    No Lrg  No
+WOLF 1022/McDivitt Port             56.51        255   Yes Lrg  No
+ARAWERE/Korolyov Hub                56.64      1.42K    No Lrg  No
+VELIS/Menezes Dock                  57.01        590   Yes Lrg  No
+JADIMO/Grzimek Dock                 57.03        200   Yes Lrg  No
+MARIMPT/Longyear Mines              57.17        579    No Lrg  No
+ATORII/Lu Terminal                  57.55          8   Yes Lrg  No
+LTT 16385/Morgan Port               57.68        249   Yes Lrg  No
+HIRANYAKSHA/Wood Ring               57.86         23   Yes Lrg  No
+INMUTHA/Bujold Orbital              58.29        112   Yes Lrg  No
+RALUVII/Selous Dock                 58.77        226   Yes Lrg  No
+KORA PIN/Zamka Hub                  58.94      4.44K   Yes Lrg  No
+KPONIUGO/Lessing Hub                59.06      1.04K   Yes Lrg  No
+KAMMATO/Grijalva Hub                59.27         67    No Lrg  No
+KAMMATO/Hughes Port                 59.27        578    No Lrg  No
+KAMMATO/O'Brien Enterprise          59.27         88    No Lrg  No
+KAMMATO/Oliver Dock                 59.27        132    No Lrg  No
+KUI XING/Andreas City               59.77        401   Yes Lrg  No
+NANKUL/Tombaugh Ring                59.82        502    No Lrg  No
+HIP 107412/Bramah Dock              59.91        147   Yes Lrg  No
+
+--------------------
+You can buy "'Federal Assault Ship'"s and [typically] pay 19814210 Cr At...
+--------------------
+
+# No available items found
+
+--------------------
+You can buy "'Federal Corvette'"s and [typically] pay 187969450 Cr At...
+--------------------
+
+# No available items found
+
+--------------------
+You can buy "'Federal Gunship'"s and [typically] pay 35814210 Cr At...
+--------------------
+
+# No available items found
+
+--------------------
+You can buy "'Fer-de-Lance'"s and [typically] pay 51567040 Cr At...
+--------------------
+
+Station                         DistLy      StnLs B/mkt Pad Plt
+---------------------------------------------------------------
+PHRACES/Potter Enterprise        11.43        375   Yes Lrg  No
+LODHARY/Lagrange Gateway         14.47          6   Yes Lrg  No
+URU/Bessemer Vision              25.28        675   Yes Lrg  No
+HIP 112580/Heinlein Dock         36.99      1.75K    No Lrg  No
+KAMORIN/Godwin Vision            40.63        447   Yes Lrg  No
+HIP 114702/Artyukhin Port        42.84        653   Yes Lrg  No
+LALANDE 45165/Burstein Ring      43.07      2.21K   Yes Lrg  No
+ADITYAN/Kooi Station             43.65       148K   Yes Lrg  No
+NERVI/Savitskaya Vision          44.61      2.26K   Yes Lrg  No
+PANJABELL/Moore Hub              48.87        139   Yes Lrg  No
+YAPELICI/Kubasov Station         50.19         15    No Lrg  No
+HALBANGAAY/Hill Tinsley Orbital  52.07      2.29K   Yes Lrg  No
+HALBANGAAY/Valigursky Station    52.07      2.75K   Yes Lrg  No
+77 AQUARII/Chertok City          53.95        362    No Lrg  No
+BHADRA/Frimout Gateway           55.94        111    No Lrg  No
+ARAWERE/Korolyov Hub             56.64      1.42K    No Lrg  No
+KPONIUGO/Lessing Hub             59.06      1.04K   Yes Lrg  No
+
+--------------------
+You can buy "'Hauler'"s and [typically] pay 52720 Cr At...
+--------------------
+
+Station                            DistLy      StnLs B/mkt Pad Plt
+------------------------------------------------------------------
+HARMA/Gabriel Enterprise             9.00        259   Yes Lrg  No
+PHRACES/Potter Enterprise           11.43        375   Yes Lrg  No
+HIP 113980/Clapperton Station       12.75      7.67K   Yes Lrg  No
+LODHARY/Lagrange Gateway            14.47          6   Yes Lrg  No
+KAKMBUTAN/MacGregor Orbital         16.18         75   Yes Lrg  No
+BIRRETI/Platt City                  16.74      7.25K   Yes Lrg  No
+WIRNAKO/Moffitt Platform            20.47        405   Yes Lrg  No
+PATOCUDA/Coney Gateway              20.81         97   Yes Lrg  No
+PATOCUDA/Fernao Do Po Port          20.81      1.47K   Yes Lrg  No
+SADHEN/Birkeland Platform           21.13        472   Yes Lrg  No
+GLIESE 1272/Bao Dock                21.24         49   Yes Lrg  No
+GLIESE 1272/Murphy Dock             21.24         86   Yes Lrg  No
+TEWI'XILAK/Deb Orbital              21.48        30K   Yes Lrg  No
+TEWI'XILAK/Newman Terminal          21.48         35   Yes Lrg  No
+TEWI'XILAK/Zholobov Station         21.48         21   Yes Lrg  No
+AUTA ISUANG/Evans Settlement        23.78        353   Yes Lrg  No
+URU/Bessemer Vision                 25.28        675   Yes Lrg  No
+34 PEGASI/Henderson Dock            27.61        993   Yes Lrg  No
+34 PEGASI/Rayhan Al-Biruni Orbital  27.61        465   Yes Lrg  No
+34 PEGASI/Webb Port                 27.61        262   Yes Lrg  No
+34 PEGASI/Weiss Orbital             27.61        328   Yes Lrg  No
+MATUCANTH/Ericsson Ring             27.94      1.40K   Yes Lrg  No
+MATUCANTH/Robinson Station          27.94      1.40K   Yes Lrg  No
+MATUCANTH/Sagan Orbital             27.94        788   Yes Lrg  No
+TEHUEVI/Ford Port                   29.90      1.12K    No Lrg  No
+DHANKA/Bierce Horizons              30.08         42   Yes Lrg  No
+ZHU JI/Curie Enterprise             32.85        280    No Lrg  No
+RUGI/Fermi Ring                     34.84         38   Yes Lrg  No
+HIP 112095/Savitskaya City          35.06        10K   Yes Lrg  No
+KACHIRIGIN/Nowak Orbital            35.25        340   Yes Lrg  No
+KACHIRIGIN/Schrodinger Terminal     35.25        420   Yes Lrg  No
+MANISSYET/Jensen Station            35.28        426   Yes Lrg  No
+HIP 112580/Heinlein Dock            36.99      1.75K    No Lrg  No
+BD-00 4461/Webb Orbital             39.07        208   Yes Lrg  No
+ALCHERA/Nordenskiold Horizons       39.96         82   Yes Lrg  No
+KAMORIN/Godwin Vision               40.63        447   Yes Lrg  No
+171 G. AQUARII/Elcano Dock          41.29      3.17K   Yes Lrg  No
+HIP 112974/Bachman Port             41.78      1.70K   Yes Lrg  No
+ANCENTO/O'Donnell Terminal          42.56        799    No Lrg  No
+HIP 114702/Artyukhin Port           42.84        653   Yes Lrg  No
+LALANDE 45165/Burstein Ring         43.07      2.21K   Yes Lrg  No
+NANKOBI/Deslandres Station          43.53         10   Yes Lrg  No
+NGARTHA/Savinykh Terminal           43.59        125   Yes Lrg  No
+ADITYAN/Hopkins City                43.65        429   Yes Lrg  No
+ADITYAN/Huygens Enterprise          43.65       148K   Yes Lrg  No
+ADITYAN/Kooi Station                43.65       148K   Yes Lrg  No
+LTT 16548/Tyson Gateway             44.21      3.23K   Yes Lrg  No
+SHONPONO/Tucker Enterprise          44.48        140    No Lrg  No
+NERVI/Savitskaya Vision             44.61      2.26K   Yes Lrg  No
+HR 8737/Perrin Dock                 44.99        798    No Lrg  No
+HR 8631/Nicollet Market             45.15      1.16K   Yes Lrg  No
+WOLF 1326/Frimout Terminal          45.33        315    No Lrg  No
+WADJALKAN/Potter Station            45.51      2.52K   Yes Lrg  No
+ZAPORISNI/Riccioli Gateway          45.71       118K    No Lrg  No
+MADIMO/Sinisalo Terminal            46.17      1.33K    No Lrg  No
+FIRENSES/Roberts Gateway            46.37        610   Yes Lrg  No
+TZ'UTULS/Kanwar Orbital             46.64        724   Yes Lrg  No
+MEHURS/Schroeder Dock               48.32        338   Yes Lrg  No
+LTT 9246/Gabriel Enterprise         48.38         26   Yes Lrg  No
+ZENUS/Gunn Station                  48.82        328    No Lrg  No
+PANJABELL/Moore Hub                 48.87        139   Yes Lrg  No
+TYRFING/Cheli City                  49.02      2.53K    No Lrg  No
+GLIESE 867.1/Friesner Port          49.48       326K   Yes Lrg  No
+GLIESE 867.1/Holberg Hub            49.48       326K   Yes Lrg  No
+GLIESE 867.1/Minkowski Terminal     49.48        65K   Yes Lrg  No
+HUAICH/Schilling Dock               49.94          ?   Yes Lrg  No
+ELUSUGHNA/Waldrop City              50.16      2.23K   Yes Lrg  No
+YAPELICI/Kubasov Station            50.19         15    No Lrg  No
+HR 8514/Hennen Station              50.98      2.54K   Yes Lrg  No
+BYERU BESE/Chebyshev Dock           51.13        861   Yes Lrg  No
+BYERU BESE/Garnier Station          51.13        629   Yes Lrg  No
+CANDRA/Wohler Horizons              51.50        475    No Lrg  No
+GLIESE 828.4/Wundt Terminal         51.74        512   Yes Lrg  No
+PAELIS/Rennie Station               51.92        304   Yes Lrg  No
+HALBANGAAY/Haack Gateway            52.07        892    No Lrg  No
+HALBANGAAY/Hill Tinsley Orbital     52.07      2.29K   Yes Lrg  No
+HALBANGAAY/Valigursky Station       52.07      2.75K   Yes Lrg  No
+ANEDJETE/Struzan Hub                52.52        155    No Lrg  No
+NAXIXO/Hanke-Woods Platform         52.62         88   Yes Lrg  No
+COMANGA/Henry Port                  52.79        141   Yes Lrg  No
+COMANGA/Reilly Dock                 52.79      1.54K   Yes Lrg  No
+TAURINA/Kerr City                   53.15        227   Yes Lrg  No
+BELGETH/Rowley City                 53.21        127   Yes Lrg  No
+LALANDE 43492/Polansky Hub          53.59      2.18K   Yes Lrg  No
+SUMOD/Sharp Dock                    53.66          7   Yes Lrg  No
+32 C PISCIUM/Eyharts Enterprise     53.66        189    No Lrg  No
+NGUNA/Biggle Hub                    53.78      1.87K    No Lrg  No
+SALI'NAMAN/Barr Ring                53.84      1.04K   Yes Lrg  No
+77 AQUARII/Chertok City             53.95        362    No Lrg  No
+SOPONTET/Gernhardt Dock             54.62         39   Yes Lrg  No
+SOPONTET/Thoreau Port               54.62         24   Yes Lrg  No
+THRUTII/Butcher Gateway             55.30      1.20K   Yes Lrg  No
+SAMNIENAS/Avicenna Gateway          55.57        378    No Lrg  No
+ALYA/Malaspina Gateway              55.73        54K   Yes Lrg  No
+GCIRTHI/Kent Station                55.87       231K   Yes Lrg  No
+WAIMI/Hahn Dock                     55.90        376   Yes Lrg  No
+BHADRA/Frimout Gateway              55.94        111    No Lrg  No
+HIP 105202/Caidin Hub               56.37        839    No Lrg  No
+HIP 105202/Dummer Orbital           56.37        57K    No Lrg  No
+HIP 105202/Marques Enterprise       56.37        56K    No Lrg  No
+HIP 105202/Wells Dock               56.37        57K    No Lrg  No
+NIRROS/Littrow Enterprise           56.40      4.62K    No Lrg  No
+ARAWERE/Korolyov Hub                56.64      1.42K    No Lrg  No
+VELIS/Menezes Dock                  57.01        590   Yes Lrg  No
+JADIMO/Grzimek Dock                 57.03        200   Yes Lrg  No
+MARIMPT/Longyear Mines              57.17        579    No Lrg  No
+ATORII/Lu Terminal                  57.55          8   Yes Lrg  No
+LTT 16385/Morgan Port               57.68        249   Yes Lrg  No
+HIRANYAKSHA/Wood Ring               57.86         23   Yes Lrg  No
+INMUTHA/Abernathy Gateway           58.29         59   Yes Lrg  No
+INMUTHA/Bujold Orbital              58.29        112   Yes Lrg  No
+INMUTHA/Mitropoulos City            58.29         74   Yes Lrg  No
+RALUVII/Selous Dock                 58.77        226   Yes Lrg  No
+OMEGA-1 AQUARII/McArthur Port       58.85      1.97K   Yes Lrg  No
+KORA PIN/Zamka Hub                  58.94      4.44K   Yes Lrg  No
+KPONIUGO/Lessing Hub                59.06      1.04K   Yes Lrg  No
+KAMMATO/Grijalva Hub                59.27         67    No Lrg  No
+KAMMATO/Hughes Port                 59.27        578    No Lrg  No
+KAMMATO/O'Brien Enterprise          59.27         88    No Lrg  No
+KAMMATO/Oliver Dock                 59.27        132    No Lrg  No
+NANKUL/Tombaugh Ring                59.82        502    No Lrg  No
+HIP 107412/Bramah Dock              59.91        147   Yes Lrg  No
+
+--------------------
+You can buy "'Imperial Courier'"s and [typically] pay 2542930 Cr At...
+--------------------
+
+# No available items found
+
+--------------------
+You can buy "'Imperial Cutter'"s and [typically] pay 208969450 Cr At...
+--------------------
+
+# No available items found
+
+--------------------
+You can buy "'Imperial Eagle'"s and [typically] pay 110830 Cr At...
+--------------------
+
+# No available items found
+
+--------------------
+You can buy "'Keelback'"s and [typically] pay 3126150 Cr At...
+--------------------
+
+# No available items found
+
+--------------------
+You can buy "'Orca'"s and [typically] pay 48539890 Cr At...
+--------------------
+
+Station                    DistLy      StnLs B/mkt Pad Plt
+----------------------------------------------------------
+TEHUEVI/Ford Port           29.90      1.12K    No Lrg  No
+LTT 16548/Tyson Gateway     44.21      3.23K   Yes Lrg  No
+SHONPONO/Tucker Enterprise  44.48        140    No Lrg  No
+NERVI/Savitskaya Vision     44.61      2.26K   Yes Lrg  No
+WOLF 1326/Frimout Terminal  45.33        315    No Lrg  No
+HIP 116213/Yolen Hub        51.66        458    No Lrg  No
+SALI'NAMAN/Russell Ring     53.84      1.58K   Yes Lrg  No
+HIRANYAKSHA/Wood Ring       57.86         23   Yes Lrg  No
+NANKUL/Tombaugh Ring        59.82        502    No Lrg  No
+
+--------------------
+You can buy "'Python'"s and [typically] pay 56978180 Cr At...
+--------------------
+
+Station                         DistLy      StnLs B/mkt Pad Plt
+---------------------------------------------------------------
+PHRACES/Potter Enterprise        11.43        375   Yes Lrg  No
+BIRRETI/Platt City               16.74      7.25K   Yes Lrg  No
+RUGI/Fermi Ring                  34.84         38   Yes Lrg  No
+MANISSYET/Stebler Ring           35.28          ?   Yes Lrg  No
+HIP 112580/Heinlein Dock         36.99      1.75K    No Lrg  No
+BD-00 4461/Webb Orbital          39.07        208   Yes Lrg  No
+HIP 114702/Artyukhin Port        42.84        653   Yes Lrg  No
+LALANDE 45165/Burstein Ring      43.07      2.21K   Yes Lrg  No
+ADITYAN/Hopkins City             43.65        429   Yes Lrg  No
+ADITYAN/Huygens Enterprise       43.65       148K   Yes Lrg  No
+LTT 16548/Tyson Gateway          44.21      3.23K   Yes Lrg  No
+SHONPONO/Tucker Enterprise       44.48        140    No Lrg  No
+NERVI/Savitskaya Vision          44.61      2.26K   Yes Lrg  No
+ZAPORISNI/Riccioli Gateway       45.71       118K    No Lrg  No
+TZ'UTULS/Kanwar Orbital          46.64        724   Yes Lrg  No
+PANJABELL/Moore Hub              48.87        139   Yes Lrg  No
+HUAICH/Schilling Dock            49.94          ?   Yes Lrg  No
+ELUSUGHNA/Waldrop City           50.16      2.23K   Yes Lrg  No
+CANDRA/Wohler Horizons           51.50        475    No Lrg  No
+HIP 116213/Yolen Hub             51.66        458    No Lrg  No
+PAELIS/Rennie Station            51.92        304   Yes Lrg  No
+HALBANGAAY/Hill Tinsley Orbital  52.07      2.29K   Yes Lrg  No
+HALBANGAAY/Valigursky Station    52.07      2.75K   Yes Lrg  No
+SUMOD/Sharp Dock                 53.66          7   Yes Lrg  No
+32 C PISCIUM/Eyharts Enterprise  53.66        189    No Lrg  No
+SALI'NAMAN/Russell Ring          53.84      1.58K   Yes Lrg  No
+WAIMI/Hahn Dock                  55.90        376   Yes Lrg  No
+BHADRA/Frimout Gateway           55.94        111    No Lrg  No
+NIRROS/Littrow Enterprise        56.40      4.62K    No Lrg  No
+WOLF 1022/McDivitt Port          56.51        255   Yes Lrg  No
+HIRANYAKSHA/Wood Ring            57.86         23   Yes Lrg  No
+KPONIUGO/Lessing Hub             59.06      1.04K   Yes Lrg  No
+KUI XING/Andreas City            59.77        401   Yes Lrg  No
+NANKUL/Tombaugh Ring             59.82        502    No Lrg  No
+
+--------------------
+You can buy "'Sidewinder'"s and [typically] pay 32000 Cr At...
+--------------------
+
+Station                            DistLy      StnLs B/mkt Pad Plt
+------------------------------------------------------------------
+HARMA/Gabriel Enterprise             9.00        259   Yes Lrg  No
+PHRACES/Potter Enterprise           11.43        375   Yes Lrg  No
+HIP 113980/Clapperton Station       12.75      7.67K   Yes Lrg  No
+LODHARY/Lagrange Gateway            14.47          6   Yes Lrg  No
+KAKMBUTAN/MacGregor Orbital         16.18         75   Yes Lrg  No
+BIRRETI/Platt City                  16.74      7.25K   Yes Lrg  No
+WIRNAKO/Moffitt Platform            20.47        405   Yes Lrg  No
+PATOCUDA/Coney Gateway              20.81         97   Yes Lrg  No
+PATOCUDA/Fernao Do Po Port          20.81      1.47K   Yes Lrg  No
+SADHEN/Birkeland Platform           21.13        472   Yes Lrg  No
+GLIESE 1272/Bao Dock                21.24         49   Yes Lrg  No
+GLIESE 1272/Murphy Dock             21.24         86   Yes Lrg  No
+TEWI'XILAK/Deb Orbital              21.48        30K   Yes Lrg  No
+TEWI'XILAK/Newman Terminal          21.48         35   Yes Lrg  No
+TEWI'XILAK/Zholobov Station         21.48         21   Yes Lrg  No
+AUTA ISUANG/Evans Settlement        23.78        353   Yes Lrg  No
+URU/Bessemer Vision                 25.28        675   Yes Lrg  No
+34 PEGASI/Henderson Dock            27.61        993   Yes Lrg  No
+34 PEGASI/Rayhan Al-Biruni Orbital  27.61        465   Yes Lrg  No
+34 PEGASI/Webb Port                 27.61        262   Yes Lrg  No
+34 PEGASI/Weiss Orbital             27.61        328   Yes Lrg  No
+MATUCANTH/Ericsson Ring             27.94      1.40K   Yes Lrg  No
+MATUCANTH/Robinson Station          27.94      1.40K   Yes Lrg  No
+MATUCANTH/Sagan Orbital             27.94        788   Yes Lrg  No
+HIP 110205/Tokubei Hub              28.06        572   Yes Lrg  No
+FAN CECHEHE/Hermite Dock            28.13        121   Yes Lrg  No
+TEHUEVI/Ford Port                   29.90      1.12K    No Lrg  No
+DHANKA/Bierce Horizons              30.08         42   Yes Lrg  No
+ZHU JI/Curie Enterprise             32.85        280    No Lrg  No
+RUGI/Fermi Ring                     34.84         38   Yes Lrg  No
+HIP 112095/Savitskaya City          35.06        10K   Yes Lrg  No
+KACHIRIGIN/Nowak Orbital            35.25        340   Yes Lrg  No
+KACHIRIGIN/Schrodinger Terminal     35.25        420   Yes Lrg  No
+MANISSYET/Jensen Station            35.28        426   Yes Lrg  No
+MANISSYET/Stebler Ring              35.28          ?   Yes Lrg  No
+HIP 112580/Heinlein Dock            36.99      1.75K    No Lrg  No
+CASPI/Fontana Orbital               38.01        350   Yes Lrg  No
+BD-00 4461/Piccard Hub              39.07        279   Yes Lrg  No
+BD-00 4461/Webb Orbital             39.07        208   Yes Lrg  No
+ALCHERA/Nordenskiold Horizons       39.96         82   Yes Lrg  No
+KAMORIN/Godwin Vision               40.63        447   Yes Lrg  No
+171 G. AQUARII/Elcano Dock          41.29      3.17K   Yes Lrg  No
+HIP 112974/Bachman Port             41.78      1.70K   Yes Lrg  No
+ANCENTO/O'Donnell Terminal          42.56        799    No Lrg  No
+HIP 114702/Artyukhin Port           42.84        653   Yes Lrg  No
+LALANDE 45165/Burstein Ring         43.07      2.21K   Yes Lrg  No
+NANKOBI/Deslandres Station          43.53         10   Yes Lrg  No
+NGARTHA/Savinykh Terminal           43.59        125   Yes Lrg  No
+ADITYAN/Hopkins City                43.65        429   Yes Lrg  No
+ADITYAN/Huygens Enterprise          43.65       148K   Yes Lrg  No
+ADITYAN/Kooi Station                43.65       148K   Yes Lrg  No
+LTT 16548/Tyson Gateway             44.21      3.23K   Yes Lrg  No
+SHONPONO/Tucker Enterprise          44.48        140    No Lrg  No
+NERVI/Savitskaya Vision             44.61      2.26K   Yes Lrg  No
+HR 8737/Marshburn Ring              44.99        491    No Lrg  No
+HR 8737/Perrin Dock                 44.99        798    No Lrg  No
+HR 8737/Savery Dock                 44.99        332    No Lrg  No
+HR 8631/Nicollet Market             45.15      1.16K   Yes Lrg  No
+WOLF 1326/Frimout Terminal          45.33        315    No Lrg  No
+WADJALKAN/Potter Station            45.51      2.52K   Yes Lrg  No
+ZAPORISNI/Riccioli Gateway          45.71       118K    No Lrg  No
+MADIMO/Sinisalo Terminal            46.17      1.33K    No Lrg  No
+FIRENSES/Roberts Gateway            46.37        610   Yes Lrg  No
+TZ'UTULS/Kanwar Orbital             46.64        724   Yes Lrg  No
+LTT 9391/Kanwar Orbital             47.08        419   Yes Lrg  No
+BD+15 4829/Kimbrough Terminal       47.38        296   Yes Lrg  No
+MEHURS/Schroeder Dock               48.32        338   Yes Lrg  No
+LTT 9246/Gabriel Enterprise         48.38         26   Yes Lrg  No
+PANJABELL/Moore Hub                 48.87        139   Yes Lrg  No
+TYRFING/Cheli City                  49.02      2.53K    No Lrg  No
+GLIESE 867.1/Friesner Port          49.48       326K   Yes Lrg  No
+GLIESE 867.1/Holberg Hub            49.48       326K   Yes Lrg  No
+GLIESE 867.1/Minkowski Terminal     49.48        65K   Yes Lrg  No
+HUAICH/Schilling Dock               49.94          ?   Yes Lrg  No
+ELUSUGHNA/Waldrop City              50.16      2.23K   Yes Lrg  No
+YAPELICI/Kubasov Station            50.19         15    No Lrg  No
+HR 8514/Hennen Station              50.98      2.54K   Yes Lrg  No
+BYERU BESE/Chebyshev Dock           51.13        861   Yes Lrg  No
+BYERU BESE/Garnier Station          51.13        629   Yes Lrg  No
+CANDRA/Wohler Horizons              51.50        475    No Lrg  No
+HIP 116213/Yolen Hub                51.66        458    No Lrg  No
+GLIESE 828.4/Wundt Terminal         51.74        512   Yes Lrg  No
+PAELIS/Rennie Station               51.92        304   Yes Lrg  No
+HALBANGAAY/Charlois Orbital         52.07      1.25K   Yes Lrg  No
+HALBANGAAY/Haack Gateway            52.07        892    No Lrg  No
+HALBANGAAY/Hill Tinsley Orbital     52.07      2.29K   Yes Lrg  No
+HALBANGAAY/Valigursky Station       52.07      2.75K   Yes Lrg  No
+KHARYI/Duckworth Port               52.24        360   Yes Lrg  No
+ANEDJETE/Struzan Hub                52.52        155    No Lrg  No
+NAXIXO/Hanke-Woods Platform         52.62         88   Yes Lrg  No
+COMANGA/Henry Port                  52.79        141   Yes Lrg  No
+COMANGA/Reilly Dock                 52.79      1.54K   Yes Lrg  No
+MISKAI/Bowersox Park                52.95         65   Yes Lrg  No
+TAURINA/Kerr City                   53.15        227   Yes Lrg  No
+BELGETH/Rowley City                 53.21        127   Yes Lrg  No
+LALANDE 43492/Polansky Hub          53.59      2.18K   Yes Lrg  No
+SUMOD/Sharp Dock                    53.66          7   Yes Lrg  No
+32 C PISCIUM/Eyharts Enterprise     53.66        189    No Lrg  No
+NGUNA/Biggle Hub                    53.78      1.87K    No Lrg  No
+SALI'NAMAN/Barr Ring                53.84      1.04K   Yes Lrg  No
+SALI'NAMAN/Russell Ring             53.84      1.58K   Yes Lrg  No
+AMBIBARII/Gunn Station              53.89        16K    No Lrg  No
+77 AQUARII/Chertok City             53.95        362    No Lrg  No
+SOPONTET/Gernhardt Dock             54.62         39   Yes Lrg  No
+SOPONTET/Parker City                54.62         47   Yes Lrg  No
+SOPONTET/Thoreau Port               54.62         24   Yes Lrg  No
+SEURBI/Trujillo Port                55.03         13   Yes Lrg  No
+BLETANI/Smith City                  55.09        603    No Lrg  No
+THRUTII/Butcher Gateway             55.30      1.20K   Yes Lrg  No
+SAMNIENAS/Avicenna Gateway          55.57        378    No Lrg  No
+ALYA/Malaspina Gateway              55.73        54K   Yes Lrg  No
+GCIRTHI/Kent Station                55.87       231K   Yes Lrg  No
+WAIMI/Hahn Dock                     55.90        376   Yes Lrg  No
+BHADRA/Frimout Gateway              55.94        111    No Lrg  No
+HIP 105202/Caidin Hub               56.37        839    No Lrg  No
+HIP 105202/Dummer Orbital           56.37        57K    No Lrg  No
+HIP 105202/Marques Enterprise       56.37        56K    No Lrg  No
+HIP 105202/Wells Dock               56.37        57K    No Lrg  No
+NIRROS/Littrow Enterprise           56.40      4.62K    No Lrg  No
+WOLF 1022/McDivitt Port             56.51        255   Yes Lrg  No
+ARAWERE/Korolyov Hub                56.64      1.42K    No Lrg  No
+VELIS/Menezes Dock                  57.01        590   Yes Lrg  No
+JADIMO/Grzimek Dock                 57.03        200   Yes Lrg  No
+MARIMPT/Longyear Mines              57.17        579    No Lrg  No
+ATORII/Lu Terminal                  57.55          8   Yes Lrg  No
+HIRANYAKSHA/Wood Ring               57.86         23   Yes Lrg  No
+INMUTHA/Abernathy Gateway           58.29         59   Yes Lrg  No
+INMUTHA/Bujold Orbital              58.29        112   Yes Lrg  No
+INMUTHA/Mitropoulos City            58.29         74   Yes Lrg  No
+RALUVII/Selous Dock                 58.77        226   Yes Lrg  No
+OMEGA-1 AQUARII/McArthur Port       58.85      1.97K   Yes Lrg  No
+KORA PIN/Zamka Hub                  58.94      4.44K   Yes Lrg  No
+KPONIUGO/Lessing Hub                59.06      1.04K   Yes Lrg  No
+KAMMATO/Grijalva Hub                59.27         67    No Lrg  No
+KAMMATO/Hughes Port                 59.27        578    No Lrg  No
+KAMMATO/O'Brien Enterprise          59.27         88    No Lrg  No
+KAMMATO/Oliver Dock                 59.27        132    No Lrg  No
+KUI XING/Andreas City               59.77        401   Yes Lrg  No
+NANKUL/Tombaugh Ring                59.82        502    No Lrg  No
+HIP 107412/Bramah Dock              59.91        147   Yes Lrg  No
+
+--------------------
+You can buy "'Type 6'"s and [typically] pay 1045950 Cr At...
+--------------------
+
+# No available items found
+
+--------------------
+You can buy "'Type 7'"s and [typically] pay 17472250 Cr At...
+--------------------
+
+# No available items found
+
+--------------------
+You can buy "'Type 9'"s and [typically] pay 76555840 Cr At...
+--------------------
+
+# No available items found
+
+--------------------
+You can buy "'Viper'"s and [typically] pay 142930 Cr At...
+--------------------
+
+Station                         DistLy      StnLs B/mkt Pad Plt
+---------------------------------------------------------------
+HARMA/Gabriel Enterprise          9.00        259   Yes Lrg  No
+PHRACES/Potter Enterprise        11.43        375   Yes Lrg  No
+LODHARY/Lagrange Gateway         14.47          6   Yes Lrg  No
+KAKMBUTAN/MacGregor Orbital      16.18         75   Yes Lrg  No
+BIRRETI/Platt City               16.74      7.25K   Yes Lrg  No
+PATOCUDA/Coney Gateway           20.81         97   Yes Lrg  No
+PATOCUDA/Fernao Do Po Port       20.81      1.47K   Yes Lrg  No
+TEWI'XILAK/Newman Terminal       21.48         35   Yes Lrg  No
+TEWI'XILAK/Zholobov Station      21.48         21   Yes Lrg  No
+URU/Bessemer Vision              25.28        675   Yes Lrg  No
+MATUCANTH/Ericsson Ring          27.94      1.40K   Yes Lrg  No
+MATUCANTH/Robinson Station       27.94      1.40K   Yes Lrg  No
+FAN CECHEHE/Hermite Dock         28.13        121   Yes Lrg  No
+TEHUEVI/Ford Port                29.90      1.12K    No Lrg  No
+KACHIRIGIN/Schrodinger Terminal  35.25        420   Yes Lrg  No
+HIP 112580/Heinlein Dock         36.99      1.75K    No Lrg  No
+CASPI/Fontana Orbital            38.01        350   Yes Lrg  No
+BD-00 4461/Piccard Hub           39.07        279   Yes Lrg  No
+171 G. AQUARII/Elcano Dock       41.29      3.17K   Yes Lrg  No
+HIP 112974/Bachman Port          41.78      1.70K   Yes Lrg  No
+ANCENTO/O'Donnell Terminal       42.56        799    No Lrg  No
+HIP 114702/Artyukhin Port        42.84        653   Yes Lrg  No
+LALANDE 45165/Burstein Ring      43.07      2.21K   Yes Lrg  No
+NANKOBI/Deslandres Station       43.53         10   Yes Lrg  No
+NGARTHA/Savinykh Terminal        43.59        125   Yes Lrg  No
+ADITYAN/Hopkins City             43.65        429   Yes Lrg  No
+ADITYAN/Huygens Enterprise       43.65       148K   Yes Lrg  No
+LTT 16548/Tyson Gateway          44.21      3.23K   Yes Lrg  No
+SHONPONO/Tucker Enterprise       44.48        140    No Lrg  No
+NERVI/Savitskaya Vision          44.61      2.26K   Yes Lrg  No
+HR 8737/Marshburn Ring           44.99        491    No Lrg  No
+HR 8631/Nicollet Market          45.15      1.16K   Yes Lrg  No
+WOLF 1326/Frimout Terminal       45.33        315    No Lrg  No
+ZAPORISNI/Riccioli Gateway       45.71       118K    No Lrg  No
+FIRENSES/Roberts Gateway         46.37        610   Yes Lrg  No
+TZ'UTULS/Kanwar Orbital          46.64        724   Yes Lrg  No
+BD+15 4829/Kimbrough Terminal    47.38        296   Yes Lrg  No
+LTT 9246/Gabriel Enterprise      48.38         26   Yes Lrg  No
+ZENUS/Gunn Station               48.82        328    No Lrg  No
+PANJABELL/Moore Hub              48.87        139   Yes Lrg  No
+TYRFING/Cheli City               49.02      2.53K    No Lrg  No
+HUAICH/Schilling Dock            49.94          ?   Yes Lrg  No
+ELUSUGHNA/Waldrop City           50.16      2.23K   Yes Lrg  No
+YAPELICI/Kubasov Station         50.19         15    No Lrg  No
+HR 8514/Hennen Station           50.98      2.54K   Yes Lrg  No
+CANDRA/Wohler Horizons           51.50        475    No Lrg  No
+HIP 116213/Yolen Hub             51.66        458    No Lrg  No
+PAELIS/Rennie Station            51.92        304   Yes Lrg  No
+HALBANGAAY/Charlois Orbital      52.07      1.25K   Yes Lrg  No
+HALBANGAAY/Hill Tinsley Orbital  52.07      2.29K   Yes Lrg  No
+HALBANGAAY/Valigursky Station    52.07      2.75K   Yes Lrg  No
+KHARYI/Duckworth Port            52.24        360   Yes Lrg  No
+ANEDJETE/Struzan Hub             52.52        155    No Lrg  No
+NAXIXO/Hanke-Woods Platform      52.62         88   Yes Lrg  No
+TAURINA/Kerr City                53.15        227   Yes Lrg  No
+BELGETH/Rowley City              53.21        127   Yes Lrg  No
+LALANDE 43492/Polansky Hub       53.59      2.18K   Yes Lrg  No
+SUMOD/Sharp Dock                 53.66          7   Yes Lrg  No
+32 C PISCIUM/Eyharts Enterprise  53.66        189    No Lrg  No
+NGUNA/Biggle Hub                 53.78      1.87K    No Lrg  No
+AMBIBARII/Gunn Station           53.89        16K    No Lrg  No
+77 AQUARII/Chertok City          53.95        362    No Lrg  No
+SOPONTET/Parker City             54.62         47   Yes Lrg  No
+SEURBI/Trujillo Port             55.03         13   Yes Lrg  No
+BLETANI/Smith City               55.09        603    No Lrg  No
+ALYA/Malaspina Gateway           55.73        54K   Yes Lrg  No
+WAIMI/Hahn Dock                  55.90        376   Yes Lrg  No
+BHADRA/Frimout Gateway           55.94        111    No Lrg  No
+HIP 105202/Caidin Hub            56.37        839    No Lrg  No
+HIP 105202/Dummer Orbital        56.37        57K    No Lrg  No
+HIP 105202/Marques Enterprise    56.37        56K    No Lrg  No
+HIP 105202/Wells Dock            56.37        57K    No Lrg  No
+NIRROS/Littrow Enterprise        56.40      4.62K    No Lrg  No
+WOLF 1022/McDivitt Port          56.51        255   Yes Lrg  No
+ARAWERE/Korolyov Hub             56.64      1.42K    No Lrg  No
+ATORII/Lu Terminal               57.55          8   Yes Lrg  No
+HIRANYAKSHA/Wood Ring            57.86         23   Yes Lrg  No
+OMEGA-1 AQUARII/McArthur Port    58.85      1.97K   Yes Lrg  No
+KPONIUGO/Lessing Hub             59.06      1.04K   Yes Lrg  No
+KAMMATO/Grijalva Hub             59.27         67    No Lrg  No
+KAMMATO/Hughes Port              59.27        578    No Lrg  No
+KAMMATO/O'Brien Enterprise       59.27         88    No Lrg  No
+KAMMATO/Oliver Dock              59.27        132    No Lrg  No
+KUI XING/Andreas City            59.77        401   Yes Lrg  No
+NANKUL/Tombaugh Ring             59.82        502    No Lrg  No
+HIP 107412/Bramah Dock           59.91        147   Yes Lrg  No
+
+--------------------
+You can buy "'Viper MkIV'"s and [typically] pay 437930 Cr At...
+--------------------
+
+# No available items found
+
+--------------------
+You can buy "'Vulture'"s and [typically] pay 4925620 Cr At...
+--------------------
+
+Station                       DistLy      StnLs B/mkt Pad Plt
+-------------------------------------------------------------
+PHRACES/Potter Enterprise      11.43        375   Yes Lrg  No
+HIP 113980/Clapperton Station  12.75      7.67K   Yes Lrg  No
+LODHARY/Lagrange Gateway       14.47          6   Yes Lrg  No
+BIRRETI/Platt City             16.74      7.25K   Yes Lrg  No
+WIRNAKO/Moffitt Platform       20.47        405   Yes Lrg  No
+34 PEGASI/Henderson Dock       27.61        993   Yes Lrg  No
+TEHUEVI/Ford Port              29.90      1.12K    No Lrg  No
+RUGI/Fermi Ring                34.84         38   Yes Lrg  No
+BD-00 4461/Webb Orbital        39.07        208   Yes Lrg  No
+LALANDE 45165/Burstein Ring    43.07      2.21K   Yes Lrg  No
+NANKOBI/Deslandres Station     43.53         10   Yes Lrg  No
+ADITYAN/Kooi Station           43.65       148K   Yes Lrg  No
+LTT 16548/Tyson Gateway        44.21      3.23K   Yes Lrg  No
+HR 8631/Nicollet Market        45.15      1.16K   Yes Lrg  No
+WOLF 1326/Frimout Terminal     45.33        315    No Lrg  No
+WADJALKAN/Potter Station       45.51      2.52K   Yes Lrg  No
+ZAPORISNI/Riccioli Gateway     45.71       118K    No Lrg  No
+FIRENSES/Roberts Gateway       46.37        610   Yes Lrg  No
+LTT 9246/Gabriel Enterprise    48.38         26   Yes Lrg  No
+TYRFING/Cheli City             49.02      2.53K    No Lrg  No
+HALBANGAAY/Haack Gateway       52.07        892    No Lrg  No
+ANEDJETE/Struzan Hub           52.52        155    No Lrg  No
+TAURINA/Kerr City              53.15        227   Yes Lrg  No
+BELGETH/Rowley City            53.21        127   Yes Lrg  No
+77 AQUARII/Chertok City        53.95        362    No Lrg  No
+WAIMI/Hahn Dock                55.90        376   Yes Lrg  No
+HIP 105202/Caidin Hub          56.37        839    No Lrg  No
+HIP 105202/Dummer Orbital      56.37        57K    No Lrg  No
+HIP 105202/Marques Enterprise  56.37        56K    No Lrg  No
+HIP 105202/Wells Dock          56.37        57K    No Lrg  No
+WOLF 1022/McDivitt Port        56.51        255   Yes Lrg  No
+ARAWERE/Korolyov Hub           56.64      1.42K    No Lrg  No
+ATORII/Lu Terminal             57.55          8   Yes Lrg  No
+HIRANYAKSHA/Wood Ring          57.86         23   Yes Lrg  No

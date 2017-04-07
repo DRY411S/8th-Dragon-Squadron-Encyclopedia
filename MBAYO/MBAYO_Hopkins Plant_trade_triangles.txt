@@ -56,91 +56,91 @@
 #
 ---------------------------------------------------------------------------------------------------------
 Best Trade Triangle starting and ending at MBAYO/Hopkins Plant with 13 ly between trades
-For MEDIUM and SMALL ships only, generated at 25/01/2017- 3:23:54.18 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 07/04/2017-12:48:31.08 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-NOTE: Pruned 11 origins too far from any end stations
-MBAYO/Hopkins Plant -> MBAYO/Hopkins Plant (score: 3110.035580)
+NOTE: Pruned 8 origins too far from any end stations
+MBAYO/Hopkins Plant -> MBAYO/Hopkins Plant (score: 3775.788400)
   Load from MBAYO/Hopkins Plant (564ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
-        1 x Uranium             2,588cr vs    2,959cr, 3 days vs 28 days
-  Unload at PHRACES/Mullane Ring (625ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 371cr (371cr/ton) => 100,371cr
-  Load from PHRACES/Mullane Ring (625ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x HN Shock Mount        281cr vs    1,304cr, 28 days vs 9 days
-  Unload at LODHARY/Anthony Dock (17ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:N) => Gain 1,023cr (1,023cr/ton) => 101,394cr
-  Load from LODHARY/Anthony Dock (17ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:N):
-        1 x Personal Weapons    3,511cr vs    5,226cr, 9 days vs 3 days
-  Unload at MBAYO/Hopkins Plant (564ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 1,715cr (1,715cr/ton) => 103,109cr
+        1 x Superconductors           6,049cr vs    7,844cr, 16 days vs 5 days
+  Unload at BIKO/Forstchen Horizons (2.01Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 1,795cr (1,795cr/ton) => 101,795cr
+  Load from BIKO/Forstchen Horizons (2.01Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
+        1 x Personal Weapons          3,971cr vs    5,226cr, 5 days vs 27 days
+  Unload at KOLABINATES/Grant Plant (471ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,255cr (1,255cr/ton) => 103,050cr
+  Load from KOLABINATES/Grant Plant (471ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
+        1 x Military Grade Fabrics      746cr vs    1,478cr, 27 days vs 16 days
+  Unload at MBAYO/Hopkins Plant (564ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 732cr (732cr/ton) => 103,782cr
   ----------------------------------------------------------------------------
-Finish at MBAYO/Hopkins Plant (564ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) gaining 3,109cr (1,036cr/ton) => est 103,109cr total
+Finish at MBAYO/Hopkins Plant (564ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) gaining 3,782cr (1,260cr/ton) => est 103,782cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Triangle starting and ending at MBAYO/Hopkins Plant with 37.5 ly between trades
-For MEDIUM and SMALL ships only, generated at 25/01/2017- 3:24:08.10 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 07/04/2017-12:48:44.11 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-NOTE: Pruned 379 origins too far from any end stations
-MBAYO/Hopkins Plant -> MBAYO/Hopkins Plant (score: 5666.857700)
+NOTE: Pruned 457 origins too far from any end stations
+MBAYO/Hopkins Plant -> MBAYO/Hopkins Plant (score: 4835.996580)
   Load from MBAYO/Hopkins Plant (564ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
-        1 x Beryllium              7,958cr vs    8,154cr, 3 days vs 16 days
-  Unload at 34 PEGASI/Williams City (2.74Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 196cr (196cr/ton) => 100,196cr
-  Load from 34 PEGASI/Williams City (2.74Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Insulating Membrane    7,808cr vs   11,709cr, 16 days vs 5 days
-  Unload at SADHEN/Birkeland Platform (472ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 3,901cr (3,901cr/ton) => 104,097cr
-  Load from SADHEN/Birkeland Platform (472ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Personal Weapons       3,657cr vs    5,226cr, 5 days vs 3 days
-  Unload at MBAYO/Hopkins Plant (564ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 1,569cr (1,569cr/ton) => 105,666cr
+        1 x Beryllium             7,417cr vs    9,043cr, 16 days vs 11 days
+  Unload at DEIVE/Obruchev Orbital (1.95Kls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,626cr (1,626cr/ton) => 101,626cr
+  Load from DEIVE/Obruchev Orbital (1.95Kls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Advanced Medicines    1,117cr vs    3,217cr, 11 days vs 22 days
+  Unload at KAMCHANDIKA/Fozard Mines (32ls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y) => Gain 2,100cr (2,100cr/ton) => 103,726cr
+  Load from KAMCHANDIKA/Fozard Mines (32ls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y):
+        1 x Cryolite              1,704cr vs    2,819cr, 22 days vs 16 days
+  Unload at MBAYO/Hopkins Plant (564ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 1,115cr (1,115cr/ton) => 104,841cr
   ----------------------------------------------------------------------------
-Finish at MBAYO/Hopkins Plant (564ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) gaining 5,666cr (1,888cr/ton) => est 105,666cr total
+Finish at MBAYO/Hopkins Plant (564ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) gaining 4,841cr (1,613cr/ton) => est 104,841cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Triangle starting and ending at MBAYO/Hopkins Plant with 42.5 ly between trades
-For MEDIUM and SMALL ships only, generated at 25/01/2017- 3:24:22.77 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 07/04/2017-12:48:57.74 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-NOTE: Pruned 666 origins too far from any end stations
-MBAYO/Hopkins Plant -> MBAYO/Hopkins Plant (score: 6096.068940)
+NOTE: Pruned 815 origins too far from any end stations
+MBAYO/Hopkins Plant -> MBAYO/Hopkins Plant (score: 5210.678640)
   Load from MBAYO/Hopkins Plant (564ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
-        1 x Beryllium              7,958cr vs    8,154cr, 3 days vs 16 days
-  Unload at 34 PEGASI/Williams City (2.74Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 196cr (196cr/ton) => 100,196cr
-  Load from 34 PEGASI/Williams City (2.74Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Insulating Membrane    7,808cr vs   11,872cr, 16 days vs 30 hrs
-  Unload at KAMORIN/Godwin Vision (447ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 4,064cr (4,064cr/ton) => 104,260cr
-  Load from KAMORIN/Godwin Vision (447ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Personal Weapons       3,391cr vs    5,226cr, 30 hrs vs 3 days
-  Unload at MBAYO/Hopkins Plant (564ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 1,835cr (1,835cr/ton) => 106,095cr
+        1 x Beryllium                       7,417cr vs    8,918cr, 16 days vs 4 days
+  Unload at SHONPONO/Nourse Ring (263ls, BMk:N, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,501cr (1,501cr/ton) => 101,501cr
+  Load from SHONPONO/Nourse Ring (263ls, BMk:N, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
+        1 x Medical Diagnostic Equipment    2,229cr vs    4,278cr, 4 days vs 18 hrs
+  Unload at URU/Stafford Gateway (946ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:N) => Gain 2,049cr (2,049cr/ton) => 103,550cr
+  Load from URU/Stafford Gateway (946ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:N):
+        1 x Resonating Separators           5,364cr vs    7,023cr, 18 hrs vs 16 days
+  Unload at MBAYO/Hopkins Plant (564ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 1,659cr (1,659cr/ton) => 105,209cr
   ----------------------------------------------------------------------------
-Finish at MBAYO/Hopkins Plant (564ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) gaining 6,095cr (2,031cr/ton) => est 106,095cr total
+Finish at MBAYO/Hopkins Plant (564ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) gaining 5,209cr (1,736cr/ton) => est 105,209cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Triangle starting and ending at MBAYO/Hopkins Plant with 76.5 ly between trades
-For MEDIUM and SMALL ships only, generated at 25/01/2017- 3:24:38.32 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 07/04/2017-12:49:12.15 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-NOTE: Pruned 7050 origins too far from any end stations
-MBAYO/Hopkins Plant -> MBAYO/Hopkins Plant (score: 6151.071500)
+NOTE: Pruned 6706 origins too far from any end stations
+MBAYO/Hopkins Plant -> MBAYO/Hopkins Plant (score: 6916.646640)
   Load from MBAYO/Hopkins Plant (564ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
-        1 x Biowaste                5cr vs       10cr, 3 days vs 15 days
-  Unload at PISCIUM SECTOR IC-V B2-6/Russ Terminal (8ls, BMk:N, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y) => Gain 5cr (5cr/ton) => 100,005cr
-  Load from PISCIUM SECTOR IC-V B2-6/Russ Terminal (8ls, BMk:N, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y):
-        1 x CMM Composite       2,618cr vs    6,871cr, 15 days vs 8 days
-  Unload at VELIS/Menezes Dock (590ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 4,253cr (4,253cr/ton) => 104,258cr
-  Load from VELIS/Menezes Dock (590ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Personal Weapons    3,336cr vs    5,226cr, 8 days vs 3 days
-  Unload at MBAYO/Hopkins Plant (564ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 1,890cr (1,890cr/ton) => 106,148cr
+        1 x Beryllium                       7,417cr vs    8,977cr, 16 days vs 13 hrs
+  Unload at HIRANYAKSHA/Wood Ring (23ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,560cr (1,560cr/ton) => 101,560cr
+  Load from HIRANYAKSHA/Wood Ring (23ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Medical Diagnostic Equipment    2,232cr vs    6,774cr, 13 hrs vs 43 hrs
+  Unload at WOLF 1230/Wilson Keep (2.85Kls, BMk:N, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y) => Gain 4,542cr (4,542cr/ton) => 106,102cr
+  Load from WOLF 1230/Wilson Keep (2.85Kls, BMk:N, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y):
+        1 x Reactive Armour                 1,657cr vs    2,517cr, 43 hrs vs 16 days
+  Unload at MBAYO/Hopkins Plant (564ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 860cr (860cr/ton) => 106,962cr
   ----------------------------------------------------------------------------
-Finish at MBAYO/Hopkins Plant (564ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) gaining 6,148cr (2,049cr/ton) => est 106,148cr total
+Finish at MBAYO/Hopkins Plant (564ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) gaining 6,962cr (2,320cr/ton) => est 106,962cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Triangle starting and ending at MBAYO/Hopkins Plant with 105.7 ly between trades
-For MEDIUM and SMALL ships only, generated at 25/01/2017- 3:25:52.11 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 07/04/2017-12:50:36.76 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-NOTE: Pruned 14398 origins too far from any end stations
-MBAYO/Hopkins Plant -> MBAYO/Hopkins Plant (score: 7097.865100)
+NOTE: Pruned 13740 origins too far from any end stations
+MBAYO/Hopkins Plant -> MBAYO/Hopkins Plant (score: 7112.175120)
   Load from MBAYO/Hopkins Plant (564ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
-        1 x Beryllium                       7,958cr vs    9,188cr, 3 days vs 9 hrs
-  Unload at DJINAURA/Willis Park (394ls, BMk:Y, Pad:L, Plt:Y, Shp:Y, Out:Y, Ref:Y) => Gain 1,230cr (1,230cr/ton) => 101,230cr
-  Load from DJINAURA/Willis Park (394ls, BMk:Y, Pad:L, Plt:Y, Shp:Y, Out:Y, Ref:Y):
-        1 x Medical Diagnostic Equipment    2,487cr vs    6,781cr, 9 hrs vs 5 hrs
-  Unload at BAMANI/Hirayama Bastion (1.52Kls, BMk:N, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y) => Gain 4,294cr (4,294cr/ton) => 105,524cr
-  Load from BAMANI/Hirayama Bastion (1.52Kls, BMk:N, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y):
-        1 x Personal Weapons                3,647cr vs    5,226cr, 5 hrs vs 3 days
-  Unload at MBAYO/Hopkins Plant (564ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 1,579cr (1,579cr/ton) => 107,103cr
+        1 x Gold                            8,643cr vs   10,187cr, 16 days vs 3 days
+  Unload at MINERVA/Towarnicki (630ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,544cr (1,544cr/ton) => 101,544cr
+  Load from MINERVA/Towarnicki (630ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Medical Diagnostic Equipment    2,209cr vs    6,908cr, 3 days vs 3 days
+  Unload at TJURINAS/Burgess Barracks (91ls, BMk:N, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y) => Gain 4,699cr (4,699cr/ton) => 106,243cr
+  Load from TJURINAS/Burgess Barracks (91ls, BMk:N, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y):
+        1 x Reactive Armour                 1,649cr vs    2,517cr, 3 days vs 16 days
+  Unload at MBAYO/Hopkins Plant (564ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 868cr (868cr/ton) => 107,111cr
   ----------------------------------------------------------------------------
-Finish at MBAYO/Hopkins Plant (564ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) gaining 7,103cr (2,367cr/ton) => est 107,103cr total
+Finish at MBAYO/Hopkins Plant (564ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) gaining 7,111cr (2,370cr/ton) => est 107,111cr total
 

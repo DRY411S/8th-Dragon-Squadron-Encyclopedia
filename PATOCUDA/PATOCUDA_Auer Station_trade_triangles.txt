@@ -56,86 +56,91 @@
 #
 ---------------------------------------------------------------------------------------------------------
 Best Trade Triangle starting and ending at PATOCUDA/Auer Station with 13 ly between trades
-For MEDIUM and SMALL ships only, generated at 25/01/2017- 2:59:29.24 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 07/04/2017- 9:19:33.20 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-P:\Program Files (x86)\td\trade.py: Error: No buying prices at PATOCUDA/Auer Station.
-
-Possible causes:
-- No profitable runs or routes meet your criteria,
-- Missing Systems or Stations along the route (see "local -vv"),
-- Missing price data (see "market -vv" or "update -h"),
-
-If you are not sure where to get data from, consider using a crowd-sourcing
-project such as "maddavo's" (http://www.davek.com.au/td/).
-
-For more help, see the TradeDangerous Wiki:
-    http://kfs.org/td/wiki
+NOTE: Pruned 11 origins too far from any end stations
+PATOCUDA/Auer Station -> PATOCUDA/Auer Station (score: 3758.638640)
+  Load from PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
+        1 x Silver                          4,820cr vs    5,582cr, 11 days vs 8 hrs
+  Unload at URU/Bessemer Vision (675ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 762cr (762cr/ton) => 100,762cr
+  Load from URU/Bessemer Vision (675ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Medical Diagnostic Equipment    2,802cr vs    4,318cr, 8 hrs vs 2 days
+  Unload at URU/Resnik Dock (949ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 1,516cr (1,516cr/ton) => 102,278cr
+  Load from URU/Resnik Dock (949ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
+        1 x Performance Enhancers           6,059cr vs    7,539cr, 2 days vs 11 days
+  Unload at PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,480cr (1,480cr/ton) => 103,758cr
+  ----------------------------------------------------------------------------
+Finish at PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 3,758cr (1,252cr/ton) => est 103,758cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Triangle starting and ending at PATOCUDA/Auer Station with 37.5 ly between trades
-For MEDIUM and SMALL ships only, generated at 25/01/2017- 2:59:43.84 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 07/04/2017- 9:19:46.39 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-P:\Program Files (x86)\td\trade.py: Error: No buying prices at PATOCUDA/Auer Station.
-
-Possible causes:
-- No profitable runs or routes meet your criteria,
-- Missing Systems or Stations along the route (see "local -vv"),
-- Missing price data (see "market -vv" or "update -h"),
-
-If you are not sure where to get data from, consider using a crowd-sourcing
-project such as "maddavo's" (http://www.davek.com.au/td/).
-
-For more help, see the TradeDangerous Wiki:
-    http://kfs.org/td/wiki
+NOTE: Pruned 830 origins too far from any end stations
+PATOCUDA/Auer Station -> PATOCUDA/Auer Station (score: 4183.572500)
+  Load from PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
+        1 x Gold                            9,519cr vs   10,133cr, 11 days vs 4 days
+  Unload at SHONPONO/Nourse Ring (263ls, BMk:N, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 614cr (614cr/ton) => 100,614cr
+  Load from SHONPONO/Nourse Ring (263ls, BMk:N, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
+        1 x Medical Diagnostic Equipment    2,229cr vs    4,318cr, 4 days vs 2 days
+  Unload at URU/Resnik Dock (949ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 2,089cr (2,089cr/ton) => 102,703cr
+  Load from URU/Resnik Dock (949ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
+        1 x Performance Enhancers           6,059cr vs    7,539cr, 2 days vs 11 days
+  Unload at PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,480cr (1,480cr/ton) => 104,183cr
+  ----------------------------------------------------------------------------
+Finish at PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 4,183cr (1,394cr/ton) => est 104,183cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Triangle starting and ending at PATOCUDA/Auer Station with 42.5 ly between trades
-For MEDIUM and SMALL ships only, generated at 25/01/2017- 2:59:58.43 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 07/04/2017- 9:20:00.91 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-P:\Program Files (x86)\td\trade.py: Error: No buying prices at PATOCUDA/Auer Station.
-
-Possible causes:
-- No profitable runs or routes meet your criteria,
-- Missing Systems or Stations along the route (see "local -vv"),
-- Missing price data (see "market -vv" or "update -h"),
-
-If you are not sure where to get data from, consider using a crowd-sourcing
-project such as "maddavo's" (http://www.davek.com.au/td/).
-
-For more help, see the TradeDangerous Wiki:
-    http://kfs.org/td/wiki
+NOTE: Pruned 1268 origins too far from any end stations
+PATOCUDA/Auer Station -> PATOCUDA/Auer Station (score: 4325.877920)
+  Load from PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
+        1 x Silver             4,820cr vs    5,639cr, 11 days vs 14 hrs
+  Unload at KRAURNO/Sabine Platform (1.23Kls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 819cr (819cr/ton) => 100,819cr
+  Load from KRAURNO/Sabine Platform (1.23Kls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Basic Medicines      193cr vs    2,841cr, 14 hrs vs 36 hrs
+  Unload at BYERU BESE/Garnier Station (629ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 2,648cr (2,648cr/ton) => 103,467cr
+  Load from BYERU BESE/Garnier Station (629ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Tobacco            4,565cr vs    5,423cr, 36 hrs vs 11 days
+  Unload at PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 858cr (858cr/ton) => 104,325cr
+  ----------------------------------------------------------------------------
+Finish at PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 4,325cr (1,441cr/ton) => est 104,325cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Triangle starting and ending at PATOCUDA/Auer Station with 76.5 ly between trades
-For MEDIUM and SMALL ships only, generated at 25/01/2017- 3:00:13.05 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 07/04/2017- 9:20:17.63 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-P:\Program Files (x86)\td\trade.py: Error: No buying prices at PATOCUDA/Auer Station.
-
-Possible causes:
-- No profitable runs or routes meet your criteria,
-- Missing Systems or Stations along the route (see "local -vv"),
-- Missing price data (see "market -vv" or "update -h"),
-
-If you are not sure where to get data from, consider using a crowd-sourcing
-project such as "maddavo's" (http://www.davek.com.au/td/).
-
-For more help, see the TradeDangerous Wiki:
-    http://kfs.org/td/wiki
+NOTE: Pruned 8208 origins too far from any end stations
+PATOCUDA/Auer Station -> PATOCUDA/Auer Station (score: 6216.895360)
+  Load from PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
+        1 x Silver                          4,820cr vs    5,524cr, 11 days vs 37 hrs
+  Unload at ATATA/Zahn Enterprise (1.35Kls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 704cr (704cr/ton) => 100,704cr
+  Load from ATATA/Zahn Enterprise (1.35Kls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Medical Diagnostic Equipment    2,240cr vs    6,696cr, 37 hrs vs 2 days
+  Unload at NJORTH/Tanner Hub (1.67Kls, BMk:N, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y) => Gain 4,456cr (4,456cr/ton) => 105,160cr
+  Load from NJORTH/Tanner Hub (1.67Kls, BMk:N, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y):
+        1 x Personal Weapons                3,873cr vs    4,939cr, 2 days vs 11 days
+  Unload at PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,066cr (1,066cr/ton) => 106,226cr
+  ----------------------------------------------------------------------------
+Finish at PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 6,226cr (2,075cr/ton) => est 106,226cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Triangle starting and ending at PATOCUDA/Auer Station with 105.7 ly between trades
-For MEDIUM and SMALL ships only, generated at 25/01/2017- 3:00:27.77 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 07/04/2017- 9:22:46.33 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-P:\Program Files (x86)\td\trade.py: Error: No buying prices at PATOCUDA/Auer Station.
-
-Possible causes:
-- No profitable runs or routes meet your criteria,
-- Missing Systems or Stations along the route (see "local -vv"),
-- Missing price data (see "market -vv" or "update -h"),
-
-If you are not sure where to get data from, consider using a crowd-sourcing
-project such as "maddavo's" (http://www.davek.com.au/td/).
-
-For more help, see the TradeDangerous Wiki:
-    http://kfs.org/td/wiki
+NOTE: Pruned 14822 origins too far from any end stations
+PATOCUDA/Auer Station -> PATOCUDA/Auer Station (score: 6919.727680)
+  Load from PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
+        1 x Silver                4,820cr vs    5,541cr, 11 days vs 2 days
+  Unload at LHS 4046/Malchiodi Port (1.01Kls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 721cr (721cr/ton) => 100,721cr
+  Load from LHS 4046/Malchiodi Port (1.01Kls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Advanced Medicines    1,008cr vs    3,282cr, 2 days vs 11 hrs
+  Unload at LFT 37/Roentgen Hub (282ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 2,274cr (2,274cr/ton) => 102,995cr
+  Load from LFT 37/Roentgen Hub (282ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Imperial Slaves      12,967cr vs   16,891cr, 11 hrs vs 11 days
+  Unload at PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 3,924cr (3,924cr/ton) => 106,919cr
+  ----------------------------------------------------------------------------
+Finish at PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 6,919cr (2,306cr/ton) => est 106,919cr total
 

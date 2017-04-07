@@ -56,86 +56,71 @@
 #
 ---------------------------------------------------------------------------------------------------------
 Best Trade Shuttle starting and ending at PATOCUDA/Auer Station with 13 ly between trades
-For MEDIUM and SMALL ships only, generated at 25/01/2017- 2:58:15.79 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 07/04/2017- 9:15:46.10 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-P:\Program Files (x86)\td\trade.py: Error: No buying prices at PATOCUDA/Auer Station.
-
-Possible causes:
-- No profitable runs or routes meet your criteria,
-- Missing Systems or Stations along the route (see "local -vv"),
-- Missing price data (see "market -vv" or "update -h"),
-
-If you are not sure where to get data from, consider using a crowd-sourcing
-project such as "maddavo's" (http://www.davek.com.au/td/).
-
-For more help, see the TradeDangerous Wiki:
-    http://kfs.org/td/wiki
+PATOCUDA/Auer Station -> PATOCUDA/Auer Station (score: 2164.116280)
+  Load from PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
+        1 x Silver                   4,820cr vs    5,466cr, 11 days vs 15 hrs
+  Unload at URU/Stafford Gateway (946ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:N) => Gain 646cr (646cr/ton) => 100,646cr
+  Load from URU/Stafford Gateway (946ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:N):
+        1 x Performance Enhancers    6,021cr vs    7,539cr, 15 hrs vs 11 days
+  Unload at PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,518cr (1,518cr/ton) => 102,164cr
+  ----------------------------------------------------------------------------
+Finish at PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 2,164cr (1,082cr/ton) => est 102,164cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Shuttle starting and ending at PATOCUDA/Auer Station with 37.5 ly between trades
-For MEDIUM and SMALL ships only, generated at 25/01/2017- 2:58:30.41 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 07/04/2017- 9:15:59.49 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-P:\Program Files (x86)\td\trade.py: Error: No buying prices at PATOCUDA/Auer Station.
-
-Possible causes:
-- No profitable runs or routes meet your criteria,
-- Missing Systems or Stations along the route (see "local -vv"),
-- Missing price data (see "market -vv" or "update -h"),
-
-If you are not sure where to get data from, consider using a crowd-sourcing
-project such as "maddavo's" (http://www.davek.com.au/td/).
-
-For more help, see the TradeDangerous Wiki:
-    http://kfs.org/td/wiki
+PATOCUDA/Auer Station -> PATOCUDA/Auer Station (score: 2164.116280)
+  Load from PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
+        1 x Silver                   4,820cr vs    5,466cr, 11 days vs 15 hrs
+  Unload at URU/Stafford Gateway (946ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:N) => Gain 646cr (646cr/ton) => 100,646cr
+  Load from URU/Stafford Gateway (946ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:N):
+        1 x Performance Enhancers    6,021cr vs    7,539cr, 15 hrs vs 11 days
+  Unload at PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,518cr (1,518cr/ton) => 102,164cr
+  ----------------------------------------------------------------------------
+Finish at PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 2,164cr (1,082cr/ton) => est 102,164cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Shuttle starting and ending at PATOCUDA/Auer Station with 42.5 ly between trades
-For MEDIUM and SMALL ships only, generated at 25/01/2017- 2:58:45.02 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 07/04/2017- 9:16:13.12 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-P:\Program Files (x86)\td\trade.py: Error: No buying prices at PATOCUDA/Auer Station.
-
-Possible causes:
-- No profitable runs or routes meet your criteria,
-- Missing Systems or Stations along the route (see "local -vv"),
-- Missing price data (see "market -vv" or "update -h"),
-
-If you are not sure where to get data from, consider using a crowd-sourcing
-project such as "maddavo's" (http://www.davek.com.au/td/).
-
-For more help, see the TradeDangerous Wiki:
-    http://kfs.org/td/wiki
+PATOCUDA/Auer Station -> PATOCUDA/Auer Station (score: 2421.606880)
+  Load from PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
+        1 x Silver              4,820cr vs    5,639cr, 11 days vs 14 hrs
+  Unload at KRAURNO/Sabine Platform (1.23Kls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 819cr (819cr/ton) => 100,819cr
+  Load from KRAURNO/Sabine Platform (1.23Kls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Personal Weapons    3,336cr vs    4,939cr, 14 hrs vs 11 days
+  Unload at PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,603cr (1,603cr/ton) => 102,422cr
+  ----------------------------------------------------------------------------
+Finish at PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 2,422cr (1,211cr/ton) => est 102,422cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Shuttle starting and ending at PATOCUDA/Auer Station with 76.5 ly between trades
-For MEDIUM and SMALL ships only, generated at 25/01/2017- 2:58:59.66 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 07/04/2017- 9:16:27.07 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-P:\Program Files (x86)\td\trade.py: Error: No buying prices at PATOCUDA/Auer Station.
-
-Possible causes:
-- No profitable runs or routes meet your criteria,
-- Missing Systems or Stations along the route (see "local -vv"),
-- Missing price data (see "market -vv" or "update -h"),
-
-If you are not sure where to get data from, consider using a crowd-sourcing
-project such as "maddavo's" (http://www.davek.com.au/td/).
-
-For more help, see the TradeDangerous Wiki:
-    http://kfs.org/td/wiki
+PATOCUDA/Auer Station -> PATOCUDA/Auer Station (score: 2929.117720)
+  Load from PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
+        1 x Gold               9,519cr vs   10,173cr, 11 days vs 2 days
+  Unload at CUCHUA/Prandtl Dock (159ls, BMk:N, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 654cr (654cr/ton) => 100,654cr
+  Load from CUCHUA/Prandtl Dock (159ls, BMk:N, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Imperial Slaves   14,616cr vs   16,891cr, 2 days vs 11 days
+  Unload at PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 2,275cr (2,275cr/ton) => 102,929cr
+  ----------------------------------------------------------------------------
+Finish at PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 2,929cr (1,464cr/ton) => est 102,929cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Shuttle starting and ending at PATOCUDA/Auer Station with 105.7 ly between trades
-For MEDIUM and SMALL ships only, generated at 25/01/2017- 2:59:14.29 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 07/04/2017- 9:17:00.32 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-P:\Program Files (x86)\td\trade.py: Error: No buying prices at PATOCUDA/Auer Station.
-
-Possible causes:
-- No profitable runs or routes meet your criteria,
-- Missing Systems or Stations along the route (see "local -vv"),
-- Missing price data (see "market -vv" or "update -h"),
-
-If you are not sure where to get data from, consider using a crowd-sourcing
-project such as "maddavo's" (http://www.davek.com.au/td/).
-
-For more help, see the TradeDangerous Wiki:
-    http://kfs.org/td/wiki
+PATOCUDA/Auer Station -> PATOCUDA/Auer Station (score: 4182.086500)
+  Load from PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
+        1 x Cobalt               632cr vs      805cr, 11 days vs 18 hrs
+  Unload at LTT 8517/Seega Dock (542ls, BMk:N, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 173cr (173cr/ton) => 100,173cr
+  Load from LTT 8517/Seega Dock (542ls, BMk:N, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Imperial Slaves   12,882cr vs   16,891cr, 18 hrs vs 11 days
+  Unload at PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 4,009cr (4,009cr/ton) => 104,182cr
+  ----------------------------------------------------------------------------
+Finish at PATOCUDA/Auer Station (16ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 4,182cr (2,091cr/ton) => est 104,182cr total
 
