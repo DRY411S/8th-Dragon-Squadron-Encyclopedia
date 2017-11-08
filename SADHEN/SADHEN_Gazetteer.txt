@@ -5,7 +5,7 @@
 # Station  - self explanatory
 # Dist     - Distance (in ly) of the System from SADHEN
 # StnLs    - Distance of the station from the system star in Ls. 0.01 ly = 100 KLs
-# Age/days - How long ago was the OLDEST data updated in the crowd source relative to 07/04/2017- 9:37:59.10 [DD/MM/YYYY-UTC]
+# Age/days - How long ago was the OLDEST data updated in the crowd source relative to 08/11/2017- 8:39:21.32 [DD/MM/YYYY-UTC]
 # Mkt      - Is there a Commodities Market at the station?
 # BMk      - Is there a Black Market at the station?
 # Shp      - Is there a Shipyard at the station?
@@ -19,246 +19,246 @@ System                       Dist
   /  Station...................... StnLs Age/days Mkt BMk Shp Out Arm Ref Rep Pad Plt
 -------------------------------------------------------------------------------------
 SADHEN                       0.00
-  /  Barsanti Port................   708     6.60 Yes Yes  No  No  No Yes Yes Med  No
-  /  Baudin's Folly............... 1.65K   439.52 Yes Yes  No Yes Yes Yes Yes Lrg Yes
-  /  Birkeland Platform...........   472     4.57 Yes Yes Yes Yes Yes Yes Yes Lrg  No
-  /  Chorel's Inheritance.........     ?    18.44 Yes Yes  No Yes Yes Yes Yes Lrg Yes
-  /  Garriott Vision..............   942    49.07 Yes Yes  No Yes Yes Yes  No Med  No
+  /  Barsanti Port................   708     0.56 Yes Yes  No  No  No Yes Yes Med  No
+  /  Baudin's Folly............... 1.61K     3.91 Yes Yes  No Yes Yes Yes Yes Lrg Yes
+  /  Birkeland Platform...........   472     0.57 Yes Yes Yes Yes Yes Yes Yes Lrg  No
+  /  Chorel's Inheritance......... 1.62K     1.58 Yes Yes  No Yes Yes Yes Yes Lrg Yes
+  /  Garriott Vision..............   941     0.56 Yes Yes  No Yes Yes Yes  No Med  No
 PEGASI SECTOR CQ-O B6-0      2.64
 PATOCUDA                     3.76
-  /  Auer Station.................    16    11.54 Yes Yes  No  No Yes Yes Yes Med  No
-  /  Bao Orbital..................    29    11.56 Yes Yes  No Yes  No Yes Yes Med  No
-  /  Bentham Hub.................. 1.83K    32.43 Yes Yes Yes Yes Yes Yes Yes Lrg  No
-  /  Brule Relay.................. 1.84K        -  No Yes  No Yes Yes Yes Yes Lrg Yes
-  /  Coney Gateway................    97     0.59 Yes Yes Yes Yes Yes Yes Yes Lrg  No
-  /  Fadlan's Claim...............    15        -  No Yes  No Yes Yes Yes Yes Lrg Yes
-  /  Fernao Do Po Port............ 1.47K     6.03 Yes Yes Yes Yes Yes Yes Yes Lrg  No
-  /  Francisco de Almeida Vision.. 1.85K        -  No Yes  No Yes Yes Yes Yes Lrg Yes
-  /  Hausdorff Hub................ 1.48K    67.37 Yes Yes  No  No  No Yes Yes Med  No
+  /  Auer Station.................    16    44.73 Yes Yes  No  No Yes Yes Yes Med  No
+  /  Bao Orbital..................    29     3.41 Yes Yes  No Yes  No Yes Yes Med  No
+  /  Bentham Hub.................. 1.83K     0.53 Yes Yes Yes Yes Yes Yes Yes Lrg  No
+  /  Brule Relay.................. 1.83K        -  No Yes  No Yes Yes Yes Yes Lrg Yes
+  /  Coney Gateway................    98     3.26 Yes Yes Yes Yes Yes Yes Yes Lrg  No
+  /  Fadlan's Claim...............    16        -  No Yes  No Yes Yes Yes Yes Lrg Yes
+  /  Fernao Do Po Port............ 1.46K     9.33 Yes Yes Yes Yes Yes Yes Yes Lrg  No
+  /  Francisco de Almeida Vision.. 1.83K        -  No Yes  No Yes Yes Yes Yes Lrg Yes
+  /  Hausdorff Hub................ 1.49K   205.66 Yes Yes  No  No  No Yes Yes Med  No
   /  Levi-Civita Base.............    16        -  No Yes  No Yes Yes Yes Yes Lrg Yes
-  /  Morrow's Inheritance.........    16    91.53 Yes Yes  No Yes Yes Yes Yes Lrg Yes
-  /  Noon Enterprise..............    53    11.55 Yes Yes  No  No Yes Yes Yes Med  No
-  /  Shatner's Folly.............. 1.84K        -  No Yes  No Yes Yes Yes Yes Lrg Yes
+  /  Morrow's Inheritance.........    16   204.85 Yes Yes  No Yes Yes Yes Yes Lrg Yes
+  /  Noon Enterprise..............    54   207.52 Yes Yes  No  No Yes Yes Yes Med  No
+  /  Shatner's Folly.............. 1.82K        -  No Yes  No Yes Yes Yes Yes Lrg Yes
 URU                          5.74
-  /  Bessemer Vision..............   675     0.36 Yes Yes Yes Yes Yes Yes Yes Lrg  No
-  /  Resnik Dock..................   949     2.63 Yes Yes  No Yes Yes Yes Yes Med  No
-  /  Stafford Gateway.............   946     0.64 Yes Yes  No Yes  No  No Yes Med  No
+  /  Bessemer Vision..............   676     2.10 Yes Yes Yes Yes Yes Yes Yes Lrg  No
+  /  Resnik Dock..................   941     1.60 Yes Yes  No Yes Yes Yes Yes Med  No
+  /  Stafford Gateway.............   948     3.63 Yes Yes  No Yes  No  No Yes Med  No
 PEGASI SECTOR AF-Q B5-4      6.56
 BELACAJAN                    6.85
-  /  Barry Outpost................    10     0.35 Yes Yes  No  No  No Yes Yes Med  No
-  /  Crown Base...................    17    31.62 Yes Yes  No  No  No Yes Yes Med  No
-  /  Viehbock Prospect............    11    82.04 Yes Yes  No Yes Yes Yes Yes Lrg Yes
+  /  Barry Outpost................    10     0.54 Yes Yes  No  No  No Yes Yes Med  No
+  /  Crown Base...................    17     0.54 Yes Yes  No  No  No Yes Yes Med  No
+  /  Viehbock Prospect............    17     2.65 Yes Yes  No Yes Yes Yes Yes Lrg Yes
 HIP 113699                   7.43
-  /  Binnie Outpost...............  319K        -  No Yes  No  No Yes Yes Yes Med  No
-  /  Bond Terminal................  319K    32.38 Yes Yes  No Yes Yes Yes Yes Lrg Yes
-  /  Weston Dock..................  319K   417.40 Yes Yes  No  No  No Yes Yes Med  No
+  /  Binnie Outpost...............  320K        -  No Yes  No  No Yes Yes Yes Med  No
+  /  Bond Terminal................  320K   247.38 Yes Yes  No Yes Yes Yes Yes Lrg Yes
+  /  Weston Dock..................  320K   207.50 Yes Yes  No  No  No Yes Yes Med  No
 6 GAMMA PISCIUM             10.00
 PEGASI SECTOR GW-W D1-75    11.58
 TEWI'XILAK                  12.59
-  /  Alvarez de Pineda Legacy.....    35   423.72 Yes Yes  No Yes Yes Yes Yes Lrg Yes
-  /  Aubakirov Enterprise.........   108    32.45 Yes Yes  No Yes Yes Yes Yes Med  No
-  /  Barba Terminal...............   30K    29.53 Yes Yes  No  No  No  No Yes Med  No
-  /  Carrier Terminal.............   30K    11.38 Yes Yes Yes Yes Yes Yes Yes Lrg  No
-  /  Clifford Terminal............     ?     0.49 Yes Yes  No Yes Yes Yes Yes Lrg Yes
-  /  Collins Point................     ?     8.54 Yes Yes  No Yes Yes Yes Yes Lrg Yes
-  /  Currie Orbital...............    61     6.03 Yes Yes  No Yes Yes Yes Yes Med  No
-  /  Deb Orbital..................   30K    94.31 Yes Yes Yes Yes Yes Yes Yes Lrg  No
-  /  Drummond Installation........     ?    59.42 Yes Yes  No Yes Yes Yes Yes Lrg Yes
-  /  Mach City.................... 1.52K     0.14 Yes Yes  No  No  No Yes Yes Med  No
-  /  Newman Terminal..............    35     0.49 Yes Yes Yes Yes Yes Yes Yes Lrg  No
-  /  Padalka Gateway..............   30K   419.61 Yes Yes  No Yes Yes Yes Yes Med  No
-  /  Waldrop Gateway..............    20    25.78 Yes Yes  No Yes Yes Yes Yes Lrg Yes
-  /  Zholobov Station.............    21     0.24 Yes Yes Yes Yes Yes Yes Yes Lrg  No
+  /  Alvarez de Pineda Legacy.....    35   207.79 Yes Yes  No Yes Yes Yes Yes Lrg Yes
+  /  Aubakirov Enterprise.........   108   207.54 Yes Yes  No Yes Yes Yes Yes Med  No
+  /  Barba Terminal...............   28K     8.64 Yes Yes  No  No  No  No Yes Med  No
+  /  Carrier Terminal.............   28K     2.94 Yes Yes Yes Yes Yes Yes Yes Lrg  No
+  /  Clifford Terminal............    35     2.84 Yes Yes  No Yes Yes Yes Yes Lrg Yes
+  /  Collins Point................ 1.18K    15.91 Yes Yes  No Yes Yes Yes Yes Lrg Yes
+  /  Currie Orbital...............    61     1.61 Yes Yes  No Yes Yes Yes Yes Med  No
+  /  Deb Orbital..................   28K   123.03 Yes Yes Yes Yes Yes Yes Yes Lrg  No
+  /  Drummond Installation........   28K   111.42 Yes Yes  No Yes Yes Yes Yes Lrg Yes
+  /  Mach City.................... 1.52K     2.92 Yes Yes  No  No  No Yes Yes Med  No
+  /  Newman Terminal..............    35     3.65 Yes Yes Yes Yes Yes Yes Yes Lrg  No
+  /  Padalka Gateway..............   30K     9.60 Yes Yes  No Yes Yes Yes Yes Med  No
+  /  Waldrop Gateway..............    20     6.65 Yes Yes  No Yes Yes Yes Yes Lrg Yes
+  /  Zholobov Station.............    21     3.60 Yes Yes Yes Yes Yes Yes Yes Lrg  No
 MATUCANTH                   13.73
-  /  Battuta Port................. 1.94K    77.11 Yes Yes  No Yes Yes Yes Yes Med  No
-  /  Ericsson Ring................ 1.40K    47.48 Yes Yes Yes Yes Yes Yes Yes Lrg  No
-  /  Illy Enterprise.............. 3.21K    86.61 Yes Yes  No  No  No  No Yes Med  No
-  /  Irvin Dock................... 2.50K    15.78 Yes Yes  No Yes Yes Yes  No Med  No
-  /  McKay Enterprise............. 2.50K    92.97 Yes Yes  No Yes Yes Yes Yes Med  No
-  /  Robinson Station............. 1.40K     4.69 Yes Yes Yes Yes Yes Yes Yes Lrg  No
-  /  Sagan Orbital................   788     4.39 Yes Yes Yes Yes Yes Yes Yes Lrg  No
+  /  Battuta Port................. 1.92K    27.67 Yes Yes  No Yes Yes Yes Yes Med  No
+  /  Ericsson Ring................ 1.40K     8.63 Yes Yes Yes Yes Yes Yes Yes Lrg  No
+  /  Illy Enterprise.............. 3.21K     9.34 Yes Yes  No  No  No  No Yes Med  No
+  /  Irvin Dock................... 2.50K    15.82 Yes Yes  No Yes Yes Yes  No Med  No
+  /  McKay Enterprise............. 2.49K    15.81 Yes Yes  No Yes Yes Yes Yes Med  No
+  /  Robinson Station............. 1.40K    44.70 Yes Yes Yes Yes Yes Yes Yes Lrg  No
+  /  Sagan Orbital................   788     6.86 Yes Yes Yes Yes Yes Yes Yes Lrg  No
 HIP 113980                  14.15
-  /  Belyanin Ring................ 7.71K    58.57 Yes Yes  No  No  No Yes Yes Med  No
-  /  Clapperton Station........... 7.67K    12.18 Yes Yes Yes Yes Yes Yes Yes Lrg  No
-  /  Dantec Station............... 7.59K    56.89 Yes Yes  No  No  No Yes Yes Med  No
-  /  Grimwood Gateway............. 7.71K    39.91 Yes Yes Yes Yes Yes Yes Yes Lrg  No
-  /  Pippin Terminal.............. 7.61K   157.96 Yes Yes  No  No  No Yes Yes Med  No
-  /  Williams Depot...............     ?    57.74 Yes   ?   ?   ?   ?   ?   ?   ?   ?
+  /  Belyanin Ring................ 7.54K   180.88 Yes Yes  No  No  No Yes Yes Med  No
+  /  Clapperton Station........... 7.50K   121.57 Yes Yes Yes Yes Yes Yes Yes Lrg  No
+  /  Dantec Station............... 7.58K    54.59 Yes Yes  No  No  No Yes Yes Med  No
+  /  Grimwood Gateway............. 7.57K    63.73 Yes Yes Yes Yes Yes Yes Yes Lrg  No
+  /  Pippin Terminal.............. 7.57K   372.96 Yes Yes  No  No  No Yes Yes Med  No
+  /  Williams Depot...............     ?   272.74 Yes Yes  No Yes Yes Yes Yes Lrg Yes
 DHANKA                      14.32
-  /  Bierce Horizons..............    42    27.06 Yes Yes Yes Yes Yes Yes Yes Lrg  No
-  /  Hudson Orbital...............   150    80.42 Yes Yes  No  No  No Yes  No Med  No
-  /  Morrison Dock................   283     0.58 Yes Yes Yes Yes Yes Yes Yes Lrg  No
-  /  Normand Vision...............   358        -  No Yes  No  No  No Yes Yes Med  No
-  /  Rond D'Alembert Hub..........    88    80.38 Yes Yes  No  No  No Yes Yes Med  No
-  /  Schachner Enterprise.........     ?    80.08 Yes Yes  No Yes Yes Yes Yes Lrg Yes
-  /  Tavares Enterprise...........     ?        -  No Yes  No Yes Yes Yes Yes Lrg Yes
-  /  Powers' Inheritance..........     ?        -  No Yes  No Yes Yes Yes Yes Lrg Yes
+  /  Bierce Horizons..............    42    16.25 Yes Yes Yes Yes Yes Yes Yes Lrg  No
+  /  Hudson Orbital...............   150   169.83 Yes Yes  No  No  No Yes  No Med  No
+  /  Morrison Dock................   284    44.59 Yes Yes Yes Yes Yes Yes Yes Lrg  No
+  /  Normand Vision...............   359        -  No Yes  No  No  No Yes Yes Med  No
+  /  Powers' Inheritance..........    42        -  No Yes  No Yes Yes Yes Yes Lrg Yes
+  /  Rond D'Alembert Hub..........    89   203.67 Yes Yes  No  No  No Yes Yes Med  No
+  /  Schachner Enterprise.........    42   109.40 Yes Yes  No Yes Yes Yes Yes Lrg Yes
+  /  Tavares Enterprise...........   45K        -  No Yes  No Yes Yes Yes Yes Lrg Yes
 PEGASI SECTOR BQ-O B6-2     14.85
 PEGASI SECTOR ZE-Q B5-4     14.85
 HIP 112229                  14.88
 GANDII                      16.20
-  /  Babbage Station.............. 3.60K     0.52 Yes Yes  No  No Yes Yes Yes Med  No
-  /  Carver's Claim...............     ?        -  No Yes  No Yes Yes Yes Yes Lrg Yes
-  /  Erikson Forum................     ?        -  No Yes  No Yes Yes Yes Yes Lrg Yes
-  /  Gorbatko Enterprise.......... 3.60K   246.72 Yes Yes  No  No  No Yes  No Med  No
-  /  Lu Hub....................... 3.60K     0.13 Yes Yes Yes Yes Yes Yes Yes Lrg  No
+  /  Babbage Station.............. 3.60K    15.85 Yes Yes  No  No Yes Yes Yes Med  No
+  /  Carver's Claim............... 3.60K        -  No Yes  No Yes Yes Yes Yes Lrg Yes
+  /  Erikson Forum................ 3.60K        -  No Yes  No Yes Yes Yes Yes Lrg Yes
+  /  Gorbatko Enterprise.......... 3.60K   191.11 Yes Yes  No  No  No Yes  No Med  No
+  /  Lu Hub....................... 3.60K    15.84 Yes Yes Yes Yes Yes Yes Yes Lrg  No
 CASPI                       16.98
-  /  Fontana Orbital..............   350    12.25 Yes Yes Yes Yes Yes Yes Yes Lrg  No
-  /  Morukov City.................   488    12.49 Yes Yes  No  No  No Yes  No Med  No
-  /  Savinykh Arsenal.............   640    89.64 Yes Yes  No Yes Yes Yes Yes Lrg Yes
-  /  Smith Camp...................   640     6.14 Yes Yes  No Yes Yes Yes Yes Lrg Yes
+  /  Fontana Orbital..............   351   124.82 Yes Yes Yes Yes Yes Yes Yes Lrg  No
+  /  Morukov City.................   488   171.97 Yes Yes  No  No  No Yes  No Med  No
+  /  Savinykh Arsenal.............   641   304.64 Yes Yes  No Yes Yes Yes Yes Lrg Yes
+  /  Smith Camp...................   640   221.14 Yes Yes  No Yes Yes Yes Yes Lrg Yes
 WAUKSARRA                   17.10
-  /  Stewart Relay................     ?    55.64 Yes Yes  No Yes Yes Yes  No Med  No
+  /  Stewart Relay................   706   180.87 Yes Yes  No Yes Yes Yes  No Med  No
 CHNOUMIS                    17.16
-  /  Hermite Port.................     ?   138.72 Yes Yes  No Yes  No Yes Yes Med  No
+  /  Hermite Port.................    23    28.17 Yes Yes  No Yes  No Yes Yes Med  No
   /  Nachtigal's Inheritance......     ?        -  No Yes  No Yes Yes Yes Yes Lrg Yes
 WIRNAKO                     17.31
-  /  Cobb Landing.................   736    65.36 Yes Yes  No Yes  No  No Yes Med  No
-  /  Moffitt Platform.............   405     6.68 Yes Yes Yes Yes Yes Yes Yes Lrg  No
-  /  Morgan Installation..........   510     0.45 Yes Yes  No  No Yes Yes Yes Med  No
-  /  Von Bellingshausen Lab.......   319        -  No Yes  No Yes Yes Yes Yes Lrg Yes
+  /  Cobb Landing.................   734   280.36 Yes Yes  No Yes  No  No Yes Med  No
+  /  Moffitt Platform.............   406     9.65 Yes Yes Yes Yes Yes Yes Yes Lrg  No
+  /  Morgan Installation..........   511   140.66 Yes Yes  No  No Yes Yes Yes Med  No
+  /  Von Bellingshausen Lab.......   323        -  No Yes  No Yes Yes Yes Yes Lrg Yes
 HIP 115951                  17.72
-  /  Bunsen Port..................     ?    78.44 Yes  No  No Yes Yes Yes  No Med  No
-  /  Halsell Depot................     ?    93.73 Yes  No  No Yes Yes Yes Yes Med  No
-  /  Somerset Holdings............     ?   202.94 Yes  No  No Yes Yes Yes Yes Lrg Yes
+  /  Bunsen Port..................   146   162.63 Yes  No  No Yes Yes Yes  No Med  No
+  /  Halsell Depot................   267   165.67 Yes  No  No Yes Yes Yes Yes Med  No
+  /  Somerset Holdings............   146   162.63 Yes  No  No Yes Yes Yes Yes Lrg Yes
 PEGASI SECTOR ZE-Q B5-0     17.84
 HARMA                       18.68
-  /  Celebi City.................. 1.27K    21.63 Yes Yes  No  No  No Yes Yes Med  No
-  /  Gabriel Enterprise...........   259     3.54 Yes Yes Yes Yes Yes Yes Yes Lrg  No
-  /  Maybury City................. 1.29K    21.62 Yes Yes  No  No  No Yes  No Med  No
-  /  Muhammad Ibn Battuta Point... 2.12K    27.48 Yes Yes  No Yes Yes Yes Yes Lrg Yes
+  /  Celebi City.................. 1.29K    57.87 Yes Yes  No  No  No Yes Yes Med  No
+  /  Gabriel Enterprise...........   258     2.79 Yes Yes Yes Yes Yes Yes Yes Lrg  No
+  /  Maybury City................. 1.28K     8.48 Yes Yes  No  No  No Yes  No Med  No
+  /  Muhammad Ibn Battuta Point... 2.19K    54.49 Yes Yes  No Yes Yes Yes Yes Lrg Yes
 BIRRETI                     18.81
-  /  Platt City................... 7.25K   156.74 Yes Yes Yes Yes Yes Yes Yes Lrg  No
+  /  Platt City................... 7.50K   136.00 Yes Yes Yes Yes Yes Yes Yes Lrg  No
   /  Poisson Vision...............   39K        - Yes Yes  No Yes Yes Yes Yes Med  No
 ASOORAJARA                  18.99
-  /  Kennedy Platform.............    53    38.54 Yes Yes  No Yes Yes Yes Yes Med  No
-  /  Stableford Hangar............    43    30.64 Yes Yes  No  No  No Yes Yes Med  No
+  /  Kennedy Platform.............    53     7.56 Yes Yes  No Yes Yes Yes Yes Med  No
+  /  Stableford Hangar............    43    63.62 Yes Yes  No  No  No Yes Yes Med  No
 HIP 113355                  19.44
-  /  Atwater Gateway..............   140   294.63 Yes Yes  No  No  No Yes  No Med  No
-  /  McDivitt Terminal............    77     9.31 Yes Yes Yes Yes Yes Yes Yes Lrg  No
+  /  Atwater Gateway..............   140   509.63 Yes Yes  No  No  No Yes  No Med  No
   /  Behring Vision...............     ?        - Yes Yes  No Yes Yes Yes Yes Lrg Yes
   /  Burke Bastion................     ?        - Yes Yes  No Yes Yes Yes Yes Lrg Yes
   /  Gibson Works.................     ?        - Yes Yes  No Yes Yes Yes Yes Lrg Yes
+  /  McDivitt Terminal............    77    59.28 Yes Yes Yes Yes Yes Yes Yes Lrg  No
 BD-00 4461                  19.53
-  /  Flint Station................   361     9.87 Yes Yes  No  No  No Yes Yes Med  No
-  /  Piccard Hub..................   279     0.58 Yes Yes Yes Yes Yes Yes Yes Lrg  No
-  /  Webb Orbital.................   208     1.27 Yes Yes Yes Yes Yes Yes Yes Lrg  No
+  /  Flint Station................   361   165.84 Yes Yes  No  No  No Yes Yes Med  No
+  /  Piccard Hub..................   279   136.10 Yes Yes Yes Yes Yes Yes Yes Lrg  No
+  /  Webb Orbital.................   208   132.50 Yes Yes Yes Yes Yes Yes Yes Lrg  No
 KOLABINATES                 19.60
-  /  Grant Plant..................   471    26.98 Yes Yes  No  No Yes Yes Yes Med  No
+  /  Grant Plant..................   474     3.83 Yes Yes  No  No Yes Yes Yes Med  No
 HIP 112135                  19.79
-  /  Song Dock....................   455   194.67 Yes Yes  No  No  No Yes Yes Med  No
+  /  Song Dock....................   456    45.91 Yes Yes  No  No  No Yes Yes Med  No
 PEGASI SECTOR AV-O B6-0     19.95
 PARAIOWAL                   20.67
-  /  Read Retreat.................     ?   252.28 Yes Yes  No  No  No Yes  No Med  No
-  /  Yamazaki Survey..............     ?   551.52 Yes Yes  No  No  No Yes Yes Med  No
-  /  Barentsz Settlement..........     ?        -  No Yes  No Yes Yes Yes Yes Lrg Yes
+  /  Barentsz Settlement..........    47        -  No Yes  No Yes Yes Yes Yes Lrg Yes
+  /  Read Retreat.................    46   467.28 Yes Yes  No  No  No Yes  No Med  No
+  /  Yamazaki Survey..............    26   177.68 Yes Yes  No  No  No Yes Yes Med  No
 PEGASI SECTOR PN-T C3-14    20.77
 KUNDJABOZO                  20.83
-  /  Carlisle Penal Colony........ 1.43K     3.54 Yes  No  No  No  No Yes Yes Med  No
-  /  Phillips Platform............ 1.08K   258.57 Yes  No  No  No Yes Yes Yes Med  No
+  /  Carlisle Penal Colony........ 1.43K   218.54 Yes  No  No  No  No Yes Yes Med  No
+  /  Phillips Platform............ 1.08K   473.57 Yes  No  No  No Yes Yes Yes Med  No
 HIP 116410                  20.91
-  /  Kozeyev Terminal.............     ?        -  No  No  No  No  No Yes Yes Med  No
-  /  Sellers Terminal.............     ?    78.43 Yes  No  No Yes  No Yes Yes Med  No
-  /  Dirac Point..................     ?        -  No  No Yes Yes Yes Yes Yes Lrg Yes
+  /  Dirac Point..................   534        -  No  No Yes Yes Yes Yes Yes Lrg Yes
+  /  Kozeyev Terminal.............   761        -  No  No  No  No  No Yes Yes Med  No
+  /  Sellers Terminal.............   534   165.70 Yes  No  No Yes  No Yes Yes Med  No
 PHRACES                     20.93
-  /  Baxter Penal Colony..........   207    24.89 Yes Yes  No Yes Yes Yes Yes Lrg Yes
+  /  Baxter Penal Colony..........   209   119.64 Yes Yes  No Yes Yes Yes Yes Lrg Yes
   /  Grechko Beacon...............   207        -  No Yes Yes Yes Yes Yes Yes Lrg Yes
-  /  Mullane Ring.................   625    22.39 Yes Yes  No  No  No Yes  No Med  No
-  /  Potter Enterprise............   375     4.52 Yes Yes Yes Yes Yes Yes Yes Lrg  No
+  /  Mullane Ring.................   640    57.89 Yes Yes  No  No  No Yes  No Med  No
+  /  Potter Enterprise............   381     9.46 Yes Yes Yes Yes Yes Yes Yes Lrg  No
 BIKO                        21.13
-  /  Forstchen Horizons........... 2.01K     5.73 Yes Yes  No Yes Yes Yes Yes Med  No
-  /  Stjepan Seljan Settlement.... 1.41K     5.73 Yes Yes Yes Yes Yes Yes Yes Lrg  No
+  /  Forstchen Horizons........... 2.02K   148.82 Yes Yes  No Yes Yes Yes Yes Med  No
+  /  Stjepan Seljan Settlement.... 1.40K    27.83 Yes Yes Yes Yes Yes Yes Yes Lrg  No
 PARHUA                      21.39
-  /  Chalker Settlement...........    93    18.58 Yes Yes  No  No Yes Yes Yes Med  No
-  /  Matthews Landing.............   165        -  No Yes  No Yes Yes Yes Yes Med  No
+  /  Chalker Settlement...........    94   119.02 Yes Yes  No  No Yes Yes Yes Med  No
+  /  Matthews Landing.............   166        -  No Yes  No Yes Yes Yes Yes Med  No
 PEGASI SECTOR AV-O B6-1     21.43
 BISHAMUNI                   21.91
-  /  Bear Landing.................   454   104.58 Yes Yes Yes Yes Yes Yes Yes Lrg  No
+  /  Bear Landing.................   454    59.48 Yes Yes Yes Yes Yes Yes Yes Lrg  No
+  /  Matthews Holdings............     ?        - Yes Yes  No Yes Yes Yes  No Lrg Yes
   /  Soukup Platform..............   838        -  No Yes  No Yes  No Yes Yes Med  No
   /  White Landing................   116        -  No Yes  No Yes  No Yes Yes Med  No
-  /  Matthews Holdings............     ?        - Yes Yes  No Yes Yes Yes  No Lrg Yes
 LACTONAZ                    22.00
-  /  Szentmartony Prospect........     ?    51.18 Yes Yes  No Yes Yes Yes Yes Lrg Yes
-  /  Vo Dock...................... 1.94K    10.85 Yes Yes Yes Yes Yes Yes Yes Lrg  No
-  /  Birkhoff Hub.................     ?   156.80 Yes Yes  No Yes Yes Yes Yes Lrg Yes
+  /  Birkhoff Hub................. 1.02K   165.90 Yes Yes  No Yes Yes Yes Yes Lrg Yes
+  /  Szentmartony Prospect........     ?   266.18 Yes Yes  No Yes Yes Yes Yes Lrg Yes
+  /  Vo Dock...................... 1.94K   176.64 Yes Yes Yes Yes Yes Yes Yes Lrg  No
 HIP 114952                  22.06
-  /  Satcher Settlement........... 2.56K    25.64 Yes  No  No  No  No Yes Yes Med  No
+  /  Satcher Settlement........... 2.54K   177.69 Yes  No  No  No  No Yes Yes Med  No
 VENERES                     22.12
-  /  Kendrick Works...............     ?   775.02 Yes Yes  No  No  No Yes Yes Med  No
   /  Faris Vision.................     ?        -  No Yes  No Yes Yes Yes Yes Lrg Yes
+  /  Kendrick Works............... 3.90K   174.04 Yes Yes  No  No  No Yes Yes Med  No
 HIP 112095                  22.25
-  /  Savitskaya City..............   10K    73.15 Yes Yes Yes Yes Yes Yes Yes Lrg  No
+  /  Savitskaya City.............. 7.96K     5.72 Yes Yes Yes Yes Yes Yes Yes Lrg  No
 COL 285 SECTOR TK-U B17-3   22.33
 PEGASI SECTOR PN-T C3-27    22.44
 GLIESE 4328                 22.48
-  /  Chaudhary Base............... 1.99K    21.90 Yes  No  No Yes Yes Yes Yes Med  No
+  /  Chaudhary Base............... 2.03K   236.90 Yes  No  No Yes Yes Yes Yes Med  No
 KANNON                      22.57
-  /  Ross City.................... 2.16K    21.14 Yes Yes  No Yes Yes Yes  No Med  No
+  /  Ross City.................... 2.16K   174.05 Yes Yes  No Yes Yes Yes  No Med  No
 PEGASI SECTOR PN-T C3-23    22.81
 34 PEGASI                   23.28
-  /  Henderson Dock...............   993    24.38 Yes Yes Yes Yes Yes Yes Yes Lrg  No
-  /  Marques Forum................   262   439.58 Yes Yes  No Yes Yes Yes Yes Lrg Yes
-  /  Morris Vision................ 4.05K    57.83 Yes Yes  No Yes Yes Yes Yes Med  No
-  /  Ozanne Vision................   465    78.10 Yes Yes  No Yes Yes Yes  No Med  No
-  /  Rayhan Al-Biruni Orbital.....   465    74.21 Yes Yes Yes Yes Yes Yes Yes Lrg  No
-  /  Webb Port....................   262    74.22 Yes Yes Yes Yes Yes Yes Yes Lrg  No
-  /  Weiss Orbital................   328    25.64 Yes Yes Yes Yes Yes Yes Yes Lrg  No
-  /  Williams City................ 2.74K    88.48 Yes Yes  No  No  No Yes  No Med  No
+  /  Alvarado Vision.............. 4.04K        -  No  No  No  No  No  No  No   ? Yes
   /  Archimedes Holdings..........   262        -  No Yes Yes Yes Yes Yes Yes Lrg Yes
   /  Clark Keep...................   262        -  No Yes  No Yes Yes Yes Yes Lrg Yes
-  /  Frobisher City...............   328    57.84 Yes Yes Yes Yes Yes Yes Yes Lrg Yes
-  /  Shukor Keep.................. 4.04K        -  No Yes Yes Yes Yes Yes Yes Lrg Yes
-  /  Miletus Town.................   262        -  No  No  No  No  No  No  No   ? Yes
+  /  Frobisher City...............   328   272.84 Yes Yes Yes Yes Yes Yes Yes Lrg Yes
   /  Gaspar de Portola Hub........   328        -  No  No  No  No  No  No  No   ? Yes
+  /  Henderson Dock...............   991    28.47 Yes Yes Yes Yes Yes Yes Yes Lrg  No
   /  Hillary Landing..............   328        -  No  No  No  No  No  No  No   ? Yes
+  /  Marques Forum................   262   152.89 Yes Yes  No Yes Yes Yes Yes Lrg Yes
+  /  Miletus Town.................   262        -  No  No  No  No  No  No  No   ? Yes
+  /  Morris Vision................ 4.05K   272.83 Yes Yes  No Yes Yes Yes Yes Med  No
   /  Ogden Terminal...............   328        -  No  No  No  No  No  No  No   ? Yes
-  /  Tyson Park...................   328        -  No  No  No  No  No  No  No   ? Yes
-  /  Alvarado Vision.............. 4.04K        -  No  No  No  No  No  No  No   ? Yes
+  /  Ozanne Vision................   464   185.38 Yes Yes  No Yes Yes Yes  No Med  No
   /  Parsons Laboratory........... 4.04K        -  No  No  No  No  No  No  No   ? Yes
   /  Payson Installation.......... 4.04K        -  No  No  No  No  No  No  No   ? Yes
+  /  Rayhan Al-Biruni Orbital.....   464   201.51 Yes Yes Yes Yes Yes Yes Yes Lrg  No
+  /  Shukor Keep.................. 4.04K        -  No Yes Yes Yes Yes Yes Yes Lrg Yes
+  /  Tyson Park...................   328        -  No  No  No  No  No  No  No   ? Yes
+  /  Webb Port....................   262   115.63 Yes Yes Yes Yes Yes Yes Yes Lrg  No
+  /  Weiss Orbital................   328   166.41 Yes Yes Yes Yes Yes Yes Yes Lrg  No
+  /  Williams City................ 2.74K   166.31 Yes Yes  No  No  No Yes  No Med  No
 NKONJURUNGU                 23.61
-  /  Hieb Platform................   141    30.18 Yes Yes  No Yes Yes Yes Yes Med  No
-  /  Perrin Escape................     ?    63.44 Yes Yes  No Yes Yes Yes Yes Lrg Yes
+  /  Hieb Platform................   141    45.09 Yes Yes  No Yes Yes Yes Yes Med  No
+  /  Perrin Escape................   140    43.14 Yes Yes  No Yes Yes Yes Yes Lrg Yes
 PEMEZ                       23.66
-  /  Andree Asylum................ 1.33K   160.97 Yes Yes  No Yes Yes Yes Yes Med  No
+  /  Andree Asylum................ 1.33K   375.97 Yes Yes  No Yes Yes Yes Yes Med  No
 ARUAN                       23.92
-  /  Quimby Platform..............   14K   294.21 Yes  No  No Yes  No Yes Yes Med  No
+  /  Quimby Platform..............   14K   509.21 Yes  No  No Yes  No Yes Yes Med  No
 MBAYO                       24.19
   /  Diesel Dock..................   564        -  No Yes  No  No Yes Yes Yes Med  No
-  /  Hopkins Plant................   564    16.63 Yes Yes  No Yes Yes Yes Yes Med  No
+  /  Hopkins Plant................   564    58.71 Yes Yes  No Yes Yes Yes Yes Med  No
 10 THETA PISCIUM            24.29
-  /  Hovell Mines.................   826    56.96 Yes Yes Yes Yes Yes Yes Yes Lrg  No
-  /  McArthur Keep................   826   419.59 Yes Yes Yes Yes Yes Yes Yes Lrg Yes
-  /  Piccard Prospect.............   826   291.30 Yes Yes  No Yes Yes Yes Yes Lrg Yes
-  /  Stasheff Horizons............ 1.11K    34.40 Yes Yes  No Yes Yes Yes  No Med  No
-  /  Williamson Mines............. 1.43K   240.03 Yes Yes  No Yes Yes Yes  No Med  No
   /  Bulgarin Prospect............   826        -  No  No  No  No  No  No  No   ? Yes
-  /  Rayhan Al-Biruni Town........   826        -  No  No  No  No  No  No  No   ? Yes
-  /  Friesner Bastion............. 1.11K        -  No  No  No  No  No  No  No   ? Yes
-  /  Wallin Installation.......... 1.11K        -  No  No  No  No  No  No  No   ? Yes
   /  Derleth Base................. 2.09K        -  No  No  No  No  No  No  No   ? Yes
+  /  Friesner Bastion............. 1.11K        -  No  No  No  No  No  No  No   ? Yes
+  /  Hovell Mines.................   825     3.47 Yes Yes Yes Yes Yes Yes Yes Lrg  No
+  /  McArthur Keep................   826   634.59 Yes Yes Yes Yes Yes Yes Yes Lrg Yes
+  /  Piccard Prospect.............   826   506.30 Yes Yes  No Yes Yes Yes Yes Lrg Yes
+  /  Rayhan Al-Biruni Town........   826        -  No  No  No  No  No  No  No   ? Yes
+  /  Stasheff Horizons............ 1.11K   249.40 Yes Yes  No Yes Yes Yes  No Med  No
+  /  Wallin Installation.......... 1.11K        -  No  No  No  No  No  No  No   ? Yes
+  /  Williamson Mines............. 1.43K   455.04 Yes Yes  No Yes Yes Yes  No Med  No
 GLIESE 1272                 24.72
-  /  Bao Dock.....................    49    18.69 Yes Yes Yes Yes Yes Yes Yes Lrg  No
-  /  Barnes Port..................   164    40.50 Yes Yes  No Yes Yes Yes  No Med  No
-  /  Dickson Port.................   121    40.53 Yes Yes  No Yes Yes Yes  No Med  No
-  /  Gerlache Horizons............     ?        -  No Yes  No Yes Yes Yes Yes Lrg Yes
-  /  Gregory Enterprise...........     ?     0.62 Yes Yes Yes Yes Yes Yes Yes Lrg Yes
-  /  Gregory Terminal.............   200    21.66 Yes Yes  No Yes  No Yes Yes Med  No
-  /  Maler Station................    65    56.45 Yes Yes Yes Yes Yes Yes Yes Lrg  No
-  /  Murphy Dock..................    86    39.88 Yes Yes Yes Yes Yes Yes Yes Lrg  No
-  /  Schmidt Port................. 2.15K        -  No Yes  No  No Yes Yes Yes Med  No
-  /  Alexandria Works.............     ?    30.62 Yes Yes  No Yes Yes Yes Yes Lrg Yes
-  /  Doyle Works..................     ?    32.90 Yes Yes  No Yes Yes Yes Yes Lrg Yes
-  /  Mitropoulos Prospect.........     ?    22.44 Yes Yes Yes Yes Yes Yes Yes Lrg Yes
+  /  Alexandria Works............. 7.12K    58.69 Yes Yes  No Yes Yes Yes Yes Lrg Yes
+  /  Bao Dock.....................    49     7.51 Yes Yes Yes Yes Yes Yes Yes Lrg  No
+  /  Barnes Port..................   165   141.06 Yes Yes  No Yes Yes Yes  No Med  No
+  /  Dickson Port.................   121    58.70 Yes Yes  No Yes Yes Yes  No Med  No
+  /  Doyle Works..................    49    52.87 Yes Yes  No Yes Yes Yes Yes Lrg Yes
+  /  Gerlache Horizons............ 7.15K        -  No Yes Yes Yes Yes Yes Yes Lrg Yes
+  /  Gregory Enterprise...........    65    44.94 Yes Yes Yes Yes Yes Yes Yes Lrg Yes
+  /  Gregory Terminal.............   201    48.52 Yes Yes  No Yes  No Yes Yes Med  No
+  /  Maler Station................    65    14.22 Yes Yes Yes Yes Yes Yes Yes Lrg  No
+  /  Mitropoulos Prospect.........    49   147.68 Yes Yes Yes Yes Yes Yes Yes Lrg Yes
+  /  Murphy Dock..................    86    51.62 Yes Yes Yes Yes Yes Yes Yes Lrg  No
+  /  Schmidt Port................. 4.35K        -  No Yes  No  No Yes Yes Yes Med  No
   /  Sylvester Barracks...........     ?        -  No Yes  No Yes Yes Yes Yes Lrg Yes
 TRIQUAGSAK                  24.80
-  /  Pauli Port...................    44   136.56 Yes Yes  No Yes Yes Yes  No Med  No
-  /  Walker Relay.................    51    32.42 Yes Yes  No  No Yes Yes Yes Med  No
-  /  Werber Beacon................     ?        -  No Yes  No Yes Yes Yes Yes Lrg Yes
+  /  Pauli Port...................    44    14.59 Yes Yes  No Yes Yes Yes  No Med  No
+  /  Walker Relay.................    51    44.59 Yes Yes  No  No Yes Yes Yes Med  No
+  /  Werber Beacon................    51        -  No Yes  No Yes Yes Yes Yes Lrg Yes
 RUSALKU                     24.85
-  /  Ballard Survey...............     ?   411.67 Yes Yes  No Yes Yes Yes Yes Lrg Yes
-  /  Burckhardt City.............. 4.08K    29.30 Yes Yes Yes Yes Yes Yes Yes Lrg  No
-  /  Darlton Enterprise........... 4.23K        -  No Yes  No Yes  No Yes Yes Med  No
-  /  Lopez de Villalobos Arsenal..     ?   298.13 Yes Yes  No Yes Yes Yes Yes Lrg Yes
+  /  Ballard Survey...............     ?   626.67 Yes Yes  No Yes Yes Yes Yes Lrg Yes
+  /  Burckhardt City.............. 3.94K   202.60 Yes Yes Yes Yes Yes Yes Yes Lrg  No
+  /  Darlton Enterprise........... 4.14K        -  No Yes  No Yes  No Yes Yes Med  No
+  /  Lopez de Villalobos Arsenal.. 4.07K    59.29 Yes Yes Yes Yes Yes Yes Yes Lrg Yes
   /  Pangborn Lab.................     ?        -  No Yes  No Yes Yes Yes Yes Lrg Yes
-  /  Rochon Enterprise............ 4.62K    42.85 Yes Yes  No  No  No Yes Yes Med  No
+  /  Rochon Enterprise............ 4.37K   204.66 Yes Yes  No  No  No Yes Yes Med  No

@@ -1,5 +1,5 @@
 # This file is a list of places that you can buy ships within 25ly of SADHEN
-# It is based on data in the public TradeDangerous database, and generated at 07/04/2017- 9:38:02.08 [DD/MM/YYYY-UTC]
+# It is based on data in the public TradeDangerous database, and generated at 08/11/2017- 8:39:24.49 [DD/MM/YYYY-UTC]
 # Crowd sourced data about where to buy ships is limited
 # There are likely to be many other places where you can buy ships in the area
 # Especially the smaller ones
@@ -21,19 +21,19 @@ You can buy "'Adder'"s and [typically] pay 87810 Cr At...
 
 Station                       DistLy      StnLs B/mkt Pad Plt
 -------------------------------------------------------------
-PATOCUDA/Coney Gateway          3.76         97   Yes Lrg  No
-PATOCUDA/Fernao Do Po Port      3.76      1.47K   Yes Lrg  No
-URU/Bessemer Vision             5.74        675   Yes Lrg  No
+PATOCUDA/Coney Gateway          3.76         98   Yes Lrg  No
+PATOCUDA/Fernao Do Po Port      3.76      1.46K   Yes Lrg  No
+URU/Bessemer Vision             5.74        676   Yes Lrg  No
 TEWI'XILAK/Newman Terminal     12.59         35   Yes Lrg  No
 TEWI'XILAK/Zholobov Station    12.59         21   Yes Lrg  No
 MATUCANTH/Ericsson Ring        13.73      1.40K   Yes Lrg  No
-HIP 113980/Clapperton Station  14.15      7.67K   Yes Lrg  No
+HIP 113980/Clapperton Station  14.15      7.50K   Yes Lrg  No
 DHANKA/Bierce Horizons         14.32         42   Yes Lrg  No
-CASPI/Fontana Orbital          16.98        350   Yes Lrg  No
-HARMA/Gabriel Enterprise       18.68        259   Yes Lrg  No
-BIRRETI/Platt City             18.81      7.25K   Yes Lrg  No
+CASPI/Fontana Orbital          16.98        351   Yes Lrg  No
+HARMA/Gabriel Enterprise       18.68        258   Yes Lrg  No
+BIRRETI/Platt City             18.81      7.50K   Yes Lrg  No
 BD-00 4461/Piccard Hub         19.53        279   Yes Lrg  No
-PHRACES/Potter Enterprise      20.93        375   Yes Lrg  No
+PHRACES/Potter Enterprise      20.93        381   Yes Lrg  No
 GLIESE 1272/Bao Dock           24.72         49   Yes Lrg  No
 GLIESE 1272/Murphy Dock        24.72         86   Yes Lrg  No
 
@@ -46,11 +46,11 @@ Station                     DistLy      StnLs B/mkt Pad Plt
 TEWI'XILAK/Newman Terminal   12.59         35   Yes Lrg  No
 TEWI'XILAK/Zholobov Station  12.59         21   Yes Lrg  No
 MATUCANTH/Robinson Station   13.73      1.40K   Yes Lrg  No
-CASPI/Fontana Orbital        16.98        350   Yes Lrg  No
-HARMA/Gabriel Enterprise     18.68        259   Yes Lrg  No
-BIRRETI/Platt City           18.81      7.25K   Yes Lrg  No
+CASPI/Fontana Orbital        16.98        351   Yes Lrg  No
+HARMA/Gabriel Enterprise     18.68        258   Yes Lrg  No
+BIRRETI/Platt City           18.81      7.50K   Yes Lrg  No
 BD-00 4461/Piccard Hub       19.53        279   Yes Lrg  No
-HIP 112095/Savitskaya City   22.25        10K   Yes Lrg  No
+HIP 112095/Savitskaya City   22.25      7.96K   Yes Lrg  No
 
 --------------------
 You can buy "'Asp'"s and [typically] pay 6661150 Cr At...
@@ -59,17 +59,17 @@ You can buy "'Asp'"s and [typically] pay 6661150 Cr At...
 Station                            DistLy      StnLs B/mkt Pad Plt
 ------------------------------------------------------------------
 MATUCANTH/Robinson Station          13.73      1.40K   Yes Lrg  No
-HIP 113980/Clapperton Station       14.15      7.67K   Yes Lrg  No
-CASPI/Fontana Orbital               16.98        350   Yes Lrg  No
-WIRNAKO/Moffitt Platform            17.31        405   Yes Lrg  No
-HARMA/Gabriel Enterprise            18.68        259   Yes Lrg  No
-BIRRETI/Platt City                  18.81      7.25K   Yes Lrg  No
+HIP 113980/Clapperton Station       14.15      7.50K   Yes Lrg  No
+CASPI/Fontana Orbital               16.98        351   Yes Lrg  No
+WIRNAKO/Moffitt Platform            17.31        406   Yes Lrg  No
+HARMA/Gabriel Enterprise            18.68        258   Yes Lrg  No
+BIRRETI/Platt City                  18.81      7.50K   Yes Lrg  No
 BD-00 4461/Piccard Hub              19.53        279   Yes Lrg  No
 BD-00 4461/Webb Orbital             19.53        208   Yes Lrg  No
-PHRACES/Potter Enterprise           20.93        375   Yes Lrg  No
-HIP 112095/Savitskaya City          22.25        10K   Yes Lrg  No
-34 PEGASI/Henderson Dock            23.28        993   Yes Lrg  No
-34 PEGASI/Rayhan Al-Biruni Orbital  23.28        465   Yes Lrg  No
+PHRACES/Potter Enterprise           20.93        381   Yes Lrg  No
+HIP 112095/Savitskaya City          22.25      7.96K   Yes Lrg  No
+34 PEGASI/Henderson Dock            23.28        991   Yes Lrg  No
+34 PEGASI/Rayhan Al-Biruni Orbital  23.28        464   Yes Lrg  No
 34 PEGASI/Webb Port                 23.28        262   Yes Lrg  No
 34 PEGASI/Weiss Orbital             23.28        328   Yes Lrg  No
 GLIESE 1272/Murphy Dock             24.72         86   Yes Lrg  No
@@ -81,7 +81,7 @@ You can buy "'Asp Scout'"s and [typically] pay 3961150 Cr At...
 # No available items found
 
 --------------------
-You can buy "'Beluga Liner'"s and [typically] pay 79654620 Cr At...
+You can buy "'Beluga Liner'"s and [typically] pay 84532760 Cr At...
 --------------------
 
 # No available items found
@@ -93,23 +93,23 @@ You can buy "'Clipper'"s and [typically] pay 22295860 Cr At...
 # No available items found
 
 --------------------
-You can buy "'Cobra'"s and [typically] pay 379720 Cr At...
+You can buy "'Cobra'"s and [typically] pay 349720 Cr At...
 --------------------
 
 Station                     DistLy      StnLs B/mkt Pad Plt
 -----------------------------------------------------------
 SADHEN/Birkeland Platform     0.00        472   Yes Lrg  No
-PATOCUDA/Coney Gateway        3.76         97   Yes Lrg  No
-PATOCUDA/Fernao Do Po Port    3.76      1.47K   Yes Lrg  No
-URU/Bessemer Vision           5.74        675   Yes Lrg  No
-TEWI'XILAK/Deb Orbital       12.59        30K   Yes Lrg  No
+PATOCUDA/Coney Gateway        3.76         98   Yes Lrg  No
+PATOCUDA/Fernao Do Po Port    3.76      1.46K   Yes Lrg  No
+URU/Bessemer Vision           5.74        676   Yes Lrg  No
+TEWI'XILAK/Deb Orbital       12.59        28K   Yes Lrg  No
 TEWI'XILAK/Newman Terminal   12.59         35   Yes Lrg  No
 TEWI'XILAK/Zholobov Station  12.59         21   Yes Lrg  No
 MATUCANTH/Ericsson Ring      13.73      1.40K   Yes Lrg  No
 DHANKA/Bierce Horizons       14.32         42   Yes Lrg  No
-CASPI/Fontana Orbital        16.98        350   Yes Lrg  No
-HARMA/Gabriel Enterprise     18.68        259   Yes Lrg  No
-BIRRETI/Platt City           18.81      7.25K   Yes Lrg  No
+CASPI/Fontana Orbital        16.98        351   Yes Lrg  No
+HARMA/Gabriel Enterprise     18.68        258   Yes Lrg  No
+BIRRETI/Platt City           18.81      7.50K   Yes Lrg  No
 BD-00 4461/Piccard Hub       19.53        279   Yes Lrg  No
 GLIESE 1272/Murphy Dock      24.72         86   Yes Lrg  No
 
@@ -132,6 +132,12 @@ You can buy "'Diamondback Scout'"s and [typically] pay 564330 Cr At...
 # No available items found
 
 --------------------
+You can buy "'Dolphin'"s and [typically] pay 1337320 Cr At...
+--------------------
+
+# No available items found
+
+--------------------
 You can buy "'Dropship'"s and [typically] pay 14314210 Cr At...
 --------------------
 
@@ -139,9 +145,9 @@ Station                    DistLy      StnLs B/mkt Pad Plt
 ----------------------------------------------------------
 MATUCANTH/Robinson Station  13.73      1.40K   Yes Lrg  No
 MATUCANTH/Sagan Orbital     13.73        788   Yes Lrg  No
-PHRACES/Potter Enterprise   20.93        375   Yes Lrg  No
-HIP 112095/Savitskaya City  22.25        10K   Yes Lrg  No
-34 PEGASI/Henderson Dock    23.28        993   Yes Lrg  No
+PHRACES/Potter Enterprise   20.93        381   Yes Lrg  No
+HIP 112095/Savitskaya City  22.25      7.96K   Yes Lrg  No
+34 PEGASI/Henderson Dock    23.28        991   Yes Lrg  No
 
 --------------------
 You can buy "'Eagle'"s and [typically] pay 44800 Cr At...
@@ -149,26 +155,26 @@ You can buy "'Eagle'"s and [typically] pay 44800 Cr At...
 
 Station                            DistLy      StnLs B/mkt Pad Plt
 ------------------------------------------------------------------
-PATOCUDA/Coney Gateway               3.76         97   Yes Lrg  No
-PATOCUDA/Fernao Do Po Port           3.76      1.47K   Yes Lrg  No
-URU/Bessemer Vision                  5.74        675   Yes Lrg  No
+PATOCUDA/Coney Gateway               3.76         98   Yes Lrg  No
+PATOCUDA/Fernao Do Po Port           3.76      1.46K   Yes Lrg  No
+URU/Bessemer Vision                  5.74        676   Yes Lrg  No
 TEWI'XILAK/Newman Terminal          12.59         35   Yes Lrg  No
 TEWI'XILAK/Zholobov Station         12.59         21   Yes Lrg  No
 MATUCANTH/Ericsson Ring             13.73      1.40K   Yes Lrg  No
 MATUCANTH/Robinson Station          13.73      1.40K   Yes Lrg  No
 MATUCANTH/Sagan Orbital             13.73        788   Yes Lrg  No
-HIP 113980/Clapperton Station       14.15      7.67K   Yes Lrg  No
+HIP 113980/Clapperton Station       14.15      7.50K   Yes Lrg  No
 DHANKA/Bierce Horizons              14.32         42   Yes Lrg  No
-CASPI/Fontana Orbital               16.98        350   Yes Lrg  No
-WIRNAKO/Moffitt Platform            17.31        405   Yes Lrg  No
-HARMA/Gabriel Enterprise            18.68        259   Yes Lrg  No
-BIRRETI/Platt City                  18.81      7.25K   Yes Lrg  No
+CASPI/Fontana Orbital               16.98        351   Yes Lrg  No
+WIRNAKO/Moffitt Platform            17.31        406   Yes Lrg  No
+HARMA/Gabriel Enterprise            18.68        258   Yes Lrg  No
+BIRRETI/Platt City                  18.81      7.50K   Yes Lrg  No
 BD-00 4461/Piccard Hub              19.53        279   Yes Lrg  No
 BD-00 4461/Webb Orbital             19.53        208   Yes Lrg  No
-PHRACES/Potter Enterprise           20.93        375   Yes Lrg  No
-HIP 112095/Savitskaya City          22.25        10K   Yes Lrg  No
-34 PEGASI/Henderson Dock            23.28        993   Yes Lrg  No
-34 PEGASI/Rayhan Al-Biruni Orbital  23.28        465   Yes Lrg  No
+PHRACES/Potter Enterprise           20.93        381   Yes Lrg  No
+HIP 112095/Savitskaya City          22.25      7.96K   Yes Lrg  No
+34 PEGASI/Henderson Dock            23.28        991   Yes Lrg  No
+34 PEGASI/Rayhan Al-Biruni Orbital  23.28        464   Yes Lrg  No
 34 PEGASI/Webb Port                 23.28        262   Yes Lrg  No
 34 PEGASI/Weiss Orbital             23.28        328   Yes Lrg  No
 GLIESE 1272/Bao Dock                24.72         49   Yes Lrg  No
@@ -198,8 +204,8 @@ You can buy "'Fer-de-Lance'"s and [typically] pay 51567040 Cr At...
 
 Station                   DistLy      StnLs B/mkt Pad Plt
 ---------------------------------------------------------
-URU/Bessemer Vision         5.74        675   Yes Lrg  No
-PHRACES/Potter Enterprise  20.93        375   Yes Lrg  No
+URU/Bessemer Vision         5.74        676   Yes Lrg  No
+PHRACES/Potter Enterprise  20.93        381   Yes Lrg  No
 
 --------------------
 You can buy "'Hauler'"s and [typically] pay 52720 Cr At...
@@ -208,25 +214,25 @@ You can buy "'Hauler'"s and [typically] pay 52720 Cr At...
 Station                            DistLy      StnLs B/mkt Pad Plt
 ------------------------------------------------------------------
 SADHEN/Birkeland Platform            0.00        472   Yes Lrg  No
-PATOCUDA/Coney Gateway               3.76         97   Yes Lrg  No
-PATOCUDA/Fernao Do Po Port           3.76      1.47K   Yes Lrg  No
-URU/Bessemer Vision                  5.74        675   Yes Lrg  No
-TEWI'XILAK/Deb Orbital              12.59        30K   Yes Lrg  No
+PATOCUDA/Coney Gateway               3.76         98   Yes Lrg  No
+PATOCUDA/Fernao Do Po Port           3.76      1.46K   Yes Lrg  No
+URU/Bessemer Vision                  5.74        676   Yes Lrg  No
+TEWI'XILAK/Deb Orbital              12.59        28K   Yes Lrg  No
 TEWI'XILAK/Newman Terminal          12.59         35   Yes Lrg  No
 TEWI'XILAK/Zholobov Station         12.59         21   Yes Lrg  No
 MATUCANTH/Ericsson Ring             13.73      1.40K   Yes Lrg  No
 MATUCANTH/Robinson Station          13.73      1.40K   Yes Lrg  No
 MATUCANTH/Sagan Orbital             13.73        788   Yes Lrg  No
-HIP 113980/Clapperton Station       14.15      7.67K   Yes Lrg  No
+HIP 113980/Clapperton Station       14.15      7.50K   Yes Lrg  No
 DHANKA/Bierce Horizons              14.32         42   Yes Lrg  No
-WIRNAKO/Moffitt Platform            17.31        405   Yes Lrg  No
-HARMA/Gabriel Enterprise            18.68        259   Yes Lrg  No
-BIRRETI/Platt City                  18.81      7.25K   Yes Lrg  No
+WIRNAKO/Moffitt Platform            17.31        406   Yes Lrg  No
+HARMA/Gabriel Enterprise            18.68        258   Yes Lrg  No
+BIRRETI/Platt City                  18.81      7.50K   Yes Lrg  No
 BD-00 4461/Webb Orbital             19.53        208   Yes Lrg  No
-PHRACES/Potter Enterprise           20.93        375   Yes Lrg  No
-HIP 112095/Savitskaya City          22.25        10K   Yes Lrg  No
-34 PEGASI/Henderson Dock            23.28        993   Yes Lrg  No
-34 PEGASI/Rayhan Al-Biruni Orbital  23.28        465   Yes Lrg  No
+PHRACES/Potter Enterprise           20.93        381   Yes Lrg  No
+HIP 112095/Savitskaya City          22.25      7.96K   Yes Lrg  No
+34 PEGASI/Henderson Dock            23.28        991   Yes Lrg  No
+34 PEGASI/Rayhan Al-Biruni Orbital  23.28        464   Yes Lrg  No
 34 PEGASI/Webb Port                 23.28        262   Yes Lrg  No
 34 PEGASI/Weiss Orbital             23.28        328   Yes Lrg  No
 GLIESE 1272/Bao Dock                24.72         49   Yes Lrg  No
@@ -268,9 +274,9 @@ You can buy "'Python'"s and [typically] pay 56978180 Cr At...
 
 Station                   DistLy      StnLs B/mkt Pad Plt
 ---------------------------------------------------------
-BIRRETI/Platt City         18.81      7.25K   Yes Lrg  No
+BIRRETI/Platt City         18.81      7.50K   Yes Lrg  No
 BD-00 4461/Webb Orbital    19.53        208   Yes Lrg  No
-PHRACES/Potter Enterprise  20.93        375   Yes Lrg  No
+PHRACES/Potter Enterprise  20.93        381   Yes Lrg  No
 
 --------------------
 You can buy "'Sidewinder'"s and [typically] pay 32000 Cr At...
@@ -279,27 +285,27 @@ You can buy "'Sidewinder'"s and [typically] pay 32000 Cr At...
 Station                            DistLy      StnLs B/mkt Pad Plt
 ------------------------------------------------------------------
 SADHEN/Birkeland Platform            0.00        472   Yes Lrg  No
-PATOCUDA/Coney Gateway               3.76         97   Yes Lrg  No
-PATOCUDA/Fernao Do Po Port           3.76      1.47K   Yes Lrg  No
-URU/Bessemer Vision                  5.74        675   Yes Lrg  No
-TEWI'XILAK/Deb Orbital              12.59        30K   Yes Lrg  No
+PATOCUDA/Coney Gateway               3.76         98   Yes Lrg  No
+PATOCUDA/Fernao Do Po Port           3.76      1.46K   Yes Lrg  No
+URU/Bessemer Vision                  5.74        676   Yes Lrg  No
+TEWI'XILAK/Deb Orbital              12.59        28K   Yes Lrg  No
 TEWI'XILAK/Newman Terminal          12.59         35   Yes Lrg  No
 TEWI'XILAK/Zholobov Station         12.59         21   Yes Lrg  No
 MATUCANTH/Ericsson Ring             13.73      1.40K   Yes Lrg  No
 MATUCANTH/Robinson Station          13.73      1.40K   Yes Lrg  No
 MATUCANTH/Sagan Orbital             13.73        788   Yes Lrg  No
-HIP 113980/Clapperton Station       14.15      7.67K   Yes Lrg  No
+HIP 113980/Clapperton Station       14.15      7.50K   Yes Lrg  No
 DHANKA/Bierce Horizons              14.32         42   Yes Lrg  No
-CASPI/Fontana Orbital               16.98        350   Yes Lrg  No
-WIRNAKO/Moffitt Platform            17.31        405   Yes Lrg  No
-HARMA/Gabriel Enterprise            18.68        259   Yes Lrg  No
-BIRRETI/Platt City                  18.81      7.25K   Yes Lrg  No
+CASPI/Fontana Orbital               16.98        351   Yes Lrg  No
+WIRNAKO/Moffitt Platform            17.31        406   Yes Lrg  No
+HARMA/Gabriel Enterprise            18.68        258   Yes Lrg  No
+BIRRETI/Platt City                  18.81      7.50K   Yes Lrg  No
 BD-00 4461/Piccard Hub              19.53        279   Yes Lrg  No
 BD-00 4461/Webb Orbital             19.53        208   Yes Lrg  No
-PHRACES/Potter Enterprise           20.93        375   Yes Lrg  No
-HIP 112095/Savitskaya City          22.25        10K   Yes Lrg  No
-34 PEGASI/Henderson Dock            23.28        993   Yes Lrg  No
-34 PEGASI/Rayhan Al-Biruni Orbital  23.28        465   Yes Lrg  No
+PHRACES/Potter Enterprise           20.93        381   Yes Lrg  No
+HIP 112095/Savitskaya City          22.25      7.96K   Yes Lrg  No
+34 PEGASI/Henderson Dock            23.28        991   Yes Lrg  No
+34 PEGASI/Rayhan Al-Biruni Orbital  23.28        464   Yes Lrg  No
 34 PEGASI/Webb Port                 23.28        262   Yes Lrg  No
 34 PEGASI/Weiss Orbital             23.28        328   Yes Lrg  No
 GLIESE 1272/Bao Dock                24.72         49   Yes Lrg  No
@@ -329,18 +335,18 @@ You can buy "'Viper'"s and [typically] pay 142930 Cr At...
 
 Station                     DistLy      StnLs B/mkt Pad Plt
 -----------------------------------------------------------
-PATOCUDA/Coney Gateway        3.76         97   Yes Lrg  No
-PATOCUDA/Fernao Do Po Port    3.76      1.47K   Yes Lrg  No
-URU/Bessemer Vision           5.74        675   Yes Lrg  No
+PATOCUDA/Coney Gateway        3.76         98   Yes Lrg  No
+PATOCUDA/Fernao Do Po Port    3.76      1.46K   Yes Lrg  No
+URU/Bessemer Vision           5.74        676   Yes Lrg  No
 TEWI'XILAK/Newman Terminal   12.59         35   Yes Lrg  No
 TEWI'XILAK/Zholobov Station  12.59         21   Yes Lrg  No
 MATUCANTH/Ericsson Ring      13.73      1.40K   Yes Lrg  No
 MATUCANTH/Robinson Station   13.73      1.40K   Yes Lrg  No
-CASPI/Fontana Orbital        16.98        350   Yes Lrg  No
-HARMA/Gabriel Enterprise     18.68        259   Yes Lrg  No
-BIRRETI/Platt City           18.81      7.25K   Yes Lrg  No
+CASPI/Fontana Orbital        16.98        351   Yes Lrg  No
+HARMA/Gabriel Enterprise     18.68        258   Yes Lrg  No
+BIRRETI/Platt City           18.81      7.50K   Yes Lrg  No
 BD-00 4461/Piccard Hub       19.53        279   Yes Lrg  No
-PHRACES/Potter Enterprise    20.93        375   Yes Lrg  No
+PHRACES/Potter Enterprise    20.93        381   Yes Lrg  No
 
 --------------------
 You can buy "'Viper MkIV'"s and [typically] pay 437930 Cr At...
@@ -354,9 +360,9 @@ You can buy "'Vulture'"s and [typically] pay 4925620 Cr At...
 
 Station                       DistLy      StnLs B/mkt Pad Plt
 -------------------------------------------------------------
-HIP 113980/Clapperton Station  14.15      7.67K   Yes Lrg  No
-WIRNAKO/Moffitt Platform       17.31        405   Yes Lrg  No
-BIRRETI/Platt City             18.81      7.25K   Yes Lrg  No
+HIP 113980/Clapperton Station  14.15      7.50K   Yes Lrg  No
+WIRNAKO/Moffitt Platform       17.31        406   Yes Lrg  No
+BIRRETI/Platt City             18.81      7.50K   Yes Lrg  No
 BD-00 4461/Webb Orbital        19.53        208   Yes Lrg  No
-PHRACES/Potter Enterprise      20.93        375   Yes Lrg  No
-34 PEGASI/Henderson Dock       23.28        993   Yes Lrg  No
+PHRACES/Potter Enterprise      20.93        381   Yes Lrg  No
+34 PEGASI/Henderson Dock       23.28        991   Yes Lrg  No

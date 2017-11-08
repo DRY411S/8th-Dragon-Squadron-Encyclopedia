@@ -56,141 +56,141 @@
 #
 ---------------------------------------------------------------------------------------------------------
 Best Trade Shuttle starting and ending at SADHEN/Birkeland Platform with 13 ly between trades
-For ANY SIZE ship, generated at 07/04/2017- 9:57:59.72 [DD/MM/YYYY-UTC] 
+For ANY SIZE ship, generated at 08/11/2017- 9:00:36.35 [DD/MM/YYYY-UTC] 
 ---------------------------------------------------------------------------------------------------------
-SADHEN/Birkeland Platform -> SADHEN/Birkeland Platform (score: 1658.157440)
+SADHEN/Birkeland Platform -> SADHEN/Birkeland Platform (score: 2270.736480)
   Load from SADHEN/Birkeland Platform (472ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Mineral Extractors      507cr vs      906cr, 4 days vs 5 days
-  Unload at PATOCUDA/Fernao Do Po Port (1.47Kls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 399cr (399cr/ton) => 100,399cr
-  Load from PATOCUDA/Fernao Do Po Port (1.47Kls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Silver                4,430cr vs    5,689cr, 5 days vs 4 days
-  Unload at SADHEN/Birkeland Platform (472ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,259cr (1,259cr/ton) => 101,658cr
+        1 x Machinery/Mineral Extractors      363cr vs    1,209cr, 13 hrs vs 9 days
+  Unload at PATOCUDA/Fernao Do Po Port (1.46Kls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 846cr (846cr/ton) => 100,846cr
+  Load from PATOCUDA/Fernao Do Po Port (1.46Kls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Metals/Palladium               12,709cr vs   14,134cr, 9 days vs 13 hrs
+  Unload at SADHEN/Birkeland Platform (472ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,425cr (1,425cr/ton) => 102,271cr
   ----------------------------------------------------------------------------
-Finish at SADHEN/Birkeland Platform (472ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 1,658cr (829cr/ton) => est 101,658cr total
+Finish at SADHEN/Birkeland Platform (472ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 2,271cr (1,135cr/ton) => est 102,271cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Shuttle starting and ending at SADHEN/Birkeland Platform with 13 ly between trades
-For MEDIUM and SMALL ships only, generated at 07/04/2017- 9:58:09.17 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 08/11/2017- 9:00:44.36 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-SADHEN/Birkeland Platform -> SADHEN/Birkeland Platform (score: 2125.666720)
+SADHEN/Birkeland Platform -> SADHEN/Birkeland Platform (score: 2305.684000)
   Load from SADHEN/Birkeland Platform (472ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Mineral Extractors      507cr vs    1,243cr, 4 days vs 11 days
-  Unload at PATOCUDA/Bao Orbital (29ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 736cr (736cr/ton) => 100,736cr
+        1 x Machinery/Mineral Extractors      363cr vs    1,243cr, 13 hrs vs 3 days
+  Unload at PATOCUDA/Bao Orbital (29ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 880cr (880cr/ton) => 100,880cr
   Load from PATOCUDA/Bao Orbital (29ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
-        1 x Silver                4,300cr vs    5,689cr, 11 days vs 4 days
-  Unload at SADHEN/Birkeland Platform (472ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,389cr (1,389cr/ton) => 102,125cr
+        1 x Metals/Palladium               12,709cr vs   14,134cr, 3 days vs 13 hrs
+  Unload at SADHEN/Birkeland Platform (472ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,425cr (1,425cr/ton) => 102,305cr
   ----------------------------------------------------------------------------
-Finish at SADHEN/Birkeland Platform (472ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 2,125cr (1,062cr/ton) => est 102,125cr total
+Finish at SADHEN/Birkeland Platform (472ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 2,305cr (1,152cr/ton) => est 102,305cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Shuttle starting and ending at SADHEN/Birkeland Platform with 37.5 ly between trades
-For ANY SIZE ship, generated at 07/04/2017- 9:58:22.21 [DD/MM/YYYY-UTC] 
+For ANY SIZE ship, generated at 08/11/2017- 9:00:56.52 [DD/MM/YYYY-UTC] 
 ---------------------------------------------------------------------------------------------------------
-SADHEN/Birkeland Platform -> SADHEN/Birkeland Platform (score: 2498.753600)
+SADHEN/Birkeland Platform -> SADHEN/Birkeland Platform (score: 2517.225680)
   Load from SADHEN/Birkeland Platform (472ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Survival Equipment      289cr vs    1,217cr, 4 days vs 22 days
-  Unload at KAMCHANDIKA/Fozard Mines (32ls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y) => Gain 928cr (928cr/ton) => 100,928cr
-  Load from KAMCHANDIKA/Fozard Mines (32ls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y):
-        1 x Silver                4,119cr vs    5,689cr, 22 days vs 4 days
-  Unload at SADHEN/Birkeland Platform (472ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,570cr (1,570cr/ton) => 102,498cr
+        1 x Consumer Items/Survival Equipment       321cr vs    1,221cr, 13 hrs vs 37 hrs
+  Unload at XINGARA/Mondeh Terminal (583ls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y) => Gain 900cr (900cr/ton) => 100,900cr
+  Load from XINGARA/Mondeh Terminal (583ls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y):
+        1 x Industrial Materials/CMM Composite    5,268cr vs    6,884cr, 37 hrs vs 13 hrs
+  Unload at SADHEN/Birkeland Platform (472ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,616cr (1,616cr/ton) => 102,516cr
   ----------------------------------------------------------------------------
-Finish at SADHEN/Birkeland Platform (472ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 2,498cr (1,249cr/ton) => est 102,498cr total
+Finish at SADHEN/Birkeland Platform (472ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 2,516cr (1,258cr/ton) => est 102,516cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Shuttle starting and ending at SADHEN/Birkeland Platform with 37.5 ly between trades
-For MEDIUM and SMALL ships only, generated at 07/04/2017- 9:58:31.78 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 08/11/2017- 9:01:04.86 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-SADHEN/Birkeland Platform -> SADHEN/Birkeland Platform (score: 2498.753600)
+SADHEN/Birkeland Platform -> SADHEN/Birkeland Platform (score: 2962.421280)
   Load from SADHEN/Birkeland Platform (472ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Survival Equipment      289cr vs    1,217cr, 4 days vs 22 days
-  Unload at KAMCHANDIKA/Fozard Mines (32ls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y) => Gain 928cr (928cr/ton) => 100,928cr
-  Load from KAMCHANDIKA/Fozard Mines (32ls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y):
-        1 x Silver                4,119cr vs    5,689cr, 22 days vs 4 days
-  Unload at SADHEN/Birkeland Platform (472ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,570cr (1,570cr/ton) => 102,498cr
+        1 x Machinery/Mineral Extractors      363cr vs    1,447cr, 13 hrs vs 9 days
+  Unload at MILCENU/Berners-Lee Landing (495ls, BMk:N, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 1,084cr (1,084cr/ton) => 101,084cr
+  Load from MILCENU/Berners-Lee Landing (495ls, BMk:N, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
+        1 x Metals/Gold                     8,390cr vs   10,267cr, 9 days vs 13 hrs
+  Unload at SADHEN/Birkeland Platform (472ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,877cr (1,877cr/ton) => 102,961cr
   ----------------------------------------------------------------------------
-Finish at SADHEN/Birkeland Platform (472ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 2,498cr (1,249cr/ton) => est 102,498cr total
+Finish at SADHEN/Birkeland Platform (472ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 2,961cr (1,480cr/ton) => est 102,961cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Shuttle starting and ending at SADHEN/Birkeland Platform with 42.5 ly between trades
-For ANY SIZE ship, generated at 07/04/2017- 9:58:45.03 [DD/MM/YYYY-UTC] 
+For ANY SIZE ship, generated at 08/11/2017- 9:01:16.89 [DD/MM/YYYY-UTC] 
 ---------------------------------------------------------------------------------------------------------
-SADHEN/Birkeland Platform -> SADHEN/Birkeland Platform (score: 2498.753600)
+SADHEN/Birkeland Platform -> SADHEN/Birkeland Platform (score: 2517.225680)
   Load from SADHEN/Birkeland Platform (472ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Survival Equipment      289cr vs    1,217cr, 4 days vs 22 days
-  Unload at KAMCHANDIKA/Fozard Mines (32ls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y) => Gain 928cr (928cr/ton) => 100,928cr
-  Load from KAMCHANDIKA/Fozard Mines (32ls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y):
-        1 x Silver                4,119cr vs    5,689cr, 22 days vs 4 days
-  Unload at SADHEN/Birkeland Platform (472ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,570cr (1,570cr/ton) => 102,498cr
+        1 x Consumer Items/Survival Equipment       321cr vs    1,221cr, 13 hrs vs 37 hrs
+  Unload at XINGARA/Mondeh Terminal (583ls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y) => Gain 900cr (900cr/ton) => 100,900cr
+  Load from XINGARA/Mondeh Terminal (583ls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y):
+        1 x Industrial Materials/CMM Composite    5,268cr vs    6,884cr, 37 hrs vs 13 hrs
+  Unload at SADHEN/Birkeland Platform (472ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,616cr (1,616cr/ton) => 102,516cr
   ----------------------------------------------------------------------------
-Finish at SADHEN/Birkeland Platform (472ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 2,498cr (1,249cr/ton) => est 102,498cr total
+Finish at SADHEN/Birkeland Platform (472ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 2,516cr (1,258cr/ton) => est 102,516cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Shuttle starting and ending at SADHEN/Birkeland Platform with 42.5 ly between trades
-For MEDIUM and SMALL ships only, generated at 07/04/2017- 9:58:54.72 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 08/11/2017- 9:01:25.03 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-SADHEN/Birkeland Platform -> SADHEN/Birkeland Platform (score: 2498.753600)
+SADHEN/Birkeland Platform -> SADHEN/Birkeland Platform (score: 2962.421280)
   Load from SADHEN/Birkeland Platform (472ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Survival Equipment      289cr vs    1,217cr, 4 days vs 22 days
-  Unload at KAMCHANDIKA/Fozard Mines (32ls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y) => Gain 928cr (928cr/ton) => 100,928cr
-  Load from KAMCHANDIKA/Fozard Mines (32ls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y):
-        1 x Silver                4,119cr vs    5,689cr, 22 days vs 4 days
-  Unload at SADHEN/Birkeland Platform (472ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,570cr (1,570cr/ton) => 102,498cr
+        1 x Machinery/Mineral Extractors      363cr vs    1,447cr, 13 hrs vs 9 days
+  Unload at MILCENU/Berners-Lee Landing (495ls, BMk:N, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 1,084cr (1,084cr/ton) => 101,084cr
+  Load from MILCENU/Berners-Lee Landing (495ls, BMk:N, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
+        1 x Metals/Gold                     8,390cr vs   10,267cr, 9 days vs 13 hrs
+  Unload at SADHEN/Birkeland Platform (472ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,877cr (1,877cr/ton) => 102,961cr
   ----------------------------------------------------------------------------
-Finish at SADHEN/Birkeland Platform (472ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 2,498cr (1,249cr/ton) => est 102,498cr total
+Finish at SADHEN/Birkeland Platform (472ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 2,961cr (1,480cr/ton) => est 102,961cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Shuttle starting and ending at SADHEN/Birkeland Platform with 76.5 ly between trades
-For ANY SIZE ship, generated at 07/04/2017- 9:59:08.39 [DD/MM/YYYY-UTC] 
+For ANY SIZE ship, generated at 08/11/2017- 9:01:37.45 [DD/MM/YYYY-UTC] 
 ---------------------------------------------------------------------------------------------------------
-SADHEN/Birkeland Platform -> SADHEN/Birkeland Platform (score: 3097.762240)
+SADHEN/Birkeland Platform -> SADHEN/Birkeland Platform (score: 3352.603200)
   Load from SADHEN/Birkeland Platform (472ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Survival Equipment      289cr vs    1,798cr, 4 days vs 27 days
-  Unload at ABROG/Velazquez Vision (32ls, BMk:N, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y) => Gain 1,509cr (1,509cr/ton) => 101,509cr
-  Load from ABROG/Velazquez Vision (32ls, BMk:N, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y):
-        1 x Superconductors       6,132cr vs    7,720cr, 27 days vs 4 days
-  Unload at SADHEN/Birkeland Platform (472ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,588cr (1,588cr/ton) => 103,097cr
+        1 x Medicines/Basic Medicines      193cr vs    3,141cr, 13 hrs vs 10 days
+  Unload at HIP 943/Lloyd Vision (4.64Kls, BMk:N, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 2,948cr (2,948cr/ton) => 102,948cr
+  Load from HIP 943/Lloyd Vision (4.64Kls, BMk:N, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Metals/Cobalt                  199cr vs      701cr, 10 days vs 13 hrs
+  Unload at SADHEN/Birkeland Platform (472ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 502cr (502cr/ton) => 103,450cr
   ----------------------------------------------------------------------------
-Finish at SADHEN/Birkeland Platform (472ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 3,097cr (1,548cr/ton) => est 103,097cr total
+Finish at SADHEN/Birkeland Platform (472ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 3,450cr (1,725cr/ton) => est 103,450cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Shuttle starting and ending at SADHEN/Birkeland Platform with 76.5 ly between trades
-For MEDIUM and SMALL ships only, generated at 07/04/2017- 9:59:26.83 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 08/11/2017- 9:01:51.87 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-SADHEN/Birkeland Platform -> SADHEN/Birkeland Platform (score: 3097.762240)
+SADHEN/Birkeland Platform -> SADHEN/Birkeland Platform (score: 3352.603200)
   Load from SADHEN/Birkeland Platform (472ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Survival Equipment      289cr vs    1,798cr, 4 days vs 27 days
-  Unload at ABROG/Velazquez Vision (32ls, BMk:N, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y) => Gain 1,509cr (1,509cr/ton) => 101,509cr
-  Load from ABROG/Velazquez Vision (32ls, BMk:N, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y):
-        1 x Superconductors       6,132cr vs    7,720cr, 27 days vs 4 days
-  Unload at SADHEN/Birkeland Platform (472ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,588cr (1,588cr/ton) => 103,097cr
+        1 x Medicines/Basic Medicines      193cr vs    3,141cr, 13 hrs vs 10 days
+  Unload at HIP 943/Lloyd Vision (4.64Kls, BMk:N, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 2,948cr (2,948cr/ton) => 102,948cr
+  Load from HIP 943/Lloyd Vision (4.64Kls, BMk:N, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Metals/Cobalt                  199cr vs      701cr, 10 days vs 13 hrs
+  Unload at SADHEN/Birkeland Platform (472ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 502cr (502cr/ton) => 103,450cr
   ----------------------------------------------------------------------------
-Finish at SADHEN/Birkeland Platform (472ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 3,097cr (1,548cr/ton) => est 103,097cr total
+Finish at SADHEN/Birkeland Platform (472ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 3,450cr (1,725cr/ton) => est 103,450cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Shuttle starting and ending at SADHEN/Birkeland Platform with 105.7 ly between trades
-For ANY SIZE ship, generated at 07/04/2017- 9:59:58.02 [DD/MM/YYYY-UTC] 
+For ANY SIZE ship, generated at 08/11/2017- 9:02:14.49 [DD/MM/YYYY-UTC] 
 ---------------------------------------------------------------------------------------------------------
-SADHEN/Birkeland Platform -> SADHEN/Birkeland Platform (score: 3948.901660)
+SADHEN/Birkeland Platform -> SADHEN/Birkeland Platform (score: 4232.981440)
   Load from SADHEN/Birkeland Platform (472ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Survival Equipment      289cr vs      644cr, 4 days vs 19 hrs
-  Unload at LTT 8517/Seega Dock (542ls, BMk:N, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 355cr (355cr/ton) => 100,355cr
-  Load from LTT 8517/Seega Dock (542ls, BMk:N, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Imperial Slaves      12,882cr vs   16,474cr, 19 hrs vs 4 days
-  Unload at SADHEN/Birkeland Platform (472ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 3,592cr (3,592cr/ton) => 103,947cr
+        1 x Machinery/Crop Harvesters    1,813cr vs    2,637cr, 13 hrs vs 13 hrs
+  Unload at LTT 8517/Hopkins Dock (397ls, BMk:N, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 824cr (824cr/ton) => 100,824cr
+  Load from LTT 8517/Hopkins Dock (397ls, BMk:N, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Slavery/Imperial Slaves     12,570cr vs   15,977cr, 13 hrs vs 13 hrs
+  Unload at SADHEN/Birkeland Platform (472ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 3,407cr (3,407cr/ton) => 104,231cr
   ----------------------------------------------------------------------------
-Finish at SADHEN/Birkeland Platform (472ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 3,947cr (1,973cr/ton) => est 103,947cr total
+Finish at SADHEN/Birkeland Platform (472ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 4,231cr (2,115cr/ton) => est 104,231cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Shuttle starting and ending at SADHEN/Birkeland Platform with 105.7 ly between trades
-For MEDIUM and SMALL ships only, generated at 07/04/2017-10:01:11.95 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 08/11/2017- 9:03:13.78 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-SADHEN/Birkeland Platform -> SADHEN/Birkeland Platform (score: 4114.706340)
+SADHEN/Birkeland Platform -> SADHEN/Birkeland Platform (score: 4232.981440)
   Load from SADHEN/Birkeland Platform (472ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Survival Equipment      289cr vs    1,182cr, 4 days vs 24 days
-  Unload at LTT 8517/Howe Ring (923ls, BMk:N, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 893cr (893cr/ton) => 100,893cr
-  Load from LTT 8517/Howe Ring (923ls, BMk:N, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
-        1 x Imperial Slaves      13,254cr vs   16,474cr, 24 days vs 4 days
-  Unload at SADHEN/Birkeland Platform (472ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 3,220cr (3,220cr/ton) => 104,113cr
+        1 x Machinery/Crop Harvesters    1,813cr vs    2,637cr, 13 hrs vs 13 hrs
+  Unload at LTT 8517/Hopkins Dock (397ls, BMk:N, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 824cr (824cr/ton) => 100,824cr
+  Load from LTT 8517/Hopkins Dock (397ls, BMk:N, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Slavery/Imperial Slaves     12,570cr vs   15,977cr, 13 hrs vs 13 hrs
+  Unload at SADHEN/Birkeland Platform (472ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 3,407cr (3,407cr/ton) => 104,231cr
   ----------------------------------------------------------------------------
-Finish at SADHEN/Birkeland Platform (472ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 4,113cr (2,056cr/ton) => est 104,113cr total
+Finish at SADHEN/Birkeland Platform (472ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 4,231cr (2,115cr/ton) => est 104,231cr total
 

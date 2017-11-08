@@ -1,0 +1,236 @@
+# These trade routes are generated with different distances between trades.
+# The default distances of 13,37.5,42.5,76.5,105.7 ly between trades represent 
+# a cross-section of the minimum 1-jump, average 2-jump, maximum 3-jump ranges
+# and the minimum and average for TOTAL ranges of fully laden, fully shielded trading ships
+#
+# The distances used in this report are 13,37.5,42.5,76.5,105.7 ly
+#
+# Calculation limits
+# ------------------
+# 
+# All trade data that is older than 30 days is not used
+# Only stations where there is more than 64t of supplies are used
+# However, it is assumed that your ship capacity is only 1t so that the best profit per ton for a single commodity can be calculated
+# narcotics are excluded from these calculations as the price database is unreliable for these commodities and/or locations
+# Starting credits assumed to be 100000Cr, so deduct that from the total to see profit
+# 
+# Note that there is not always extra money to be made by travelling the longer distances. Sometimes trades for longer distances will be
+# identical to the trades for a shorter distance
+#
+# For each distance, up to two trades are shown. The first works for ANY size ship, the second for SMALL and MEDIUM ships ONLY {which can trade at outposts}
+# However, sometimes the trades for the different sized ships are the same {i.e no decent trades available at outposts}
+# NOTE: Trades for large ships will not appear if the source station does not allow large ships to land there
+#
+# WARNING: No account is taken of whether the commodities are prohibited. Use these recommendations at your peril!
+# 
+# GUIDE TO THE OUTPUT FORMAT
+# --------------------------
+# 
+# 'Pruned XX origins ...' is output from the utility I use called TradeDangerous. I have no idea what it means!
+# {score: [large number]} See above :D
+#
+# {Un}Load from [SYSTEM]/[Station] {L, B, P, N, S, O, R} =] Gain F {F/ton} =]  T
+# 1 x [Commodity] PB vs PS, TB vs TS
+# Finish at [SYSTEM]/[Station] {L, B, P, N, S, O, R} =] gaining C {A/ton} =]  T
+#
+# L - Distance of station from Star in ls
+# B - Black Market Present Y/N/?
+# P - Largest Ship Size that can land at station L/M/?
+# N - Whether the station is on a planet Y/N/?
+# S - Shipyard Present Y/N/?
+# O - Outfitters Present Y/N/?
+# R - Refuelling Present Y/N/?
+# F - Profit made from the trade
+# T - Running total of Credits {assuming a starting point of 100000}
+#
+# PB - Buy Price
+# PS - Sell Price
+# TB - The time relative to report generation time since the buy  price was updated in the community database
+# TS - The time relative to report generation time since the sell price was updated in the community database
+#
+# C - Total number of credits profit
+# A - Average Credits per ton profit across all the trades on the route
+#
+# TRADE OUTPUT BEGINS ....
+# ------------------------
+#
+---------------------------------------------------------------------------------------------------------
+Best Trade Triangle starting and ending at PHRACES/Potter Enterprise with 13 ly between trades
+For ANY SIZE ship, generated at 08/11/2017-10:31:11.44 [DD/MM/YYYY-UTC] 
+---------------------------------------------------------------------------------------------------------
+NOTE: Pruned 2 origins too far from any end stations
+PHRACES/Potter Enterprise -> PHRACES/Potter Enterprise (score: 1044.254860)
+  Load from PHRACES/Potter Enterprise (381ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Metals/Cobalt                 643cr vs      701cr, 9 days vs 27 days
+  Unload at BIKO/Stjepan Seljan Settlement (1.40Kls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 58cr (58cr/ton) => 100,058cr
+  Load from BIKO/Stjepan Seljan Settlement (1.40Kls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Weapons/Personal Weapons    3,544cr vs    4,487cr, 27 days vs 2 days
+  Unload at HARMA/Gabriel Enterprise (258ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 943cr (943cr/ton) => 101,001cr
+  Load from HARMA/Gabriel Enterprise (258ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Chemicals/Explosives          188cr vs      231cr, 2 days vs 9 days
+  Unload at PHRACES/Potter Enterprise (381ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 43cr (43cr/ton) => 101,044cr
+  ----------------------------------------------------------------------------
+Finish at PHRACES/Potter Enterprise (381ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 1,044cr (348cr/ton) => est 101,044cr total
+
+---------------------------------------------------------------------------------------------------------
+Best Trade Triangle starting and ending at PHRACES/Potter Enterprise with 13 ly between trades
+For MEDIUM and SMALL ships only, generated at 08/11/2017-10:31:19.34 [DD/MM/YYYY-UTC]
+---------------------------------------------------------------------------------------------------------
+NOTE: Pruned 2 origins too far from any end stations
+PHRACES/Potter Enterprise -> PHRACES/Potter Enterprise (score: 2635.094920)
+  Load from PHRACES/Potter Enterprise (381ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Minerals/Bertrandite               2,083cr vs    2,909cr, 9 days vs 8 days
+  Unload at HARMA/Maybury City (1.28Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 826cr (826cr/ton) => 100,826cr
+  Load from HARMA/Maybury City (1.28Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
+        1 x Textiles/Military Grade Fabrics      664cr vs    1,303cr, 8 days
+  Unload at UADJARII/O'Donnell Colony (12ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 639cr (639cr/ton) => 101,465cr
+  Load from UADJARII/O'Donnell Colony (12ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
+        1 x Metals/Palladium                  12,707cr vs   13,877cr, 8 days vs 9 days
+  Unload at PHRACES/Potter Enterprise (381ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,170cr (1,170cr/ton) => 102,635cr
+  ----------------------------------------------------------------------------
+Finish at PHRACES/Potter Enterprise (381ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 2,635cr (878cr/ton) => est 102,635cr total
+
+---------------------------------------------------------------------------------------------------------
+Best Trade Triangle starting and ending at PHRACES/Potter Enterprise with 37.5 ly between trades
+For ANY SIZE ship, generated at 08/11/2017-10:31:31.18 [DD/MM/YYYY-UTC] 
+---------------------------------------------------------------------------------------------------------
+NOTE: Pruned 147 origins too far from any end stations
+PHRACES/Potter Enterprise -> PHRACES/Potter Enterprise (score: 3639.261740)
+  Load from PHRACES/Potter Enterprise (381ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Minerals/Indite                             1,806cr vs    2,643cr, 9 days vs 7 days
+  Unload at GLIESE 1272/Bao Dock (49ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 837cr (837cr/ton) => 100,837cr
+  Load from GLIESE 1272/Bao Dock (49ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Industrial Materials/Insulating Membrane   10,193cr vs   11,615cr, 7 days vs 2 days
+  Unload at URU/Bessemer Vision (676ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,422cr (1,422cr/ton) => 102,259cr
+  Load from URU/Bessemer Vision (676ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Technology/Micro Controllers                4,841cr vs    6,220cr, 2 days vs 9 days
+  Unload at PHRACES/Potter Enterprise (381ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,379cr (1,379cr/ton) => 103,638cr
+  ----------------------------------------------------------------------------
+Finish at PHRACES/Potter Enterprise (381ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 3,638cr (1,212cr/ton) => est 103,638cr total
+
+---------------------------------------------------------------------------------------------------------
+Best Trade Triangle starting and ending at PHRACES/Potter Enterprise with 37.5 ly between trades
+For MEDIUM and SMALL ships only, generated at 08/11/2017-10:31:39.24 [DD/MM/YYYY-UTC]
+---------------------------------------------------------------------------------------------------------
+NOTE: Pruned 234 origins too far from any end stations
+PHRACES/Potter Enterprise -> PHRACES/Potter Enterprise (score: 3659.849240)
+  Load from PHRACES/Potter Enterprise (381ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Minerals/Indite                             1,806cr vs    2,643cr, 9 days vs 7 days
+  Unload at GLIESE 1272/Bao Dock (49ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 837cr (837cr/ton) => 100,837cr
+  Load from GLIESE 1272/Bao Dock (49ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Industrial Materials/Insulating Membrane   10,193cr vs   11,593cr, 7 days vs 3 days
+  Unload at URU/Stafford Gateway (948ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:N) => Gain 1,400cr (1,400cr/ton) => 102,237cr
+  Load from URU/Stafford Gateway (948ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:N):
+        1 x Medicines/Performance Enhancers             6,042cr vs    7,464cr, 3 days vs 9 days
+  Unload at PHRACES/Potter Enterprise (381ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,422cr (1,422cr/ton) => 103,659cr
+  ----------------------------------------------------------------------------
+Finish at PHRACES/Potter Enterprise (381ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 3,659cr (1,219cr/ton) => est 103,659cr total
+
+---------------------------------------------------------------------------------------------------------
+Best Trade Triangle starting and ending at PHRACES/Potter Enterprise with 42.5 ly between trades
+For ANY SIZE ship, generated at 08/11/2017-10:31:51.38 [DD/MM/YYYY-UTC] 
+---------------------------------------------------------------------------------------------------------
+NOTE: Pruned 275 origins too far from any end stations
+PHRACES/Potter Enterprise -> PHRACES/Potter Enterprise (score: 3639.261740)
+  Load from PHRACES/Potter Enterprise (381ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Minerals/Indite                             1,806cr vs    2,643cr, 9 days vs 7 days
+  Unload at GLIESE 1272/Bao Dock (49ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 837cr (837cr/ton) => 100,837cr
+  Load from GLIESE 1272/Bao Dock (49ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Industrial Materials/Insulating Membrane   10,193cr vs   11,615cr, 7 days vs 2 days
+  Unload at URU/Bessemer Vision (676ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,422cr (1,422cr/ton) => 102,259cr
+  Load from URU/Bessemer Vision (676ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Technology/Micro Controllers                4,841cr vs    6,220cr, 2 days vs 9 days
+  Unload at PHRACES/Potter Enterprise (381ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,379cr (1,379cr/ton) => 103,638cr
+  ----------------------------------------------------------------------------
+Finish at PHRACES/Potter Enterprise (381ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 3,638cr (1,212cr/ton) => est 103,638cr total
+
+---------------------------------------------------------------------------------------------------------
+Best Trade Triangle starting and ending at PHRACES/Potter Enterprise with 42.5 ly between trades
+For MEDIUM and SMALL ships only, generated at 08/11/2017-10:31:59.57 [DD/MM/YYYY-UTC]
+---------------------------------------------------------------------------------------------------------
+NOTE: Pruned 403 origins too far from any end stations
+PHRACES/Potter Enterprise -> PHRACES/Potter Enterprise (score: 4014.332720)
+  Load from PHRACES/Potter Enterprise (381ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Machinery/Mineral Extractors         550cr vs    1,447cr, 9 days vs 9 days
+  Unload at MILCENU/Berners-Lee Landing (495ls, BMk:N, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 897cr (897cr/ton) => 100,897cr
+  Load from MILCENU/Berners-Lee Landing (495ls, BMk:N, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
+        1 x Metals/Gold                        8,390cr vs   10,084cr, 9 days vs 3 days
+  Unload at URU/Stafford Gateway (948ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:N) => Gain 1,694cr (1,694cr/ton) => 102,591cr
+  Load from URU/Stafford Gateway (948ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:N):
+        1 x Medicines/Performance Enhancers    6,042cr vs    7,464cr, 3 days vs 9 days
+  Unload at PHRACES/Potter Enterprise (381ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,422cr (1,422cr/ton) => 104,013cr
+  ----------------------------------------------------------------------------
+Finish at PHRACES/Potter Enterprise (381ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 4,013cr (1,337cr/ton) => est 104,013cr total
+
+---------------------------------------------------------------------------------------------------------
+Best Trade Triangle starting and ending at PHRACES/Potter Enterprise with 76.5 ly between trades
+For ANY SIZE ship, generated at 08/11/2017-10:32:12.30 [DD/MM/YYYY-UTC] 
+---------------------------------------------------------------------------------------------------------
+NOTE: Pruned 3088 origins too far from any end stations
+PHRACES/Potter Enterprise -> PHRACES/Potter Enterprise (score: 5245.132940)
+  Load from PHRACES/Potter Enterprise (381ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Medicines/Basic Medicines               186cr vs    3,141cr, 9 days vs 10 days
+  Unload at HIP 943/Lloyd Vision (4.64Kls, BMk:N, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 2,955cr (2,955cr/ton) => 102,955cr
+  Load from HIP 943/Lloyd Vision (4.64Kls, BMk:N, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Minerals/Bertrandite                  1,960cr vs    3,104cr, 10 days vs 3 days
+  Unload at 16 PISCIUM/Rushworth Beacon (304ls, BMk:Y, Pad:L, Plt:Y, Shp:Y, Out:Y, Ref:Y) => Gain 1,144cr (1,144cr/ton) => 104,099cr
+  Load from 16 PISCIUM/Rushworth Beacon (304ls, BMk:Y, Pad:L, Plt:Y, Shp:Y, Out:Y, Ref:Y):
+        1 x Industrial Materials/CMM Composite    5,373cr vs    6,616cr, 3 days vs 9 days
+  Unload at PHRACES/Potter Enterprise (381ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,243cr (1,243cr/ton) => 105,342cr
+  ----------------------------------------------------------------------------
+Finish at PHRACES/Potter Enterprise (381ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 5,342cr (1,780cr/ton) => est 105,342cr total
+
+---------------------------------------------------------------------------------------------------------
+Best Trade Triangle starting and ending at PHRACES/Potter Enterprise with 76.5 ly between trades
+For MEDIUM and SMALL ships only, generated at 08/11/2017-10:32:34.50 [DD/MM/YYYY-UTC]
+---------------------------------------------------------------------------------------------------------
+NOTE: Pruned 4892 origins too far from any end stations
+PHRACES/Potter Enterprise -> PHRACES/Potter Enterprise (score: 5262.900500)
+  Load from PHRACES/Potter Enterprise (381ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Medicines/Basic Medicines            186cr vs    3,141cr, 9 days vs 10 days
+  Unload at HIP 943/Lloyd Vision (4.64Kls, BMk:N, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 2,955cr (2,955cr/ton) => 102,955cr
+  Load from HIP 943/Lloyd Vision (4.64Kls, BMk:N, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Minerals/Bertrandite               1,960cr vs    2,960cr, 10 days vs 40 hrs
+  Unload at URU/Resnik Dock (941ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 1,000cr (1,000cr/ton) => 103,955cr
+  Load from URU/Resnik Dock (941ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
+        1 x Medicines/Performance Enhancers    6,059cr vs    7,464cr, 40 hrs vs 9 days
+  Unload at PHRACES/Potter Enterprise (381ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,405cr (1,405cr/ton) => 105,360cr
+  ----------------------------------------------------------------------------
+Finish at PHRACES/Potter Enterprise (381ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 5,360cr (1,786cr/ton) => est 105,360cr total
+
+---------------------------------------------------------------------------------------------------------
+Best Trade Triangle starting and ending at PHRACES/Potter Enterprise with 105.7 ly between trades
+For ANY SIZE ship, generated at 08/11/2017-10:33:16.54 [DD/MM/YYYY-UTC] 
+---------------------------------------------------------------------------------------------------------
+NOTE: Pruned 6842 origins too far from any end stations
+PHRACES/Potter Enterprise -> PHRACES/Potter Enterprise (score: 5536.340340)
+  Load from PHRACES/Potter Enterprise (381ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Medicines/Basic Medicines            186cr vs    2,719cr, 9 days vs 3 days
+  Unload at NLTT 53690/Piercy Holdings (26ls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y) => Gain 2,533cr (2,533cr/ton) => 102,533cr
+  Load from NLTT 53690/Piercy Holdings (26ls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y):
+        1 x Metals/Thallium                    3,057cr vs    4,382cr, 3 days vs 17 hrs
+  Unload at APALAR/Svavarsson Terminal (440ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,325cr (1,325cr/ton) => 103,858cr
+  Load from APALAR/Svavarsson Terminal (440ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Medicines/Performance Enhancers    5,787cr vs    7,464cr, 17 hrs vs 9 days
+  Unload at PHRACES/Potter Enterprise (381ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,677cr (1,677cr/ton) => 105,535cr
+  ----------------------------------------------------------------------------
+Finish at PHRACES/Potter Enterprise (381ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 5,535cr (1,845cr/ton) => est 105,535cr total
+
+---------------------------------------------------------------------------------------------------------
+Best Trade Triangle starting and ending at PHRACES/Potter Enterprise with 105.7 ly between trades
+For MEDIUM and SMALL ships only, generated at 08/11/2017-10:35:51.71 [DD/MM/YYYY-UTC]
+---------------------------------------------------------------------------------------------------------
+NOTE: Pruned 10784 origins too far from any end stations
+PHRACES/Potter Enterprise -> PHRACES/Potter Enterprise (score: 5686.416320)
+  Load from PHRACES/Potter Enterprise (381ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Medicines/Basic Medicines      186cr vs    2,719cr, 9 days vs 3 days
+  Unload at NLTT 53690/Piercy Holdings (26ls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y) => Gain 2,533cr (2,533cr/ton) => 102,533cr
+  Load from NLTT 53690/Piercy Holdings (26ls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y):
+        1 x Metals/Tantalum              3,332cr vs    4,488cr, 3 days vs 11 days
+  Unload at CUCHUA/Hevelius Station (520ls, BMk:N, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,156cr (1,156cr/ton) => 103,689cr
+  Load from CUCHUA/Hevelius Station (520ls, BMk:N, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
+        1 x Slavery/Imperial Slaves     13,910cr vs   15,906cr, 11 days vs 9 days
+  Unload at PHRACES/Potter Enterprise (381ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,996cr (1,996cr/ton) => 105,685cr
+  ----------------------------------------------------------------------------
+Finish at PHRACES/Potter Enterprise (381ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 5,685cr (1,895cr/ton) => est 105,685cr total
+

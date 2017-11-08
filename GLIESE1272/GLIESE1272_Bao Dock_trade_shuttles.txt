@@ -1,0 +1,196 @@
+# These trade routes are generated with different distances between trades.
+# The default distances of 13,37.5,42.5,76.5,105.7 ly between trades represent 
+# a cross-section of the minimum 1-jump, average 2-jump, maximum 3-jump ranges
+# and the minimum and average for TOTAL ranges of fully laden, fully shielded trading ships
+#
+# The distances used in this report are 13,37.5,42.5,76.5,105.7 ly
+#
+# Calculation limits
+# ------------------
+# 
+# All trade data that is older than 30 days is not used
+# Only stations where there is more than 64t of supplies are used
+# However, it is assumed that your ship capacity is only 1t so that the best profit per ton for a single commodity can be calculated
+# narcotics are excluded from these calculations as the price database is unreliable for these commodities and/or locations
+# Starting credits assumed to be 100000Cr, so deduct that from the total to see profit
+# 
+# Note that there is not always extra money to be made by travelling the longer distances. Sometimes trades for longer distances will be
+# identical to the trades for a shorter distance
+#
+# For each distance, up to two trades are shown. The first works for ANY size ship, the second for SMALL and MEDIUM ships ONLY {which can trade at outposts}
+# However, sometimes the trades for the different sized ships are the same {i.e no decent trades available at outposts}
+# NOTE: Trades for large ships will not appear if the source station does not allow large ships to land there
+#
+# WARNING: No account is taken of whether the commodities are prohibited. Use these recommendations at your peril!
+# 
+# GUIDE TO THE OUTPUT FORMAT
+# --------------------------
+# 
+# 'Pruned XX origins ...' is output from the utility I use called TradeDangerous. I have no idea what it means!
+# {score: [large number]} See above :D
+#
+# {Un}Load from [SYSTEM]/[Station] {L, B, P, N, S, O, R} =] Gain F {F/ton} =]  T
+# 1 x [Commodity] PB vs PS, TB vs TS
+# Finish at [SYSTEM]/[Station] {L, B, P, N, S, O, R} =] gaining C {A/ton} =]  T
+#
+# L - Distance of station from Star in ls
+# B - Black Market Present Y/N/?
+# P - Largest Ship Size that can land at station L/M/?
+# N - Whether the station is on a planet Y/N/?
+# S - Shipyard Present Y/N/?
+# O - Outfitters Present Y/N/?
+# R - Refuelling Present Y/N/?
+# F - Profit made from the trade
+# T - Running total of Credits {assuming a starting point of 100000}
+#
+# PB - Buy Price
+# PS - Sell Price
+# TB - The time relative to report generation time since the buy  price was updated in the community database
+# TS - The time relative to report generation time since the sell price was updated in the community database
+#
+# C - Total number of credits profit
+# A - Average Credits per ton profit across all the trades on the route
+#
+# TRADE OUTPUT BEGINS ....
+# ------------------------
+#
+---------------------------------------------------------------------------------------------------------
+Best Trade Shuttle starting and ending at GLIESE1272/Bao Dock with 13 ly between trades
+For ANY SIZE ship, generated at 08/11/2017- 7:39:47.36 [DD/MM/YYYY-UTC] 
+---------------------------------------------------------------------------------------------------------
+GLIESE 1272/Bao Dock -> GLIESE 1272/Bao Dock (score: 2158.000000)
+  Load from GLIESE 1272/Bao Dock (49ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Industrial Materials/Superconductors    6,011cr vs    7,510cr, 7 days vs 11 days
+  Unload at HIP 113495/Thoreau Station (23ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,499cr (1,499cr/ton) => 101,499cr
+  Load from HIP 113495/Thoreau Station (23ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Textiles/Military Grade Fabrics           821cr vs    1,480cr, 11 days vs 7 days
+  Unload at GLIESE 1272/Bao Dock (49ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 659cr (659cr/ton) => 102,158cr
+  ----------------------------------------------------------------------------
+Finish at GLIESE 1272/Bao Dock (49ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 2,158cr (1,079cr/ton) => est 102,158cr total
+
+---------------------------------------------------------------------------------------------------------
+Best Trade Shuttle starting and ending at GLIESE1272/Bao Dock with 13 ly between trades
+For MEDIUM and SMALL ships only, generated at 08/11/2017- 7:39:55.58 [DD/MM/YYYY-UTC]
+---------------------------------------------------------------------------------------------------------
+GLIESE 1272/Bao Dock -> GLIESE 1272/Bao Dock (score: 2162.353440)
+  Load from GLIESE 1272/Bao Dock (49ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Industrial Materials/Insulating Membrane   10,193cr vs   11,540cr, 7 days vs 8 days
+  Unload at HARMA/Maybury City (1.28Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,347cr (1,347cr/ton) => 101,347cr
+  Load from HARMA/Maybury City (1.28Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
+        1 x Textiles/Military Grade Fabrics               664cr vs    1,480cr, 8 days vs 7 days
+  Unload at GLIESE 1272/Bao Dock (49ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 816cr (816cr/ton) => 102,163cr
+  ----------------------------------------------------------------------------
+Finish at GLIESE 1272/Bao Dock (49ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 2,163cr (1,081cr/ton) => est 102,163cr total
+
+---------------------------------------------------------------------------------------------------------
+Best Trade Shuttle starting and ending at GLIESE1272/Bao Dock with 37.5 ly between trades
+For ANY SIZE ship, generated at 08/11/2017- 7:40:07.89 [DD/MM/YYYY-UTC] 
+---------------------------------------------------------------------------------------------------------
+GLIESE 1272/Bao Dock -> GLIESE 1272/Bao Dock (score: 2648.682560)
+  Load from GLIESE 1272/Bao Dock (49ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Industrial Materials/Insulating Membrane   10,193cr vs   11,615cr, 7 days vs 2 days
+  Unload at URU/Bessemer Vision (676ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,422cr (1,422cr/ton) => 101,422cr
+  Load from URU/Bessemer Vision (676ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Medicines/Performance Enhancers             6,206cr vs    7,432cr, 2 days vs 7 days
+  Unload at GLIESE 1272/Bao Dock (49ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,226cr (1,226cr/ton) => 102,648cr
+  ----------------------------------------------------------------------------
+Finish at GLIESE 1272/Bao Dock (49ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 2,648cr (1,324cr/ton) => est 102,648cr total
+
+---------------------------------------------------------------------------------------------------------
+Best Trade Shuttle starting and ending at GLIESE1272/Bao Dock with 37.5 ly between trades
+For MEDIUM and SMALL ships only, generated at 08/11/2017- 7:40:16.26 [DD/MM/YYYY-UTC]
+---------------------------------------------------------------------------------------------------------
+GLIESE 1272/Bao Dock -> GLIESE 1272/Bao Dock (score: 2810.252000)
+  Load from GLIESE 1272/Bao Dock (49ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Industrial Materials/Insulating Membrane   10,193cr vs   11,593cr, 7 days vs 3 days
+  Unload at URU/Stafford Gateway (948ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:N) => Gain 1,400cr (1,400cr/ton) => 101,400cr
+  Load from URU/Stafford Gateway (948ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:N):
+        1 x Technology/Resonating Separators            5,385cr vs    6,795cr, 3 days vs 7 days
+  Unload at GLIESE 1272/Bao Dock (49ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,410cr (1,410cr/ton) => 102,810cr
+  ----------------------------------------------------------------------------
+Finish at GLIESE 1272/Bao Dock (49ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 2,810cr (1,405cr/ton) => est 102,810cr total
+
+---------------------------------------------------------------------------------------------------------
+Best Trade Shuttle starting and ending at GLIESE1272/Bao Dock with 42.5 ly between trades
+For ANY SIZE ship, generated at 08/11/2017- 7:40:28.67 [DD/MM/YYYY-UTC] 
+---------------------------------------------------------------------------------------------------------
+GLIESE 1272/Bao Dock -> GLIESE 1272/Bao Dock (score: 2648.682560)
+  Load from GLIESE 1272/Bao Dock (49ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Industrial Materials/Insulating Membrane   10,193cr vs   11,615cr, 7 days vs 2 days
+  Unload at URU/Bessemer Vision (676ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,422cr (1,422cr/ton) => 101,422cr
+  Load from URU/Bessemer Vision (676ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Medicines/Performance Enhancers             6,206cr vs    7,432cr, 2 days vs 7 days
+  Unload at GLIESE 1272/Bao Dock (49ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,226cr (1,226cr/ton) => 102,648cr
+  ----------------------------------------------------------------------------
+Finish at GLIESE 1272/Bao Dock (49ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 2,648cr (1,324cr/ton) => est 102,648cr total
+
+---------------------------------------------------------------------------------------------------------
+Best Trade Shuttle starting and ending at GLIESE1272/Bao Dock with 42.5 ly between trades
+For MEDIUM and SMALL ships only, generated at 08/11/2017- 7:40:37.04 [DD/MM/YYYY-UTC]
+---------------------------------------------------------------------------------------------------------
+GLIESE 1272/Bao Dock -> GLIESE 1272/Bao Dock (score: 2810.252000)
+  Load from GLIESE 1272/Bao Dock (49ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Industrial Materials/Insulating Membrane   10,193cr vs   11,593cr, 7 days vs 3 days
+  Unload at URU/Stafford Gateway (948ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:N) => Gain 1,400cr (1,400cr/ton) => 101,400cr
+  Load from URU/Stafford Gateway (948ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:N):
+        1 x Technology/Resonating Separators            5,385cr vs    6,795cr, 3 days vs 7 days
+  Unload at GLIESE 1272/Bao Dock (49ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,410cr (1,410cr/ton) => 102,810cr
+  ----------------------------------------------------------------------------
+Finish at GLIESE 1272/Bao Dock (49ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 2,810cr (1,405cr/ton) => est 102,810cr total
+
+---------------------------------------------------------------------------------------------------------
+Best Trade Shuttle starting and ending at GLIESE1272/Bao Dock with 76.5 ly between trades
+For ANY SIZE ship, generated at 08/11/2017- 7:40:49.65 [DD/MM/YYYY-UTC] 
+---------------------------------------------------------------------------------------------------------
+GLIESE 1272/Bao Dock -> GLIESE 1272/Bao Dock (score: 2898.901120)
+  Load from GLIESE 1272/Bao Dock (49ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Industrial Materials/Insulating Membrane   10,193cr vs   11,547cr, 7 days vs 10 days
+  Unload at ROTANEV/Ride Ring (2.48Kls, BMk:N, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,354cr (1,354cr/ton) => 101,354cr
+  Load from ROTANEV/Ride Ring (2.48Kls, BMk:N, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Medicines/Performance Enhancers             5,878cr vs    7,432cr, 10 days vs 7 days
+  Unload at GLIESE 1272/Bao Dock (49ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,554cr (1,554cr/ton) => 102,908cr
+  ----------------------------------------------------------------------------
+Finish at GLIESE 1272/Bao Dock (49ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 2,908cr (1,454cr/ton) => est 102,908cr total
+
+---------------------------------------------------------------------------------------------------------
+Best Trade Shuttle starting and ending at GLIESE1272/Bao Dock with 76.5 ly between trades
+For MEDIUM and SMALL ships only, generated at 08/11/2017- 7:41:02.97 [DD/MM/YYYY-UTC]
+---------------------------------------------------------------------------------------------------------
+GLIESE 1272/Bao Dock -> GLIESE 1272/Bao Dock (score: 2898.901120)
+  Load from GLIESE 1272/Bao Dock (49ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Industrial Materials/Insulating Membrane   10,193cr vs   11,547cr, 7 days vs 10 days
+  Unload at ROTANEV/Ride Ring (2.48Kls, BMk:N, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,354cr (1,354cr/ton) => 101,354cr
+  Load from ROTANEV/Ride Ring (2.48Kls, BMk:N, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Medicines/Performance Enhancers             5,878cr vs    7,432cr, 10 days vs 7 days
+  Unload at GLIESE 1272/Bao Dock (49ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,554cr (1,554cr/ton) => 102,908cr
+  ----------------------------------------------------------------------------
+Finish at GLIESE 1272/Bao Dock (49ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 2,908cr (1,454cr/ton) => est 102,908cr total
+
+---------------------------------------------------------------------------------------------------------
+Best Trade Shuttle starting and ending at GLIESE1272/Bao Dock with 105.7 ly between trades
+For ANY SIZE ship, generated at 08/11/2017- 7:41:23.56 [DD/MM/YYYY-UTC] 
+---------------------------------------------------------------------------------------------------------
+GLIESE 1272/Bao Dock -> GLIESE 1272/Bao Dock (score: 3282.729960)
+  Load from GLIESE 1272/Bao Dock (49ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Industrial Materials/Insulating Membrane   10,193cr vs   11,931cr, 7 days vs 14 hrs
+  Unload at TARACH TOR/Tranquillity (359ls, BMk:N, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,738cr (1,738cr/ton) => 101,738cr
+  Load from TARACH TOR/Tranquillity (359ls, BMk:N, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Technology/Resonating Separators            5,251cr vs    6,795cr, 14 hrs vs 7 days
+  Unload at GLIESE 1272/Bao Dock (49ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,544cr (1,544cr/ton) => 103,282cr
+  ----------------------------------------------------------------------------
+Finish at GLIESE 1272/Bao Dock (49ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 3,282cr (1,641cr/ton) => est 103,282cr total
+
+---------------------------------------------------------------------------------------------------------
+Best Trade Shuttle starting and ending at GLIESE1272/Bao Dock with 105.7 ly between trades
+For MEDIUM and SMALL ships only, generated at 08/11/2017- 7:42:17.91 [DD/MM/YYYY-UTC]
+---------------------------------------------------------------------------------------------------------
+GLIESE 1272/Bao Dock -> GLIESE 1272/Bao Dock (score: 3282.729960)
+  Load from GLIESE 1272/Bao Dock (49ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Industrial Materials/Insulating Membrane   10,193cr vs   11,931cr, 7 days vs 14 hrs
+  Unload at TARACH TOR/Tranquillity (359ls, BMk:N, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,738cr (1,738cr/ton) => 101,738cr
+  Load from TARACH TOR/Tranquillity (359ls, BMk:N, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Technology/Resonating Separators            5,251cr vs    6,795cr, 14 hrs vs 7 days
+  Unload at GLIESE 1272/Bao Dock (49ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,544cr (1,544cr/ton) => 103,282cr
+  ----------------------------------------------------------------------------
+Finish at GLIESE 1272/Bao Dock (49ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 3,282cr (1,641cr/ton) => est 103,282cr total
+

@@ -56,91 +56,91 @@
 #
 ---------------------------------------------------------------------------------------------------------
 Best Trade Triangle starting and ending at SADHEN/Barsanti Port with 13 ly between trades
-For MEDIUM and SMALL ships only, generated at 07/04/2017-10:35:52.24 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 08/11/2017- 9:25:22.65 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-NOTE: Pruned 11 origins too far from any end stations
-SADHEN/Barsanti Port -> SADHEN/Barsanti Port (score: 3766.248540)
+NOTE: Pruned 8 origins too far from any end stations
+SADHEN/Barsanti Port -> SADHEN/Barsanti Port (score: 3534.734400)
   Load from SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x HN Shock Mount                  1,564cr vs    2,082cr, 6 days vs 9 hrs
-  Unload at URU/Bessemer Vision (675ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 518cr (518cr/ton) => 100,518cr
-  Load from URU/Bessemer Vision (675ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Medical Diagnostic Equipment    2,802cr vs    4,318cr, 9 hrs vs 2 days
-  Unload at URU/Resnik Dock (949ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 1,516cr (1,516cr/ton) => 102,034cr
-  Load from URU/Resnik Dock (949ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
-        1 x Performance Enhancers           6,059cr vs    7,790cr, 2 days vs 6 days
-  Unload at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,731cr (1,731cr/ton) => 103,765cr
+        1 x Technology/Computer Components        364cr vs      720cr, 14 hrs vs 3 days
+  Unload at URU/Stafford Gateway (948ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:N) => Gain 356cr (356cr/ton) => 100,356cr
+  Load from URU/Stafford Gateway (948ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:N):
+        1 x Technology/Resonating Separators    5,385cr vs    6,967cr, 3 days vs 13 hrs
+  Unload at BELACAJAN/Crown Base (17ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,582cr (1,582cr/ton) => 101,938cr
+  Load from BELACAJAN/Crown Base (17ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
+        1 x Metals/Gold                         8,672cr vs   10,268cr, 13 hrs vs 14 hrs
+  Unload at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,596cr (1,596cr/ton) => 103,534cr
   ----------------------------------------------------------------------------
-Finish at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 3,765cr (1,255cr/ton) => est 103,765cr total
+Finish at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 3,534cr (1,178cr/ton) => est 103,534cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Triangle starting and ending at SADHEN/Barsanti Port with 37.5 ly between trades
-For MEDIUM and SMALL ships only, generated at 07/04/2017-10:36:05.56 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 08/11/2017- 9:25:34.81 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-NOTE: Pruned 825 origins too far from any end stations
-SADHEN/Barsanti Port -> SADHEN/Barsanti Port (score: 4329.948500)
+NOTE: Pruned 384 origins too far from any end stations
+SADHEN/Barsanti Port -> SADHEN/Barsanti Port (score: 4013.452920)
   Load from SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x HN Shock Mount        1,564cr vs    1,908cr, 6 days vs 16 hrs
-  Unload at NERVI/Savitskaya Vision (2.26Kls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 344cr (344cr/ton) => 100,344cr
-  Load from NERVI/Savitskaya Vision (2.26Kls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Advanced Medicines    1,074cr vs    3,240cr, 16 hrs vs 18 days
-  Unload at PARHUA/Chalker Settlement (93ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 2,166cr (2,166cr/ton) => 102,510cr
-  Load from PARHUA/Chalker Settlement (93ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Superconductors       5,920cr vs    7,741cr, 18 days vs 6 days
-  Unload at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,821cr (1,821cr/ton) => 104,331cr
+        1 x Machinery/Skimmer Components            605cr vs    1,890cr, 14 hrs vs 15 hrs
+  Unload at NERVI/Al-Kashi Terminal (2.26Kls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y) => Gain 1,285cr (1,285cr/ton) => 101,285cr
+  Load from NERVI/Al-Kashi Terminal (2.26Kls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y):
+        1 x Technology/Resonating Separators      5,850cr vs    6,968cr, 15 hrs vs 38 hrs
+  Unload at XINGARA/Mondeh Terminal (583ls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y) => Gain 1,118cr (1,118cr/ton) => 102,403cr
+  Load from XINGARA/Mondeh Terminal (583ls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y):
+        1 x Industrial Materials/CMM Composite    5,268cr vs    6,884cr, 38 hrs vs 14 hrs
+  Unload at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,616cr (1,616cr/ton) => 104,019cr
   ----------------------------------------------------------------------------
-Finish at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 4,331cr (1,443cr/ton) => est 104,331cr total
+Finish at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 4,019cr (1,339cr/ton) => est 104,019cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Triangle starting and ending at SADHEN/Barsanti Port with 42.5 ly between trades
-For MEDIUM and SMALL ships only, generated at 07/04/2017-10:36:20.16 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 08/11/2017- 9:25:47.57 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-NOTE: Pruned 1247 origins too far from any end stations
-SADHEN/Barsanti Port -> SADHEN/Barsanti Port (score: 4643.748620)
+NOTE: Pruned 643 origins too far from any end stations
+SADHEN/Barsanti Port -> SADHEN/Barsanti Port (score: 4013.452920)
   Load from SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Power Generators        446cr vs    1,026cr, 6 days vs 11 days
-  Unload at DEIVE/Obruchev Orbital (1.95Kls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 580cr (580cr/ton) => 100,580cr
-  Load from DEIVE/Obruchev Orbital (1.95Kls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Advanced Medicines    1,117cr vs    3,312cr, 11 days vs 21 days
-  Unload at FENGAI/Poincare Prospect (1.28Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 2,195cr (2,195cr/ton) => 102,775cr
-  Load from FENGAI/Poincare Prospect (1.28Kls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Superconductors       5,870cr vs    7,741cr, 21 days vs 6 days
-  Unload at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,871cr (1,871cr/ton) => 104,646cr
+        1 x Machinery/Skimmer Components            605cr vs    1,890cr, 14 hrs vs 15 hrs
+  Unload at NERVI/Al-Kashi Terminal (2.26Kls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y) => Gain 1,285cr (1,285cr/ton) => 101,285cr
+  Load from NERVI/Al-Kashi Terminal (2.26Kls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y):
+        1 x Technology/Resonating Separators      5,850cr vs    6,968cr, 15 hrs vs 38 hrs
+  Unload at XINGARA/Mondeh Terminal (583ls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y) => Gain 1,118cr (1,118cr/ton) => 102,403cr
+  Load from XINGARA/Mondeh Terminal (583ls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y):
+        1 x Industrial Materials/CMM Composite    5,268cr vs    6,884cr, 38 hrs vs 14 hrs
+  Unload at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,616cr (1,616cr/ton) => 104,019cr
   ----------------------------------------------------------------------------
-Finish at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 4,646cr (1,548cr/ton) => est 104,646cr total
+Finish at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 4,019cr (1,339cr/ton) => est 104,019cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Triangle starting and ending at SADHEN/Barsanti Port with 76.5 ly between trades
-For MEDIUM and SMALL ships only, generated at 07/04/2017-10:36:36.59 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 08/11/2017- 9:26:01.00 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-NOTE: Pruned 8196 origins too far from any end stations
-SADHEN/Barsanti Port -> SADHEN/Barsanti Port (score: 5815.574980)
+NOTE: Pruned 6048 origins too far from any end stations
+SADHEN/Barsanti Port -> SADHEN/Barsanti Port (score: 5567.553240)
   Load from SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Clothing                          185cr vs      514cr, 6 days vs 41 hrs
-  Unload at KUI XING/Andreas City (401ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 329cr (329cr/ton) => 100,329cr
-  Load from KUI XING/Andreas City (401ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
-        1 x Medical Diagnostic Equipment    2,188cr vs    6,681cr, 41 hrs vs 8 days
-  Unload at LHS 3872/McArthur Hub (1.08Kls, BMk:N, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y) => Gain 4,493cr (4,493cr/ton) => 104,822cr
-  Load from LHS 3872/McArthur Hub (1.08Kls, BMk:N, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y):
-        1 x Non-Lethal Weapons              1,450cr vs    2,443cr, 8 days vs 6 days
-  Unload at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 993cr (993cr/ton) => 105,815cr
+        1 x Medicines/Basic Medicines      193cr vs    3,141cr, 14 hrs vs 10 days
+  Unload at HIP 943/Lloyd Vision (4.64Kls, BMk:N, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 2,948cr (2,948cr/ton) => 102,948cr
+  Load from HIP 943/Lloyd Vision (4.64Kls, BMk:N, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Minerals/Bertrandite         1,960cr vs    2,798cr, 10 days vs 9 days
+  Unload at MILCENU/Berners-Lee Landing (495ls, BMk:N, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 838cr (838cr/ton) => 103,786cr
+  Load from MILCENU/Berners-Lee Landing (495ls, BMk:N, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
+        1 x Metals/Gold                  8,390cr vs   10,268cr, 9 days vs 14 hrs
+  Unload at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,878cr (1,878cr/ton) => 105,664cr
   ----------------------------------------------------------------------------
-Finish at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 5,815cr (1,938cr/ton) => est 105,815cr total
+Finish at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 5,664cr (1,888cr/ton) => est 105,664cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Triangle starting and ending at SADHEN/Barsanti Port with 105.7 ly between trades
-For MEDIUM and SMALL ships only, generated at 07/04/2017-10:38:58.08 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 08/11/2017- 9:27:04.24 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-NOTE: Pruned 14863 origins too far from any end stations
-SADHEN/Barsanti Port -> SADHEN/Barsanti Port (score: 6291.990780)
+NOTE: Pruned 11605 origins too far from any end stations
+SADHEN/Barsanti Port -> SADHEN/Barsanti Port (score: 7178.283100)
   Load from SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Survival Equipment      286cr vs    1,182cr, 6 days vs 24 days
-  Unload at LTT 8517/Howe Ring (923ls, BMk:N, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 896cr (896cr/ton) => 100,896cr
-  Load from LTT 8517/Howe Ring (923ls, BMk:N, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
-        1 x Imperial Slaves      13,254cr vs   16,674cr, 24 days vs 4 days
-  Unload at LAWD 7/Burbank Plant (1.06Kls, BMk:N, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 3,420cr (3,420cr/ton) => 104,316cr
-  Load from LAWD 7/Burbank Plant (1.06Kls, BMk:N, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Superconductors       5,766cr vs    7,741cr, 4 days vs 6 days
-  Unload at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,975cr (1,975cr/ton) => 106,291cr
+        1 x Machinery/Crop Harvesters    1,813cr vs    2,637cr, 14 hrs vs 13 hrs
+  Unload at LTT 8517/Hopkins Dock (397ls, BMk:N, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 824cr (824cr/ton) => 100,824cr
+  Load from LTT 8517/Hopkins Dock (397ls, BMk:N, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Slavery/Imperial Slaves     12,570cr vs   16,692cr, 13 hrs vs 34 hrs
+  Unload at LP 762-3/Lucretius Port (8ls, BMk:N, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 4,122cr (4,122cr/ton) => 104,946cr
+  Load from LP 762-3/Lucretius Port (8ls, BMk:N, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
+        1 x Metals/Gold                  8,037cr vs   10,268cr, 34 hrs vs 14 hrs
+  Unload at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 2,231cr (2,231cr/ton) => 107,177cr
   ----------------------------------------------------------------------------
-Finish at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 6,291cr (2,097cr/ton) => est 106,291cr total
+Finish at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 7,177cr (2,392cr/ton) => est 107,177cr total
 

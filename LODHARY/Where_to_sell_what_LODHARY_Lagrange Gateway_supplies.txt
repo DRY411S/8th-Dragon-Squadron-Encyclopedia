@@ -1,0 +1,1951 @@
+# This file is a list of commodities that can be SOLD at a profit within  25ly of LODHARY
+# and which Lagrange Gateway generally has for sale in the Commodities Market
+# It is based on data in the public TradeDangerous database.
+# You should not rely on the prices or stock levels
+# But you can be confident about the locations
+# For each commodity, there is a list by sell price [highest first]
+# The typical buy price at LODHARY/Lagrange Gateway is shown for reference
+# KEY
+# Station  - self explanatory
+# Cost     - The last known buy price
+# DistLy   - Distance in Light Years from LODHARY system
+# Age/Days - The age of this station's price data relative to the time that this report was generated at 08/11/2017-11:01:20.56 [DD/MM/YYYY-UTC]
+# StnLs    - Distance of the station from the system star in Ls. 0.01 ly = 100 KLs
+# B/Mkt    - Is there a Black Market at the station?
+# Pad      - Maximum Ship Size that can land. Lrg implies that this is a station, Med implies an Outpost
+# Plt      - Whether or not the station is on the surface of a planet
+
+--------------------
+Sell "Hydrogen Fuel" with H supply from LODHARY/Lagrange Gateway bought for (typically) 80 Cr To...
+--------------------
+
+Station                                 Cost DistLy Age/days      StnLs B/mkt Pad Plt
+-------------------------------------------------------------------------------------
+BHADO/Carpini Prospect                   131  13.49   254.78          ?   Yes Lrg Yes
+HIP 108822/Newcomen Depot                131  24.69   174.64      3.21K   Yes Med  No
+KAREX/Zudov Colony                       109  20.07   577.75          ?   Yes Med  No
+WATTUNUKAM/Redi Mine                     108  17.65   412.93          ?   Yes Med  No
+AUTA ISUANG/Mendez Point                 108  13.66   279.01          ?   Yes Lrg Yes
+BIKO/Forstchen Horizons                  108  14.47   148.92      2.02K   Yes Med  No
+DEGASTANI/Sargent Gateway                108  24.70    46.76      3.42K   Yes Med  No
+DEIVE/Obruchev Orbital                   108  18.02     3.91      2.34K   Yes Lrg  No
+HIP 111657/Narvaez's Claim               108  11.34   145.83      1.57K    No Med  No
+HIP 113495/Horowitz Port                 108  20.19   137.15         43   Yes Med  No
+HIP 113495/Sharma Terminal               108  20.19   125.63         75   Yes Med  No
+HIP 113495/Thoreau Station               108  20.19    11.46         23   Yes Lrg  No
+KACHIRIGIN/Nowak Orbital                 108  24.72    10.66        340   Yes Lrg  No
+KACHIRIGIN/Schrodinger Terminal          108  24.72   207.55        420   Yes Lrg  No
+KALUFON/Slayton Terminal                 108  21.09    44.95        295   Yes Med  No
+KAMCHANDIKA/Fozard Mines                 108  14.39    58.05         34   Yes Lrg Yes
+KONSU/Lind Terminal                      108  15.60   181.85      4.05K   Yes Med  No
+LODHARY/Anthony Dock                     108   0.00     3.89         17   Yes Med  No
+PARHUA/Chalker Settlement                108  14.66   119.12         94   Yes Med  No
+PECKOLLATES/Clayton Station              108  22.76    13.81          8   Yes Lrg  No
+PHRACES/Mullane Ring                     108   9.73    57.99        640   Yes Med  No
+SAN TI/Maccurdy Port                     108  19.75   160.01      4.48K   Yes Med  No
+WIRNAKO/Morgan Installation              108  23.43   140.76        511   Yes Med  No
+APTETI/Becquerel Port                    108  21.49     2.47        381   Yes Lrg  No
+GLIESE 1272/Alexandria Works              99  11.34    58.79      7.12K   Yes Lrg Yes
+KACHIRIGIN/Dana Base                      99  24.72   189.50        340   Yes Lrg Yes
+KACHIRIGIN/Rukavishnikov City             99  24.72   189.52        604   Yes Lrg  No
+HIP 113980/Pippin Terminal                98  21.00   373.06      7.57K   Yes Med  No
+HARMA/Maybury City                        98   9.41     8.58      1.28K   Yes Med  No
+HARMA/Muhammad Ibn Battuta Point          98   9.41    54.58      2.19K   Yes Lrg Yes
+HIP 113980/Dantec Station                 98  21.00    54.69      7.58K   Yes Med  No
+KACHIRIGIN/Zebrowski Installation         98  24.72   204.58        421   Yes Lrg Yes
+OGMIUSITOU/Hunziker Installation          97  21.96   674.79      1.70K   Yes Med  No
+MBOLGARGL/Tanaka Horizons                 97  21.85   114.54        427    No Lrg Yes
+KAKMBUTAN/Gessi Station                   96  18.64   271.25          ?   Yes Med  No
+FENRICHA/Pinzon Stop                      95  20.63    49.92        667   Yes Med  No
+ASOORAJARA/Kennedy Platform               93   9.41     7.66         53   Yes Med  No
+CH'U TI/Fincke Hub                        93  22.40   207.55        346   Yes Med  No
+MBAYO/Hopkins Plant                       92   4.84    58.81        564   Yes Med  No
+HIP 113980/Belyanin Ring                  91  21.00   180.98      7.54K   Yes Med  No
+HIP 113980/Clapperton Station             91  21.00   121.67      7.50K   Yes Lrg  No
+HIP 113980/Grimwood Gateway               91  21.00    63.83      7.57K   Yes Lrg  No
+MANIKENA/Kazantsev Dock                   89  23.65   270.88        113   Yes Med  No
+OGMIUSITOU/Lyakhov Orbital                88  21.96    13.48          7   Yes Lrg  No
+GLIESE 1272/Bao Dock                      87  11.34     7.61         49   Yes Lrg  No
+HIP 110205/Tokubei Hub                    87  17.00     3.90        571   Yes Lrg  No
+MARKAB/Remec Survey                       86  22.87    12.62          ?    No Lrg Yes
+WIRNAKO/Cobb Landing                      84  23.43   280.46        734   Yes Med  No
+WIRNAKO/Moffitt Platform                  84  23.43     9.74        406   Yes Lrg  No
+PANDINUS/Offutt Installation              83  17.06   317.91      1.14K   Yes Lrg Yes
+APTETI/Abel Landing                       83  21.49   274.89          ?    No Lrg Yes
+HARMA/Celebi City                         81   9.41    57.97      1.29K   Yes Med  No
+HARMA/Gabriel Enterprise                  81   9.41     2.88        258   Yes Lrg  No
+
+--------------------
+Sell "Clothing" with M supply from LODHARY/Lagrange Gateway bought for (typically) 202 Cr To...
+--------------------
+
+Station                                 Cost DistLy Age/days      StnLs B/mkt Pad Plt
+-------------------------------------------------------------------------------------
+HIP 108822/Newcomen Depot                589  24.69   174.64      3.21K   Yes Med  No
+PANDINUS/Bulychev Mines                  544  17.06   283.57         29   Yes Med  No
+MBOLGARGL/Priest Landing                 537  21.85   139.17        427    No Med  No
+HIP 113894/Cheli Survey                  536  15.95   189.98        379    No Med  No
+HIP 110205/Tokubei Hub                   535  17.00     3.90        571   Yes Lrg  No
+GERDISAO/Lee Settlement                  490  18.62   154.97        258   Yes Med  No
+BHADO/Carpini Prospect                   465  13.49   254.78          ?   Yes Lrg Yes
+SAN TI/Maccurdy Port                     461  19.75   160.01      4.48K   Yes Med  No
+KONSU/Lind Terminal                      453  15.60   181.85      4.05K   Yes Med  No
+KAMCHANDIKA/Fozard Mines                 449  14.39    58.05         34   Yes Lrg Yes
+MBOLGARGL/Tanaka Horizons                440  21.85   114.54        427    No Lrg Yes
+AUTA ISUANG/Mendez Point                 439  13.66   279.01          ?   Yes Lrg Yes
+APTETI/Becquerel Port                    428  21.49     2.47        381   Yes Lrg  No
+DEIVE/Obruchev Orbital                   422  18.02     3.91      2.34K   Yes Lrg  No
+HIP 111657/Narvaez's Claim               415  11.34   145.83      1.57K    No Med  No
+KALUFON/Slayton Terminal                 415  21.09    44.95        295   Yes Med  No
+FENRICHA/Pinzon Stop                     415  20.63    49.92        667   Yes Med  No
+KACHIRIGIN/Nowak Orbital                 409  24.72    10.66        340   Yes Lrg  No
+KACHIRIGIN/Zebrowski Installation        409  24.72   204.58        421   Yes Lrg Yes
+GLIESE 1272/Alexandria Works             408  11.34    58.79      7.12K   Yes Lrg Yes
+KAREX/Zudov Colony                       405  20.07   577.75          ?   Yes Med  No
+HIP 110776/Bradbury Dock                 404  19.31   159.99        33K   Yes Med  No
+WATTUNUKAM/Redi Mine                     404  17.65   412.93          ?   Yes Med  No
+MBAYO/Hopkins Plant                      402   4.84    58.81        564   Yes Med  No
+KACHIRIGIN/Dana Base                     400  24.72   189.50        340   Yes Lrg Yes
+PARHUA/Chalker Settlement                393  14.66   119.12         94   Yes Med  No
+HIP 109490/Grant Mines                   386  23.95    10.59      1.43K   Yes Med  No
+GLIESE 1272/Dickson Port                 374  11.34    58.80        121   Yes Med  No
+HIP 110776/Puleston Dock                 365  19.31   154.97        33K   Yes Lrg  No
+HIP 113495/Sharma Terminal               360  20.19   125.63         75   Yes Med  No
+PHRACES/Mullane Ring                     360   9.73    57.99        640   Yes Med  No
+PECKOLLATES/Clayton Station              360  22.76    13.81          8   Yes Lrg  No
+GLIESE 1272/Bao Dock                     358  11.34     7.61         49   Yes Lrg  No
+GLIESE 1272/Gregory Terminal             351  11.34    48.61        201   Yes Med  No
+VENKI/Phillips Freeport                  350  15.20   283.56          9   Yes Med  No
+HARMA/Muhammad Ibn Battuta Point         349   9.41    54.58      2.19K   Yes Lrg Yes
+GLIESE 1272/Murphy Dock                  344  11.34    51.72         86   Yes Lrg  No
+GLIESE 1272/Maler Station                344  11.34    14.32         65   Yes Lrg  No
+HIP 113980/Dantec Station                342  21.00    54.69      7.58K   Yes Med  No
+OGMIUSITOU/Hunziker Installation         331  21.96   674.79      1.70K   Yes Med  No
+HIP 113980/Clapperton Station            319  21.00   121.67      7.50K   Yes Lrg  No
+GLIESE 1272/Barnes Port                  315  11.34   141.16        165   Yes Med  No
+DEGASTANI/Weiss Orbital                  315  24.70     9.78        992   Yes Lrg  No
+ETMANG/Onnes Installation                315  19.01   190.57         58   Yes Med  No
+PANDINUS/Offutt Installation             315  17.06   317.91      1.14K   Yes Lrg Yes
+GLIESE 1272/Gregory Enterprise           315  11.34    45.04         65   Yes Lrg Yes
+CELEVIK/Clervoy Orbital                  315  20.80   144.91        392   Yes Med  No
+MARKAB/Perrin Port                       315  22.87    11.59        14K   Yes Lrg  No
+WATTUNUKAM/Kekule Camp                   315  17.65   317.81          ?   Yes Lrg Yes
+GLIESE 1272/Mitropoulos Prospect         315  11.34   147.78         49   Yes Lrg Yes
+CH'U TI/Fincke Hub                       315  22.40   207.55        346   Yes Med  No
+CELEVIK/Dirac Dock                       315  20.80    45.50        541   Yes Med  No
+ASOORAJARA/Kennedy Platform              315   9.41     7.66         53   Yes Med  No
+PANDINUS/Saberhagen Station              315  17.06   283.57         51   Yes Med  No
+KAMCHANDIKA/Huberath Station             315  14.39   133.14         34   Yes Med  No
+AUTA ISUANG/Evans Settlement             315  13.66   188.01        353   Yes Lrg  No
+ETMANG/Evans Colony                      315  19.01   497.06      1.69K   Yes Med  No
+WARLA/Robinson Landing                   315  22.53   133.76          9   Yes Med  No
+AUTA ISUANG/Treshchov Terminal           315  13.66   189.98        534   Yes Lrg Yes
+AUTA ISUANG/Dunbar Orbital               315  13.66   188.00        532    No Med  No
+WARLA/Dayuan Landing                     315  22.53   271.26         16   Yes Med  No
+UADJARII/Asimov Platform                 315   4.84    64.90         22   Yes Med  No
+TAPIYAN/Grant Stop                       315  20.09   152.34        96K   Yes Med  No
+KOLABINATES/Grant Plant                  315   8.38     3.93        474   Yes Med  No
+PHRACES/Baxter Penal Colony              315   9.73   119.74        209   Yes Lrg Yes
+HIP 113894/Otto Base                     315  15.95   372.06          ?   Yes Med  No
+GLIESE 1272/Doyle Works                  315  11.34    52.97         49   Yes Lrg Yes
+TAPIYAN/Bachman Beacon                   315  20.09   152.33        96K   Yes Med  No
+HIP 111808/Carver Platform               315  21.86   286.55          ?   Yes Med  No
+KALUFON/Korniyenko Base                  315  21.09    57.96      3.26K   Yes Lrg Yes
+APTETI/Abel Landing                      315  21.49   274.89          ?    No Lrg Yes
+KAMCHANDIKA/Burnham Hangar               315  14.39     7.65         23   Yes Med  No
+SAONTIANA/Barjavel Port                  315   6.15    57.98         13   Yes Med  No
+CUICAURE/Korzun Beacon                   315  24.10   142.62      1.43K   Yes Med  No
+UADJARII/O'Donnell Colony                315   4.84     8.59         12   Yes Med  No
+SAONTIANA/Kirtley Platform               315   6.15    57.46         21   Yes Med  No
+VILIQUERRET/Cousin Hub                   315  15.04   192.44      3.14K   Yes Med  No
+KRISHA/Fincke Depot                      315  12.02    64.88         14   Yes Med  No
+KAREX/Ross Settlement                    315  20.07   270.90        189   Yes Med  No
+KRISHA/Garan Survey                      315  12.02    63.23         26   Yes Med  No
+FENGAI/Tem Orbital                       315   3.97    57.45        909   Yes Med  No
+FENGAI/Poincare Prospect                 315   3.97    58.01      1.27K   Yes Med  No
+MBOLGARGL/Elder Mine                     315  21.85     7.64          ?    No Med  No
+WATTUNUKAM/Drew Base                     315  17.65   409.74          ?   Yes Med  No
+MARKAB/Remec Survey                      280  22.87    12.62          ?    No Lrg Yes
+BHADO/Rasmussen Enterprise               255  13.49    43.37      2.93K   Yes Lrg  No
+OGMIUSITOU/Seega Colony                  228  21.96   177.43      1.69K   Yes Med  No
+MANIKENA/Kazantsev Dock                  228  23.65   270.88        113   Yes Med  No
+OGMIUSITOU/Lyakhov Orbital               216  21.96    13.48          7   Yes Lrg  No
+PECKOLLATES/Obruchev Survey              215  22.76   177.79      1.32K   Yes Med  No
+ASOORAJARA/Stableford Hangar             210   9.41    63.72         43   Yes Med  No
+KAKMBUTAN/MacGregor Orbital              209  18.64     2.12         75   Yes Lrg  No
+KONSU/Feustel Beacon                     208  15.60    62.66      4.05K   Yes Lrg Yes
+CH'U TI/Snyder Landing                   206  22.40   189.46        484   Yes Med  No
+HIP 113894/Pierce Enterprise             204  15.95   169.61          ?    No Lrg Yes
+HARMA/Celebi City                        204   9.41    57.97      1.29K   Yes Med  No
+HARMA/Maybury City                       203   9.41     8.58      1.28K   Yes Med  No
+KAKMBUTAN/Gessi Station                  203  18.64   271.25          ?   Yes Med  No
+
+--------------------
+Sell "Domestic Appliances" with M supply from LODHARY/Lagrange Gateway bought for (typically) 372 Cr To...
+--------------------
+
+Station                                 Cost DistLy Age/days      StnLs B/mkt Pad Plt
+-------------------------------------------------------------------------------------
+HIP 108822/Newcomen Depot                875  24.69   174.64      3.21K   Yes Med  No
+PANDINUS/Bulychev Mines                  819  17.06   283.57         29   Yes Med  No
+MBOLGARGL/Priest Landing                 810  21.85   139.17        427    No Med  No
+HIP 113894/Cheli Survey                  808  15.95   189.98        379    No Med  No
+HIP 110205/Tokubei Hub                   800  17.00     3.90        571   Yes Lrg  No
+KAMCHANDIKA/Fozard Mines                 776  14.39    58.05         34   Yes Lrg Yes
+AUTA ISUANG/Mendez Point                 760  13.66   279.01          ?   Yes Lrg Yes
+APTETI/Becquerel Port                    744  21.49     2.47        381   Yes Lrg  No
+DEGASTANI/Weiss Orbital                  741  24.70     9.78        992   Yes Lrg  No
+DEIVE/Obruchev Orbital                   736  18.02     3.91      2.34K   Yes Lrg  No
+HIP 111657/Narvaez's Claim               724  11.34   145.83      1.57K    No Med  No
+KALUFON/Slayton Terminal                 724  21.09    44.95        295   Yes Med  No
+FENRICHA/Pinzon Stop                     724  20.63    49.92        667   Yes Med  No
+BHADO/Carpini Prospect                   718  13.49   254.78          ?   Yes Lrg Yes
+KACHIRIGIN/Nowak Orbital                 717  24.72    10.66        340   Yes Lrg  No
+KACHIRIGIN/Zebrowski Installation        717  24.72   204.58        421   Yes Lrg Yes
+GLIESE 1272/Alexandria Works             714  11.34    58.79      7.12K   Yes Lrg Yes
+SAN TI/Maccurdy Port                     713  19.75   160.01      4.48K   Yes Med  No
+WATTUNUKAM/Redi Mine                     709  17.65   412.93          ?   Yes Med  No
+KONSU/Lind Terminal                      705  15.60   181.85      4.05K   Yes Med  No
+MBAYO/Hopkins Plant                      704   4.84    58.81        564   Yes Med  No
+MBOLGARGL/Tanaka Horizons                691  21.85   114.54        427    No Lrg Yes
+PARHUA/Chalker Settlement                690  14.66   119.12         94   Yes Med  No
+KACHIRIGIN/Dana Base                     646  24.72   189.50        340   Yes Lrg Yes
+PHRACES/Mullane Ring                     645   9.73    57.99        640   Yes Med  No
+PECKOLLATES/Clayton Station              645  22.76    13.81          8   Yes Lrg  No
+KAREX/Zudov Colony                       645  20.07   577.75          ?   Yes Med  No
+HARMA/Muhammad Ibn Battuta Point         626   9.41    54.58      2.19K   Yes Lrg Yes
+CUICAURE/Korzun Beacon                   618  24.10   142.62      1.43K   Yes Med  No
+HIP 109490/Grant Mines                   618  23.95    10.59      1.43K   Yes Med  No
+MARKAB/Remec Survey                      617  22.87    12.62          ?    No Lrg Yes
+HIP 113894/Otto Base                     604  15.95   372.06          ?   Yes Med  No
+MBOLGARGL/Elder Mine                     604  21.85     7.64          ?    No Med  No
+MANIKENA/Kazantsev Dock                  588  23.65   270.88        113   Yes Med  No
+KAKMBUTAN/Gessi Station                  568  18.64   271.25          ?   Yes Med  No
+KONSU/Feustel Beacon                     550  15.60    62.66      4.05K   Yes Lrg Yes
+OGMIUSITOU/Hunziker Installation         543  21.96   674.79      1.70K   Yes Med  No
+CH'U TI/Snyder Landing                   538  22.40   189.46        484   Yes Med  No
+HIP 113894/Pierce Enterprise             537  15.95   169.62          ?    No Lrg Yes
+GLIESE 1272/Dickson Port                 527  11.34    58.80        121   Yes Med  No
+GLIESE 1272/Gregory Terminal             527  11.34    48.61        201   Yes Med  No
+GLIESE 1272/Bao Dock                     527  11.34     7.61         49   Yes Lrg  No
+GLIESE 1272/Maler Station                527  11.34    14.32         65   Yes Lrg  No
+GLIESE 1272/Murphy Dock                  527  11.34    51.72         86   Yes Lrg  No
+GLIESE 1272/Barnes Port                  527  11.34   141.16        165   Yes Med  No
+ETMANG/Onnes Installation                527  19.01   190.57         58   Yes Med  No
+GERDISAO/Lee Settlement                  527  18.62   154.97        258   Yes Med  No
+CELEVIK/Clervoy Orbital                  527  20.80   144.91        392   Yes Med  No
+PANDINUS/Offutt Installation             527  17.06   317.91      1.14K   Yes Lrg Yes
+GLIESE 1272/Gregory Enterprise           527  11.34    45.04         65   Yes Lrg Yes
+MARKAB/Perrin Port                       527  22.87    11.59        14K   Yes Lrg  No
+WATTUNUKAM/Kekule Camp                   527  17.65   317.81          ?   Yes Lrg Yes
+CH'U TI/Fincke Hub                       527  22.40   207.55        346   Yes Med  No
+WARLA/Robinson Landing                   527  22.53   133.76          9   Yes Med  No
+KAMCHANDIKA/Huberath Station             527  14.39   133.14         34   Yes Med  No
+ASOORAJARA/Kennedy Platform              527   9.41     7.66         53   Yes Med  No
+AUTA ISUANG/Evans Settlement             527  13.66   188.01        353   Yes Lrg  No
+GLIESE 1272/Mitropoulos Prospect         527  11.34   147.78         49   Yes Lrg Yes
+VENKI/Phillips Freeport                  527  15.20   283.56          9   Yes Med  No
+ETMANG/Evans Colony                      527  19.01   497.06      1.69K   Yes Med  No
+KOLABINATES/Grant Plant                  527   8.38     3.93        474   Yes Med  No
+CELEVIK/Dirac Dock                       527  20.80    45.50        541   Yes Med  No
+PANDINUS/Saberhagen Station              527  17.06   283.57         51   Yes Med  No
+WARLA/Dayuan Landing                     527  22.53   271.26         16   Yes Med  No
+AUTA ISUANG/Treshchov Terminal           527  13.66   189.98        534   Yes Lrg Yes
+TAPIYAN/Grant Stop                       527  20.09   152.34        96K   Yes Med  No
+AUTA ISUANG/Dunbar Orbital               527  13.66   188.00        532    No Med  No
+UADJARII/Asimov Platform                 527   4.84    64.90         22   Yes Med  No
+KALUFON/Korniyenko Base                  527  21.09    57.96      3.26K   Yes Lrg Yes
+TAPIYAN/Bachman Beacon                   527  20.09   152.33        96K   Yes Med  No
+HIP 111808/Carver Platform               527  21.86   286.55          ?   Yes Med  No
+PHRACES/Baxter Penal Colony              527   9.73   119.74        209   Yes Lrg Yes
+GLIESE 1272/Doyle Works                  527  11.34    52.97         49   Yes Lrg Yes
+APTETI/Abel Landing                      527  21.49   274.89          ?    No Lrg Yes
+KAMCHANDIKA/Burnham Hangar               527  14.39     7.65         23   Yes Med  No
+VILIQUERRET/Cousin Hub                   527  15.04   192.44      3.14K   Yes Med  No
+SAONTIANA/Barjavel Port                  527   6.15    57.98         13   Yes Med  No
+KRISHA/Fincke Depot                      527  12.02    64.88         14   Yes Med  No
+KAREX/Ross Settlement                    527  20.07   270.90        189   Yes Med  No
+UADJARII/O'Donnell Colony                527   4.84     8.59         12   Yes Med  No
+FENGAI/Tem Orbital                       527   3.97    57.45        909   Yes Med  No
+SAONTIANA/Kirtley Platform               527   6.15    57.46         21   Yes Med  No
+KRISHA/Garan Survey                      527  12.02    63.23         26   Yes Med  No
+FENGAI/Poincare Prospect                 527   3.97    58.01      1.27K   Yes Med  No
+WATTUNUKAM/Drew Base                     527  17.65   409.74          ?   Yes Med  No
+OGMIUSITOU/Lyakhov Orbital               494  21.96    13.48          7   Yes Lrg  No
+ASOORAJARA/Stableford Hangar             488   9.41    63.72         43   Yes Med  No
+HIP 113980/Dantec Station                457  21.00    54.69      7.58K   Yes Med  No
+HIP 113980/Clapperton Station            451  21.00   121.67      7.50K   Yes Lrg  No
+KAKMBUTAN/MacGregor Orbital              451  18.64     2.12         75   Yes Lrg  No
+BHADO/Napier Station                     451  13.49   173.75      2.93K   Yes Med  No
+BIKO/Forstchen Horizons                  426  14.47   148.92      2.02K   Yes Med  No
+HARMA/Maybury City                       426   9.41     8.58      1.28K   Yes Med  No
+HIP 113495/Horowitz Port                 426  20.19   137.15         43   Yes Med  No
+HIP 113495/Sharma Terminal               426  20.19   125.63         75   Yes Med  No
+HIP 113495/Thoreau Station               426  20.19    11.46         23   Yes Lrg  No
+KACHIRIGIN/Schrodinger Terminal          426  24.72   207.55        420   Yes Lrg  No
+LODHARY/Anthony Dock                     426   0.00     3.89         17   Yes Med  No
+OGMIUSITOU/Seega Colony                  410  21.96   177.43      1.69K   Yes Med  No
+PECKOLLATES/Obruchev Survey              400  22.76   177.79      1.32K   Yes Med  No
+HIP 110776/Bradbury Dock                 396  19.31   159.99        33K   Yes Med  No
+DEGASTANI/Sargent Gateway                384  24.70    46.76      3.42K   Yes Med  No
+KACHIRIGIN/Rukavishnikov City            379  24.72   189.52        604   Yes Lrg  No
+HARMA/Celebi City                        378   9.41    57.97      1.29K   Yes Med  No
+WIRNAKO/Morgan Installation              375  23.43   140.76        511   Yes Med  No
+HIP 113980/Pippin Terminal               374  21.00   373.06      7.57K   Yes Med  No
+
+--------------------
+Sell "Survival Equipment" with H supply from LODHARY/Lagrange Gateway bought for (typically) 624 Cr To...
+--------------------
+
+Station                                Cost DistLy Age/days      StnLs B/mkt Pad Plt
+------------------------------------------------------------------------------------
+APTETI/Abel Landing                   1,198  21.49   274.89          ?    No Lrg Yes
+PHRACES/Baxter Penal Colony           1,193   9.73   119.74        209   Yes Lrg Yes
+GLIESE 1272/Gregory Enterprise        1,187  11.34    45.04         65   Yes Lrg Yes
+GLIESE 1272/Mitropoulos Prospect      1,187  11.34   147.78         49   Yes Lrg Yes
+GLIESE 1272/Doyle Works               1,187  11.34    52.97         49   Yes Lrg Yes
+KONSU/Feustel Beacon                  1,166  15.60    62.66      4.05K   Yes Lrg Yes
+HIP 113894/Pierce Enterprise          1,138  15.95   169.62          ?    No Lrg Yes
+HIP 113980/Williams Depot               709  21.00   272.84          ?   Yes Lrg Yes
+BHADO/Carpini Prospect                  690  13.49   254.78          ?   Yes Lrg Yes
+HARMA/Celebi City                       637   9.41    57.97      1.29K   Yes Med  No
+HARMA/Gabriel Enterprise                637   9.41     2.88        258   Yes Lrg  No
+
+--------------------
+Sell "Food Cartridges" with H supply from LODHARY/Lagrange Gateway bought for (typically) 27 Cr To...
+--------------------
+
+Station                                 Cost DistLy Age/days      StnLs B/mkt Pad Plt
+-------------------------------------------------------------------------------------
+CH'U TI/Snyder Landing                   684  22.40   189.46        484   Yes Med  No
+KONSU/Feustel Beacon                     684  15.60    62.66      4.05K   Yes Lrg Yes
+HIP 113894/Pierce Enterprise             652  15.95   169.62          ?    No Lrg Yes
+ASOORAJARA/Stableford Hangar             490   9.41    63.72         43   Yes Med  No
+HIP 108822/Newcomen Depot                375  24.69   174.64      3.21K   Yes Med  No
+SAN TI/Maccurdy Port                     357  19.75   160.01      4.48K   Yes Med  No
+KAMCHANDIKA/Fozard Mines                 345  14.39    58.05         34   Yes Lrg Yes
+MBOLGARGL/Priest Landing                 331  21.85   139.17        427    No Med  No
+APTETI/Becquerel Port                    323  21.49     2.47        381   Yes Lrg  No
+DEIVE/Obruchev Orbital                   317  18.02     3.91      2.34K   Yes Lrg  No
+HIP 111657/Narvaez's Claim               309  11.34   145.83      1.57K    No Med  No
+KALUFON/Slayton Terminal                 309  21.09    44.95        295   Yes Med  No
+FENRICHA/Pinzon Stop                     309  20.63    49.92        667   Yes Med  No
+WATTUNUKAM/Redi Mine                     298  17.65   412.93          ?   Yes Med  No
+KONSU/Lind Terminal                      295  15.60   181.85      4.05K   Yes Med  No
+HIP 113894/Cheli Survey                  290  15.95   189.98        379    No Med  No
+PANDINUS/Bulychev Mines                  289  17.06   283.57         29   Yes Med  No
+MBOLGARGL/Tanaka Horizons                285  21.85   114.54        427    No Lrg Yes
+AUTA ISUANG/Mendez Point                 284  13.66   279.01          ?   Yes Lrg Yes
+MBAYO/Hopkins Plant                      276   4.84    58.81        564   Yes Med  No
+MARKAB/Remec Survey                      269  22.87    12.62          ?    No Lrg Yes
+BHADO/Carpini Prospect                   269  13.49   254.78          ?   Yes Lrg Yes
+KACHIRIGIN/Zebrowski Installation        261  24.72   204.58        421   Yes Lrg Yes
+GLIESE 1272/Alexandria Works             260  11.34    58.79      7.12K   Yes Lrg Yes
+KACHIRIGIN/Dana Base                     254  24.72   189.50        340   Yes Lrg Yes
+PARHUA/Chalker Settlement                245  14.66   119.12         94   Yes Med  No
+KAREX/Zudov Colony                       237  20.07   577.75          ?   Yes Med  No
+HARMA/Muhammad Ibn Battuta Point         224   9.41    54.58      2.19K   Yes Lrg Yes
+CUICAURE/Korzun Beacon                   202  24.10   142.62      1.43K   Yes Med  No
+HIP 109490/Grant Mines                   202  23.95    10.59      1.43K   Yes Med  No
+WATTUNUKAM/Drew Base                     198  17.65   409.74          ?   Yes Med  No
+CH'U TI/Fincke Hub                       197  22.40   207.55        346   Yes Med  No
+WARLA/Robinson Landing                   197  22.53   133.76          9   Yes Med  No
+WARLA/Dayuan Landing                     197  22.53   271.26         16   Yes Med  No
+TAPIYAN/Grant Stop                       197  20.09   152.34        96K   Yes Med  No
+ASOORAJARA/Kennedy Platform              197   9.41     7.66         53   Yes Med  No
+ETMANG/Evans Colony                      197  19.01   497.06      1.69K   Yes Med  No
+TAPIYAN/Bachman Beacon                   197  20.09   152.33        96K   Yes Med  No
+UADJARII/Asimov Platform                 197   4.84    64.90         22   Yes Med  No
+KRISHA/Fincke Depot                      197  12.02    64.88         14   Yes Med  No
+KRISHA/Garan Survey                      197  12.02    63.23         26   Yes Med  No
+UADJARII/O'Donnell Colony                197   4.84     8.59         12   Yes Med  No
+KAMCHANDIKA/Huberath Station             195  14.39   133.14         34   Yes Med  No
+AUTA ISUANG/Evans Settlement             194  13.66   188.01        353   Yes Lrg  No
+AUTA ISUANG/Treshchov Terminal           194  13.66   189.98        534   Yes Lrg Yes
+AUTA ISUANG/Dunbar Orbital               194  13.66   188.00        532    No Med  No
+MBOLGARGL/Elder Mine                     193  21.85     7.64          ?    No Med  No
+HIP 113894/Otto Base                     192  15.95   372.06          ?   Yes Med  No
+SAONTIANA/Kirtley Platform               191   6.15    57.46         21   Yes Med  No
+SAONTIANA/Barjavel Port                  191   6.15    57.98         13   Yes Med  No
+PANDINUS/Offutt Installation             189  17.06   317.91      1.14K   Yes Lrg Yes
+PANDINUS/Saberhagen Station              189  17.06   283.57         51   Yes Med  No
+GLIESE 1272/Dickson Port                 141  11.34    58.80        121   Yes Med  No
+GLIESE 1272/Gregory Terminal             141  11.34    48.61        201   Yes Med  No
+GLIESE 1272/Bao Dock                     141  11.34     7.61         49   Yes Lrg  No
+GLIESE 1272/Maler Station                141  11.34    14.32         65   Yes Lrg  No
+GLIESE 1272/Murphy Dock                  141  11.34    51.72         86   Yes Lrg  No
+GLIESE 1272/Barnes Port                  141  11.34   141.16        165   Yes Med  No
+CELEVIK/Clervoy Orbital                  141  20.80   144.91        392   Yes Med  No
+MARKAB/Perrin Port                       141  22.87    11.59        14K   Yes Lrg  No
+DEGASTANI/Weiss Orbital                  141  24.70     9.78        992   Yes Lrg  No
+WATTUNUKAM/Kekule Camp                   141  17.65   317.81          ?   Yes Lrg Yes
+KOLABINATES/Grant Plant                  141   8.38     3.93        474   Yes Med  No
+ETMANG/Onnes Installation                141  19.01   190.57         58   Yes Med  No
+VENKI/Phillips Freeport                  141  15.20   283.56          9   Yes Med  No
+GERDISAO/Lee Settlement                  141  18.62   154.97        258   Yes Med  No
+KALUFON/Korniyenko Base                  141  21.09    57.96      3.26K   Yes Lrg Yes
+CELEVIK/Dirac Dock                       141  20.80    45.50        541   Yes Med  No
+HIP 111808/Carver Platform               141  21.86   286.55          ?   Yes Med  No
+GLIESE 1272/Gregory Enterprise           141  11.34    45.04         65   Yes Lrg Yes
+VILIQUERRET/Cousin Hub                   141  15.04   192.44      3.14K   Yes Med  No
+KAREX/Ross Settlement                    141  20.07   270.90        189   Yes Med  No
+GLIESE 1272/Mitropoulos Prospect         141  11.34   147.78         49   Yes Lrg Yes
+FENGAI/Tem Orbital                       141   3.97    57.45        909   Yes Med  No
+APTETI/Abel Landing                      141  21.49   274.89          ?    No Lrg Yes
+FENGAI/Poincare Prospect                 141   3.97    58.01      1.27K   Yes Med  No
+GLIESE 1272/Doyle Works                  141  11.34    52.97         49   Yes Lrg Yes
+PHRACES/Baxter Penal Colony              141   9.73   119.74        209   Yes Lrg Yes
+KAMCHANDIKA/Burnham Hangar               141  14.39     7.65         23   Yes Med  No
+HIP 113980/Williams Depot                115  21.00   272.84          ?   Yes Lrg Yes
+HIP 113980/Dantec Station                 89  21.00    54.69      7.58K   Yes Med  No
+BIKO/Forstchen Horizons                   58  14.47   148.92      2.02K   Yes Med  No
+DEGASTANI/Sargent Gateway                 58  24.70    46.76      3.42K   Yes Med  No
+HIP 113495/Horowitz Port                  58  20.19   137.15         43   Yes Med  No
+HIP 113495/Sharma Terminal                58  20.19   125.63         75   Yes Med  No
+HIP 113495/Thoreau Station                58  20.19    11.46         23   Yes Lrg  No
+KACHIRIGIN/Schrodinger Terminal           58  24.72   207.55        420   Yes Lrg  No
+LODHARY/Anthony Dock                      58   0.00     3.89         17   Yes Med  No
+PECKOLLATES/Clayton Station               58  22.76    13.81          8   Yes Lrg  No
+PHRACES/Mullane Ring                      58   9.73    57.99        640   Yes Med  No
+WIRNAKO/Morgan Installation               58  23.43   140.76        511   Yes Med  No
+HARMA/Maybury City                        54   9.41     8.58      1.28K   Yes Med  No
+OGMIUSITOU/Seega Colony                   42  21.96   177.43      1.69K   Yes Med  No
+KAKMBUTAN/Gessi Station                   39  18.64   271.25          ?   Yes Med  No
+OGMIUSITOU/Hunziker Installation          38  21.96   674.79      1.70K   Yes Med  No
+OGMIUSITOU/Lyakhov Orbital                37  21.96    13.48          7   Yes Lrg  No
+HARMA/Celebi City                         30   9.41    57.97      1.29K   Yes Med  No
+PHRACES/Potter Enterprise                 30   9.73     9.56        381   Yes Lrg  No
+
+--------------------
+Sell "Atmospheric Processors" with M supply from LODHARY/Lagrange Gateway bought for (typically) 250 Cr To...
+--------------------
+
+Station                                Cost DistLy Age/days      StnLs B/mkt Pad Plt
+------------------------------------------------------------------------------------
+HIP 110205/Tokubei Hub                  637  17.00     3.90        571   Yes Lrg  No
+APTETI/Becquerel Port                   569  21.49     2.47        381   Yes Lrg  No
+KACHIRIGIN/Nowak Orbital                546  24.72    10.66        340   Yes Lrg  No
+HIP 113980/Dantec Station               454  21.00    54.69      7.58K   Yes Med  No
+HIP 113980/Clapperton Station           410  21.00   121.67      7.50K   Yes Lrg  No
+GERDISAO/Lee Settlement                 403  18.62   154.97        258   Yes Med  No
+AUTA ISUANG/Evans Settlement            403  13.66   188.01        353   Yes Lrg  No
+DEGASTANI/Weiss Orbital                 403  24.70     9.78        992   Yes Lrg  No
+AUTA ISUANG/Dunbar Orbital              403  13.66   188.00        532    No Med  No
+BIKO/Forstchen Horizons                 292  14.47   148.92      2.02K   Yes Med  No
+DEGASTANI/Sargent Gateway               292  24.70    46.76      3.42K   Yes Med  No
+HIP 113495/Horowitz Port                292  20.19   137.15         43   Yes Med  No
+HIP 113495/Sharma Terminal              292  20.19   125.63         75   Yes Med  No
+HIP 113495/Thoreau Station              292  20.19    11.46         23   Yes Lrg  No
+KACHIRIGIN/Schrodinger Terminal         292  24.72   207.55        420   Yes Lrg  No
+LODHARY/Anthony Dock                    292   0.00     3.89         17   Yes Med  No
+PECKOLLATES/Clayton Station             292  22.76    13.81          8   Yes Lrg  No
+PHRACES/Mullane Ring                    292   9.73    57.99        640   Yes Med  No
+WIRNAKO/Morgan Installation             292  23.43   140.76        511   Yes Med  No
+HARMA/Maybury City                      285   9.41     8.58      1.28K   Yes Med  No
+KACHIRIGIN/Rukavishnikov City           266  24.72   189.52        604   Yes Lrg  No
+HIP 113980/Pippin Terminal              263  21.00   373.06      7.57K   Yes Med  No
+KAKMBUTAN/Gessi Station                 259  18.64   271.25          ?   Yes Med  No
+OGMIUSITOU/Hunziker Installation        256  21.96   674.79      1.70K   Yes Med  No
+APTETI/Henry Park                       256  21.49    13.82        264    No Med  No
+APTETI/Sturckow Ring                    256  21.49    13.82        641    No Med  No
+
+--------------------
+Sell "Building Fabricators" with H supply from LODHARY/Lagrange Gateway bought for (typically) 752 Cr To...
+--------------------
+
+Station                                 Cost DistLy Age/days      StnLs B/mkt Pad Plt
+-------------------------------------------------------------------------------------
+BHADO/Carpini Prospect                 1,582  13.49   254.78          ?   Yes Lrg Yes
+KAMCHANDIKA/Fozard Mines               1,481  14.39    58.05         34   Yes Lrg Yes
+AUTA ISUANG/Mendez Point               1,458  13.66   279.01          ?   Yes Lrg Yes
+MBOLGARGL/Tanaka Horizons              1,352  21.85   114.54        427    No Lrg Yes
+KACHIRIGIN/Zebrowski Installation      1,300  24.72   204.58        421   Yes Lrg Yes
+GLIESE 1272/Alexandria Works           1,297  11.34    58.79      7.12K   Yes Lrg Yes
+MARKAB/Remec Survey                    1,292  22.87    12.62          ?    No Lrg Yes
+KACHIRIGIN/Dana Base                   1,285  24.72   189.50        340   Yes Lrg Yes
+HARMA/Muhammad Ibn Battuta Point       1,258   9.41    54.58      2.19K   Yes Lrg Yes
+KALUFON/Korniyenko Base                1,199  21.09    57.96      3.26K   Yes Lrg Yes
+WATTUNUKAM/Kekule Camp                 1,190  17.65   317.81          ?   Yes Lrg Yes
+AUTA ISUANG/Treshchov Terminal         1,182  13.66   189.98        534   Yes Lrg Yes
+GLIESE 1272/Gregory Enterprise         1,068  11.34    45.04         65   Yes Lrg Yes
+GLIESE 1272/Mitropoulos Prospect       1,068  11.34   147.78         49   Yes Lrg Yes
+PHRACES/Baxter Penal Colony            1,068   9.73   119.74        209   Yes Lrg Yes
+GLIESE 1272/Doyle Works                1,068  11.34    52.97         49   Yes Lrg Yes
+PANDINUS/Offutt Installation           1,068  17.06   317.91      1.14K   Yes Lrg Yes
+APTETI/Abel Landing                    1,068  21.49   274.89          ?    No Lrg Yes
+DEGASTANI/Sargent Gateway                977  24.70    46.76      3.42K   Yes Med  No
+HIP 113495/Horowitz Port                 977  20.19   137.15         43   Yes Med  No
+HIP 113495/Sharma Terminal               977  20.19   125.63         75   Yes Med  No
+HIP 113495/Thoreau Station               977  20.19    11.46         23   Yes Lrg  No
+PECKOLLATES/Clayton Station              977  22.76    13.81          8   Yes Lrg  No
+KACHIRIGIN/Schrodinger Terminal          976  24.72   207.55        420   Yes Lrg  No
+LODHARY/Anthony Dock                     976   0.00     3.89         17   Yes Med  No
+PHRACES/Mullane Ring                     976   9.73    57.99        640   Yes Med  No
+OGMIUSITOU/Hunziker Installation         934  21.96   674.79      1.70K   Yes Med  No
+OGMIUSITOU/Lyakhov Orbital               909  21.96    13.48          7   Yes Lrg  No
+KAKMBUTAN/Gessi Station                  890  18.64   271.25          ?   Yes Med  No
+BIKO/Forstchen Horizons                  887  14.47   148.92      2.02K   Yes Med  No
+WIRNAKO/Morgan Installation              886  23.43   140.76        511   Yes Med  No
+HARMA/Maybury City                       870   9.41     8.58      1.28K   Yes Med  No
+KAKMBUTAN/MacGregor Orbital              858  18.64     2.12         75   Yes Lrg  No
+APTETI/Henry Park                        845  21.49    13.82        264    No Med  No
+APTETI/Sturckow Ring                     845  21.49    13.82        641    No Med  No
+OGMIUSITOU/Seega Colony                  837  21.96   177.43      1.69K   Yes Med  No
+HARMA/Celebi City                        766   9.41    57.97      1.29K   Yes Med  No
+HARMA/Gabriel Enterprise                 766   9.41     2.88        258   Yes Lrg  No
+
+--------------------
+Sell "Crop Harvesters" with M supply from LODHARY/Lagrange Gateway bought for (typically) 1984 Cr To...
+--------------------
+
+Station                               Cost DistLy Age/days      StnLs B/mkt Pad Plt
+-----------------------------------------------------------------------------------
+KACHIRIGIN/Nowak Orbital             2,649  24.72    10.66        340   Yes Lrg  No
+HIP 110205/Tokubei Hub               2,640  17.00     3.90        571   Yes Lrg  No
+DEGASTANI/Sargent Gateway            2,048  24.70    46.76      3.42K   Yes Med  No
+KACHIRIGIN/Schrodinger Terminal      2,048  24.72   207.55        420   Yes Lrg  No
+PECKOLLATES/Clayton Station          2,048  22.76    13.81          8   Yes Lrg  No
+WIRNAKO/Morgan Installation          2,048  23.43   140.76        511   Yes Med  No
+BIKO/Forstchen Horizons              2,047  14.47   148.92      2.02K   Yes Med  No
+HIP 113495/Horowitz Port             2,047  20.19   137.15         43   Yes Med  No
+HIP 113495/Sharma Terminal           2,047  20.19   125.63         75   Yes Med  No
+HIP 113495/Thoreau Station           2,047  20.19    11.46         23   Yes Lrg  No
+LODHARY/Anthony Dock                 2,047   0.00     3.89         17   Yes Med  No
+PHRACES/Mullane Ring                 2,047   9.73    57.99        640   Yes Med  No
+
+--------------------
+Sell "Geological Equipment" with H supply from LODHARY/Lagrange Gateway bought for (typically) 1340 Cr To...
+--------------------
+
+Station                                 Cost DistLy Age/days      StnLs B/mkt Pad Plt
+-------------------------------------------------------------------------------------
+BHADO/Carpini Prospect                 2,385  13.49   254.78          ?   Yes Lrg Yes
+KAMCHANDIKA/Fozard Mines               2,335  14.39    58.05         34   Yes Lrg Yes
+MBOLGARGL/Tanaka Horizons              2,162  21.85   114.54        427    No Lrg Yes
+AUTA ISUANG/Mendez Point               2,159  13.66   279.01          ?   Yes Lrg Yes
+KACHIRIGIN/Zebrowski Installation      2,093  24.72   204.58        421   Yes Lrg Yes
+GLIESE 1272/Alexandria Works           2,090  11.34    58.79      7.12K   Yes Lrg Yes
+KACHIRIGIN/Dana Base                   2,074  24.72   189.50        340   Yes Lrg Yes
+MARKAB/Remec Survey                    2,050  22.87    12.62          ?    No Lrg Yes
+HARMA/Muhammad Ibn Battuta Point       1,976   9.41    54.59      2.19K   Yes Lrg Yes
+KALUFON/Korniyenko Base                1,938  21.09    57.96      3.26K   Yes Lrg Yes
+WATTUNUKAM/Kekule Camp                 1,926  17.65   317.81          ?   Yes Lrg Yes
+AUTA ISUANG/Treshchov Terminal         1,915  13.66   189.98        534   Yes Lrg Yes
+PANDINUS/Offutt Installation           1,903  17.06   317.91      1.14K   Yes Lrg Yes
+GLIESE 1272/Gregory Enterprise         1,766  11.34    45.04         65   Yes Lrg Yes
+GLIESE 1272/Mitropoulos Prospect       1,766  11.34   147.78         49   Yes Lrg Yes
+GLIESE 1272/Doyle Works                1,766  11.34    52.97         49   Yes Lrg Yes
+APTETI/Abel Landing                    1,766  21.49   274.89          ?    No Lrg Yes
+PHRACES/Baxter Penal Colony            1,766   9.73   119.74        209   Yes Lrg Yes
+HIP 113495/Horowitz Port               1,664  20.19   137.15         43   Yes Med  No
+HIP 113495/Thoreau Station             1,664  20.19    11.46         23   Yes Lrg  No
+BIKO/Forstchen Horizons                1,662  14.47   148.92      2.02K   Yes Med  No
+KACHIRIGIN/Schrodinger Terminal        1,662  24.72   207.55        420   Yes Lrg  No
+LODHARY/Anthony Dock                   1,662   0.00     3.89         17   Yes Med  No
+PECKOLLATES/Clayton Station            1,662  22.76    13.81          8   Yes Lrg  No
+WIRNAKO/Morgan Installation            1,662  23.43   140.76        511   Yes Med  No
+HIP 113495/Sharma Terminal             1,569  20.19   125.63         75   Yes Med  No
+HIP 113894/Pierce Enterprise           1,561  15.95   169.62          ?    No Lrg Yes
+PHRACES/Mullane Ring                   1,560   9.73    57.99        640   Yes Med  No
+DEGASTANI/Sargent Gateway              1,558  24.70    46.76      3.42K   Yes Med  No
+KONSU/Feustel Beacon                   1,552  15.60    62.66      4.05K   Yes Lrg Yes
+HARMA/Maybury City                     1,500   9.41     8.58      1.28K   Yes Med  No
+KAKMBUTAN/Gessi Station                1,479  18.64   271.25          ?   Yes Med  No
+OGMIUSITOU/Hunziker Installation       1,459  21.96   674.79      1.70K   Yes Med  No
+OGMIUSITOU/Lyakhov Orbital             1,431  21.96    13.48          7   Yes Lrg  No
+PECKOLLATES/Obruchev Survey            1,419  22.76   177.79      1.32K   Yes Med  No
+HARMA/Celebi City                      1,351   9.41    57.97      1.29K   Yes Med  No
+HARMA/Gabriel Enterprise               1,351   9.41     2.88        258   Yes Lrg  No
+
+--------------------
+Sell "HN Shock Mount" with H supply from LODHARY/Lagrange Gateway bought for (typically) 290 Cr To...
+--------------------
+
+Station                                Cost DistLy Age/days      StnLs B/mkt Pad Plt
+------------------------------------------------------------------------------------
+DEIVE/Obruchev Orbital                2,256  18.02     3.91      2.34K   Yes Lrg  No
+AUTA ISUANG/Mendez Point              2,112  13.66   279.01          ?   Yes Lrg Yes
+MARKAB/Remec Survey                   2,111  22.87    12.62          ?    No Lrg Yes
+HARMA/Muhammad Ibn Battuta Point      2,023   9.41    54.59      2.19K   Yes Lrg Yes
+PHRACES/Baxter Penal Colony           1,766   9.73   119.74        209   Yes Lrg Yes
+BIKO/Forstchen Horizons               1,664  14.47   148.92      2.02K   Yes Med  No
+DEGASTANI/Sargent Gateway             1,664  24.70    46.76      3.42K   Yes Med  No
+HIP 113495/Horowitz Port              1,664  20.19   137.15         43   Yes Med  No
+HIP 113495/Sharma Terminal            1,664  20.19   125.63         75   Yes Med  No
+HIP 113495/Thoreau Station            1,664  20.19    11.46         23   Yes Lrg  No
+KACHIRIGIN/Schrodinger Terminal       1,664  24.72   207.55        420   Yes Lrg  No
+LODHARY/Anthony Dock                  1,664   0.00     3.89         17   Yes Med  No
+PECKOLLATES/Clayton Station           1,664  22.76    13.81          8   Yes Lrg  No
+PHRACES/Mullane Ring                  1,664   9.73    57.99        640   Yes Med  No
+WIRNAKO/Morgan Installation           1,664  23.43   140.76        511   Yes Med  No
+OGMIUSITOU/Lyakhov Orbital            1,555  21.96    13.48          7   Yes Lrg  No
+HARMA/Maybury City                    1,500   9.41     8.58      1.28K   Yes Med  No
+OGMIUSITOU/Seega Colony               1,452  21.96   177.43      1.69K   Yes Med  No
+KAKMBUTAN/Gessi Station               1,357  18.64   271.25          ?   Yes Med  No
+HARMA/Celebi City                     1,351   9.41    57.97      1.29K   Yes Med  No
+HARMA/Gabriel Enterprise              1,351   9.41     2.88        258   Yes Lrg  No
+KACHIRIGIN/Rukavishnikov City         1,321  24.72   189.52        604   Yes Lrg  No
+BHADO/Napier Station                  1,304  13.49   173.75      2.93K   Yes Med  No
+BHADO/Rasmussen Enterprise            1,304  13.49    43.37      2.93K   Yes Lrg  No
+HIP 113980/Belyanin Ring              1,304  21.00   180.98      7.54K   Yes Med  No
+HIP 113980/Clapperton Station         1,304  21.00   121.67      7.50K   Yes Lrg  No
+HIP 113980/Dantec Station             1,304  21.00    54.69      7.58K   Yes Med  No
+HIP 113980/Grimwood Gateway           1,304  21.00    63.83      7.57K   Yes Lrg  No
+LODHARY/Lagrange Gateway              1,304   0.00    45.04          6   Yes Lrg  No
+KAKMBUTAN/MacGregor Orbital           1,304  18.64     2.12         75   Yes Lrg  No
+PHRACES/Potter Enterprise             1,286   9.73     9.56        381   Yes Lrg  No
+APTETI/Henry Park                     1,271  21.49    13.82        264    No Med  No
+APTETI/Sturckow Ring                  1,271  21.49    13.82        641    No Med  No
+HIP 110776/Bradbury Dock              1,254  19.31   159.99        33K   Yes Med  No
+HIP 110776/Puleston Dock              1,254  19.31   154.97        33K   Yes Lrg  No
+PECKOLLATES/Obruchev Survey           1,229  22.76   177.79      1.32K   Yes Med  No
+HIP 113980/Williams Depot             1,228  21.00   272.84          ?   Yes Lrg Yes
+BIKO/Stjepan Seljan Settlement        1,201  14.47    27.93      1.40K   Yes Lrg  No
+WIRNAKO/Cobb Landing                  1,201  23.43   280.46        734   Yes Med  No
+WIRNAKO/Moffitt Platform              1,201  23.43     9.74        406   Yes Lrg  No
+
+--------------------
+Sell "Marine Equipment" with M supply from LODHARY/Lagrange Gateway bought for (typically) 3676 Cr To...
+--------------------
+
+Station                                Cost DistLy Age/days      StnLs B/mkt Pad Plt
+------------------------------------------------------------------------------------
+KACHIRIGIN/Nowak Orbital              4,862  24.72    10.66        340   Yes Lrg  No
+HIP 110205/Tokubei Hub                4,844  17.00     3.90        571   Yes Lrg  No
+BIKO/Forstchen Horizons               4,112  14.47   148.92      2.02K   Yes Med  No
+DEGASTANI/Sargent Gateway             4,112  24.70    46.76      3.42K   Yes Med  No
+HIP 113495/Horowitz Port              4,112  20.19   137.15         43   Yes Med  No
+HIP 113495/Sharma Terminal            4,112  20.19   125.63         75   Yes Med  No
+HIP 113495/Thoreau Station            4,112  20.19    11.46         23   Yes Lrg  No
+KACHIRIGIN/Schrodinger Terminal       4,112  24.72   207.55        420   Yes Lrg  No
+LODHARY/Anthony Dock                  4,112   0.00     3.89         17   Yes Med  No
+PECKOLLATES/Clayton Station           4,112  22.76    13.81          8   Yes Lrg  No
+PHRACES/Mullane Ring                  4,112   9.73    57.99        640   Yes Med  No
+WIRNAKO/Morgan Installation           4,112  23.43   140.76        511   Yes Med  No
+HARMA/Maybury City                    3,839   9.41     8.58      1.28K   Yes Med  No
+KAKMBUTAN/Gessi Station               3,804  18.64   271.25          ?   Yes Med  No
+KACHIRIGIN/Rukavishnikov City         3,783  24.72   189.52        604   Yes Lrg  No
+OGMIUSITOU/Lyakhov Orbital            3,729  21.96    13.48          7   Yes Lrg  No
+PECKOLLATES/Obruchev Survey           3,697  22.76   177.79      1.32K   Yes Med  No
+OGMIUSITOU/Hunziker Installation      3,695  21.96   674.79      1.70K   Yes Med  No
+
+--------------------
+Sell "Mineral Extractors" with M supply from LODHARY/Lagrange Gateway bought for (typically) 615 Cr To...
+--------------------
+
+Station                           Cost DistLy Age/days      StnLs B/mkt Pad Plt
+-------------------------------------------------------------------------------
+MBOLGARGL/Priest Landing         1,379  21.85   139.17        427    No Med  No
+HIP 113894/Cheli Survey          1,375  15.95   189.98        379    No Med  No
+HIP 108822/Newcomen Depot        1,094  24.69   174.64      3.21K   Yes Med  No
+KALUFON/Slayton Terminal         1,039  21.09    44.95        295   Yes Med  No
+WATTUNUKAM/Redi Mine               999  17.65   412.93          ?   Yes Med  No
+KONSU/Lind Terminal                988  15.60   181.85      4.05K   Yes Med  No
+PANDINUS/Bulychev Mines            987  17.06   283.57         29   Yes Med  No
+KAMCHANDIKA/Fozard Mines           977  14.39    58.05         34   Yes Lrg Yes
+HIP 111657/Narvaez's Claim         914  11.34   145.83      1.57K    No Med  No
+FENRICHA/Pinzon Stop               914  20.63    49.92        667   Yes Med  No
+HIP 109490/Grant Mines             844  23.95    10.59      1.43K   Yes Med  No
+MANIKENA/Kazantsev Dock            805  23.65   270.88        113   Yes Med  No
+PARHUA/Chalker Settlement          777  14.66   119.12         94   Yes Med  No
+LODHARY/Anthony Dock               723   0.00     3.89         17   Yes Med  No
+PHRACES/Mullane Ring               723   9.73    57.99        640   Yes Med  No
+PECKOLLATES/Clayton Station        723  22.76    13.81          8   Yes Lrg  No
+GLIESE 1272/Barnes Port            647  11.34   141.16        165   Yes Med  No
+CH'U TI/Snyder Landing             647  22.40   189.46        484   Yes Med  No
+GLIESE 1272/Murphy Dock            632  11.34    51.72         86   Yes Lrg  No
+KAKMBUTAN/Gessi Station            619  18.64   271.25          ?   Yes Med  No
+
+--------------------
+Sell "Power Generators" with M supply from LODHARY/Lagrange Gateway bought for (typically) 337 Cr To...
+--------------------
+
+Station                                 Cost DistLy Age/days      StnLs B/mkt Pad Plt
+-------------------------------------------------------------------------------------
+HIP 108822/Newcomen Depot              1,156  24.69   174.64      3.21K   Yes Med  No
+BHADO/Carpini Prospect                 1,004  13.49   254.78          ?   Yes Lrg Yes
+PANDINUS/Bulychev Mines                  876  17.06   283.57         29   Yes Med  No
+SAN TI/Maccurdy Port                     875  19.75   160.01      4.48K   Yes Med  No
+MBOLGARGL/Priest Landing                 871  21.85   139.17        427    No Med  No
+HIP 113894/Cheli Survey                  869  15.95   189.98        379    No Med  No
+KONSU/Lind Terminal                      857  15.60   181.85      4.05K   Yes Med  No
+KAMCHANDIKA/Fozard Mines                 849  14.39    58.05         34   Yes Lrg Yes
+AUTA ISUANG/Mendez Point                 824  13.66   279.01          ?   Yes Lrg Yes
+APTETI/Becquerel Port                    800  21.49     2.47        381   Yes Lrg  No
+HIP 111657/Narvaez's Claim               793  11.34   145.83      1.57K    No Med  No
+KALUFON/Slayton Terminal                 793  21.09    44.95        295   Yes Med  No
+DEIVE/Obruchev Orbital                   787  18.02     3.91      2.34K   Yes Lrg  No
+FENRICHA/Pinzon Stop                     785  20.63    49.92        667   Yes Med  No
+WATTUNUKAM/Redi Mine                     769  17.65   412.93          ?   Yes Med  No
+MBAYO/Hopkins Plant                      765   4.84    58.81        564   Yes Med  No
+KACHIRIGIN/Nowak Orbital                 757  24.72    10.66        340   Yes Lrg  No
+KACHIRIGIN/Zebrowski Installation        757  24.72   204.58        421   Yes Lrg Yes
+GLIESE 1272/Alexandria Works             753  11.34    58.79      7.12K   Yes Lrg Yes
+PARHUA/Chalker Settlement                742  14.66   119.12         94   Yes Med  No
+MBOLGARGL/Tanaka Horizons                740  21.85   114.54        427    No Lrg Yes
+KACHIRIGIN/Dana Base                     737  24.72   189.50        340   Yes Lrg Yes
+MARKAB/Remec Survey                      666  22.87    12.62          ?    No Lrg Yes
+HIP 113495/Sharma Terminal               645  20.19   125.63         75   Yes Med  No
+KAREX/Zudov Colony                       645  20.07   577.75          ?   Yes Med  No
+KALUFON/Korniyenko Base                  643  21.09    57.96      3.26K   Yes Lrg Yes
+CUICAURE/Korzun Beacon                   643  24.10   142.62      1.43K   Yes Med  No
+HIP 109490/Grant Mines                   643  23.95    10.59      1.43K   Yes Med  No
+HARMA/Muhammad Ibn Battuta Point         642   9.41    54.59      2.19K   Yes Lrg Yes
+CH'U TI/Snyder Landing                   639  22.40   189.46        484   Yes Med  No
+KONSU/Feustel Beacon                     625  15.60    62.66      4.05K   Yes Lrg Yes
+HIP 113894/Pierce Enterprise             620  15.95   169.62          ?    No Lrg Yes
+MANIKENA/Kazantsev Dock                  616  23.65   270.88        113   Yes Med  No
+GLIESE 1272/Dickson Port                 527  11.34    58.80        121   Yes Med  No
+GLIESE 1272/Murphy Dock                  527  11.34    51.72         86   Yes Lrg  No
+GLIESE 1272/Gregory Terminal             527  11.34    48.61        201   Yes Med  No
+HIP 110205/Tokubei Hub                   527  17.00     3.90        571   Yes Lrg  No
+GLIESE 1272/Bao Dock                     527  11.34     7.61         49   Yes Lrg  No
+GLIESE 1272/Maler Station                527  11.34    14.32         65   Yes Lrg  No
+GLIESE 1272/Barnes Port                  527  11.34   141.16        165   Yes Med  No
+DEGASTANI/Weiss Orbital                  527  24.70     9.78        992   Yes Lrg  No
+GLIESE 1272/Gregory Enterprise           527  11.34    45.04         65   Yes Lrg Yes
+ETMANG/Onnes Installation                527  19.01   190.57         58   Yes Med  No
+GERDISAO/Lee Settlement                  527  18.62   154.97        258   Yes Med  No
+CELEVIK/Clervoy Orbital                  527  20.80   144.91        392   Yes Med  No
+MARKAB/Perrin Port                       527  22.87    11.59        14K   Yes Lrg  No
+AUTA ISUANG/Evans Settlement             527  13.66   188.01        353   Yes Lrg  No
+AUTA ISUANG/Dunbar Orbital               527  13.66   188.00        532    No Med  No
+CELEVIK/Dirac Dock                       527  20.80    45.50        541   Yes Med  No
+ASOORAJARA/Kennedy Platform              527   9.41     7.66         53   Yes Med  No
+KAMCHANDIKA/Huberath Station             527  14.39   133.14         34   Yes Med  No
+VENKI/Phillips Freeport                  527  15.20   283.56          9   Yes Med  No
+ETMANG/Evans Colony                      527  19.01   497.06      1.69K   Yes Med  No
+KOLABINATES/Grant Plant                  527   8.38     3.93        474   Yes Med  No
+GLIESE 1272/Doyle Works                  527  11.34    52.97         49   Yes Lrg Yes
+GLIESE 1272/Mitropoulos Prospect         527  11.34   147.78         49   Yes Lrg Yes
+CH'U TI/Fincke Hub                       527  22.40   207.55        346   Yes Med  No
+UADJARII/Asimov Platform                 527   4.84    64.90         22   Yes Med  No
+PANDINUS/Saberhagen Station              527  17.06   283.57         51   Yes Med  No
+HIP 113894/Otto Base                     527  15.95   372.06          ?   Yes Med  No
+PANDINUS/Offutt Installation             527  17.06   317.91      1.14K   Yes Lrg Yes
+TAPIYAN/Grant Stop                       527  20.09   152.35        96K   Yes Med  No
+VILIQUERRET/Cousin Hub                   527  15.04   192.44      3.14K   Yes Med  No
+WARLA/Dayuan Landing                     527  22.53   271.26         16   Yes Med  No
+WARLA/Robinson Landing                   527  22.53   133.76          9   Yes Med  No
+WATTUNUKAM/Kekule Camp                   527  17.65   317.81          ?   Yes Lrg Yes
+KAREX/Ross Settlement                    527  20.07   270.90        189   Yes Med  No
+TAPIYAN/Bachman Beacon                   527  20.09   152.33        96K   Yes Med  No
+HIP 111808/Carver Platform               527  21.86   286.55          ?   Yes Med  No
+KAMCHANDIKA/Burnham Hangar               527  14.39     7.65         23   Yes Med  No
+AUTA ISUANG/Treshchov Terminal           527  13.66   189.98        534   Yes Lrg Yes
+SAONTIANA/Kirtley Platform               527   6.15    57.46         21   Yes Med  No
+PHRACES/Baxter Penal Colony              527   9.73   119.74        209   Yes Lrg Yes
+FENGAI/Tem Orbital                       527   3.97    57.45        909   Yes Med  No
+KRISHA/Garan Survey                      527  12.02    63.23         26   Yes Med  No
+FENGAI/Poincare Prospect                 527   3.97    58.01      1.27K   Yes Med  No
+KRISHA/Fincke Depot                      527  12.02    64.88         14   Yes Med  No
+SAONTIANA/Barjavel Port                  527   6.15    57.98         13   Yes Med  No
+APTETI/Abel Landing                      527  21.49   274.89          ?    No Lrg Yes
+UADJARII/O'Donnell Colony                527   4.84     8.59         12   Yes Med  No
+MBOLGARGL/Elder Mine                     527  21.85     7.64          ?    No Med  No
+WATTUNUKAM/Drew Base                     527  17.65   409.74          ?   Yes Med  No
+ASOORAJARA/Stableford Hangar             505   9.41    63.72         43   Yes Med  No
+BIKO/Forstchen Horizons                  426  14.47   148.92      2.02K   Yes Med  No
+DEGASTANI/Sargent Gateway                426  24.70    46.76      3.42K   Yes Med  No
+HARMA/Maybury City                       426   9.41     8.58      1.28K   Yes Med  No
+HIP 113495/Horowitz Port                 426  20.19   137.15         43   Yes Med  No
+HIP 113495/Thoreau Station               426  20.19    11.46         23   Yes Lrg  No
+KACHIRIGIN/Schrodinger Terminal          426  24.72   207.55        420   Yes Lrg  No
+LODHARY/Anthony Dock                     426   0.00     3.89         17   Yes Med  No
+PECKOLLATES/Clayton Station              426  22.76    13.81          8   Yes Lrg  No
+PHRACES/Mullane Ring                     426   9.73    57.99        640   Yes Med  No
+WIRNAKO/Morgan Installation              426  23.43   140.76        511   Yes Med  No
+OGMIUSITOU/Hunziker Installation         417  21.96   674.79      1.70K   Yes Med  No
+HIP 113980/Dantec Station                407  21.00    54.69      7.58K   Yes Med  No
+HIP 113980/Clapperton Station            407  21.00   121.67      7.50K   Yes Lrg  No
+HIP 110776/Bradbury Dock                 399  19.31   159.99        33K   Yes Med  No
+HIP 110776/Puleston Dock                 377  19.31   154.97        33K   Yes Lrg  No
+KAKMBUTAN/Gessi Station                  367  18.64   271.25          ?   Yes Med  No
+HARMA/Celebi City                        366   9.41    57.97      1.29K   Yes Med  No
+KACHIRIGIN/Rukavishnikov City            365  24.72   189.52        604   Yes Lrg  No
+HIP 113980/Pippin Terminal               358  21.00   373.06      7.57K   Yes Med  No
+BHADO/Rasmussen Enterprise               356  13.49    43.37      2.93K   Yes Lrg  No
+HARMA/Gabriel Enterprise                 355   9.41     2.88        258   Yes Lrg  No
+PHRACES/Potter Enterprise                349   9.73     9.56        381   Yes Lrg  No
+OGMIUSITOU/Seega Colony                  346  21.96   177.43      1.69K   Yes Med  No
+APTETI/Henry Park                        345  21.49    13.82        264    No Med  No
+APTETI/Sturckow Ring                     345  21.49    13.82        641    No Med  No
+HIP 113980/Williams Depot                342  21.00   272.84          ?   Yes Lrg Yes
+
+--------------------
+Sell "Skimmer Components" with H supply from LODHARY/Lagrange Gateway bought for (typically) 606 Cr To...
+--------------------
+
+Station                                 Cost DistLy Age/days      StnLs B/mkt Pad Plt
+-------------------------------------------------------------------------------------
+KAMCHANDIKA/Fozard Mines               2,006  14.39    58.05         34   Yes Lrg Yes
+AUTA ISUANG/Mendez Point               1,960  13.66   279.01          ?   Yes Lrg Yes
+MBOLGARGL/Tanaka Horizons              1,794  21.85   114.54        427    No Lrg Yes
+KACHIRIGIN/Zebrowski Installation      1,695  24.72   204.58        421   Yes Lrg Yes
+GLIESE 1272/Alexandria Works           1,690  11.34    58.79      7.12K   Yes Lrg Yes
+KACHIRIGIN/Dana Base                   1,666  24.72   189.50        340   Yes Lrg Yes
+MARKAB/Remec Survey                    1,206  22.87    12.62          ?    No Lrg Yes
+BIKO/Forstchen Horizons                1,204  14.47   148.92      2.02K   Yes Med  No
+DEGASTANI/Sargent Gateway              1,204  24.70    46.76      3.42K   Yes Med  No
+HIP 113495/Horowitz Port               1,204  20.19   137.15         43   Yes Med  No
+HIP 113495/Sharma Terminal             1,204  20.19   125.63         75   Yes Med  No
+KACHIRIGIN/Schrodinger Terminal        1,204  24.72   207.55        420   Yes Lrg  No
+PHRACES/Mullane Ring                   1,204   9.73    57.99        640   Yes Med  No
+WIRNAKO/Morgan Installation            1,204  23.43   140.76        511   Yes Med  No
+BHADO/Carpini Prospect                 1,193  13.49   254.78          ?   Yes Lrg Yes
+HARMA/Muhammad Ibn Battuta Point       1,096   9.41    54.59      2.19K   Yes Lrg Yes
+KALUFON/Korniyenko Base                1,094  21.09    57.96      3.26K   Yes Lrg Yes
+WATTUNUKAM/Kekule Camp                 1,082  17.65   317.81          ?   Yes Lrg Yes
+AUTA ISUANG/Treshchov Terminal         1,070  13.66   189.98        534   Yes Lrg Yes
+PANDINUS/Offutt Installation           1,058  17.06   317.91      1.14K   Yes Lrg Yes
+APTETI/Abel Landing                    1,056  21.49   274.89          ?    No Lrg Yes
+GLIESE 1272/Gregory Enterprise         1,045  11.34    45.04         65   Yes Lrg Yes
+GLIESE 1272/Mitropoulos Prospect       1,045  11.34   147.78         49   Yes Lrg Yes
+GLIESE 1272/Doyle Works                1,045  11.34    52.97         49   Yes Lrg Yes
+PHRACES/Baxter Penal Colony              944   9.73   119.74        209   Yes Lrg Yes
+KAKMBUTAN/Gessi Station                  739  18.64   271.25          ?   Yes Med  No
+HARMA/Maybury City                       736   9.41     8.58      1.28K   Yes Med  No
+OGMIUSITOU/Hunziker Installation         723  21.96   674.79      1.70K   Yes Med  No
+APTETI/Sturckow Ring                     703  21.49    13.82        641    No Med  No
+OGMIUSITOU/Lyakhov Orbital               698  21.96    13.48          7   Yes Lrg  No
+OGMIUSITOU/Seega Colony                  694  21.96   177.43      1.69K   Yes Med  No
+PECKOLLATES/Obruchev Survey              680  22.76   177.79      1.32K   Yes Med  No
+HARMA/Celebi City                        635   9.41    57.97      1.29K   Yes Med  No
+HARMA/Gabriel Enterprise                 635   9.41     2.88        258   Yes Lrg  No
+APTETI/Henry Park                        630  21.49    13.82        264    No Med  No
+KONSU/Feustel Beacon                     614  15.60    62.66      4.05K   Yes Lrg Yes
+
+--------------------
+Sell "Thermal Cooling Units" with H supply from LODHARY/Lagrange Gateway bought for (typically) 142 Cr To...
+--------------------
+
+Station                                 Cost DistLy Age/days      StnLs B/mkt Pad Plt
+-------------------------------------------------------------------------------------
+BHADO/Carpini Prospect                   754  13.49   254.78          ?   Yes Lrg Yes
+KAMCHANDIKA/Fozard Mines                 423  14.39    58.05         34   Yes Lrg Yes
+AUTA ISUANG/Mendez Point                 413  13.66   279.01          ?   Yes Lrg Yes
+KACHIRIGIN/Zebrowski Installation        385  24.72   204.58        421   Yes Lrg Yes
+GLIESE 1272/Alexandria Works             383  11.34    58.79      7.12K   Yes Lrg Yes
+KACHIRIGIN/Dana Base                     376  24.72   189.50        340   Yes Lrg Yes
+MBOLGARGL/Tanaka Horizons                368  21.85   114.54        427    No Lrg Yes
+HARMA/Muhammad Ibn Battuta Point         327   9.41    54.59      2.19K   Yes Lrg Yes
+GLIESE 1272/Gregory Enterprise           300  11.34    45.04         65   Yes Lrg Yes
+GLIESE 1272/Mitropoulos Prospect         300  11.34   147.78         49   Yes Lrg Yes
+PANDINUS/Offutt Installation             300  17.06   317.91      1.14K   Yes Lrg Yes
+GLIESE 1272/Doyle Works                  300  11.34    52.97         49   Yes Lrg Yes
+WATTUNUKAM/Kekule Camp                   300  17.65   317.81          ?   Yes Lrg Yes
+AUTA ISUANG/Treshchov Terminal           300  13.66   189.98        534   Yes Lrg Yes
+PHRACES/Baxter Penal Colony              300   9.73   119.74        209   Yes Lrg Yes
+KALUFON/Korniyenko Base                  300  21.09    57.96      3.26K   Yes Lrg Yes
+APTETI/Abel Landing                      300  21.49   274.89          ?    No Lrg Yes
+MARKAB/Remec Survey                      250  22.87    12.62          ?    No Lrg Yes
+HIP 113894/Pierce Enterprise             223  15.95   169.62          ?    No Lrg Yes
+KONSU/Feustel Beacon                     222  15.60    62.66      4.05K   Yes Lrg Yes
+OGMIUSITOU/Hunziker Installation         208  21.96   674.79      1.70K   Yes Med  No
+BIKO/Forstchen Horizons                  186  14.47   148.92      2.02K   Yes Med  No
+DEGASTANI/Sargent Gateway                186  24.70    46.76      3.42K   Yes Med  No
+HIP 113495/Horowitz Port                 186  20.19   137.15         43   Yes Med  No
+HIP 113495/Sharma Terminal               186  20.19   125.63         75   Yes Med  No
+HIP 113495/Thoreau Station               186  20.19    11.46         23   Yes Lrg  No
+KACHIRIGIN/Schrodinger Terminal          186  24.72   207.55        420   Yes Lrg  No
+LODHARY/Anthony Dock                     186   0.00     3.89         17   Yes Med  No
+PECKOLLATES/Clayton Station              186  22.76    13.81          8   Yes Lrg  No
+PHRACES/Mullane Ring                     186   9.73    57.99        640   Yes Med  No
+WIRNAKO/Morgan Installation              186  23.43   140.76        511   Yes Med  No
+APTETI/Henry Park                        177  21.49    13.82        264    No Med  No
+APTETI/Sturckow Ring                     177  21.49    13.82        641    No Med  No
+OGMIUSITOU/Seega Colony                  174  21.96   177.43      1.69K   Yes Med  No
+KAKMBUTAN/Gessi Station                  155  18.64   271.25          ?   Yes Med  No
+KAKMBUTAN/MacGregor Orbital              154  18.64     2.12         75   Yes Lrg  No
+HARMA/Maybury City                       153   9.41     8.58      1.28K   Yes Med  No
+HARMA/Celebi City                        146   9.41    57.97      1.29K   Yes Med  No
+HARMA/Gabriel Enterprise                 146   9.41     2.88        258   Yes Lrg  No
+
+--------------------
+Sell "Water Purifiers" with M supply from LODHARY/Lagrange Gateway bought for (typically) 194 Cr To...
+--------------------
+
+Station                                 Cost DistLy Age/days      StnLs B/mkt Pad Plt
+-------------------------------------------------------------------------------------
+MANIKENA/Kazantsev Dock                1,107  23.65   270.88        113   Yes Med  No
+HIP 108822/Newcomen Depot                849  24.69   174.64      3.21K   Yes Med  No
+BHADO/Carpini Prospect                   754  13.49   254.78          ?   Yes Lrg Yes
+PANDINUS/Bulychev Mines                  526  17.06   283.57         29   Yes Med  No
+HIP 113894/Cheli Survey                  519  15.95   189.98        379    No Med  No
+MBOLGARGL/Priest Landing                 519  21.85   139.17        427    No Med  No
+HIP 110205/Tokubei Hub                   505  17.00     3.90        571   Yes Lrg  No
+DEGASTANI/Weiss Orbital                  462  24.70     9.78        992   Yes Lrg  No
+KAMCHANDIKA/Fozard Mines                 423  14.39    58.05         34   Yes Lrg Yes
+AUTA ISUANG/Mendez Point                 413  13.66   279.01          ?   Yes Lrg Yes
+APTETI/Becquerel Port                    403  21.49     2.47        381   Yes Lrg  No
+DEIVE/Obruchev Orbital                   397  18.02     3.91      2.34K   Yes Lrg  No
+HIP 111657/Narvaez's Claim               390  11.34   145.83      1.57K    No Med  No
+KALUFON/Slayton Terminal                 390  21.09    44.95        295   Yes Med  No
+FENRICHA/Pinzon Stop                     390  20.63    49.92        667   Yes Med  No
+KACHIRIGIN/Nowak Orbital                 385  24.72    10.66        340   Yes Lrg  No
+KACHIRIGIN/Zebrowski Installation        385  24.72   204.58        421   Yes Lrg Yes
+KAREX/Zudov Colony                       385  20.07   577.75          ?   Yes Med  No
+GLIESE 1272/Alexandria Works             383  11.34    58.79      7.12K   Yes Lrg Yes
+SAN TI/Maccurdy Port                     383  19.75   160.01      4.48K   Yes Med  No
+WATTUNUKAM/Redi Mine                     380  17.65   412.93          ?   Yes Med  No
+MBAYO/Hopkins Plant                      379   4.84    58.81        564   Yes Med  No
+KONSU/Lind Terminal                      377  15.60   181.85      4.05K   Yes Med  No
+KACHIRIGIN/Dana Base                     376  24.72   189.50        340   Yes Lrg Yes
+CUICAURE/Korzun Beacon                   370  24.10   142.62      1.43K   Yes Med  No
+HIP 109490/Grant Mines                   370  23.95    10.59      1.43K   Yes Med  No
+PARHUA/Chalker Settlement                369  14.66   119.12         94   Yes Med  No
+MBOLGARGL/Tanaka Horizons                368  21.85   114.54        427    No Lrg Yes
+HIP 113980/Dantec Station                365  21.00    54.69      7.58K   Yes Med  No
+HARMA/Muhammad Ibn Battuta Point         327   9.41    54.59      2.19K   Yes Lrg Yes
+GLIESE 1272/Dickson Port                 300  11.34    58.80        121   Yes Med  No
+GLIESE 1272/Gregory Terminal             300  11.34    48.61        201   Yes Med  No
+GLIESE 1272/Bao Dock                     300  11.34     7.61         49   Yes Lrg  No
+GLIESE 1272/Maler Station                300  11.34    14.32         65   Yes Lrg  No
+GLIESE 1272/Murphy Dock                  300  11.34    51.72         86   Yes Lrg  No
+GERDISAO/Lee Settlement                  300  18.62   154.97        258   Yes Med  No
+GLIESE 1272/Barnes Port                  300  11.34   141.16        165   Yes Med  No
+AUTA ISUANG/Evans Settlement             300  13.66   188.01        353   Yes Lrg  No
+AUTA ISUANG/Dunbar Orbital               300  13.66   188.00        532    No Med  No
+CELEVIK/Clervoy Orbital                  300  20.80   144.91        392   Yes Med  No
+ETMANG/Onnes Installation                300  19.01   190.57         58   Yes Med  No
+PANDINUS/Offutt Installation             300  17.06   317.91      1.14K   Yes Lrg Yes
+GLIESE 1272/Gregory Enterprise           300  11.34    45.04         65   Yes Lrg Yes
+MARKAB/Perrin Port                       300  22.87    11.59        14K   Yes Lrg  No
+HIP 113894/Otto Base                     300  15.95   372.06          ?   Yes Med  No
+WATTUNUKAM/Kekule Camp                   300  17.65   317.81          ?   Yes Lrg Yes
+GLIESE 1272/Mitropoulos Prospect         300  11.34   147.78         49   Yes Lrg Yes
+CH'U TI/Fincke Hub                       300  22.40   207.55        346   Yes Med  No
+CELEVIK/Dirac Dock                       300  20.80    45.50        541   Yes Med  No
+ASOORAJARA/Kennedy Platform              300   9.41     7.66         53   Yes Med  No
+KAMCHANDIKA/Huberath Station             300  14.39   133.14         34   Yes Med  No
+PANDINUS/Saberhagen Station              300  17.06   283.57         51   Yes Med  No
+ETMANG/Evans Colony                      300  19.01   497.06      1.69K   Yes Med  No
+WARLA/Robinson Landing                   300  22.53   133.76          9   Yes Med  No
+AUTA ISUANG/Treshchov Terminal           300  13.66   189.98        534   Yes Lrg Yes
+VENKI/Phillips Freeport                  300  15.20   283.56          9   Yes Med  No
+WARLA/Dayuan Landing                     300  22.53   271.26         16   Yes Med  No
+UADJARII/Asimov Platform                 300   4.84    64.90         22   Yes Med  No
+TAPIYAN/Grant Stop                       300  20.09   152.35        96K   Yes Med  No
+KOLABINATES/Grant Plant                  300   8.38     3.93        474   Yes Med  No
+PHRACES/Baxter Penal Colony              300   9.73   119.74        209   Yes Lrg Yes
+GLIESE 1272/Doyle Works                  300  11.34    52.97         49   Yes Lrg Yes
+TAPIYAN/Bachman Beacon                   300  20.09   152.33        96K   Yes Med  No
+HIP 111808/Carver Platform               300  21.86   286.55          ?   Yes Med  No
+KALUFON/Korniyenko Base                  300  21.09    57.96      3.26K   Yes Lrg Yes
+SAONTIANA/Kirtley Platform               300   6.15    57.46         21   Yes Med  No
+APTETI/Abel Landing                      300  21.49   274.89          ?    No Lrg Yes
+KAMCHANDIKA/Burnham Hangar               300  14.39     7.65         23   Yes Med  No
+KRISHA/Fincke Depot                      300  12.02    64.88         14   Yes Med  No
+SAONTIANA/Barjavel Port                  300   6.15    57.98         13   Yes Med  No
+UADJARII/O'Donnell Colony                300   4.84     8.59         12   Yes Med  No
+VILIQUERRET/Cousin Hub                   300  15.04   192.44      3.14K   Yes Med  No
+KAREX/Ross Settlement                    300  20.07   270.90        189   Yes Med  No
+KRISHA/Garan Survey                      300  12.02    63.23         26   Yes Med  No
+FENGAI/Tem Orbital                       300   3.97    57.45        909   Yes Med  No
+FENGAI/Poincare Prospect                 300   3.97    58.01      1.27K   Yes Med  No
+MBOLGARGL/Elder Mine                     300  21.85     7.64          ?    No Med  No
+WATTUNUKAM/Drew Base                     300  17.65   409.74          ?   Yes Med  No
+HARMA/Maybury City                       290   9.41     8.58      1.28K   Yes Med  No
+HIP 113980/Clapperton Station            287  21.00   121.67      7.50K   Yes Lrg  No
+MARKAB/Remec Survey                      250  22.87    12.62          ?    No Lrg Yes
+KONSU/Feustel Beacon                     245  15.60    62.66      4.05K   Yes Lrg Yes
+CH'U TI/Snyder Landing                   245  22.40   189.46        484   Yes Med  No
+HIP 113894/Pierce Enterprise             243  15.95   169.62          ?    No Lrg Yes
+OGMIUSITOU/Hunziker Installation         230  21.96   674.79      1.70K   Yes Med  No
+OGMIUSITOU/Seega Colony                  214  21.96   177.43      1.69K   Yes Med  No
+KAKMBUTAN/MacGregor Orbital              200  18.64     2.12         75   Yes Lrg  No
+HARMA/Celebi City                        196   9.41    57.97      1.29K   Yes Med  No
+
+--------------------
+Sell "Basic Medicines" with M supply from LODHARY/Lagrange Gateway bought for (typically) 186 Cr To...
+--------------------
+
+Station                                 Cost DistLy Age/days      StnLs B/mkt Pad Plt
+-------------------------------------------------------------------------------------
+MANIKENA/Kazantsev Dock                3,255  23.65   270.88        113   Yes Med  No
+HIP 111657/Narvaez's Claim             1,315  11.34   145.83      1.57K    No Med  No
+SAN TI/Maccurdy Port                   1,284  19.75   160.01      4.48K   Yes Med  No
+WATTUNUKAM/Redi Mine                   1,273  17.65   412.93          ?   Yes Med  No
+KONSU/Lind Terminal                    1,261  15.60   181.85      4.05K   Yes Med  No
+KAMCHANDIKA/Fozard Mines               1,250  14.39    58.05         34   Yes Lrg Yes
+MBOLGARGL/Tanaka Horizons              1,222  21.85   114.54        427    No Lrg Yes
+AUTA ISUANG/Mendez Point               1,218  13.66   279.01          ?   Yes Lrg Yes
+APTETI/Becquerel Port                  1,185  21.49     2.47        381   Yes Lrg  No
+KALUFON/Slayton Terminal               1,153  21.09    44.95        295   Yes Med  No
+FENRICHA/Pinzon Stop                   1,153  20.63    49.92        667   Yes Med  No
+KACHIRIGIN/Nowak Orbital               1,128  24.72    10.66        340   Yes Lrg  No
+KACHIRIGIN/Zebrowski Installation      1,128  24.72   204.58        421   Yes Lrg Yes
+GLIESE 1272/Alexandria Works           1,123  11.34    58.79      7.12K   Yes Lrg Yes
+KACHIRIGIN/Dana Base                   1,101  24.72   189.50        340   Yes Lrg Yes
+HIP 108822/Newcomen Depot                602  24.69   174.64      3.21K   Yes Med  No
+BIKO/Forstchen Horizons                  549  14.47   148.92      2.02K   Yes Med  No
+DEGASTANI/Sargent Gateway                549  24.70    46.76      3.42K   Yes Med  No
+HIP 113495/Horowitz Port                 549  20.19   137.15         43   Yes Med  No
+HIP 113495/Sharma Terminal               549  20.19   125.63         75   Yes Med  No
+KACHIRIGIN/Schrodinger Terminal          549  24.72   207.55        420   Yes Lrg  No
+PHRACES/Mullane Ring                     549   9.73    57.99        640   Yes Med  No
+WIRNAKO/Morgan Installation              549  23.43   140.76        511   Yes Med  No
+MBOLGARGL/Priest Landing                 548  21.85   139.17        427    No Med  No
+HIP 110205/Tokubei Hub                   505  17.00     3.90        571   Yes Lrg  No
+HIP 113894/Cheli Survey                  495  15.95   189.98        379    No Med  No
+PANDINUS/Bulychev Mines                  494  17.06   283.57         29   Yes Med  No
+BHADO/Carpini Prospect                   470  13.49   254.78          ?   Yes Lrg Yes
+MARKAB/Remec Survey                      460  22.87    12.62          ?    No Lrg Yes
+CH'U TI/Snyder Landing                   459  22.40   189.46        484   Yes Med  No
+KONSU/Feustel Beacon                     441  15.60    62.66      4.05K   Yes Lrg Yes
+HIP 113894/Pierce Enterprise             431  15.95   169.62          ?    No Lrg Yes
+MBAYO/Hopkins Plant                      411   4.84    58.81        564   Yes Med  No
+KAREX/Zudov Colony                       405  20.07   577.75          ?   Yes Med  No
+CUICAURE/Korzun Beacon                   390  24.10   142.63      1.43K   Yes Med  No
+HIP 109490/Grant Mines                   390  23.95    10.59      1.43K   Yes Med  No
+HIP 111808/Carver Platform               386  21.86   286.55          ?   Yes Med  No
+WATTUNUKAM/Drew Base                     385  17.65   409.74          ?   Yes Med  No
+WARLA/Dayuan Landing                     383  22.53   271.26         16   Yes Med  No
+TAPIYAN/Grant Stop                       383  20.09   152.35        96K   Yes Med  No
+ASOORAJARA/Kennedy Platform              383   9.41     7.66         53   Yes Med  No
+ETMANG/Evans Colony                      383  19.01   497.06      1.69K   Yes Med  No
+TAPIYAN/Bachman Beacon                   383  20.09   152.33        96K   Yes Med  No
+UADJARII/Asimov Platform                 383   4.84    64.90         22   Yes Med  No
+KAMCHANDIKA/Huberath Station             382  14.39   133.14         34   Yes Med  No
+CELEVIK/Dirac Dock                       380  20.80    45.50        541   Yes Med  No
+AUTA ISUANG/Evans Settlement             380  13.66   188.01        353   Yes Lrg  No
+AUTA ISUANG/Treshchov Terminal           380  13.66   189.98        534   Yes Lrg Yes
+AUTA ISUANG/Dunbar Orbital               380  13.66   188.00        532    No Med  No
+HIP 113894/Otto Base                     378  15.95   372.06          ?   Yes Med  No
+MBOLGARGL/Elder Mine                     378  21.85     7.64          ?    No Med  No
+PARHUA/Chalker Settlement                377  14.66   119.12         94   Yes Med  No
+SAONTIANA/Barjavel Port                  376   6.15    57.98         13   Yes Med  No
+SAONTIANA/Kirtley Platform               376   6.15    57.46         21   Yes Med  No
+PANDINUS/Offutt Installation             374  17.06   317.91      1.14K   Yes Lrg Yes
+PANDINUS/Saberhagen Station              374  17.06   283.57         51   Yes Med  No
+HARMA/Muhammad Ibn Battuta Point         351   9.41    54.59      2.19K   Yes Lrg Yes
+GLIESE 1272/Dickson Port                 315  11.34    58.80        121   Yes Med  No
+GLIESE 1272/Gregory Terminal             315  11.34    48.61        201   Yes Med  No
+GLIESE 1272/Bao Dock                     315  11.34     7.61         49   Yes Lrg  No
+GLIESE 1272/Murphy Dock                  315  11.34    51.72         86   Yes Lrg  No
+GLIESE 1272/Maler Station                315  11.34    14.32         65   Yes Lrg  No
+GLIESE 1272/Barnes Port                  315  11.34   141.16        165   Yes Med  No
+DEGASTANI/Weiss Orbital                  315  24.70     9.78        992   Yes Lrg  No
+ETMANG/Onnes Installation                315  19.01   190.57         58   Yes Med  No
+CELEVIK/Clervoy Orbital                  315  20.80   144.91        392   Yes Med  No
+MARKAB/Perrin Port                       315  22.87    11.59        14K   Yes Lrg  No
+GERDISAO/Lee Settlement                  315  18.62   154.97        258   Yes Med  No
+WATTUNUKAM/Kekule Camp                   315  17.65   317.81          ?   Yes Lrg Yes
+KOLABINATES/Grant Plant                  315   8.38     3.93        474   Yes Med  No
+CH'U TI/Fincke Hub                       315  22.40   207.55        346   Yes Med  No
+VENKI/Phillips Freeport                  315  15.20   283.56          9   Yes Med  No
+KALUFON/Korniyenko Base                  315  21.09    57.96      3.26K   Yes Lrg Yes
+WARLA/Robinson Landing                   315  22.53   133.76          9   Yes Med  No
+GLIESE 1272/Gregory Enterprise           315  11.34    45.04         65   Yes Lrg Yes
+GLIESE 1272/Mitropoulos Prospect         315  11.34   147.78         49   Yes Lrg Yes
+VILIQUERRET/Cousin Hub                   315  15.04   192.44      3.14K   Yes Med  No
+KAREX/Ross Settlement                    315  20.07   270.90        189   Yes Med  No
+APTETI/Abel Landing                      315  21.49   274.89          ?    No Lrg Yes
+FENGAI/Tem Orbital                       315   3.97    57.45        909   Yes Med  No
+KAMCHANDIKA/Burnham Hangar               315  14.39     7.65         23   Yes Med  No
+PHRACES/Baxter Penal Colony              315   9.73   119.74        209   Yes Lrg Yes
+GLIESE 1272/Doyle Works                  315  11.34    52.97         49   Yes Lrg Yes
+FENGAI/Poincare Prospect                 315   3.97    58.01      1.27K   Yes Med  No
+KRISHA/Fincke Depot                      315  12.02    64.88         14   Yes Med  No
+KRISHA/Garan Survey                      315  12.02    63.23         26   Yes Med  No
+UADJARII/O'Donnell Colony                315   4.84     8.59         12   Yes Med  No
+HIP 113980/Dantec Station                248  21.00    54.69      7.58K   Yes Med  No
+HIP 113980/Clapperton Station            248  21.00   121.67      7.50K   Yes Lrg  No
+HIP 110776/Bradbury Dock                 220  19.31   159.99        33K   Yes Med  No
+OGMIUSITOU/Hunziker Installation         219  21.96   674.79      1.70K   Yes Med  No
+OGMIUSITOU/Seega Colony                  218  21.96   177.43      1.69K   Yes Med  No
+HIP 113980/Williams Depot                217  21.00   272.84          ?   Yes Lrg Yes
+PECKOLLATES/Obruchev Survey              213  22.76   177.79      1.32K   Yes Med  No
+ASOORAJARA/Stableford Hangar             211   9.41    63.72         43   Yes Med  No
+HIP 110776/Puleston Dock                 209  19.31   154.97        33K   Yes Lrg  No
+HARMA/Maybury City                       203   9.41     8.58      1.28K   Yes Med  No
+OGMIUSITOU/Lyakhov Orbital               200  21.96    13.48          7   Yes Lrg  No
+KACHIRIGIN/Rukavishnikov City            197  24.72   189.52        604   Yes Lrg  No
+HIP 113980/Pippin Terminal               196  21.00   373.06      7.57K   Yes Med  No
+HARMA/Celebi City                        196   9.41    57.97      1.29K   Yes Med  No
+HARMA/Gabriel Enterprise                 189   9.41     2.88        258   Yes Lrg  No
+APTETI/Henry Park                        188  21.49    13.82        264    No Med  No
+APTETI/Sturckow Ring                     188  21.49    13.82        641    No Med  No
+
+--------------------
+Sell "Bauxite" with M supply from LODHARY/Lagrange Gateway bought for (typically) 54 Cr To...
+--------------------
+
+Station                                Cost DistLy Age/days      StnLs B/mkt Pad Plt
+------------------------------------------------------------------------------------
+GLIESE 1272/Bao Dock                    303  11.34     7.61         49   Yes Lrg  No
+GLIESE 1272/Maler Station               302  11.34    14.32         65   Yes Lrg  No
+GLIESE 1272/Murphy Dock                 298  11.34    51.72         86   Yes Lrg  No
+MBOLGARGL/Priest Landing                296  21.85   139.17        427    No Med  No
+GLIESE 1272/Barnes Port                 281  11.34   141.16        165   Yes Med  No
+SAN TI/Maccurdy Port                    272  19.75   160.01      4.48K   Yes Med  No
+GLIESE 1272/Dickson Port                267  11.34    58.80        121   Yes Med  No
+KONSU/Lind Terminal                     266  15.60   181.85      4.05K   Yes Med  No
+DEIVE/Obruchev Orbital                  243  18.02     3.91      2.34K   Yes Lrg  No
+HIP 113495/Thoreau Station              233  20.19    11.46         23   Yes Lrg  No
+HIP 113495/Sharma Terminal              227  20.19   125.63         75   Yes Med  No
+HIP 113495/Horowitz Port                227  20.19   137.15         43   Yes Med  No
+MBAYO/Hopkins Plant                     225   4.84    58.81        564   Yes Med  No
+KAREX/Zudov Colony                      222  20.07   577.75          ?   Yes Med  No
+GLIESE 1272/Gregory Enterprise          219  11.34    45.04         65   Yes Lrg Yes
+HARMA/Maybury City                      215   9.41     8.58      1.28K   Yes Med  No
+PARHUA/Chalker Settlement               214  14.66   119.12         94   Yes Med  No
+HIP 113894/Pierce Enterprise            209  15.95   169.62          ?    No Lrg Yes
+GLIESE 1272/Gregory Terminal            201  11.34    48.61        201   Yes Med  No
+CH'U TI/Snyder Landing                  201  22.40   189.46        484   Yes Med  No
+GLIESE 1272/Doyle Works                 169  11.34    52.97         49   Yes Lrg Yes
+GLIESE 1272/Mitropoulos Prospect        166  11.34   147.78         49   Yes Lrg Yes
+ETMANG/Onnes Installation               152  19.01   190.57         58   Yes Med  No
+MARKAB/Perrin Port                      152  22.87    11.59        14K   Yes Lrg  No
+CH'U TI/Fincke Hub                      152  22.40   207.55        346   Yes Med  No
+CELEVIK/Dirac Dock                      152  20.80    45.50        541   Yes Med  No
+ASOORAJARA/Kennedy Platform             152   9.41     7.66         53   Yes Med  No
+KAMCHANDIKA/Huberath Station            152  14.39   133.14         34   Yes Med  No
+VENKI/Phillips Freeport                 152  15.20   283.56          9   Yes Med  No
+CELEVIK/Clervoy Orbital                 152  20.80   144.91        392   Yes Med  No
+KOLABINATES/Grant Plant                 152   8.38     3.93        474   Yes Med  No
+ETMANG/Evans Colony                     152  19.01   497.06      1.69K   Yes Med  No
+UADJARII/Asimov Platform                152   4.84    64.90         22   Yes Med  No
+VILIQUERRET/Cousin Hub                  152  15.04   192.44      3.14K   Yes Med  No
+KAREX/Ross Settlement                   152  20.07   270.90        189   Yes Med  No
+FENGAI/Tem Orbital                      152   3.97    57.45        909   Yes Med  No
+FENGAI/Poincare Prospect                152   3.97    58.01      1.27K   Yes Med  No
+MBOLGARGL/Elder Mine                    152  21.85     7.64          ?    No Med  No
+HARMA/Celebi City                       135   9.41    57.97      1.29K   Yes Med  No
+HARMA/Gabriel Enterprise                122   9.41     2.88        258   Yes Lrg  No
+ASOORAJARA/Stableford Hangar            107   9.41    63.72         43   Yes Med  No
+HIP 111808/Carver Platform               87  21.86   286.55          ?   Yes Med  No
+TAPIYAN/Bachman Beacon                   85  20.09   152.33        96K   Yes Med  No
+WARLA/Dayuan Landing                     81  22.53   271.26         16   Yes Med  No
+PANDINUS/Saberhagen Station              80  17.06   283.57         51   Yes Med  No
+TAPIYAN/Grant Stop                       80  20.09   152.35        96K   Yes Med  No
+WARLA/Robinson Landing                   80  22.53   133.76          9   Yes Med  No
+HIP 113894/Otto Base                     79  15.95   372.06          ?   Yes Med  No
+WATTUNUKAM/Redi Mine                     79  17.65   412.93          ?   Yes Med  No
+PECKOLLATES/Clayton Station              76  22.76    13.81          8   Yes Lrg  No
+KRISHA/Garan Survey                      75  12.02    63.23         26   Yes Med  No
+WATTUNUKAM/Drew Base                     69  17.65   409.75          ?   Yes Med  No
+OGMIUSITOU/Lyakhov Orbital               69  21.96    13.48          7   Yes Lrg  No
+PHRACES/Mullane Ring                     69   9.73    57.99        640   Yes Med  No
+UADJARII/O'Donnell Colony                69   4.84     8.59         12   Yes Med  No
+SAONTIANA/Kirtley Platform               68   6.15    57.46         21   Yes Med  No
+LODHARY/Anthony Dock                     67   0.00     3.89         17   Yes Med  No
+KRISHA/Fincke Depot                      66  12.02    64.88         14   Yes Med  No
+KAKMBUTAN/Gessi Station                  65  18.64   271.25          ?   Yes Med  No
+OGMIUSITOU/Hunziker Installation         63  21.96   674.79      1.70K   Yes Med  No
+SAONTIANA/Barjavel Port                  63   6.15    57.98         13   Yes Med  No
+HIP 110776/Bradbury Dock                 58  19.31   159.99        33K   Yes Med  No
+HIP 110776/Puleston Dock                 58  19.31   154.97        33K   Yes Lrg  No
+OGMIUSITOU/Seega Colony                  58  21.96   177.43      1.69K   Yes Med  No
+KAKMBUTAN/MacGregor Orbital              58  18.64     2.12         75   Yes Lrg  No
+FENRICHA/Pinzon Stop                     57  20.63    49.92        667   Yes Med  No
+HIP 111657/Narvaez's Claim               57  11.34   145.83      1.57K    No Med  No
+KAMCHANDIKA/Fozard Mines                 57  14.39    58.05         34   Yes Lrg Yes
+PECKOLLATES/Obruchev Survey              57  22.76   177.79      1.32K   Yes Med  No
+
+--------------------
+Sell "Bertrandite" with M supply from LODHARY/Lagrange Gateway bought for (typically) 2095 Cr To...
+--------------------
+
+Station                                Cost DistLy Age/days      StnLs B/mkt Pad Plt
+------------------------------------------------------------------------------------
+SAN TI/Maccurdy Port                  3,165  19.75   160.01      4.48K   Yes Med  No
+WATTUNUKAM/Redi Mine                  3,152  17.65   412.93          ?   Yes Med  No
+DEIVE/Obruchev Orbital                3,032  18.02     3.91      2.34K   Yes Lrg  No
+GLIESE 1272/Dickson Port              2,990  11.34    58.80        121   Yes Med  No
+HIP 113495/Thoreau Station            2,989  20.19    11.46         23   Yes Lrg  No
+HIP 113495/Horowitz Port              2,959  20.19   137.15         43   Yes Med  No
+HIP 113495/Sharma Terminal            2,959  20.19   125.63         75   Yes Med  No
+MBAYO/Hopkins Plant                   2,948   4.84    58.81        564   Yes Med  No
+GLIESE 1272/Gregory Terminal          2,934  11.34    48.62        201   Yes Med  No
+HARMA/Maybury City                    2,909   9.41     8.58      1.28K   Yes Med  No
+GLIESE 1272/Bao Dock                  2,883  11.34     7.61         49   Yes Lrg  No
+GLIESE 1272/Maler Station             2,874  11.34    14.32         65   Yes Lrg  No
+GLIESE 1272/Murphy Dock               2,872  11.34    51.72         86   Yes Lrg  No
+GLIESE 1272/Gregory Enterprise        2,831  11.34    45.04         65   Yes Lrg Yes
+GLIESE 1272/Barnes Port               2,788  11.34   141.16        165   Yes Med  No
+CH'U TI/Fincke Hub                    2,774  22.40   207.55        346   Yes Med  No
+GLIESE 1272/Mitropoulos Prospect      2,744  11.34   147.78         49   Yes Lrg Yes
+KAREX/Zudov Colony                    2,742  20.07   577.75          ?   Yes Med  No
+CELEVIK/Clervoy Orbital               2,734  20.80   144.91        392   Yes Med  No
+PANDINUS/Bulychev Mines               2,717  17.06   283.57         29   Yes Med  No
+CELEVIK/Dirac Dock                    2,677  20.80    45.50        541   Yes Med  No
+HARMA/Gabriel Enterprise              2,672   9.41     2.88        258   Yes Lrg  No
+KONSU/Lind Terminal                   2,637  15.60   181.85      4.05K   Yes Med  No
+PARHUA/Chalker Settlement             2,623  14.66   119.12         94   Yes Med  No
+PECKOLLATES/Clayton Station           2,610  22.76    13.81          8   Yes Lrg  No
+PHRACES/Mullane Ring                  2,526   9.73    57.99        640   Yes Med  No
+LODHARY/Anthony Dock                  2,504   0.00     3.89         17   Yes Med  No
+HIP 111808/Carver Platform            2,499  21.86   286.55          ?   Yes Med  No
+OGMIUSITOU/Lyakhov Orbital            2,470  21.96    13.48          7   Yes Lrg  No
+KAKMBUTAN/Gessi Station               2,467  18.64   271.25          ?   Yes Med  No
+ETMANG/Onnes Installation             2,439  19.01   190.57         58   Yes Med  No
+MARKAB/Perrin Port                    2,439  22.87    11.59        14K   Yes Lrg  No
+ASOORAJARA/Kennedy Platform           2,439   9.41     7.66         53   Yes Med  No
+KAMCHANDIKA/Huberath Station          2,439  14.39   133.14         34   Yes Med  No
+VENKI/Phillips Freeport               2,439  15.20   283.56          9   Yes Med  No
+KOLABINATES/Grant Plant               2,439   8.38     3.93        474   Yes Med  No
+ETMANG/Evans Colony                   2,439  19.01   497.06      1.69K   Yes Med  No
+PANDINUS/Saberhagen Station           2,439  17.06   283.57         51   Yes Med  No
+GLIESE 1272/Doyle Works               2,439  11.34    52.97         49   Yes Lrg Yes
+WARLA/Dayuan Landing                  2,439  22.53   271.26         16   Yes Med  No
+UADJARII/Asimov Platform              2,439   4.84    64.90         22   Yes Med  No
+HIP 113894/Otto Base                  2,439  15.95   372.06          ?   Yes Med  No
+TAPIYAN/Bachman Beacon                2,439  20.09   152.33        96K   Yes Med  No
+VILIQUERRET/Cousin Hub                2,439  15.04   192.44      3.14K   Yes Med  No
+KAMCHANDIKA/Burnham Hangar            2,439  14.39     7.65         23   Yes Med  No
+TAPIYAN/Grant Stop                    2,439  20.09   152.35        96K   Yes Med  No
+KAREX/Ross Settlement                 2,439  20.07   270.90        189   Yes Med  No
+FENGAI/Tem Orbital                    2,439   3.97    57.45        909   Yes Med  No
+FENGAI/Poincare Prospect              2,439   3.97    58.01      1.27K   Yes Med  No
+KRISHA/Fincke Depot                   2,439  12.02    64.88         14   Yes Med  No
+KRISHA/Garan Survey                   2,439  12.02    63.23         26   Yes Med  No
+SAONTIANA/Barjavel Port               2,439   6.15    57.98         13   Yes Med  No
+SAONTIANA/Kirtley Platform            2,439   6.15    57.46         21   Yes Med  No
+WARLA/Robinson Landing                2,427  22.53   133.76          9   Yes Med  No
+WATTUNUKAM/Drew Base                  2,407  17.65   409.75          ?   Yes Med  No
+UADJARII/O'Donnell Colony             2,399   4.84     8.59         12   Yes Med  No
+KAMCHANDIKA/Fozard Mines              2,375  14.39    58.05         34   Yes Lrg Yes
+CH'U TI/Snyder Landing                2,356  22.40   189.46        484   Yes Med  No
+HARMA/Celebi City                     2,353   9.41    57.97      1.29K   Yes Med  No
+ASOORAJARA/Stableford Hangar          2,342   9.41    63.72         43   Yes Med  No
+HIP 113894/Pierce Enterprise          2,334  15.95   169.62          ?    No Lrg Yes
+OGMIUSITOU/Hunziker Installation      2,306  21.96   674.79      1.70K   Yes Med  No
+FENRICHA/Pinzon Stop                  2,205  20.63    49.92        667   Yes Med  No
+HIP 111657/Narvaez's Claim            2,205  11.34   145.83      1.57K    No Med  No
+KALUFON/Slayton Terminal              2,205  21.09    44.95        295   Yes Med  No
+KAKMBUTAN/MacGregor Orbital           2,195  18.64     2.12         75   Yes Lrg  No
+HIP 110776/Bradbury Dock              2,187  19.31   159.99        33K   Yes Med  No
+HIP 110776/Puleston Dock              2,187  19.31   154.97        33K   Yes Lrg  No
+OGMIUSITOU/Seega Colony               2,187  21.96   177.43      1.69K   Yes Med  No
+PECKOLLATES/Obruchev Survey           2,184  22.76   177.79      1.32K   Yes Med  No
+HIP 108822/Newcomen Depot             2,124  24.69   174.64      3.21K   Yes Med  No
+
+--------------------
+Sell "Coltan" with M supply from LODHARY/Lagrange Gateway bought for (typically) 1107 Cr To...
+--------------------
+
+Station                                Cost DistLy Age/days      StnLs B/mkt Pad Plt
+------------------------------------------------------------------------------------
+SAN TI/Maccurdy Port                  1,885  19.75   160.01      4.48K   Yes Med  No
+KONSU/Lind Terminal                   1,865  15.60   181.85      4.05K   Yes Med  No
+DEIVE/Obruchev Orbital                1,787  18.02     3.91      2.34K   Yes Lrg  No
+GLIESE 1272/Bao Dock                  1,766  11.34     7.61         49   Yes Lrg  No
+GLIESE 1272/Maler Station             1,765  11.34    14.32         65   Yes Lrg  No
+HIP 113495/Thoreau Station            1,755  20.19    11.46         23   Yes Lrg  No
+MBAYO/Hopkins Plant                   1,736   4.84    58.81        564   Yes Med  No
+HIP 113495/Sharma Terminal            1,733  20.19   125.63         75   Yes Med  No
+HIP 113495/Horowitz Port              1,733  20.19   137.15         43   Yes Med  No
+HARMA/Maybury City                    1,705   9.41     8.58      1.28K   Yes Med  No
+GLIESE 1272/Gregory Terminal          1,697  11.34    48.62        201   Yes Med  No
+CELEVIK/Clervoy Orbital               1,693  20.80   144.91        392   Yes Med  No
+PANDINUS/Bulychev Mines               1,676  17.06   283.57         29   Yes Med  No
+GLIESE 1272/Gregory Enterprise        1,675  11.34    45.04         65   Yes Lrg Yes
+PARHUA/Chalker Settlement             1,673  14.66   119.12         94   Yes Med  No
+GLIESE 1272/Dickson Port              1,663  11.34    58.80        121   Yes Med  No
+GLIESE 1272/Murphy Dock               1,657  11.34    51.72         86   Yes Lrg  No
+HARMA/Gabriel Enterprise              1,635   9.41     2.88        258   Yes Lrg  No
+GLIESE 1272/Doyle Works               1,624  11.34    52.97         49   Yes Lrg Yes
+GLIESE 1272/Mitropoulos Prospect      1,621  11.34   147.78         49   Yes Lrg Yes
+ETMANG/Onnes Installation             1,619  19.01   190.57         58   Yes Med  No
+CELEVIK/Dirac Dock                    1,606  20.80    45.50        541   Yes Med  No
+KAREX/Zudov Colony                    1,580  20.07   577.75          ?   Yes Med  No
+GLIESE 1272/Barnes Port               1,492  11.34   141.16        165   Yes Med  No
+MBOLGARGL/Priest Landing              1,482  21.85   139.17        427    No Med  No
+WATTUNUKAM/Redi Mine                  1,463  17.65   412.93          ?   Yes Med  No
+MARKAB/Perrin Port                    1,460  22.87    11.59        14K   Yes Lrg  No
+PECKOLLATES/Clayton Station           1,437  22.76    13.81          8   Yes Lrg  No
+CH'U TI/Fincke Hub                    1,415  22.40   207.55        346   Yes Med  No
+PHRACES/Mullane Ring                  1,379   9.73    57.99        640   Yes Med  No
+KAMCHANDIKA/Huberath Station          1,370  14.39   133.14         34   Yes Med  No
+VENKI/Phillips Freeport               1,370  15.20   283.56          9   Yes Med  No
+KOLABINATES/Grant Plant               1,370   8.38     3.93        474   Yes Med  No
+ETMANG/Evans Colony                   1,370  19.01   497.06      1.69K   Yes Med  No
+ASOORAJARA/Kennedy Platform           1,370   9.41     7.66         53   Yes Med  No
+WARLA/Dayuan Landing                  1,370  22.53   271.26         16   Yes Med  No
+HIP 113894/Otto Base                  1,370  15.95   372.06          ?   Yes Med  No
+KAMCHANDIKA/Burnham Hangar            1,370  14.39     7.65         23   Yes Med  No
+PANDINUS/Saberhagen Station           1,370  17.06   283.57         51   Yes Med  No
+WARLA/Robinson Landing                1,370  22.53   133.76          9   Yes Med  No
+HIP 111808/Carver Platform            1,370  21.86   286.55          ?   Yes Med  No
+KAREX/Ross Settlement                 1,370  20.07   270.90        189   Yes Med  No
+TAPIYAN/Grant Stop                    1,370  20.09   152.35        96K   Yes Med  No
+VILIQUERRET/Cousin Hub                1,370  15.04   192.44      3.14K   Yes Med  No
+TAPIYAN/Bachman Beacon                1,370  20.09   152.33        96K   Yes Med  No
+FENGAI/Tem Orbital                    1,370   3.97    57.45        909   Yes Med  No
+FENGAI/Poincare Prospect              1,370   3.97    58.01      1.27K   Yes Med  No
+KRISHA/Fincke Depot                   1,370  12.02    64.88         14   Yes Med  No
+KRISHA/Garan Survey                   1,370  12.02    63.23         26   Yes Med  No
+SAONTIANA/Barjavel Port               1,370   6.15    57.98         13   Yes Med  No
+SAONTIANA/Kirtley Platform            1,370   6.15    57.46         21   Yes Med  No
+UADJARII/Asimov Platform              1,367   4.84    64.90         22   Yes Med  No
+LODHARY/Anthony Dock                  1,365   0.00     3.89         17   Yes Med  No
+KAKMBUTAN/Gessi Station               1,347  18.64   271.25          ?   Yes Med  No
+HARMA/Celebi City                     1,337   9.41    57.97      1.29K   Yes Med  No
+OGMIUSITOU/Lyakhov Orbital            1,327  21.96    13.48          7   Yes Lrg  No
+ASOORAJARA/Stableford Hangar          1,275   9.41    63.72         43   Yes Med  No
+KAMCHANDIKA/Fozard Mines              1,273  14.39    58.05         34   Yes Lrg Yes
+WATTUNUKAM/Drew Base                  1,236  17.65   409.75          ?   Yes Med  No
+UADJARII/O'Donnell Colony             1,232   4.84     8.59         12   Yes Med  No
+OGMIUSITOU/Hunziker Installation      1,231  21.96   674.79      1.70K   Yes Med  No
+KAKMBUTAN/MacGregor Orbital           1,166  18.64     2.12         75   Yes Lrg  No
+HIP 110776/Bradbury Dock              1,160  19.31   159.99        33K   Yes Med  No
+HIP 110776/Puleston Dock              1,160  19.31   154.97        33K   Yes Lrg  No
+OGMIUSITOU/Seega Colony               1,160  21.96   177.43      1.69K   Yes Med  No
+FENRICHA/Pinzon Stop                  1,159  20.63    49.92        667   Yes Med  No
+HIP 111657/Narvaez's Claim            1,159  11.34   145.83      1.57K    No Med  No
+KALUFON/Slayton Terminal              1,159  21.09    44.95        295   Yes Med  No
+PECKOLLATES/Obruchev Survey           1,157  22.76   177.79      1.32K   Yes Med  No
+CH'U TI/Snyder Landing                1,122  22.40   189.46        484   Yes Med  No
+HIP 108822/Newcomen Depot             1,114  24.69   174.64      3.21K   Yes Med  No
+HIP 113894/Pierce Enterprise          1,109  15.95   169.62          ?    No Lrg Yes
+
+--------------------
+Sell "Gallite" with M supply from LODHARY/Lagrange Gateway bought for (typically) 1579 Cr To...
+--------------------
+
+Station                                Cost DistLy Age/days      StnLs B/mkt Pad Plt
+------------------------------------------------------------------------------------
+SAN TI/Maccurdy Port                  2,506  19.75   160.01      4.48K   Yes Med  No
+DEIVE/Obruchev Orbital                2,389  18.02     3.91      2.34K   Yes Lrg  No
+GLIESE 1272/Dickson Port              2,360  11.34    58.80        121   Yes Med  No
+HIP 113495/Thoreau Station            2,352  20.19    11.46         23   Yes Lrg  No
+MBAYO/Hopkins Plant                   2,333   4.84    58.81        564   Yes Med  No
+HIP 113495/Sharma Terminal            2,325  20.19   125.63         75   Yes Med  No
+HIP 113495/Horowitz Port              2,325  20.19   137.15         43   Yes Med  No
+GLIESE 1272/Bao Dock                  2,257  11.34     7.61         49   Yes Lrg  No
+GLIESE 1272/Maler Station             2,247  11.34    14.32         65   Yes Lrg  No
+GLIESE 1272/Murphy Dock               2,234  11.34    51.72         86   Yes Lrg  No
+GLIESE 1272/Gregory Enterprise        2,204  11.34    45.04         65   Yes Lrg Yes
+HIP 113894/Cheli Survey               2,167  15.95   189.98        379    No Med  No
+CELEVIK/Clervoy Orbital               2,152  20.80   144.91        392   Yes Med  No
+HARMA/Celebi City                     2,147   9.41    57.97      1.29K   Yes Med  No
+HARMA/Maybury City                    2,147   9.41     8.58      1.28K   Yes Med  No
+CELEVIK/Dirac Dock                    2,144  20.80    45.50        541   Yes Med  No
+KAREX/Zudov Colony                    2,139  20.07   577.75          ?   Yes Med  No
+PANDINUS/Bulychev Mines               2,124  17.06   283.57         29   Yes Med  No
+GLIESE 1272/Mitropoulos Prospect      2,117  11.34   147.78         49   Yes Lrg Yes
+GLIESE 1272/Barnes Port               2,114  11.34   141.16        165   Yes Med  No
+HARMA/Gabriel Enterprise              2,057   9.41     2.88        258   Yes Lrg  No
+KONSU/Lind Terminal                   2,012  15.60   181.85      4.05K   Yes Med  No
+PARHUA/Chalker Settlement             1,996  14.66   119.12         94   Yes Med  No
+PECKOLLATES/Clayton Station           1,989  22.76    13.81          8   Yes Lrg  No
+GLIESE 1272/Gregory Terminal          1,974  11.34    48.62        201   Yes Med  No
+ASOORAJARA/Stableford Hangar          1,943   9.41    63.72         43   Yes Med  No
+PHRACES/Mullane Ring                  1,917   9.73    57.99        640   Yes Med  No
+HIP 111808/Carver Platform            1,906  21.86   286.55          ?   Yes Med  No
+LODHARY/Anthony Dock                  1,899   0.00     3.89         17   Yes Med  No
+WATTUNUKAM/Redi Mine                  1,889  17.65   412.93          ?   Yes Med  No
+ETMANG/Onnes Installation             1,883  19.01   190.57         58   Yes Med  No
+KOLABINATES/Grant Plant               1,883   8.38     3.93        474   Yes Med  No
+ETMANG/Evans Colony                   1,883  19.01   497.06      1.69K   Yes Med  No
+GLIESE 1272/Doyle Works               1,883  11.34    52.97         49   Yes Lrg Yes
+WARLA/Dayuan Landing                  1,883  22.53   271.26         16   Yes Med  No
+UADJARII/Asimov Platform              1,883   4.84    64.90         22   Yes Med  No
+HIP 113894/Otto Base                  1,883  15.95   372.06          ?   Yes Med  No
+MARKAB/Perrin Port                    1,883  22.87    11.59        14K   Yes Lrg  No
+CH'U TI/Fincke Hub                    1,883  22.40   207.55        346   Yes Med  No
+KAMCHANDIKA/Burnham Hangar            1,883  14.39     7.65         23   Yes Med  No
+TAPIYAN/Grant Stop                    1,883  20.09   152.35        96K   Yes Med  No
+VENKI/Phillips Freeport               1,883  15.20   283.56          9   Yes Med  No
+VILIQUERRET/Cousin Hub                1,883  15.04   192.44      3.14K   Yes Med  No
+KAREX/Ross Settlement                 1,883  20.07   270.90        189   Yes Med  No
+FENGAI/Tem Orbital                    1,883   3.97    57.45        909   Yes Med  No
+FENGAI/Poincare Prospect              1,883   3.97    58.01      1.27K   Yes Med  No
+KRISHA/Fincke Depot                   1,883  12.02    64.88         14   Yes Med  No
+SAONTIANA/Barjavel Port               1,883   6.15    57.98         13   Yes Med  No
+SAONTIANA/Kirtley Platform            1,883   6.15    57.46         21   Yes Med  No
+OGMIUSITOU/Lyakhov Orbital            1,868  21.96    13.48          7   Yes Lrg  No
+KAMCHANDIKA/Huberath Station          1,864  14.39   133.14         34   Yes Med  No
+TAPIYAN/Bachman Beacon                1,844  20.09   152.33        96K   Yes Med  No
+WARLA/Robinson Landing                1,844  22.53   133.76          9   Yes Med  No
+ASOORAJARA/Kennedy Platform           1,840   9.41     7.66         53   Yes Med  No
+KAKMBUTAN/Gessi Station               1,832  18.64   271.25          ?   Yes Med  No
+KRISHA/Garan Survey                   1,812  12.02    63.23         26   Yes Med  No
+PANDINUS/Saberhagen Station           1,803  17.06   283.57         51   Yes Med  No
+KALUFON/Slayton Terminal              1,789  21.09    44.95        295   Yes Med  No
+KAMCHANDIKA/Fozard Mines              1,789  14.39    58.05         34   Yes Lrg Yes
+UADJARII/O'Donnell Colony             1,756   4.84     8.59         12   Yes Med  No
+OGMIUSITOU/Hunziker Installation      1,754  21.96   674.79      1.70K   Yes Med  No
+WATTUNUKAM/Drew Base                  1,754  17.65   409.75          ?   Yes Med  No
+HIP 113894/Pierce Enterprise          1,736  15.95   169.62          ?    No Lrg Yes
+MBOLGARGL/Elder Mine                  1,688  21.85     7.64          ?    No Med  No
+FENRICHA/Pinzon Stop                  1,647  20.63    49.92        667   Yes Med  No
+HIP 111657/Narvaez's Claim            1,647  11.34   145.83      1.57K    No Med  No
+KAKMBUTAN/MacGregor Orbital           1,646  18.64     2.12         75   Yes Lrg  No
+HIP 110776/Bradbury Dock              1,640  19.31   159.99        33K   Yes Med  No
+HIP 110776/Puleston Dock              1,640  19.31   154.97        33K   Yes Lrg  No
+OGMIUSITOU/Seega Colony               1,640  21.96   177.43      1.69K   Yes Med  No
+PECKOLLATES/Obruchev Survey           1,636  22.76   177.79      1.32K   Yes Med  No
+HIP 108822/Newcomen Depot             1,585  24.69   174.64      3.21K   Yes Med  No
+
+--------------------
+Sell "Indite" with M supply from LODHARY/Lagrange Gateway bought for (typically) 1818 Cr To...
+--------------------
+
+Station                                Cost DistLy Age/days      StnLs B/mkt Pad Plt
+------------------------------------------------------------------------------------
+SAN TI/Maccurdy Port                  2,816  19.75   160.01      4.48K   Yes Med  No
+WATTUNUKAM/Redi Mine                  2,804  17.65   412.93          ?   Yes Med  No
+KONSU/Lind Terminal                   2,792  15.60   181.85      4.05K   Yes Med  No
+DEIVE/Obruchev Orbital                2,691  18.02     3.91      2.34K   Yes Lrg  No
+HIP 113495/Thoreau Station            2,652  20.19    11.46         23   Yes Lrg  No
+CELEVIK/Clervoy Orbital               2,648  20.80   144.91        392   Yes Med  No
+GLIESE 1272/Bao Dock                  2,643  11.34     7.61         49   Yes Lrg  No
+GLIESE 1272/Maler Station             2,642  11.34    14.32         65   Yes Lrg  No
+HIP 113495/Sharma Terminal            2,623  20.19   125.63         75   Yes Med  No
+HIP 113495/Horowitz Port              2,623  20.19   137.15         43   Yes Med  No
+MBAYO/Hopkins Plant                   2,622   4.84    58.81        564   Yes Med  No
+HARMA/Maybury City                    2,584   9.41     8.58      1.28K   Yes Med  No
+PARHUA/Chalker Settlement             2,560  14.66   119.12         94   Yes Med  No
+CH'U TI/Fincke Hub                    2,537  22.40   207.55        346   Yes Med  No
+HARMA/Celebi City                     2,507   9.41    57.97      1.29K   Yes Med  No
+GLIESE 1272/Dickson Port              2,492  11.34    58.80        121   Yes Med  No
+GLIESE 1272/Murphy Dock               2,484  11.34    51.72         86   Yes Lrg  No
+HARMA/Gabriel Enterprise              2,473   9.41     2.88        258   Yes Lrg  No
+GLIESE 1272/Gregory Enterprise        2,468  11.34    45.04         65   Yes Lrg Yes
+MBOLGARGL/Priest Landing              2,449  21.85   139.17        427    No Med  No
+HIP 113894/Cheli Survey               2,448  15.95   189.98        379    No Med  No
+GLIESE 1272/Gregory Terminal          2,446  11.34    48.62        201   Yes Med  No
+KAREX/Zudov Colony                    2,420  20.07   577.75          ?   Yes Med  No
+GLIESE 1272/Doyle Works               2,368  11.34    52.97         49   Yes Lrg Yes
+GLIESE 1272/Mitropoulos Prospect      2,363  11.34   147.78         49   Yes Lrg Yes
+PECKOLLATES/Clayton Station           2,265  22.76    13.81          8   Yes Lrg  No
+GLIESE 1272/Barnes Port               2,262  11.34   141.16        165   Yes Med  No
+PHRACES/Mullane Ring                  2,187   9.73    57.99        640   Yes Med  No
+LODHARY/Anthony Dock                  2,168   0.00     3.89         17   Yes Med  No
+UADJARII/Asimov Platform              2,155   4.84    64.90         22   Yes Med  No
+OGMIUSITOU/Lyakhov Orbital            2,146  21.96    13.48          7   Yes Lrg  No
+MARKAB/Perrin Port                    2,142  22.87    11.59        14K   Yes Lrg  No
+ASOORAJARA/Kennedy Platform           2,142   9.41     7.66         53   Yes Med  No
+KAMCHANDIKA/Huberath Station          2,142  14.39   133.14         34   Yes Med  No
+VENKI/Phillips Freeport               2,142  15.20   283.56          9   Yes Med  No
+PANDINUS/Saberhagen Station           2,142  17.06   283.57         51   Yes Med  No
+ETMANG/Onnes Installation             2,142  19.01   190.57         58   Yes Med  No
+WARLA/Dayuan Landing                  2,142  22.53   271.26         16   Yes Med  No
+HIP 113894/Otto Base                  2,142  15.95   372.06          ?   Yes Med  No
+VILIQUERRET/Cousin Hub                2,142  15.04   192.44      3.14K   Yes Med  No
+TAPIYAN/Bachman Beacon                2,142  20.09   152.33        96K   Yes Med  No
+KAMCHANDIKA/Burnham Hangar            2,142  14.39     7.65         23   Yes Med  No
+HIP 111808/Carver Platform            2,142  21.86   286.55          ?   Yes Med  No
+KAREX/Ross Settlement                 2,142  20.07   270.90        189   Yes Med  No
+FENGAI/Tem Orbital                    2,142   3.97    57.45        909   Yes Med  No
+KOLABINATES/Grant Plant               2,142   8.38     3.93        474   Yes Med  No
+ETMANG/Evans Colony                   2,142  19.01   497.06      1.69K   Yes Med  No
+FENGAI/Poincare Prospect              2,142   3.97    58.01      1.27K   Yes Med  No
+WATTUNUKAM/Drew Base                  2,142  17.65   409.75          ?   Yes Med  No
+KAKMBUTAN/Gessi Station               2,142  18.64   271.25          ?   Yes Med  No
+KRISHA/Garan Survey                   2,142  12.02    63.23         26   Yes Med  No
+SAONTIANA/Kirtley Platform            2,142   6.15    57.46         21   Yes Med  No
+WARLA/Robinson Landing                2,121  22.53   133.76          9   Yes Med  No
+CELEVIK/Dirac Dock                    2,114  20.80    45.50        541   Yes Med  No
+ASOORAJARA/Stableford Hangar          2,057   9.41    63.72         43   Yes Med  No
+HIP 111657/Narvaez's Claim            2,048  11.34   145.84      1.57K    No Med  No
+KAMCHANDIKA/Fozard Mines              2,048  14.39    58.05         34   Yes Lrg Yes
+TAPIYAN/Grant Stop                    2,032  20.09   152.35        96K   Yes Med  No
+CH'U TI/Snyder Landing                2,030  22.40   189.46        484   Yes Med  No
+KRISHA/Fincke Depot                   2,028  12.02    64.88         14   Yes Med  No
+OGMIUSITOU/Hunziker Installation      2,010  21.96   674.79      1.70K   Yes Med  No
+SAONTIANA/Barjavel Port               2,001   6.15    57.98         13   Yes Med  No
+HIP 113894/Pierce Enterprise          1,958  15.95   169.62          ?    No Lrg Yes
+FENRICHA/Pinzon Stop                  1,894  20.63    49.92        667   Yes Med  No
+KALUFON/Slayton Terminal              1,894  21.09    44.95        295   Yes Med  No
+KAKMBUTAN/MacGregor Orbital           1,889  18.64     2.12         75   Yes Lrg  No
+HIP 110776/Bradbury Dock              1,882  19.31   159.99        33K   Yes Med  No
+HIP 110776/Puleston Dock              1,881  19.31   154.97        33K   Yes Lrg  No
+OGMIUSITOU/Seega Colony               1,881  21.96   177.43      1.69K   Yes Med  No
+PECKOLLATES/Obruchev Survey           1,878  22.76   177.79      1.32K   Yes Med  No
+HIP 108822/Newcomen Depot             1,823  24.69   174.64      3.21K   Yes Med  No
+
+--------------------
+Sell "Lepidolite" with M supply from LODHARY/Lagrange Gateway bought for (typically) 416 Cr To...
+--------------------
+
+Station                                Cost DistLy Age/days      StnLs B/mkt Pad Plt
+------------------------------------------------------------------------------------
+SAN TI/Maccurdy Port                    881  19.75   160.01      4.48K   Yes Med  No
+WATTUNUKAM/Redi Mine                    875  17.65   412.93          ?   Yes Med  No
+KONSU/Lind Terminal                     869  15.60   181.85      4.05K   Yes Med  No
+HIP 113894/Cheli Survey                 850  15.95   189.98        379    No Med  No
+CH'U TI/Fincke Hub                      841  22.40   207.55        346   Yes Med  No
+GLIESE 1272/Bao Dock                    831  11.34     7.61         49   Yes Lrg  No
+GLIESE 1272/Maler Station               830  11.34    14.32         65   Yes Lrg  No
+GLIESE 1272/Gregory Terminal            827  11.34    48.62        201   Yes Med  No
+DEIVE/Obruchev Orbital                  820  18.02     3.91      2.34K   Yes Lrg  No
+HIP 113495/Thoreau Station              801  20.19    11.46         23   Yes Lrg  No
+GLIESE 1272/Dickson Port                792  11.34    58.80        121   Yes Med  No
+HIP 113495/Sharma Terminal              787  20.19   125.63         75   Yes Med  No
+HIP 113495/Horowitz Port                787  20.19   137.15         43   Yes Med  No
+MBAYO/Hopkins Plant                     783   4.84    58.81        564   Yes Med  No
+GLIESE 1272/Gregory Enterprise          770  11.34    45.04         65   Yes Lrg Yes
+HARMA/Maybury City                      763   9.41     8.58      1.28K   Yes Med  No
+GLIESE 1272/Murphy Dock                 738  11.34    51.72         86   Yes Lrg  No
+GLIESE 1272/Mitropoulos Prospect        727  11.34   147.78         49   Yes Lrg Yes
+KAREX/Zudov Colony                      715  20.07   577.75          ?   Yes Med  No
+MARKAB/Perrin Port                      589  22.87    11.59        14K   Yes Lrg  No
+ASOORAJARA/Kennedy Platform             589   9.41     7.66         53   Yes Med  No
+KAMCHANDIKA/Huberath Station            589  14.39   133.14         34   Yes Med  No
+VENKI/Phillips Freeport                 589  15.20   283.56          9   Yes Med  No
+GLIESE 1272/Doyle Works                 589  11.34    52.97         49   Yes Lrg Yes
+ETMANG/Onnes Installation               589  19.01   190.57         58   Yes Med  No
+CELEVIK/Clervoy Orbital                 589  20.80   144.91        392   Yes Med  No
+WARLA/Dayuan Landing                    589  22.53   271.26         16   Yes Med  No
+CELEVIK/Dirac Dock                      589  20.80    45.50        541   Yes Med  No
+KOLABINATES/Grant Plant                 589   8.38     3.93        474   Yes Med  No
+ETMANG/Evans Colony                     589  19.01   497.06      1.69K   Yes Med  No
+VILIQUERRET/Cousin Hub                  589  15.04   192.44      3.14K   Yes Med  No
+WARLA/Robinson Landing                  589  22.53   133.76          9   Yes Med  No
+HIP 111808/Carver Platform              589  21.86   286.55          ?   Yes Med  No
+KAMCHANDIKA/Burnham Hangar              589  14.39     7.65         23   Yes Med  No
+KAREX/Ross Settlement                   589  20.07   270.90        189   Yes Med  No
+FENGAI/Tem Orbital                      589   3.97    57.45        909   Yes Med  No
+FENGAI/Poincare Prospect                589   3.97    58.01      1.27K   Yes Med  No
+HIP 113894/Otto Base                    589  15.95   372.06          ?   Yes Med  No
+KRISHA/Garan Survey                     589  12.02    63.23         26   Yes Med  No
+UADJARII/O'Donnell Colony               589   4.84     8.59         12   Yes Med  No
+WATTUNUKAM/Drew Base                    589  17.65   409.75          ?   Yes Med  No
+KRISHA/Fincke Depot                     589  12.02    64.88         14   Yes Med  No
+PARHUA/Chalker Settlement               576  14.66   119.12         94   Yes Med  No
+PECKOLLATES/Clayton Station             573  22.76    13.81          8   Yes Lrg  No
+TAPIYAN/Bachman Beacon                  553  20.09   152.33        96K   Yes Med  No
+HARMA/Celebi City                       542   9.41    57.97      1.29K   Yes Med  No
+HARMA/Gabriel Enterprise                542   9.41     2.88        258   Yes Lrg  No
+PHRACES/Mullane Ring                    542   9.73    57.99        640   Yes Med  No
+LODHARY/Anthony Dock                    534   0.00     3.89         17   Yes Med  No
+PANDINUS/Saberhagen Station             533  17.06   283.57         51   Yes Med  No
+UADJARII/Asimov Platform                522   4.84    64.90         22   Yes Med  No
+KAKMBUTAN/Gessi Station                 520  18.64   271.25          ?   Yes Med  No
+TAPIYAN/Grant Stop                      511  20.09   152.35        96K   Yes Med  No
+MBOLGARGL/Elder Mine                    507  21.85     7.64          ?    No Med  No
+OGMIUSITOU/Lyakhov Orbital              492  21.96    13.48          7   Yes Lrg  No
+ASOORAJARA/Stableford Hangar            489   9.41    63.72         43   Yes Med  No
+GLIESE 1272/Barnes Port                 485  11.34   141.16        165   Yes Med  No
+KALUFON/Slayton Terminal                485  21.09    44.95        295   Yes Med  No
+KAMCHANDIKA/Fozard Mines                485  14.39    58.05         34   Yes Lrg Yes
+SAONTIANA/Barjavel Port                 482   6.15    57.98         13   Yes Med  No
+OGMIUSITOU/Hunziker Installation        477  21.96   674.79      1.70K   Yes Med  No
+CH'U TI/Snyder Landing                  472  22.40   189.46        484   Yes Med  No
+HIP 113894/Pierce Enterprise            471  15.95   169.62          ?    No Lrg Yes
+SAONTIANA/Kirtley Platform              469   6.15    57.46         21   Yes Med  No
+KAKMBUTAN/MacGregor Orbital             447  18.64     2.12         75   Yes Lrg  No
+HIP 110776/Puleston Dock                445  19.31   154.97        33K   Yes Lrg  No
+HIP 110776/Bradbury Dock                444  19.31   159.99        33K   Yes Med  No
+OGMIUSITOU/Seega Colony                 444  21.96   177.43      1.69K   Yes Med  No
+PECKOLLATES/Obruchev Survey             442  22.76   177.79      1.32K   Yes Med  No
+FENRICHA/Pinzon Stop                    425  20.63    49.92        667   Yes Med  No
+HIP 111657/Narvaez's Claim              425  11.34   145.84      1.57K    No Med  No
+
+--------------------
+Sell "Rutile" with M supply from LODHARY/Lagrange Gateway bought for (typically) 204 Cr To...
+--------------------
+
+Station                                Cost DistLy Age/days      StnLs B/mkt Pad Plt
+------------------------------------------------------------------------------------
+GLIESE 1272/Bao Dock                    510  11.34     7.61         49   Yes Lrg  No
+GLIESE 1272/Maler Station               509  11.34    14.32         65   Yes Lrg  No
+GLIESE 1272/Dickson Port                498  11.34    58.80        121   Yes Med  No
+GLIESE 1272/Murphy Dock                 491  11.34    51.72         86   Yes Lrg  No
+SAN TI/Maccurdy Port                    490  19.75   160.01      4.48K   Yes Med  No
+KONSU/Lind Terminal                     482  15.60   181.85      4.05K   Yes Med  No
+GLIESE 1272/Gregory Enterprise          478  11.34    45.04         65   Yes Lrg Yes
+CELEVIK/Clervoy Orbital                 474  20.80   144.91        392   Yes Med  No
+GLIESE 1272/Mitropoulos Prospect        451  11.34   147.78         49   Yes Lrg Yes
+DEIVE/Obruchev Orbital                  449  18.02     3.91      2.34K   Yes Lrg  No
+HARMA/Celebi City                       442   9.41    57.97      1.29K   Yes Med  No
+HIP 113495/Thoreau Station              437  20.19    11.46         23   Yes Lrg  No
+GLIESE 1272/Barnes Port                 432  11.34   141.16        165   Yes Med  No
+PANDINUS/Bulychev Mines                 430  17.06   283.57         29   Yes Med  No
+MBAYO/Hopkins Plant                     429   4.84    58.81        564   Yes Med  No
+HIP 113495/Sharma Terminal              427  20.19   125.63         75   Yes Med  No
+HIP 113495/Horowitz Port                427  20.19   137.15         43   Yes Med  No
+KAREX/Zudov Colony                      422  20.07   577.75          ?   Yes Med  No
+HARMA/Gabriel Enterprise                413   9.41     2.88        258   Yes Lrg  No
+CELEVIK/Dirac Dock                      390  20.80    45.50        541   Yes Med  No
+HARMA/Maybury City                      378   9.41     8.58      1.28K   Yes Med  No
+ETMANG/Onnes Installation               330  19.01   190.57         58   Yes Med  No
+MARKAB/Perrin Port                      330  22.87    11.59        14K   Yes Lrg  No
+KAMCHANDIKA/Huberath Station            330  14.39   133.14         34   Yes Med  No
+VENKI/Phillips Freeport                 330  15.20   283.56          9   Yes Med  No
+KOLABINATES/Grant Plant                 330   8.38     3.93        474   Yes Med  No
+ETMANG/Evans Colony                     330  19.01   497.06      1.69K   Yes Med  No
+GLIESE 1272/Doyle Works                 330  11.34    52.97         49   Yes Lrg Yes
+HIP 113894/Otto Base                    330  15.95   372.06          ?   Yes Med  No
+CH'U TI/Fincke Hub                      330  22.40   207.55        346   Yes Med  No
+ASOORAJARA/Kennedy Platform             330   9.41     7.66         53   Yes Med  No
+KAREX/Ross Settlement                   330  20.07   270.90        189   Yes Med  No
+TAPIYAN/Grant Stop                      330  20.09   152.35        96K   Yes Med  No
+UADJARII/Asimov Platform                330   4.84    64.90         22   Yes Med  No
+VILIQUERRET/Cousin Hub                  330  15.04   192.44      3.14K   Yes Med  No
+FENGAI/Tem Orbital                      330   3.97    57.45        909   Yes Med  No
+FENGAI/Poincare Prospect                330   3.97    58.01      1.27K   Yes Med  No
+SAONTIANA/Kirtley Platform              330   6.15    57.46         21   Yes Med  No
+HIP 113894/Pierce Enterprise            313  15.95   169.62          ?    No Lrg Yes
+CH'U TI/Snyder Landing                  295  22.40   189.46        484   Yes Med  No
+TAPIYAN/Bachman Beacon                  286  20.09   152.33        96K   Yes Med  No
+HIP 111808/Carver Platform              280  21.86   286.55          ?   Yes Med  No
+WATTUNUKAM/Redi Mine                    278  17.65   412.93          ?   Yes Med  No
+WARLA/Dayuan Landing                    277  22.53   271.26         16   Yes Med  No
+PANDINUS/Saberhagen Station             274  17.06   283.57         51   Yes Med  No
+PARHUA/Chalker Settlement               274  14.66   119.12         94   Yes Med  No
+PECKOLLATES/Clayton Station             270  22.76    13.81          8   Yes Lrg  No
+WARLA/Robinson Landing                  268  22.53   133.76          9   Yes Med  No
+ASOORAJARA/Stableford Hangar            264   9.41    63.72         43   Yes Med  No
+GLIESE 1272/Gregory Terminal            263  11.34    48.62        201   Yes Med  No
+KRISHA/Fincke Depot                     261  12.02    64.88         14   Yes Med  No
+MBOLGARGL/Elder Mine                    256  21.85     7.64          ?    No Med  No
+PHRACES/Mullane Ring                    252   9.73    57.99        640   Yes Med  No
+LODHARY/Anthony Dock                    248   0.00     3.89         17   Yes Med  No
+SAONTIANA/Barjavel Port                 248   6.15    57.98         13   Yes Med  No
+KRISHA/Garan Survey                     243  12.02    63.23         26   Yes Med  No
+KAKMBUTAN/Gessi Station                 242  18.64   271.25          ?   Yes Med  No
+WATTUNUKAM/Drew Base                    236  17.65   409.75          ?   Yes Med  No
+OGMIUSITOU/Hunziker Installation        235  21.96   674.79      1.70K   Yes Med  No
+UADJARII/O'Donnell Colony               235   4.84     8.59         12   Yes Med  No
+KAKMBUTAN/MacGregor Orbital             222  18.64     2.12         75   Yes Lrg  No
+HIP 110776/Bradbury Dock                220  19.31   159.99        33K   Yes Med  No
+HIP 110776/Puleston Dock                220  19.31   154.97        33K   Yes Lrg  No
+OGMIUSITOU/Seega Colony                 220  21.96   177.43      1.69K   Yes Med  No
+HIP 111657/Narvaez's Claim              219  11.34   145.84      1.57K    No Med  No
+KAMCHANDIKA/Fozard Mines                219  14.39    58.05         34   Yes Lrg Yes
+PECKOLLATES/Obruchev Survey             219  22.76   177.79      1.32K   Yes Med  No
+
+--------------------
+Sell "Uraninite" with M supply from LODHARY/Lagrange Gateway bought for (typically) 682 Cr To...
+--------------------
+
+Station                                Cost DistLy Age/days      StnLs B/mkt Pad Plt
+------------------------------------------------------------------------------------
+SAN TI/Maccurdy Port                  1,278  19.75   160.01      4.48K   Yes Med  No
+WATTUNUKAM/Redi Mine                  1,271  17.65   412.93          ?   Yes Med  No
+CELEVIK/Clervoy Orbital               1,249  20.80   144.91        392   Yes Med  No
+DEIVE/Obruchev Orbital                1,201  18.02     3.91      2.34K   Yes Lrg  No
+GLIESE 1272/Murphy Dock               1,186  11.34    51.72         86   Yes Lrg  No
+HIP 113495/Thoreau Station            1,177  20.19    11.46         23   Yes Lrg  No
+MBAYO/Hopkins Plant                   1,163   4.84    58.81        564   Yes Med  No
+GLIESE 1272/Dickson Port              1,160  11.34    58.80        121   Yes Med  No
+HIP 113495/Horowitz Port              1,159  20.19   137.15         43   Yes Med  No
+HIP 113495/Sharma Terminal            1,159  20.19   125.63         75   Yes Med  No
+GLIESE 1272/Bao Dock                  1,153  11.34     7.61         49   Yes Lrg  No
+GLIESE 1272/Barnes Port               1,151  11.34   141.16        165   Yes Med  No
+GLIESE 1272/Maler Station             1,148  11.34    14.32         65   Yes Lrg  No
+HARMA/Maybury City                    1,137   9.41     8.58      1.28K   Yes Med  No
+PARHUA/Chalker Settlement             1,113  14.66   119.12         94   Yes Med  No
+KAREX/Zudov Colony                    1,050  20.07   577.75          ?   Yes Med  No
+GLIESE 1272/Gregory Enterprise        1,044  11.34    45.04         65   Yes Lrg Yes
+HARMA/Gabriel Enterprise              1,042   9.41     2.88        258   Yes Lrg  No
+HARMA/Celebi City                       994   9.41    57.97      1.29K   Yes Med  No
+GLIESE 1272/Gregory Terminal            989  11.34    48.62        201   Yes Med  No
+HIP 113894/Cheli Survey                 978  15.95   189.98        379    No Med  No
+MBOLGARGL/Priest Landing                978  21.85   139.17        427    No Med  No
+GLIESE 1272/Doyle Works                 955  11.34    52.97         49   Yes Lrg Yes
+CH'U TI/Fincke Hub                      955  22.40   207.55        346   Yes Med  No
+GLIESE 1272/Mitropoulos Prospect        951  11.34   147.78         49   Yes Lrg Yes
+KONSU/Lind Terminal                     935  15.60   181.85      4.05K   Yes Med  No
+PECKOLLATES/Clayton Station             921  22.76    13.81          8   Yes Lrg  No
+ASOORAJARA/Kennedy Platform             889   9.41     7.66         53   Yes Med  No
+ETMANG/Onnes Installation               889  19.01   190.57         58   Yes Med  No
+UADJARII/Asimov Platform                889   4.84    64.90         22   Yes Med  No
+HIP 113894/Otto Base                    889  15.95   372.06          ?   Yes Med  No
+PANDINUS/Saberhagen Station             889  17.06   283.57         51   Yes Med  No
+MARKAB/Perrin Port                      889  22.87    11.59        14K   Yes Lrg  No
+KAMCHANDIKA/Huberath Station            889  14.39   133.14         34   Yes Med  No
+VENKI/Phillips Freeport                 889  15.20   283.56          9   Yes Med  No
+KOLABINATES/Grant Plant                 889   8.38     3.93        474   Yes Med  No
+ETMANG/Evans Colony                     889  19.01   497.06      1.69K   Yes Med  No
+VILIQUERRET/Cousin Hub                  889  15.04   192.44      3.14K   Yes Med  No
+TAPIYAN/Bachman Beacon                  889  20.09   152.34        96K   Yes Med  No
+KAMCHANDIKA/Burnham Hangar              889  14.39     7.65         23   Yes Med  No
+FENGAI/Tem Orbital                      889   3.97    57.45        909   Yes Med  No
+FENGAI/Poincare Prospect                889   3.97    58.01      1.27K   Yes Med  No
+KAREX/Ross Settlement                   889  20.07   270.90        189   Yes Med  No
+WATTUNUKAM/Drew Base                    889  17.65   409.75          ?   Yes Med  No
+SAONTIANA/Barjavel Port                 889   6.15    57.98         13   Yes Med  No
+SAONTIANA/Kirtley Platform              889   6.15    57.46         21   Yes Med  No
+PHRACES/Mullane Ring                    878   9.73    57.99        640   Yes Med  No
+LODHARY/Anthony Dock                    868   0.00     3.89         17   Yes Med  No
+WARLA/Dayuan Landing                    864  22.53   271.26         16   Yes Med  No
+CELEVIK/Dirac Dock                      859  20.80    45.50        541   Yes Med  No
+KAKMBUTAN/Gessi Station                 854  18.64   271.25          ?   Yes Med  No
+TAPIYAN/Grant Stop                      854  20.09   152.35        96K   Yes Med  No
+HIP 111808/Carver Platform              832  21.86   286.55          ?   Yes Med  No
+OGMIUSITOU/Lyakhov Orbital              826  21.96    13.48          7   Yes Lrg  No
+WARLA/Robinson Landing                  813  22.53   133.76          9   Yes Med  No
+KRISHA/Fincke Depot                     812  12.02    64.88         14   Yes Med  No
+KRISHA/Garan Survey                     811  12.02    63.23         26   Yes Med  No
+HIP 111657/Narvaez's Claim              798  11.34   145.84      1.57K    No Med  No
+KAMCHANDIKA/Fozard Mines                798  14.39    58.05         34   Yes Lrg Yes
+ASOORAJARA/Stableford Hangar            792   9.41    63.72         43   Yes Med  No
+OGMIUSITOU/Hunziker Installation        764  21.96   674.79      1.70K   Yes Med  No
+KAKMBUTAN/MacGregor Orbital             730  18.64     2.12         75   Yes Lrg  No
+HIP 110776/Puleston Dock                726  19.31   154.97        33K   Yes Lrg  No
+OGMIUSITOU/Seega Colony                 726  21.96   177.43      1.69K   Yes Med  No
+PECKOLLATES/Obruchev Survey             724  22.76   177.79      1.32K   Yes Med  No
+HIP 110776/Bradbury Dock                720  19.31   159.99        33K   Yes Med  No
+FENRICHA/Pinzon Stop                    714  20.63    49.92        667   Yes Med  No
+KALUFON/Slayton Terminal                714  21.09    44.95        295   Yes Med  No
+HIP 108822/Newcomen Depot               690  24.69   174.64      3.21K   Yes Med  No
+
+--------------------
+Sell "Imperial Slaves" with M supply from LODHARY/Lagrange Gateway bought for (typically) 15958 Cr To...
+--------------------
+
+Station                                 Cost DistLy Age/days      StnLs B/mkt Pad Plt
+-------------------------------------------------------------------------------------
+HIP 108822/Newcomen Depot             17,121  24.69   174.64      3.21K   Yes Med  No
+APTETI/Becquerel Port                 16,990  21.49     2.47        381   Yes Lrg  No
+HIP 113495/Sharma Terminal            16,983  20.19   125.63         75   Yes Med  No
+KACHIRIGIN/Zebrowski Installation     16,917  24.72   204.58        421   Yes Lrg Yes
+KACHIRIGIN/Dana Base                  16,883  24.72   189.50        340   Yes Lrg Yes
+PANDINUS/Bulychev Mines               16,816  17.06   283.57         29   Yes Med  No
+KALUFON/Slayton Terminal              16,783  21.09    44.95        295   Yes Med  No
+WATTUNUKAM/Redi Mine                  16,743  17.65   412.93          ?   Yes Med  No
+KONSU/Lind Terminal                   16,731  15.60   181.85      4.05K   Yes Med  No
+MBAYO/Hopkins Plant                   16,532   4.84    58.81        564   Yes Med  No
+PARHUA/Chalker Settlement             16,499  14.66   119.12         94   Yes Med  No
+BIKO/Forstchen Horizons               16,474  14.47   148.92      2.02K   Yes Med  No
+DEGASTANI/Sargent Gateway             16,474  24.70    46.76      3.42K   Yes Med  No
+HIP 113495/Horowitz Port              16,474  20.19   137.15         43   Yes Med  No
+KACHIRIGIN/Nowak Orbital              16,474  24.72    10.66        340   Yes Lrg  No
+KACHIRIGIN/Schrodinger Terminal       16,474  24.72   207.55        420   Yes Lrg  No
+WIRNAKO/Morgan Installation           16,474  23.43   140.76        511   Yes Med  No
+HARMA/Maybury City                    16,415   9.41     8.58      1.28K   Yes Med  No
+KAKMBUTAN/Gessi Station               16,376  18.64   271.25          ?   Yes Med  No
+HARMA/Muhammad Ibn Battuta Point      16,349   9.41    54.59      2.19K   Yes Lrg Yes
+HIP 113894/Pierce Enterprise          16,314  15.95   169.62          ?    No Lrg Yes
+KAREX/Zudov Colony                    16,266  20.07   577.75          ?   Yes Med  No
+CUICAURE/Korzun Beacon                16,049  24.10   142.63      1.43K   Yes Med  No
+HIP 109490/Grant Mines                16,049  23.95    10.59      1.43K   Yes Med  No
+PANDINUS/Saberhagen Station           16,030  17.06   283.57         51   Yes Med  No
+ASOORAJARA/Stableford Hangar          16,030   9.41    63.72         43   Yes Med  No
+APTETI/Sturckow Ring                  16,018  21.49    13.82        641    No Med  No
+APTETI/Henry Park                     16,017  21.49    13.82        264    No Med  No
+HARMA/Celebi City                     15,991   9.41    57.97      1.29K   Yes Med  No
+
+--------------------
+Sell "Computer Components" with H supply from LODHARY/Lagrange Gateway bought for (typically) 312 Cr To...
+--------------------
+
+Station                                Cost DistLy Age/days      StnLs B/mkt Pad Plt
+------------------------------------------------------------------------------------
+AUTA ISUANG/Mendez Point                760  13.66   279.01          ?   Yes Lrg Yes
+DEIVE/Obruchev Orbital                  736  18.02     3.91      2.34K   Yes Lrg  No
+HARMA/Muhammad Ibn Battuta Point        626   9.41    54.59      2.19K   Yes Lrg Yes
+MARKAB/Remec Survey                     617  22.87    12.62          ?    No Lrg Yes
+PHRACES/Baxter Penal Colony             527   9.73   119.74        209   Yes Lrg Yes
+DEGASTANI/Sargent Gateway               426  24.70    46.76      3.42K   Yes Med  No
+HIP 113495/Horowitz Port                426  20.19   137.15         43   Yes Med  No
+HIP 113495/Thoreau Station              426  20.19    11.46         23   Yes Lrg  No
+KACHIRIGIN/Schrodinger Terminal         426  24.72   207.55        420   Yes Lrg  No
+LODHARY/Anthony Dock                    426   0.00     3.89         17   Yes Med  No
+PHRACES/Mullane Ring                    426   9.73    57.99        640   Yes Med  No
+OGMIUSITOU/Hunziker Installation        417  21.96   674.79      1.70K   Yes Med  No
+HIP 113495/Sharma Terminal              389  20.19   125.63         75   Yes Med  No
+PECKOLLATES/Clayton Station             378  22.76    13.81          8   Yes Lrg  No
+BIKO/Forstchen Horizons                 375  14.47   148.92      2.02K   Yes Med  No
+WIRNAKO/Morgan Installation             375  23.43   140.76        511   Yes Med  No
+OGMIUSITOU/Lyakhov Orbital              370  21.96    13.48          7   Yes Lrg  No
+HARMA/Maybury City                      363   9.41     8.58      1.28K   Yes Med  No
+OGMIUSITOU/Seega Colony                 362  21.96   177.43      1.69K   Yes Med  No
+PECKOLLATES/Obruchev Survey             355  22.76   177.79      1.32K   Yes Med  No
+KAKMBUTAN/Gessi Station                 354  18.64   271.25          ?   Yes Med  No
+HARMA/Celebi City                       319   9.41    57.97      1.29K   Yes Med  No
+HARMA/Gabriel Enterprise                319   9.41     2.88        258   Yes Lrg  No
+
+--------------------
+Sell "Biowaste" with M supply from LODHARY/Lagrange Gateway bought for (typically) 13 Cr To...
+--------------------
+
+Station                        Cost DistLy Age/days      StnLs B/mkt Pad Plt
+----------------------------------------------------------------------------
+HIP 110205/Tokubei Hub          125  17.00     3.90        571   Yes Lrg  No
+KACHIRIGIN/Nowak Orbital         56  24.72    10.66        340   Yes Lrg  No
+BHADO/Carpini Prospect           14  13.49   254.78          ?   Yes Lrg Yes
+
+--------------------
+Sell "Scrap" with M supply from LODHARY/Lagrange Gateway bought for (typically) 28 Cr To...
+--------------------
+
+Station                                Cost DistLy Age/days      StnLs B/mkt Pad Plt
+------------------------------------------------------------------------------------
+PANDINUS/Bulychev Mines                 148  17.06   283.57         29   Yes Med  No
+MBOLGARGL/Priest Landing                146  21.85   139.17        427    No Med  No
+HIP 113894/Cheli Survey                 145  15.95   189.98        379    No Med  No
+MBAYO/Hopkins Plant                      96   4.84    58.81        564   Yes Med  No
+PARHUA/Chalker Settlement                93  14.66   119.12         94   Yes Med  No
+WATTUNUKAM/Drew Base                     92  17.65   409.75          ?   Yes Med  No
+CH'U TI/Snyder Landing                   85  22.40   189.46        484   Yes Med  No
+KAREX/Zudov Colony                       71  20.07   577.75          ?   Yes Med  No
+GLIESE 1272/Bao Dock                     70  11.34     7.61         49   Yes Lrg  No
+GLIESE 1272/Maler Station                70  11.34    14.32         65   Yes Lrg  No
+GLIESE 1272/Dickson Port                 70  11.34    58.80        121   Yes Med  No
+GLIESE 1272/Gregory Terminal             70  11.34    48.62        201   Yes Med  No
+GLIESE 1272/Murphy Dock                  70  11.34    51.72         86   Yes Lrg  No
+GLIESE 1272/Barnes Port                  70  11.34   141.16        165   Yes Med  No
+ETMANG/Onnes Installation                70  19.01   190.57         58   Yes Med  No
+CELEVIK/Clervoy Orbital                  70  20.80   144.91        392   Yes Med  No
+MARKAB/Perrin Port                       70  22.87    11.59        14K   Yes Lrg  No
+CH'U TI/Fincke Hub                       70  22.40   207.55        346   Yes Med  No
+CELEVIK/Dirac Dock                       70  20.80    45.50        541   Yes Med  No
+ASOORAJARA/Kennedy Platform              70   9.41     7.66         53   Yes Med  No
+KAMCHANDIKA/Huberath Station             70  14.39   133.14         34   Yes Med  No
+VENKI/Phillips Freeport                  70  15.20   283.56          9   Yes Med  No
+KOLABINATES/Grant Plant                  70   8.38     3.93        474   Yes Med  No
+ETMANG/Evans Colony                      70  19.01   497.06      1.69K   Yes Med  No
+PANDINUS/Saberhagen Station              70  17.06   283.57         51   Yes Med  No
+WARLA/Dayuan Landing                     70  22.53   271.26         16   Yes Med  No
+UADJARII/Asimov Platform                 70   4.84    64.90         22   Yes Med  No
+KAMCHANDIKA/Burnham Hangar               70  14.39     7.65         23   Yes Med  No
+HIP 113894/Otto Base                     70  15.95   372.06          ?   Yes Med  No
+TAPIYAN/Bachman Beacon                   70  20.09   152.34        96K   Yes Med  No
+VILIQUERRET/Cousin Hub                   70  15.04   192.44      3.14K   Yes Med  No
+WARLA/Robinson Landing                   70  22.53   133.76          9   Yes Med  No
+HIP 111808/Carver Platform               70  21.86   286.55          ?   Yes Med  No
+TAPIYAN/Grant Stop                       70  20.09   152.35        96K   Yes Med  No
+KAREX/Ross Settlement                    70  20.07   270.90        189   Yes Med  No
+FENGAI/Tem Orbital                       70   3.97    57.45        909   Yes Med  No
+FENGAI/Poincare Prospect                 70   3.97    58.01      1.27K   Yes Med  No
+SAONTIANA/Kirtley Platform               70   6.15    57.46         21   Yes Med  No
+SAONTIANA/Barjavel Port                  70   6.15    57.99         13   Yes Med  No
+KRISHA/Garan Survey                      70  12.02    63.23         26   Yes Med  No
+UADJARII/O'Donnell Colony                70   4.84     8.59         12   Yes Med  No
+KRISHA/Fincke Depot                      70  12.02    64.88         14   Yes Med  No
+MBOLGARGL/Elder Mine                     70  21.85     7.64          ?    No Med  No
+HARMA/Maybury City                       68   9.41     8.58      1.28K   Yes Med  No
+WATTUNUKAM/Redi Mine                     65  17.65   412.93          ?   Yes Med  No
+SAN TI/Maccurdy Port                     49  19.75   160.01      4.48K   Yes Med  No
+ASOORAJARA/Stableford Hangar             49   9.41    63.72         43   Yes Med  No
+KONSU/Lind Terminal                      49  15.60   181.86      4.05K   Yes Med  No
+OGMIUSITOU/Hunziker Installation         39  21.96   674.79      1.70K   Yes Med  No
+HIP 113495/Sharma Terminal               36  20.19   125.63         75   Yes Med  No
+HARMA/Celebi City                        32   9.41    57.97      1.29K   Yes Med  No
+HARMA/Gabriel Enterprise                 30   9.41     2.89        258   Yes Lrg  No
+HARMA/Muhammad Ibn Battuta Point         30   9.41    54.59      2.19K   Yes Lrg Yes
+MARKAB/Remec Survey                      29  22.87    12.62          ?    No Lrg Yes
+
+--------------------
+Sell "Battle Weapons" with H supply from LODHARY/Lagrange Gateway bought for (typically) 5877 Cr To...
+--------------------
+
+Station                                 Cost DistLy Age/days      StnLs B/mkt Pad Plt
+-------------------------------------------------------------------------------------
+KACHIRIGIN/Nowak Orbital               7,216  24.72    10.66        340   Yes Lrg  No
+KACHIRIGIN/Zebrowski Installation      7,216  24.72   204.58        421   Yes Lrg Yes
+KACHIRIGIN/Dana Base                   7,171  24.72   189.50        340   Yes Lrg Yes
+HIP 108822/Newcomen Depot              7,120  24.69   174.64      3.21K   Yes Med  No
+HARMA/Muhammad Ibn Battuta Point       6,995   9.41    54.59      2.19K   Yes Lrg Yes
+PANDINUS/Bulychev Mines                6,990  17.06   283.57         29   Yes Med  No
+PANDINUS/Saberhagen Station            6,990  17.06   283.57         51   Yes Med  No
+PANDINUS/Offutt Installation           6,990  17.06   317.91      1.14K   Yes Lrg Yes
+APTETI/Abel Landing                    6,983  21.49   274.89          ?    No Lrg Yes
+UADJARII/Asimov Platform               6,860   4.84    64.90         22   Yes Med  No
+DEGASTANI/Sargent Gateway              6,731  24.70    46.76      3.42K   Yes Med  No
+HIP 113495/Horowitz Port               6,731  20.19   137.15         43   Yes Med  No
+HIP 113495/Sharma Terminal             6,731  20.19   125.63         75   Yes Med  No
+KACHIRIGIN/Schrodinger Terminal        6,394  24.72   207.55        420   Yes Lrg  No
+WIRNAKO/Morgan Installation            6,394  23.43   140.76        511   Yes Med  No
+APTETI/Henry Park                      6,356  21.49    13.82        264    No Med  No
+APTETI/Sturckow Ring                   6,356  21.49    13.82        641    No Med  No
+HARMA/Celebi City                      6,356   9.41    57.97      1.29K   Yes Med  No
+HARMA/Gabriel Enterprise               6,356   9.41     2.89        258   Yes Lrg  No
+KACHIRIGIN/Rukavishnikov City          6,356  24.72   189.52        604   Yes Lrg  No
+WIRNAKO/Cobb Landing                   6,356  23.43   280.46        734   Yes Med  No
+WIRNAKO/Moffitt Platform               6,356  23.43     9.75        406   Yes Lrg  No
+KAKMBUTAN/MacGregor Orbital            6,356  18.64     2.12         75   Yes Lrg  No
+HARMA/Maybury City                     6,293   9.41     8.58      1.28K   Yes Med  No
+KAKMBUTAN/Gessi Station                6,293  18.64   271.25          ?   Yes Med  No
+OGMIUSITOU/Seega Colony                6,170  21.96   177.43      1.69K   Yes Med  No
+HIP 110776/Bradbury Dock               6,160  19.31   159.99        33K   Yes Med  No
+PECKOLLATES/Obruchev Survey            6,150  22.76   177.79      1.32K   Yes Med  No
+HIP 110776/Puleston Dock               6,140  19.31   154.97        33K   Yes Lrg  No
+
+--------------------
+Sell "Personal Weapons" with M supply from LODHARY/Lagrange Gateway bought for (typically) 3694 Cr To...
+--------------------
+
+Station                                 Cost DistLy Age/days      StnLs B/mkt Pad Plt
+-------------------------------------------------------------------------------------
+PECKOLLATES/Clayton Station            6,047  22.76    13.81          8   Yes Lrg  No
+SAN TI/Maccurdy Port                   5,204  19.75   160.01      4.48K   Yes Med  No
+KONSU/Lind Terminal                    5,170  15.60   181.86      4.05K   Yes Med  No
+KAMCHANDIKA/Fozard Mines               5,153  14.39    58.05         34   Yes Lrg Yes
+MBOLGARGL/Tanaka Horizons              5,111  21.85   114.54        427    No Lrg Yes
+HIP 111657/Narvaez's Claim             4,981  11.34   145.84      1.57K    No Med  No
+KALUFON/Slayton Terminal               4,981  21.09    44.95        295   Yes Med  No
+FENRICHA/Pinzon Stop                   4,981  20.63    49.92        667   Yes Med  No
+WATTUNUKAM/Redi Mine                   4,933  17.65   412.93          ?   Yes Med  No
+HIP 108822/Newcomen Depot              4,876  24.69   174.64      3.21K   Yes Med  No
+DEGASTANI/Weiss Orbital                4,821  24.70     9.78        992   Yes Lrg  No
+APTETI/Becquerel Port                  4,803  21.49     2.47        381   Yes Lrg  No
+PHRACES/Mullane Ring                   4,775   9.73    57.99        640   Yes Med  No
+MBOLGARGL/Priest Landing               4,767  21.85   139.17        427    No Med  No
+PANDINUS/Offutt Installation           4,730  17.06   317.91      1.14K   Yes Lrg Yes
+PANDINUS/Bulychev Mines                4,730  17.06   283.57         29   Yes Med  No
+PANDINUS/Saberhagen Station            4,730  17.06   283.57         51   Yes Med  No
+HIP 110205/Tokubei Hub                 4,724  17.00     3.90        571   Yes Lrg  No
+KACHIRIGIN/Nowak Orbital               4,722  24.72    10.66        340   Yes Lrg  No
+KACHIRIGIN/Zebrowski Installation      4,722  24.72   204.58        421   Yes Lrg Yes
+APTETI/Abel Landing                    4,721  21.49   274.89          ?    No Lrg Yes
+MBAYO/Hopkins Plant                    4,702   4.84    58.81        564   Yes Med  No
+BHADO/Carpini Prospect                 4,685  13.49   254.78          ?   Yes Lrg Yes
+KACHIRIGIN/Dana Base                   4,683  24.72   189.50        340   Yes Lrg Yes
+KAREX/Zudov Colony                     4,669  20.07   577.75          ?   Yes Med  No
+PARHUA/Chalker Settlement              4,668  14.66   119.12         94   Yes Med  No
+HARMA/Celebi City                      4,487   9.41    57.97      1.29K   Yes Med  No
+HARMA/Gabriel Enterprise               4,487   9.41     2.89        258   Yes Lrg  No
+KAKMBUTAN/MacGregor Orbital            4,487  18.64     2.12         75   Yes Lrg  No
+HARMA/Maybury City                     4,443   9.41     8.58      1.28K   Yes Med  No
+KAKMBUTAN/Gessi Station                4,443  18.64   271.25          ?   Yes Med  No
+CUICAURE/Korzun Beacon                 4,387  24.10   142.63      1.43K   Yes Med  No
+HIP 109490/Grant Mines                 4,387  23.95    10.59      1.43K   Yes Med  No
+KOLABINATES/Grant Plant                4,380   8.38     3.93        474   Yes Med  No
+KAREX/Ross Settlement                  4,380  20.07   270.90        189   Yes Med  No
+FENGAI/Poincare Prospect               4,380   3.97    58.01      1.27K   Yes Med  No
+FENGAI/Tem Orbital                     4,380   3.97    57.45        909   Yes Med  No
+HIP 111808/Carver Platform             4,374  21.86   286.55          ?   Yes Med  No
+WATTUNUKAM/Kekule Camp                 4,369  17.65   317.81          ?   Yes Lrg Yes
+WATTUNUKAM/Drew Base                   4,369  17.65   409.75          ?   Yes Med  No
+WARLA/Robinson Landing                 4,365  22.53   133.76          9   Yes Med  No
+ASOORAJARA/Kennedy Platform            4,365   9.41     7.66         53   Yes Med  No
+WARLA/Dayuan Landing                   4,365  22.53   271.26         16   Yes Med  No
+TAPIYAN/Grant Stop                     4,365  20.09   152.35        96K   Yes Med  No
+ETMANG/Evans Colony                    4,365  19.01   497.06      1.69K   Yes Med  No
+TAPIYAN/Bachman Beacon                 4,365  20.09   152.34        96K   Yes Med  No
+UADJARII/Asimov Platform               4,365   4.84    64.90         22   Yes Med  No
+KRISHA/Fincke Depot                    4,365  12.02    64.88         14   Yes Med  No
+UADJARII/O'Donnell Colony              4,365   4.84     8.59         12   Yes Med  No
+KRISHA/Garan Survey                    4,365  12.02    63.23         26   Yes Med  No
+KAMCHANDIKA/Huberath Station           4,360  14.39   133.14         34   Yes Med  No
+AUTA ISUANG/Evans Settlement           4,353  13.66   188.01        353   Yes Lrg  No
+CELEVIK/Dirac Dock                     4,353  20.80    45.50        541   Yes Med  No
+AUTA ISUANG/Dunbar Orbital             4,353  13.66   188.00        532    No Med  No
+MBOLGARGL/Elder Mine                   4,348  21.85     7.64          ?    No Med  No
+SAONTIANA/Barjavel Port                4,341   6.15    57.99         13   Yes Med  No
+SAONTIANA/Kirtley Platform             4,341   6.15    57.46         21   Yes Med  No
+ASOORAJARA/Stableford Hangar           4,278   9.41    63.72         43   Yes Med  No
+DEGASTANI/Sargent Gateway              4,202  24.70    46.76      3.42K   Yes Med  No
+HIP 113495/Horowitz Port               4,202  20.19   137.15         43   Yes Med  No
+HIP 113495/Sharma Terminal             4,202  20.19   125.63         75   Yes Med  No
+HIP 113894/Pierce Enterprise           4,163  15.95   169.62          ?    No Lrg Yes
+GLIESE 1272/Dickson Port               4,122  11.34    58.80        121   Yes Med  No
+GLIESE 1272/Bao Dock                   4,122  11.34     7.61         49   Yes Lrg  No
+GLIESE 1272/Maler Station              4,122  11.34    14.32         65   Yes Lrg  No
+GLIESE 1272/Murphy Dock                4,122  11.34    51.72         86   Yes Lrg  No
+GLIESE 1272/Barnes Port                4,122  11.34   141.16        165   Yes Med  No
+ETMANG/Onnes Installation              4,122  19.01   190.57         58   Yes Med  No
+GERDISAO/Lee Settlement                4,122  18.62   154.97        258   Yes Med  No
+GLIESE 1272/Gregory Enterprise         4,122  11.34    45.04         65   Yes Lrg Yes
+GLIESE 1272/Doyle Works                4,122  11.34    52.97         49   Yes Lrg Yes
+KAMCHANDIKA/Burnham Hangar             4,122  14.39     7.65         23   Yes Med  No
+KONSU/Feustel Beacon                   4,122  15.60    62.66      4.05K   Yes Lrg Yes
+OGMIUSITOU/Seega Colony                4,114  21.96   177.43      1.69K   Yes Med  No
+KACHIRIGIN/Schrodinger Terminal        3,993  24.72   207.55        420   Yes Lrg  No
+WIRNAKO/Morgan Installation            3,993  23.43   140.76        511   Yes Med  No
+BIKO/Forstchen Horizons                3,982  14.47   148.92      2.02K   Yes Med  No
+APTETI/Henry Park                      3,949  21.49    13.82        264    No Med  No
+APTETI/Sturckow Ring                   3,949  21.49    13.82        641    No Med  No
+KACHIRIGIN/Rukavishnikov City          3,949  24.72   189.52        604   Yes Lrg  No
+WIRNAKO/Cobb Landing                   3,949  23.43   280.46        734   Yes Med  No
+WIRNAKO/Moffitt Platform               3,949  23.43     9.75        406   Yes Lrg  No
+BHADO/Napier Station                   3,937  13.49   173.75      2.93K   Yes Med  No
+HARMA/Muhammad Ibn Battuta Point       3,910   9.41    54.59      2.19K   Yes Lrg Yes
+MARKAB/Remec Survey                    3,860  22.87    12.62          ?    No Lrg Yes

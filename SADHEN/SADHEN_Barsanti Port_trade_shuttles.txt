@@ -56,71 +56,71 @@
 #
 ---------------------------------------------------------------------------------------------------------
 Best Trade Shuttle starting and ending at SADHEN/Barsanti Port with 13 ly between trades
-For MEDIUM and SMALL ships only, generated at 07/04/2017-10:32:06.83 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 08/11/2017- 9:22:39.06 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-SADHEN/Barsanti Port -> SADHEN/Barsanti Port (score: 2144.591360)
+SADHEN/Barsanti Port -> SADHEN/Barsanti Port (score: 2302.597240)
   Load from SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Mineral Extractors      507cr vs    1,243cr, 6 days vs 11 days
-  Unload at PATOCUDA/Bao Orbital (29ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 736cr (736cr/ton) => 100,736cr
+        1 x Machinery/Mineral Extractors      363cr vs    1,243cr, 14 hrs vs 3 days
+  Unload at PATOCUDA/Bao Orbital (29ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 880cr (880cr/ton) => 100,880cr
   Load from PATOCUDA/Bao Orbital (29ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
-        1 x Silver                4,300cr vs    5,708cr, 11 days vs 6 days
-  Unload at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,408cr (1,408cr/ton) => 102,144cr
+        1 x Metals/Palladium               12,709cr vs   14,131cr, 3 days vs 14 hrs
+  Unload at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,422cr (1,422cr/ton) => 102,302cr
   ----------------------------------------------------------------------------
-Finish at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 2,144cr (1,072cr/ton) => est 102,144cr total
+Finish at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 2,302cr (1,151cr/ton) => est 102,302cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Shuttle starting and ending at SADHEN/Barsanti Port with 37.5 ly between trades
-For MEDIUM and SMALL ships only, generated at 07/04/2017-10:32:20.23 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 08/11/2017- 9:22:50.88 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-SADHEN/Barsanti Port -> SADHEN/Barsanti Port (score: 2520.667380)
+SADHEN/Barsanti Port -> SADHEN/Barsanti Port (score: 2963.309080)
   Load from SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Survival Equipment      286cr vs    1,217cr, 6 days vs 22 days
-  Unload at KAMCHANDIKA/Fozard Mines (32ls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y) => Gain 931cr (931cr/ton) => 100,931cr
-  Load from KAMCHANDIKA/Fozard Mines (32ls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y):
-        1 x Silver                4,119cr vs    5,708cr, 22 days vs 6 days
-  Unload at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,589cr (1,589cr/ton) => 102,520cr
+        1 x Machinery/Mineral Extractors      363cr vs    1,447cr, 14 hrs vs 9 days
+  Unload at MILCENU/Berners-Lee Landing (495ls, BMk:N, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 1,084cr (1,084cr/ton) => 101,084cr
+  Load from MILCENU/Berners-Lee Landing (495ls, BMk:N, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
+        1 x Metals/Gold                     8,390cr vs   10,268cr, 9 days vs 14 hrs
+  Unload at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,878cr (1,878cr/ton) => 102,962cr
   ----------------------------------------------------------------------------
-Finish at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 2,520cr (1,260cr/ton) => est 102,520cr total
+Finish at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 2,962cr (1,481cr/ton) => est 102,962cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Shuttle starting and ending at SADHEN/Barsanti Port with 42.5 ly between trades
-For MEDIUM and SMALL ships only, generated at 07/04/2017-10:32:34.10 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 08/11/2017- 9:23:03.03 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-SADHEN/Barsanti Port -> SADHEN/Barsanti Port (score: 2520.667380)
+SADHEN/Barsanti Port -> SADHEN/Barsanti Port (score: 2963.309080)
   Load from SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Survival Equipment      286cr vs    1,217cr, 6 days vs 22 days
-  Unload at KAMCHANDIKA/Fozard Mines (32ls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y) => Gain 931cr (931cr/ton) => 100,931cr
-  Load from KAMCHANDIKA/Fozard Mines (32ls, BMk:Y, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y):
-        1 x Silver                4,119cr vs    5,708cr, 22 days vs 6 days
-  Unload at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,589cr (1,589cr/ton) => 102,520cr
+        1 x Machinery/Mineral Extractors      363cr vs    1,447cr, 14 hrs vs 9 days
+  Unload at MILCENU/Berners-Lee Landing (495ls, BMk:N, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 1,084cr (1,084cr/ton) => 101,084cr
+  Load from MILCENU/Berners-Lee Landing (495ls, BMk:N, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
+        1 x Metals/Gold                     8,390cr vs   10,268cr, 9 days vs 14 hrs
+  Unload at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,878cr (1,878cr/ton) => 102,962cr
   ----------------------------------------------------------------------------
-Finish at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 2,520cr (1,260cr/ton) => est 102,520cr total
+Finish at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 2,962cr (1,481cr/ton) => est 102,962cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Shuttle starting and ending at SADHEN/Barsanti Port with 76.5 ly between trades
-For MEDIUM and SMALL ships only, generated at 07/04/2017-10:32:48.05 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 08/11/2017- 9:23:15.20 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-SADHEN/Barsanti Port -> SADHEN/Barsanti Port (score: 3121.675780)
+SADHEN/Barsanti Port -> SADHEN/Barsanti Port (score: 3352.573080)
   Load from SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Survival Equipment      286cr vs    1,798cr, 6 days vs 27 days
-  Unload at ABROG/Velazquez Vision (32ls, BMk:N, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y) => Gain 1,512cr (1,512cr/ton) => 101,512cr
-  Load from ABROG/Velazquez Vision (32ls, BMk:N, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y):
-        1 x Superconductors       6,132cr vs    7,741cr, 27 days vs 6 days
-  Unload at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,609cr (1,609cr/ton) => 103,121cr
+        1 x Medicines/Basic Medicines      193cr vs    3,141cr, 14 hrs vs 10 days
+  Unload at HIP 943/Lloyd Vision (4.64Kls, BMk:N, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 2,948cr (2,948cr/ton) => 102,948cr
+  Load from HIP 943/Lloyd Vision (4.64Kls, BMk:N, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Metals/Cobalt                  199cr vs      701cr, 10 days vs 14 hrs
+  Unload at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 502cr (502cr/ton) => 103,450cr
   ----------------------------------------------------------------------------
-Finish at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 3,121cr (1,560cr/ton) => est 103,121cr total
+Finish at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 3,450cr (1,725cr/ton) => est 103,450cr total
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Shuttle starting and ending at SADHEN/Barsanti Port with 105.7 ly between trades
-For MEDIUM and SMALL ships only, generated at 07/04/2017-10:33:21.49 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 08/11/2017- 9:23:37.81 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-SADHEN/Barsanti Port -> SADHEN/Barsanti Port (score: 3121.675780)
+SADHEN/Barsanti Port -> SADHEN/Barsanti Port (score: 4232.777020)
   Load from SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y):
-        1 x Survival Equipment      286cr vs    1,798cr, 6 days vs 27 days
-  Unload at ABROG/Velazquez Vision (32ls, BMk:N, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y) => Gain 1,512cr (1,512cr/ton) => 101,512cr
-  Load from ABROG/Velazquez Vision (32ls, BMk:N, Pad:L, Plt:Y, Shp:N, Out:Y, Ref:Y):
-        1 x Superconductors       6,132cr vs    7,741cr, 27 days vs 6 days
-  Unload at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 1,609cr (1,609cr/ton) => 103,121cr
+        1 x Machinery/Crop Harvesters    1,813cr vs    2,637cr, 14 hrs vs 13 hrs
+  Unload at LTT 8517/Hopkins Dock (397ls, BMk:N, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 824cr (824cr/ton) => 100,824cr
+  Load from LTT 8517/Hopkins Dock (397ls, BMk:N, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Slavery/Imperial Slaves     12,570cr vs   15,977cr, 13 hrs vs 14 hrs
+  Unload at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) => Gain 3,407cr (3,407cr/ton) => 104,231cr
   ----------------------------------------------------------------------------
-Finish at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 3,121cr (1,560cr/ton) => est 103,121cr total
+Finish at SADHEN/Barsanti Port (708ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:N, Ref:Y) gaining 4,231cr (2,115cr/ton) => est 104,231cr total
 

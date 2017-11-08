@@ -56,10 +56,9 @@
 #
 ---------------------------------------------------------------------------------------------------------
 Best Trade Triangle starting and ending at GLIESE1272/Gregory Enterprise with 13 ly between trades
-For ANY SIZE ship, generated at 07/04/2017- 8:03:10.25 [DD/MM/YYYY-UTC] 
+For ANY SIZE ship, generated at 08/11/2017- 7:33:47.31 [DD/MM/YYYY-UTC] 
 ---------------------------------------------------------------------------------------------------------
-NOTE: Pruned 5 origins too far from any end stations
-P:\Program Files (x86)\td\trade.py: Error: No routes had reachable trading links at hop #3
+P:\Program Files (x86)\td\trade.py: Error: No buying prices at GLIESE 1272/Gregory Enterprise.
 
 Possible causes:
 - No profitable runs or routes meet your criteria,
@@ -74,10 +73,9 @@ For more help, see the TradeDangerous Wiki:
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Triangle starting and ending at GLIESE1272/Gregory Enterprise with 13 ly between trades
-For MEDIUM and SMALL ships only, generated at 07/04/2017- 8:03:19.98 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 08/11/2017- 7:33:55.69 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-NOTE: Pruned 15 origins too far from any end stations
-P:\Program Files (x86)\td\trade.py: Error: No routes had reachable trading links at hop #3
+P:\Program Files (x86)\td\trade.py: Error: No buying prices at GLIESE 1272/Gregory Enterprise.
 
 Possible causes:
 - No profitable runs or routes meet your criteria,
@@ -92,10 +90,9 @@ For more help, see the TradeDangerous Wiki:
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Triangle starting and ending at GLIESE1272/Gregory Enterprise with 37.5 ly between trades
-For ANY SIZE ship, generated at 07/04/2017- 8:03:33.50 [DD/MM/YYYY-UTC] 
+For ANY SIZE ship, generated at 08/11/2017- 7:34:07.95 [DD/MM/YYYY-UTC] 
 ---------------------------------------------------------------------------------------------------------
-NOTE: Pruned 356 origins too far from any end stations
-P:\Program Files (x86)\td\trade.py: Error: No routes had reachable trading links at hop #3
+P:\Program Files (x86)\td\trade.py: Error: No buying prices at GLIESE 1272/Gregory Enterprise.
 
 Possible causes:
 - No profitable runs or routes meet your criteria,
@@ -110,10 +107,9 @@ For more help, see the TradeDangerous Wiki:
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Triangle starting and ending at GLIESE1272/Gregory Enterprise with 37.5 ly between trades
-For MEDIUM and SMALL ships only, generated at 07/04/2017- 8:03:43.56 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 08/11/2017- 7:34:16.15 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-NOTE: Pruned 631 origins too far from any end stations
-P:\Program Files (x86)\td\trade.py: Error: No routes had reachable trading links at hop #3
+P:\Program Files (x86)\td\trade.py: Error: No buying prices at GLIESE 1272/Gregory Enterprise.
 
 Possible causes:
 - No profitable runs or routes meet your criteria,
@@ -128,10 +124,9 @@ For more help, see the TradeDangerous Wiki:
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Triangle starting and ending at GLIESE1272/Gregory Enterprise with 42.5 ly between trades
-For ANY SIZE ship, generated at 07/04/2017- 8:03:57.91 [DD/MM/YYYY-UTC] 
+For ANY SIZE ship, generated at 08/11/2017- 7:34:28.42 [DD/MM/YYYY-UTC] 
 ---------------------------------------------------------------------------------------------------------
-NOTE: Pruned 541 origins too far from any end stations
-P:\Program Files (x86)\td\trade.py: Error: No routes had reachable trading links at hop #3
+P:\Program Files (x86)\td\trade.py: Error: No buying prices at GLIESE 1272/Gregory Enterprise.
 
 Possible causes:
 - No profitable runs or routes meet your criteria,
@@ -146,10 +141,9 @@ For more help, see the TradeDangerous Wiki:
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Triangle starting and ending at GLIESE1272/Gregory Enterprise with 42.5 ly between trades
-For MEDIUM and SMALL ships only, generated at 07/04/2017- 8:04:08.35 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 08/11/2017- 7:34:36.57 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-NOTE: Pruned 978 origins too far from any end stations
-P:\Program Files (x86)\td\trade.py: Error: No routes had reachable trading links at hop #3
+P:\Program Files (x86)\td\trade.py: Error: No buying prices at GLIESE 1272/Gregory Enterprise.
 
 Possible causes:
 - No profitable runs or routes meet your criteria,
@@ -164,10 +158,9 @@ For more help, see the TradeDangerous Wiki:
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Triangle starting and ending at GLIESE1272/Gregory Enterprise with 76.5 ly between trades
-For ANY SIZE ship, generated at 07/04/2017- 8:04:23.85 [DD/MM/YYYY-UTC] 
+For ANY SIZE ship, generated at 08/11/2017- 7:34:48.80 [DD/MM/YYYY-UTC] 
 ---------------------------------------------------------------------------------------------------------
-NOTE: Pruned 4330 origins too far from any end stations
-P:\Program Files (x86)\td\trade.py: Error: No routes had reachable trading links at hop #3
+P:\Program Files (x86)\td\trade.py: Error: No buying prices at GLIESE 1272/Gregory Enterprise.
 
 Possible causes:
 - No profitable runs or routes meet your criteria,
@@ -182,10 +175,9 @@ For more help, see the TradeDangerous Wiki:
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Triangle starting and ending at GLIESE1272/Gregory Enterprise with 76.5 ly between trades
-For MEDIUM and SMALL ships only, generated at 07/04/2017- 8:05:06.48 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 08/11/2017- 7:34:57.01 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-NOTE: Pruned 7578 origins too far from any end stations
-P:\Program Files (x86)\td\trade.py: Error: No routes had reachable trading links at hop #3
+P:\Program Files (x86)\td\trade.py: Error: No buying prices at GLIESE 1272/Gregory Enterprise.
 
 Possible causes:
 - No profitable runs or routes meet your criteria,
@@ -200,10 +192,9 @@ For more help, see the TradeDangerous Wiki:
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Triangle starting and ending at GLIESE1272/Gregory Enterprise with 105.7 ly between trades
-For ANY SIZE ship, generated at 07/04/2017- 8:06:49.17 [DD/MM/YYYY-UTC] 
+For ANY SIZE ship, generated at 08/11/2017- 7:35:09.26 [DD/MM/YYYY-UTC] 
 ---------------------------------------------------------------------------------------------------------
-NOTE: Pruned 8157 origins too far from any end stations
-P:\Program Files (x86)\td\trade.py: Error: No routes had reachable trading links at hop #3
+P:\Program Files (x86)\td\trade.py: Error: No buying prices at GLIESE 1272/Gregory Enterprise.
 
 Possible causes:
 - No profitable runs or routes meet your criteria,
@@ -218,10 +209,9 @@ For more help, see the TradeDangerous Wiki:
 
 ---------------------------------------------------------------------------------------------------------
 Best Trade Triangle starting and ending at GLIESE1272/Gregory Enterprise with 105.7 ly between trades
-For MEDIUM and SMALL ships only, generated at 07/04/2017- 8:11:35.51 [DD/MM/YYYY-UTC]
+For MEDIUM and SMALL ships only, generated at 08/11/2017- 7:35:17.43 [DD/MM/YYYY-UTC]
 ---------------------------------------------------------------------------------------------------------
-NOTE: Pruned 14018 origins too far from any end stations
-P:\Program Files (x86)\td\trade.py: Error: No routes had reachable trading links at hop #3
+P:\Program Files (x86)\td\trade.py: Error: No buying prices at GLIESE 1272/Gregory Enterprise.
 
 Possible causes:
 - No profitable runs or routes meet your criteria,

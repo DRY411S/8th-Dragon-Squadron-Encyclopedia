@@ -1,0 +1,196 @@
+# These trade routes are generated with different distances between trades.
+# The default distances of 13,37.5,42.5,76.5,105.7 ly between trades represent 
+# a cross-section of the minimum 1-jump, average 2-jump, maximum 3-jump ranges
+# and the minimum and average for TOTAL ranges of fully laden, fully shielded trading ships
+#
+# The distances used in this report are 13,37.5,42.5,76.5,105.7 ly
+#
+# Calculation limits
+# ------------------
+# 
+# All trade data that is older than 30 days is not used
+# Only stations where there is more than 64t of supplies are used
+# However, it is assumed that your ship capacity is only 1t so that the best profit per ton for a single commodity can be calculated
+# narcotics are excluded from these calculations as the price database is unreliable for these commodities and/or locations
+# Starting credits assumed to be 100000Cr, so deduct that from the total to see profit
+# 
+# Note that there is not always extra money to be made by travelling the longer distances. Sometimes trades for longer distances will be
+# identical to the trades for a shorter distance
+#
+# For each distance, up to two trades are shown. The first works for ANY size ship, the second for SMALL and MEDIUM ships ONLY {which can trade at outposts}
+# However, sometimes the trades for the different sized ships are the same {i.e no decent trades available at outposts}
+# NOTE: Trades for large ships will not appear if the source station does not allow large ships to land there
+#
+# WARNING: No account is taken of whether the commodities are prohibited. Use these recommendations at your peril!
+# 
+# GUIDE TO THE OUTPUT FORMAT
+# --------------------------
+# 
+# 'Pruned XX origins ...' is output from the utility I use called TradeDangerous. I have no idea what it means!
+# {score: [large number]} See above :D
+#
+# {Un}Load from [SYSTEM]/[Station] {L, B, P, N, S, O, R} =] Gain F {F/ton} =]  T
+# 1 x [Commodity] PB vs PS, TB vs TS
+# Finish at [SYSTEM]/[Station] {L, B, P, N, S, O, R} =] gaining C {A/ton} =]  T
+#
+# L - Distance of station from Star in ls
+# B - Black Market Present Y/N/?
+# P - Largest Ship Size that can land at station L/M/?
+# N - Whether the station is on a planet Y/N/?
+# S - Shipyard Present Y/N/?
+# O - Outfitters Present Y/N/?
+# R - Refuelling Present Y/N/?
+# F - Profit made from the trade
+# T - Running total of Credits {assuming a starting point of 100000}
+#
+# PB - Buy Price
+# PS - Sell Price
+# TB - The time relative to report generation time since the buy  price was updated in the community database
+# TS - The time relative to report generation time since the sell price was updated in the community database
+#
+# C - Total number of credits profit
+# A - Average Credits per ton profit across all the trades on the route
+#
+# TRADE OUTPUT BEGINS ....
+# ------------------------
+#
+---------------------------------------------------------------------------------------------------------
+Best Trade Shuttle starting and ending at PHRACES/Potter Enterprise with 13 ly between trades
+For ANY SIZE ship, generated at 08/11/2017-10:27:44.13 [DD/MM/YYYY-UTC] 
+---------------------------------------------------------------------------------------------------------
+PHRACES/Potter Enterprise -> PHRACES/Potter Enterprise (score: 710.231500)
+  Load from PHRACES/Potter Enterprise (381ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Minerals/Indite         1,806cr vs    2,473cr, 9 days vs 2 days
+  Unload at HARMA/Gabriel Enterprise (258ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 667cr (667cr/ton) => 100,667cr
+  Load from HARMA/Gabriel Enterprise (258ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Chemicals/Explosives      188cr vs      231cr, 2 days vs 9 days
+  Unload at PHRACES/Potter Enterprise (381ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 43cr (43cr/ton) => 100,710cr
+  ----------------------------------------------------------------------------
+Finish at PHRACES/Potter Enterprise (381ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 710cr (355cr/ton) => est 100,710cr total
+
+---------------------------------------------------------------------------------------------------------
+Best Trade Shuttle starting and ending at PHRACES/Potter Enterprise with 13 ly between trades
+For MEDIUM and SMALL ships only, generated at 08/11/2017-10:27:52.10 [DD/MM/YYYY-UTC]
+---------------------------------------------------------------------------------------------------------
+PHRACES/Potter Enterprise -> PHRACES/Potter Enterprise (score: 1486.491400)
+  Load from PHRACES/Potter Enterprise (381ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Minerals/Bertrandite    2,083cr vs    2,399cr, 9 days vs 8 days
+  Unload at UADJARII/O'Donnell Colony (12ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 316cr (316cr/ton) => 100,316cr
+  Load from UADJARII/O'Donnell Colony (12ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
+        1 x Metals/Palladium       12,707cr vs   13,877cr, 8 days vs 9 days
+  Unload at PHRACES/Potter Enterprise (381ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,170cr (1,170cr/ton) => 101,486cr
+  ----------------------------------------------------------------------------
+Finish at PHRACES/Potter Enterprise (381ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 1,486cr (743cr/ton) => est 101,486cr total
+
+---------------------------------------------------------------------------------------------------------
+Best Trade Shuttle starting and ending at PHRACES/Potter Enterprise with 37.5 ly between trades
+For ANY SIZE ship, generated at 08/11/2017-10:28:03.88 [DD/MM/YYYY-UTC] 
+---------------------------------------------------------------------------------------------------------
+PHRACES/Potter Enterprise -> PHRACES/Potter Enterprise (score: 2218.981900)
+  Load from PHRACES/Potter Enterprise (381ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Minerals/Indite                 1,806cr vs    2,645cr, 9 days vs 2 days
+  Unload at URU/Bessemer Vision (676ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 839cr (839cr/ton) => 100,839cr
+  Load from URU/Bessemer Vision (676ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Technology/Micro Controllers    4,841cr vs    6,220cr, 2 days vs 9 days
+  Unload at PHRACES/Potter Enterprise (381ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,379cr (1,379cr/ton) => 102,218cr
+  ----------------------------------------------------------------------------
+Finish at PHRACES/Potter Enterprise (381ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 2,218cr (1,109cr/ton) => est 102,218cr total
+
+---------------------------------------------------------------------------------------------------------
+Best Trade Shuttle starting and ending at PHRACES/Potter Enterprise with 37.5 ly between trades
+For MEDIUM and SMALL ships only, generated at 08/11/2017-10:28:11.85 [DD/MM/YYYY-UTC]
+---------------------------------------------------------------------------------------------------------
+PHRACES/Potter Enterprise -> PHRACES/Potter Enterprise (score: 2282.747960)
+  Load from PHRACES/Potter Enterprise (381ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Minerals/Bertrandite               2,083cr vs    2,960cr, 9 days vs 40 hrs
+  Unload at URU/Resnik Dock (941ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 877cr (877cr/ton) => 100,877cr
+  Load from URU/Resnik Dock (941ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
+        1 x Medicines/Performance Enhancers    6,059cr vs    7,464cr, 40 hrs vs 9 days
+  Unload at PHRACES/Potter Enterprise (381ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,405cr (1,405cr/ton) => 102,282cr
+  ----------------------------------------------------------------------------
+Finish at PHRACES/Potter Enterprise (381ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 2,282cr (1,141cr/ton) => est 102,282cr total
+
+---------------------------------------------------------------------------------------------------------
+Best Trade Shuttle starting and ending at PHRACES/Potter Enterprise with 42.5 ly between trades
+For ANY SIZE ship, generated at 08/11/2017-10:28:23.80 [DD/MM/YYYY-UTC] 
+---------------------------------------------------------------------------------------------------------
+PHRACES/Potter Enterprise -> PHRACES/Potter Enterprise (score: 2218.981900)
+  Load from PHRACES/Potter Enterprise (381ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Minerals/Indite                 1,806cr vs    2,645cr, 9 days vs 2 days
+  Unload at URU/Bessemer Vision (676ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 839cr (839cr/ton) => 100,839cr
+  Load from URU/Bessemer Vision (676ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Technology/Micro Controllers    4,841cr vs    6,220cr, 2 days vs 9 days
+  Unload at PHRACES/Potter Enterprise (381ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,379cr (1,379cr/ton) => 102,218cr
+  ----------------------------------------------------------------------------
+Finish at PHRACES/Potter Enterprise (381ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 2,218cr (1,109cr/ton) => est 102,218cr total
+
+---------------------------------------------------------------------------------------------------------
+Best Trade Shuttle starting and ending at PHRACES/Potter Enterprise with 42.5 ly between trades
+For MEDIUM and SMALL ships only, generated at 08/11/2017-10:28:31.85 [DD/MM/YYYY-UTC]
+---------------------------------------------------------------------------------------------------------
+PHRACES/Potter Enterprise -> PHRACES/Potter Enterprise (score: 2282.747960)
+  Load from PHRACES/Potter Enterprise (381ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Minerals/Bertrandite               2,083cr vs    2,960cr, 9 days vs 40 hrs
+  Unload at URU/Resnik Dock (941ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y) => Gain 877cr (877cr/ton) => 100,877cr
+  Load from URU/Resnik Dock (941ls, BMk:Y, Pad:M, Plt:N, Shp:N, Out:Y, Ref:Y):
+        1 x Medicines/Performance Enhancers    6,059cr vs    7,464cr, 40 hrs vs 9 days
+  Unload at PHRACES/Potter Enterprise (381ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 1,405cr (1,405cr/ton) => 102,282cr
+  ----------------------------------------------------------------------------
+Finish at PHRACES/Potter Enterprise (381ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 2,282cr (1,141cr/ton) => est 102,282cr total
+
+---------------------------------------------------------------------------------------------------------
+Best Trade Shuttle starting and ending at PHRACES/Potter Enterprise with 76.5 ly between trades
+For ANY SIZE ship, generated at 08/11/2017-10:28:43.85 [DD/MM/YYYY-UTC] 
+---------------------------------------------------------------------------------------------------------
+PHRACES/Potter Enterprise -> PHRACES/Potter Enterprise (score: 3274.305540)
+  Load from PHRACES/Potter Enterprise (381ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Medicines/Basic Medicines      186cr vs    3,141cr, 9 days vs 10 days
+  Unload at HIP 943/Lloyd Vision (4.64Kls, BMk:N, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 2,955cr (2,955cr/ton) => 102,955cr
+  Load from HIP 943/Lloyd Vision (4.64Kls, BMk:N, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Metals/Cobalt                  199cr vs      616cr, 10 days vs 9 days
+  Unload at PHRACES/Potter Enterprise (381ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 417cr (417cr/ton) => 103,372cr
+  ----------------------------------------------------------------------------
+Finish at PHRACES/Potter Enterprise (381ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 3,372cr (1,686cr/ton) => est 103,372cr total
+
+---------------------------------------------------------------------------------------------------------
+Best Trade Shuttle starting and ending at PHRACES/Potter Enterprise with 76.5 ly between trades
+For MEDIUM and SMALL ships only, generated at 08/11/2017-10:28:55.67 [DD/MM/YYYY-UTC]
+---------------------------------------------------------------------------------------------------------
+PHRACES/Potter Enterprise -> PHRACES/Potter Enterprise (score: 3274.305540)
+  Load from PHRACES/Potter Enterprise (381ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Medicines/Basic Medicines      186cr vs    3,141cr, 9 days vs 10 days
+  Unload at HIP 943/Lloyd Vision (4.64Kls, BMk:N, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 2,955cr (2,955cr/ton) => 102,955cr
+  Load from HIP 943/Lloyd Vision (4.64Kls, BMk:N, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Metals/Cobalt                  199cr vs      616cr, 10 days vs 9 days
+  Unload at PHRACES/Potter Enterprise (381ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 417cr (417cr/ton) => 103,372cr
+  ----------------------------------------------------------------------------
+Finish at PHRACES/Potter Enterprise (381ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 3,372cr (1,686cr/ton) => est 103,372cr total
+
+---------------------------------------------------------------------------------------------------------
+Best Trade Shuttle starting and ending at PHRACES/Potter Enterprise with 105.7 ly between trades
+For ANY SIZE ship, generated at 08/11/2017-10:29:14.29 [DD/MM/YYYY-UTC] 
+---------------------------------------------------------------------------------------------------------
+PHRACES/Potter Enterprise -> PHRACES/Potter Enterprise (score: 3642.836040)
+  Load from PHRACES/Potter Enterprise (381ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Medicines/Basic Medicines      186cr vs    3,076cr, 9 days vs 18 hrs
+  Unload at ZOMBA/Dozois Orbital (125ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 2,890cr (2,890cr/ton) => 102,890cr
+  Load from ZOMBA/Dozois Orbital (125ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Legal Drugs/Tobacco          4,572cr vs    5,324cr, 18 hrs vs 9 days
+  Unload at PHRACES/Potter Enterprise (381ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 752cr (752cr/ton) => 103,642cr
+  ----------------------------------------------------------------------------
+Finish at PHRACES/Potter Enterprise (381ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 3,642cr (1,821cr/ton) => est 103,642cr total
+
+---------------------------------------------------------------------------------------------------------
+Best Trade Shuttle starting and ending at PHRACES/Potter Enterprise with 105.7 ly between trades
+For MEDIUM and SMALL ships only, generated at 08/11/2017-10:29:57.65 [DD/MM/YYYY-UTC]
+---------------------------------------------------------------------------------------------------------
+PHRACES/Potter Enterprise -> PHRACES/Potter Enterprise (score: 3642.836040)
+  Load from PHRACES/Potter Enterprise (381ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Medicines/Basic Medicines      186cr vs    3,076cr, 9 days vs 18 hrs
+  Unload at ZOMBA/Dozois Orbital (125ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 2,890cr (2,890cr/ton) => 102,890cr
+  Load from ZOMBA/Dozois Orbital (125ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y):
+        1 x Legal Drugs/Tobacco          4,572cr vs    5,324cr, 18 hrs vs 9 days
+  Unload at PHRACES/Potter Enterprise (381ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) => Gain 752cr (752cr/ton) => 103,642cr
+  ----------------------------------------------------------------------------
+Finish at PHRACES/Potter Enterprise (381ls, BMk:Y, Pad:L, Plt:N, Shp:Y, Out:Y, Ref:Y) gaining 3,642cr (1,821cr/ton) => est 103,642cr total
+

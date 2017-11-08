@@ -1,0 +1,11 @@
+STATION	SYSTEM  	ECONOMY  	GOVERNMENT  	ALLEGIANCE  
+===
+Gregory Enterprise	Gliese 1272	Refinery	Feudal	Independent
+Bao Dock	Gliese 1272	Refinery	Feudal	Independent
+Coney Gateway	Patocuda	Agriculture	Feudal	Independent
+Auer Station	Patocuda	Extraction	Feudal	Independent
+Birkeland Platform	Sadhen	Industrial	Feudal	Independent
+Barsanti Port	Sadhen	Industrial	Feudal	Independent
+Grant Plant	Kolabinates	Refinery	Feudal	Independent
+Potter Enterprise	Phraces	Industrial	Feudal	Independent
+Lagrange Gateway	Lodhary	Industrial	Feudal	Independent
